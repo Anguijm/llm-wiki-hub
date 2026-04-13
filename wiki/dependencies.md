@@ -6,81 +6,104 @@
 
 ## Overview
 
-LLM Wiki Hub is intentionally minimal in its dependency footprint. Since the project is a collection of Markdown files versioned with Git, there are **no runtime dependencies** and only a small set of development-time tools.
+This page maps dependencies across the entire portfolio. The wiki itself has zero runtime dependencies, while the documented projects span a range of technologies.
 
-## Dependency Map
+## Wiki Hub Dependencies
 
 ```
 llm-wiki-hub
-│
-├── [Required] Git ≥ 2.x
-│     └── Version control, branching, collaboration
-│
+├── [Required] Git >= 2.x
 ├── [Required] Text Editor / Markdown Viewer
-│     └── Any editor: VS Code, Vim, Emacs, Obsidian, etc.
-│
-├── [Optional] GitHub Account
-│     └── Remote hosting, pull requests, issue tracking
-│
-├── [Optional] Obsidian / Foam / Logseq
-│     └── [[wiki-link]] resolution and graph visualization
-│
-└── [Optional] Static Site Generator (MkDocs, Jekyll, Docusaurus)
-      └── Renders wiki into a hosted website
+├── [Optional] Obsidian / Foam (for [[wiki-link]] navigation)
+└── [Optional] Static Site Generator (MkDocs, Jekyll)
 ```
 
-## Required Dependencies
+## Cross-Project Dependency Map
 
-| Dependency  | Version | Purpose                                   |
-| ----------- | ------- | ----------------------------------------- |
-| **Git**     | ≥ 2.x   | Source control and collaboration           |
-| **Editor**  | Any     | Authoring and reading Markdown content     |
+### Frameworks
 
-### Git
+| Framework | Version | Projects |
+|---|---|---|
+| Next.js | 16 | [[urban-explorer]], [[roadtripper]], [[pm-game]], [[mission-control]] |
+| React | 19 | [[urban-explorer]], [[roadtripper]], [[pm-game]], [[mission-control]] |
+| Tailwind CSS | 4 | [[urban-explorer]], [[roadtripper]], [[pm-game]], [[mission-control]] |
+| Vite | 8 | [[sportsdata]] |
+| Boardgame.io | 0.50 | [[pm-game]] |
+| Commander.js | 14 | [[harness-cli]] |
 
-Git is the only hard requirement. It is used to:
+### Data & Storage
 
-- Clone the repository
-- Track content changes
-- Collaborate via branches and pull requests
-- Maintain a full history of every edit
+| Technology | Projects | Purpose |
+|---|---|---|
+| Firebase / Firestore | [[urban-explorer]], [[roadtripper]] | Cloud database (named "urbanexplorer" DB) |
+| Convex | [[mission-control]] | Serverless real-time database |
+| better-sqlite3 | [[sportsdata]] | Embedded SQLite with WAL mode |
+| @vercel/kv | [[pm-game]] | Redis for daily challenge leaderboard |
+| @upstash/redis | [[urban-explorer]] | Rate limiting |
 
-### Text Editor
+### AI / ML Services
 
-Any editor capable of rendering or editing `.md` files will work. Recommended options:
+| Service | Projects | Purpose |
+|---|---|---|
+| Anthropic Claude SDK | [[harness-cli]] | Council persona LLM calls |
+| Google Gemini | [[urban-explorer]], [[yolo-projects]], [[pm-game]] | Content generation, photo verification, council review |
+| Gemini Vision | [[urban-explorer]] | Photo task verification |
 
-- **VS Code** with the Markdown Preview extension
-- **Obsidian** for `[[wiki-link]]` support and graph view
-- **Vim / Neovim** for terminal-based editing
+### Authentication & Payments
 
-## Optional Dependencies
+| Service | Projects | Purpose |
+|---|---|---|
+| Clerk | [[urban-explorer]], [[roadtripper]] | User auth + subscription metadata |
+| Stripe | [[urban-explorer]] | Subscription billing |
 
-| Tool                    | Purpose                                          |
-| ----------------------- | ------------------------------------------------ |
-| **GitHub**              | Remote hosting and collaboration                 |
-| **Obsidian / Foam**     | Enhanced wiki navigation and graph visualization |
-| **MkDocs / Jekyll**     | Static site generation for hosting               |
-| **markdownlint**        | Linting Markdown files for consistent style      |
-| **link-checker**        | Validating that all `[[wiki-links]]` resolve     |
+### Maps & Geo
 
-### Obsidian Integration
+| Library | Projects | Purpose |
+|---|---|---|
+| @vis.gl/react-google-maps | [[urban-explorer]], [[roadtripper]] | Map rendering (WebGL) |
+| Google Routes API v2 | [[roadtripper]] | Route computation + matrix API |
+| Google Places API | [[urban-explorer]] | POI data |
+| react-leaflet | [[urban-explorer]] | Map fallback + offline |
 
-Obsidian natively supports the `[[wiki-links]]` convention. To use this wiki in Obsidian:
+### Visualization
 
-1. Open Obsidian and select "Open folder as vault."
-2. Point it to the `wiki/` directory.
-3. All `[[wiki-links]]` will become clickable, and the graph view will visualize page relationships.
+| Library | Projects | Purpose |
+|---|---|---|
+| @observablehq/plot | [[sportsdata]] | Grammar-of-graphics charting |
+| scrollama | [[sportsdata]] | Scroll-driven narrative |
+| framer-motion | [[pm-game]] | Animation (dice, SI gauge, transitions) |
 
-See [[setup-guide]] for detailed instructions.
+### Testing
 
-## Dependency Security
+| Tool | Projects |
+|---|---|
+| Vitest | [[pm-game]], [[mission-control]] |
+| Playwright | [[urban-explorer]], [[pm-game]] |
+| Custom test harness | [[yolo-projects]] (55 checks across 3 scripts) |
 
-Because there are no package managers, lock files, or third-party code dependencies, the attack surface is effectively zero. All content is static Markdown rendered by the viewer of the reader's choice.
+### Deployment
+
+| Platform | Projects | Layer |
+|---|---|---|
+| Vercel | [[pm-game]] | Frontend |
+| Cloudflare Pages | [[sportsdata]] | Frontend static |
+| Fly.io | [[sportsdata]] | API server + SQLite |
+| Render | [[pm-game]] | Multiplayer server |
+| Firebase App Hosting | [[urban-explorer]] | Full stack |
+| GitHub Actions | [[sportsdata]], [[yolo-projects]] | CI/CD + cron |
+
+## Dependency Philosophy
+
+The portfolio shows a consistent preference for **minimal, focused dependencies**:
+
+- [[sportsdata]] uses only 7 npm packages. Core logic is pure TypeScript with native Node HTTP.
+- [[harness-cli]] has exactly 3 production dependencies.
+- [[yolo-projects]] has **zero** frontend dependencies across 210+ projects -- all vanilla JS.
+- [[intermediate-python-course]] uses zero dependencies (pure Python stdlib).
 
 ---
 
 ## Related Pages
 
-- [[architecture]] - Design decisions that keep dependencies minimal
-- [[setup-guide]] - How to install and configure required tools
-- [[repository-structure]] - Where everything lives in the repo
+- [[architecture]] - Design decisions behind dependency choices
+- [[index]] - All projects

@@ -6,35 +6,44 @@
 
 ## Purpose
 
-**LLM Wiki Hub** is a personal, Git-backed wiki designed to collect, curate, and share knowledge about Large Language Models (LLMs). It is inspired by [Andrej Karpathy's LLMwiki](https://github.com/karpathy/LLMwiki) and aims to provide a lightweight, version-controlled alternative to traditional wiki platforms.
+**LLM Wiki Hub** is a personal, Git-backed wiki that documents every public repository by [Anguijm](https://github.com/Anguijm). It is inspired by [Andrej Karpathy's LLMwiki](https://github.com/karpathy/LLMwiki) and provides a centralized knowledge base with interlinked documentation for a portfolio of 10 projects spanning sports analytics, travel apps, board games, AI tooling, and autonomous build systems.
 
 ## Goals
 
-1. **Knowledge Aggregation** - Gather notes, references, and insights about LLMs in a single, searchable location.
-2. **Version-Controlled Content** - Leverage Git history to track every change, enabling collaboration and rollback.
-3. **Markdown-First Authoring** - Use plain Markdown files so content is portable, readable, and tool-agnostic.
-4. **Wiki-Style Navigation** - Employ `[[wiki-links]]` to create a densely interlinked knowledge graph that is easy to traverse.
-5. **Low Barrier to Entry** - No build step, no database, no server required. Clone the repo and start reading or writing.
+1. **Codebase Documentation** - Comprehensive wiki page for every public repo: architecture, dependencies, key modules, and design decisions.
+2. **Cross-Project Mapping** - Surface shared patterns, dependencies, and technology choices across the portfolio.
+3. **Processing Pipeline** - Automate the clone → analyze → document → archive workflow via `active_sources/` → `wiki/` → `cold_storage/`.
+4. **Version-Controlled Content** - Leverage Git history to track every documentation change.
+5. **Wiki-Style Navigation** - Use `[[wiki-links]]` for a densely interlinked knowledge graph.
 
 ## Scope
 
-The wiki covers (but is not limited to):
+The wiki covers all public repositories:
 
-- LLM fundamentals (transformer architecture, tokenization, training)
-- Prominent models and model families
-- Fine-tuning and alignment techniques
-- Prompt engineering patterns
-- Tooling, frameworks, and deployment strategies
-- Research papers and references
+### Active (8 projects)
+
+- [[sportsdata]] - Sports analytics platform with prediction models
+- [[urban-explorer]] - Photo scavenger hunt app for 185 cities
+- [[roadtripper]] - Road trip planner with persona-based recommendations
+- [[yolo-projects]] - 210+ autonomous single-file HTML apps
+- [[pm-game]] - Drydock Masters digital board game
+- [[mission-control]] - AI agent monitoring dashboard
+- [[harness-cli]] - AI development governance CLI
+- [[intermediate-python-course]] - Python dice-roller course
+
+### Archived / Empty (2)
+
+- [[ai-dev-team-template]] - Predecessor to harness-cli (archived)
+- [[origin]] - Empty placeholder
 
 ## Inspiration
 
-Andrej Karpathy's LLMwiki demonstrated that a simple GitHub repository of Markdown files can serve as an effective, community-friendly knowledge base. LLM Wiki Hub adopts the same philosophy while adding structured internal linking via `[[wiki-links]]` and modular documentation under the `wiki/` directory.
+Karpathy's LLMwiki demonstrated that a simple GitHub repository of Markdown files can serve as an effective knowledge base. LLM Wiki Hub adopts the same philosophy while adding a processing pipeline for automated documentation generation and `[[wiki-links]]` for cross-referencing.
 
 ---
 
 ## Related Pages
 
-- [[architecture]] - How the wiki is structured technically
-- [[repository-structure]] - Codebase layout
-- [[contributing]] - How to add or improve content
+- [[architecture]] - How the wiki and processing pipeline work
+- [[repository-structure]] - Full layout including active_sources and cold_storage
+- [[dependencies]] - Cross-project dependency map
