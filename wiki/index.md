@@ -1,44 +1,98 @@
 # LLM Wiki Hub
 
-**A personal wiki modeled on [Karpathy's LLM Wiki](https://github.com/karpathy/LLMwiki) for collecting, organizing, and sharing knowledge about Large Language Models.**
+**A personal wiki and codebase documentation hub for all public repositories by [Anguijm](https://github.com/Anguijm). Modeled on [Karpathy's LLM Wiki](https://github.com/karpathy/LLMwiki).**
 
 ---
 
-## Wiki Contents
+## Project Portfolio
 
-### Project Documentation
+### Active Projects
+
+| Project | Language | Description |
+|---|---|---|
+| [[sportsdata]] | TypeScript | US sports analytics with ratchet loop + council governance |
+| [[urban-explorer]] | TypeScript | Photo scavenger hunts for 185 cities with Gemini AI verification |
+| [[roadtripper]] | TypeScript | Road trip planner using Urban Explorer database + persona recommendations |
+| [[yolo-projects]] | HTML/JS/Python | 210+ autonomous single-file HTML apps (games, tools, simulations) |
+| [[pm-game]] | TypeScript | Drydock Masters: semi-cooperative naval shipyard board game (2-6 players) |
+| [[mission-control]] | TypeScript | Internal dashboard for AI agent monitoring with real-time Convex backend |
+| [[harness-cli]] | JavaScript | AI dev harness: expert council review + human circuit breaker |
+| [[intermediate-python-course]] | Python | Dice-roller course delivered via GitHub Issues |
+
+### Archived / Empty
+
+| Project | Status | Notes |
+|---|---|---|
+| [[ai-dev-team-template]] | Archived | Concepts ported to [[harness-cli]] |
+| [[origin]] | Empty | Placeholder repository |
+
+---
+
+## Cross-Project Architecture
+
+### Shared Patterns
+
+Many projects share a **council governance** pattern pioneered in [[harness-cli]]:
+
+```
+Feature/Idea → Expert Council Review → Human Approval → Implementation
+```
+
+Used by: [[sportsdata]] (6 council personas), [[yolo-projects]] (6-angle Gemini council), [[pm-game]] (Claude + Gemini dual governance)
+
+### Technology Stack Overview
+
+| Technology | Used By |
+|---|---|
+| Next.js 16 + React 19 | [[urban-explorer]], [[roadtripper]], [[pm-game]], [[mission-control]] |
+| TypeScript (strict) | [[sportsdata]], [[urban-explorer]], [[roadtripper]], [[pm-game]], [[mission-control]] |
+| Tailwind CSS v4 | [[urban-explorer]], [[roadtripper]], [[pm-game]], [[mission-control]] |
+| Firebase / Firestore | [[urban-explorer]], [[roadtripper]] |
+| Convex | [[mission-control]] |
+| Boardgame.io | [[pm-game]] |
+| Gemini AI | [[urban-explorer]], [[yolo-projects]], [[pm-game]] |
+| Anthropic/Claude SDK | [[harness-cli]], [[sportsdata]] |
+| SQLite | [[sportsdata]] |
+
+### Project Relationships
+
+```
+harness-cli ──────► sportsdata (council governance)
+     │
+     └────────────► pm-game (governance concepts)
+
+urban-explorer ───► roadtripper (shared Firestore database)
+
+ai-dev-team-template ──► harness-cli (archived predecessor)
+```
+
+---
+
+## Wiki Meta-Documentation
 
 - [[project-overview]] - Purpose, goals, and inspiration behind this wiki
 - [[architecture]] - System architecture and design decisions
-- [[repository-structure]] - File and folder layout of the codebase
-- [[dependencies]] - Dependency map and external tooling
-- [[setup-guide]] - How to set up, run, and use the wiki locally
-- [[contributing]] - Guidelines for contributing content and code
-- [[git-workflow]] - Branching strategy, versioning, and release process
+- [[repository-structure]] - File and folder layout
+- [[dependencies]] - Cross-project dependency map
+- [[setup-guide]] - How to set up and use the wiki
+- [[contributing]] - Guidelines for contributing content
+- [[git-workflow]] - Branching strategy and commit conventions
 
 ---
 
-## Quick Start
+## Processing Workflow
 
-```bash
-git clone https://github.com/anguijm/llm-wiki-hub.git
-cd llm-wiki-hub
-```
+This wiki uses a three-stage pipeline:
 
-Browse the wiki by opening any `.md` file in the `wiki/` directory. See [[setup-guide]] for full details.
+1. **`active_sources/`** - Unprocessed clones of public repos
+2. **`wiki/`** - Generated markdown documentation (you are here)
+3. **`cold_storage/`** - Processed repos (documentation already generated)
 
----
+See [[repository-structure]] for the full layout.
 
-## About This Wiki
-
-This repository serves as a centralized, version-controlled knowledge base for LLM-related topics. All content is authored in Markdown and interlinked using `[[wiki-links]]` for easy navigation.
-
-| Property       | Value                                      |
-| -------------- | ------------------------------------------ |
-| Repository     | `anguijm/llm-wiki-hub`                     |
-| License        | See repository root                        |
-| Primary Branch | `main`                                     |
-| Wiki Format    | Markdown with `[[wiki-links]]`             |
-| Inspired By    | [Karpathy's LLMwiki](https://github.com/karpathy/LLMwiki) |
-
-For a deeper dive into the project's motivation and scope, start with [[project-overview]].
+| Property | Value |
+|---|---|
+| Repository | `anguijm/llm-wiki-hub` |
+| Primary Branch | `main` |
+| Wiki Format | Markdown with `[[wiki-links]]` |
+| Inspired By | [Karpathy's LLMwiki](https://github.com/karpathy/LLMwiki) |

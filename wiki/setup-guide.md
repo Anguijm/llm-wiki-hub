@@ -6,10 +6,8 @@
 
 ## Prerequisites
 
-Before you begin, ensure you have the following installed:
-
 - **Git** (version 2.x or later) - [Download Git](https://git-scm.com/downloads)
-- A **text editor** or Markdown viewer of your choice
+- A **text editor** or Markdown viewer
 
 See [[dependencies]] for the full dependency map.
 
@@ -22,88 +20,111 @@ cd llm-wiki-hub
 
 ## Browse the Wiki
 
-### Option 1: GitHub Web UI
+### Option 1: Obsidian (Recommended)
 
-Navigate to the `wiki/` directory on GitHub. Start at [`wiki/index.md`](wiki/index.md) and follow the `[[wiki-links]]` by searching for the referenced filename.
-
-### Option 2: Local Markdown Viewer
-
-Open any `.md` file in your editor. Most modern editors (VS Code, IntelliJ, etc.) have built-in Markdown preview.
-
-### Option 3: Obsidian (Recommended for Navigation)
-
-[Obsidian](https://obsidian.md/) provides the best experience for browsing `[[wiki-link]]`-based content:
+[Obsidian](https://obsidian.md/) provides the best experience for `[[wiki-link]]` navigation:
 
 1. Download and install Obsidian.
-2. Open Obsidian and select **"Open folder as vault."**
-3. Navigate to the `wiki/` directory inside your cloned repository.
-4. Click **Open**.
-5. All `[[wiki-links]]` are now clickable. Use the **Graph View** (Ctrl/Cmd + G) to visualize the knowledge graph.
+2. Select **"Open folder as vault."**
+3. Point to the `wiki/` directory.
+4. All `[[wiki-links]]` become clickable. Use **Graph View** (Ctrl/Cmd + G) to visualize the knowledge graph.
 
-### Option 4: Foam (VS Code Extension)
+### Option 2: GitHub Web UI
 
-[Foam](https://foambubble.github.io/foam/) is a VS Code extension that adds wiki-link support:
+Navigate to the `wiki/` directory on GitHub. Start at `wiki/index.md`.
 
-1. Install VS Code.
-2. Install the **Foam** extension from the marketplace.
-3. Open the repository folder in VS Code.
-4. `[[wiki-links]]` become navigable via Ctrl/Cmd + Click.
+### Option 3: VS Code with Foam
 
-## Edit Content
+Install the [Foam](https://foambubble.github.io/foam/) extension for `[[wiki-link]]` support via Ctrl/Cmd + Click.
 
-1. Open any `.md` file in the `wiki/` directory.
-2. Edit using standard Markdown syntax.
-3. Use `[[page-name]]` to link to other wiki pages (without the `.md` extension).
-4. Save and commit your changes:
+### Option 4: Any Text Editor
 
-```bash
-git add wiki/your-page.md
-git commit -m "Add notes on [topic]"
-git push
-```
+Open any `.md` file directly. The `[[wiki-links]]` are human-readable even without tool support.
 
-See [[contributing]] for guidelines on content style and review process.
+## Processing Pipeline
 
-## Create a New Page
+To add documentation for a new repository:
 
-1. Create a new `.md` file in the `wiki/` directory:
+### 1. Clone into active_sources
 
 ```bash
-touch wiki/your-new-topic.md
+cd active_sources
+git clone https://github.com/Anguijm/<repo-name>.git
 ```
 
-2. Add a title and back-link at the top:
+### 2. Analyze the codebase
+
+Read the repo's README, package.json, source files, and architecture docs. Understand:
+- What the project does
+- Architecture and key patterns
+- Major dependencies
+- Notable design decisions
+
+### 3. Generate wiki page
+
+Create `wiki/<repo-name>.md` following the standard template:
 
 ```markdown
-# Your New Topic
+# repo-name
 
 > Back to [[index]]
 
+**One-line description.**
+
+| Property | Value |
+|---|---|
+| Repository | [Anguijm/repo-name](https://github.com/Anguijm/repo-name) |
+| Language | ... |
+| Status | Active / Archived / Empty |
+| Created | YYYY-MM-DD |
+
 ---
 
-Your content here.
-```
-
-3. Add a link to your new page from [[index]] or any relevant page using `[[your-new-topic]]`.
-4. Commit and push.
-
-## Optional: Static Site Generation
-
-To render the wiki as a hosted website, you can use a static-site generator. For example, with **MkDocs**:
-
-```bash
-pip install mkdocs
-mkdocs new .
-# Configure mkdocs.yml to point to wiki/ as the docs directory
-mkdocs serve
-```
-
-This is entirely optional. See [[architecture]] for more on the "no build step" design philosophy.
+## Overview
+## Architecture
+## Key Modules
+## Dependencies
+## Notable Design Decisions
 
 ---
 
 ## Related Pages
 
-- [[dependencies]] - Full list of required and optional tools
-- [[contributing]] - How to submit changes
+- [[related-project]] - Why it's related
+- [[index]] - All projects
+```
+
+### 4. Update the index
+
+Add the new page to [[index]] in the Project Portfolio table.
+
+### 5. Move to cold storage
+
+```bash
+mv active_sources/<repo-name> cold_storage/
+```
+
+### 6. Commit
+
+```bash
+git add wiki/<repo-name>.md wiki/index.md
+git commit -m "add: wiki page for <repo-name>"
+git push
+```
+
+## Edit Existing Pages
+
+1. Open any `.md` file in `wiki/`.
+2. Edit using standard Markdown + `[[wiki-links]]`.
+3. Commit and push.
+
+See [[contributing]] for content guidelines.
+
+---
+
+## Related Pages
+
+- [[dependencies]] - Required and optional tools
+- [[contributing]] - Content style guidelines
 - [[repository-structure]] - Where to put new files
+- [[architecture]] - Processing pipeline design
