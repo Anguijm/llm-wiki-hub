@@ -20,10 +20,11 @@ on:
         type: boolean
         default: false
 
-# Avoid races on cold_storage/fingerprints.json when a scheduled run
-# and a manual run overlap. Serialize all ingest activity.
+# Shared group across every workflow that writes cold_storage/fingerprints.json
+# (process-queue, sync-yolo-phase4). Two jobs racing on that file would both
+# push from stale main and one would fail as non-fast-forward.
 concurrency:
-  group: youtube-ingest
+  group: fingerprints-write
   cancel-in-progress: false
 
 permissions:

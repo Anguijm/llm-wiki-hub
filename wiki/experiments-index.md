@@ -4,7 +4,7 @@
 
 **75 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
-See [[yolo-phase4-integration]] for how experiments are synced into this wiki.
+This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
 ---
 

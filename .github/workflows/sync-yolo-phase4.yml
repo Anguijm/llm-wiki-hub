@@ -19,8 +19,11 @@ on:
         type: boolean
         default: false
 
+# Shared group across every workflow that writes cold_storage/fingerprints.json.
+# Two jobs racing on that file would both push from stale main and one would
+# fail as non-fast-forward, so we serialize all fingerprint-writers.
 concurrency:
-  group: yolo-phase4-sync
+  group: fingerprints-write
   cancel-in-progress: false
 
 permissions:
@@ -105,7 +108,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add wiki/experiments/ cold_storage/fingerprints.json
+          git add wiki/experiments/ wiki/experiments-index.md cold_storage/fingerprints.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

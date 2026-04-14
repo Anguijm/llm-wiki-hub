@@ -31,11 +31,13 @@ import json
 import re
 import sys
 import urllib.request
+from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 WIKI_DIR = REPO_ROOT / "wiki" / "experiments"
+INDEX_PATH = REPO_ROOT / "wiki" / "experiments-index.md"
 ARCHIVE_DIR = REPO_ROOT / "cold_storage" / "yolo-phase4"
 FINGERPRINTS = REPO_ROOT / "cold_storage" / "fingerprints.json"
 
@@ -225,6 +227,105 @@ def ingest_experiment(exp: dict, fps: dict) -> bool:
     return True
 
 
+def normalize_channel(raw: str) -> str:
+    """Normalize '@NateBJones' and 'NateBJones' -> '@NateBJones' for index grouping."""
+    if not raw:
+        return ""
+    return "@" + raw.lstrip("@")
+
+
+def render_index(experiments: list[dict]) -> str:
+    """Regenerate wiki/experiments-index.md from the full upstream list.
+
+    Called on every sync so the index never drifts from the per-page
+    set. Uses normalized channel names so '@NateBJones' and 'NateBJones'
+    collapse into one row.
+    """
+    # Work on a copy with normalized channel names so we don't mutate callers.
+    norm_exps = []
+    for e in experiments:
+        src = dict(e.get("source") or {})
+        src["channel"] = normalize_channel(src.get("channel", ""))
+        norm_exps.append({**e, "source": src})
+
+    status_counts = Counter(e.get("status") or "(none)" for e in norm_exps)
+    verdict_counts = Counter(e.get("verdict") or "(none)" for e in norm_exps)
+    channel_counts = Counter(e["source"].get("channel", "") for e in norm_exps)
+
+    sorted_exps = sorted(
+        norm_exps,
+        key=lambda e: (e["source"].get("published_date", ""), e.get("id", "")),
+        reverse=True,
+    )
+
+    lines: list[str] = []
+    lines.append("# Experiments Index")
+    lines.append("")
+    lines.append("> Back to [[index]]")
+    lines.append("")
+    lines.append(
+        f"**{len(norm_exps)} experiments** synthesized from the [[yolo-projects]] "
+        "Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked "
+        "channels."
+    )
+    lines.append("")
+    lines.append(
+        "This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` "
+        "on every sync. See [[yolo-phase4-integration]] for the full flow."
+    )
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+    lines.append("## By status")
+    lines.append("")
+    lines.append("| Status | Count |")
+    lines.append("|---|---|")
+    for st, n in sorted(status_counts.items(), key=lambda x: -x[1]):
+        lines.append(f"| `{st}` | {n} |")
+    lines.append("")
+    lines.append("## By verdict")
+    lines.append("")
+    lines.append("| Verdict | Count |")
+    lines.append("|---|---|")
+    for v, n in sorted(verdict_counts.items(), key=lambda x: -x[1]):
+        lines.append(f"| `{v}` | {n} |")
+    lines.append("")
+    lines.append("## By channel")
+    lines.append("")
+    lines.append("| Channel | Experiments |")
+    lines.append("|---|---|")
+    for ch, n in sorted(channel_counts.items(), key=lambda x: -x[1]):
+        lines.append(f"| {ch} | {n} |")
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+    lines.append("## All experiments")
+    lines.append("")
+    lines.append("Ordered by published date, most recent first.")
+    lines.append("")
+    lines.append("| Date | Title | Channel | Verdict |")
+    lines.append("|---|---|---|---|")
+    for e in sorted_exps:
+        eid = e.get("id", "")
+        title = ((e.get("experiment") or {}).get("title") or "Untitled").replace("|", "\\|")
+        ch = e["source"].get("channel", "")
+        date = e["source"].get("published_date", "")
+        verdict = e.get("verdict") or "-"
+        lines.append(
+            f"| {date} | [[experiments/{slugify(eid)}|{title}]] | {ch} | `{verdict}` |"
+        )
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+    lines.append("## Related pages")
+    lines.append("")
+    lines.append("- [[yolo-projects]] - upstream pipeline")
+    lines.append("- [[yolo-phase4-integration]] - sync mechanism")
+    lines.append("- [[tracked-channels-schema]] - the 10 source channels")
+    lines.append("- [[index]] - wiki home")
+    return "\n".join(lines) + "\n"
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(
         description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
@@ -269,6 +370,12 @@ def main() -> None:
         (ARCHIVE_DIR / "phase4_run.json").write_text(json.dumps(run_meta, indent=2))
 
     save_fingerprints(fps)
+
+    # Regenerate the index every run so it always reflects the full
+    # upstream set (new experiments, updated verdicts, etc.) rather
+    # than drifting from the seed snapshot.
+    INDEX_PATH.parent.mkdir(parents=True, exist_ok=True)
+    INDEX_PATH.write_text(render_index(experiments))
 
     print(f"Synced {added} new experiments ({total} total upstream)", file=sys.stderr)
 
