@@ -6,91 +6,114 @@
 
 ## Overview
 
-LLM Wiki Hub is a **static, file-based documentation system** with a three-stage processing pipeline. There is no runtime server, database, or build pipeline. The entire knowledge base is composed of plain Markdown files stored in a Git repository.
+LLM Wiki Hub is a **static, file-based documentation system** with a three-stage processing pipeline that handles three source types: GitHub repos, articles, and YouTube videos. There is no runtime server or database.
 
 ## Processing Pipeline
 
 ```
-┌──────────────────┐     ┌──────────────┐     ┌──────────────────┐
-│  active_sources/  │────►│    wiki/      │────►│  cold_storage/   │
-│                   │     │              │     │                  │
-│  Unprocessed      │     │  Generated   │     │  Processed       │
-│  repo clones      │     │  markdown    │     │  repo clones     │
-│                   │     │  docs        │     │  (archived)      │
-└──────────────────┘     └──────────────┘     └──────────────────┘
-     Clone repos           Analyze &            Move after
-     from GitHub           generate docs        documentation
+                ┌─────────────────────┐
+                │      queue.yml       │  (URLs waiting to be ingested)
+                └──────────┬──────────┘
+                           │
+     ┌─────────────────────┼─────────────────────┐
+     │                     │                     │
+     ▼                     ▼                     ▼
+┌──────────┐        ┌──────────┐          ┌──────────┐
+│  git     │        │ ingest-  │          │ ingest-  │
+│  clone   │        │ article  │          │ youtube  │
+└────┬─────┘        └────┬─────┘          └────┬─────┘
+     │                    │                     │
+     ▼                    ▼                     ▼
+┌─────────────────────────────────────────────────────┐
+│  active_sources/                                     │
+│    ├── repos/<name>/                                 │
+│    ├── articles/<slug>/   content.md + meta.json     │
+│    └── youtube/<channel>/<id>/  transcript.txt + ... │
+└────────────────────────┬────────────────────────────┘
+                         │  Claude reads source,
+                         │  writes wiki page
+                         ▼
+┌─────────────────────────────────────────────────────┐
+│  wiki/                                               │
+│    ├── <repo>.md                                     │
+│    ├── articles/<slug>.md                            │
+│    └── videos/<channel>-<id>.md                      │
+│    All cross-linked via [[wiki-links]]               │
+└────────────────────────┬────────────────────────────┘
+                         │  Archive after
+                         │  documentation ships
+                         ▼
+┌─────────────────────────────────────────────────────┐
+│  cold_storage/                                       │
+│    ├── repos/<name>/                                 │
+│    ├── articles/<slug>/                              │
+│    ├── youtube/<channel>/<id>/                       │
+│    └── fingerprints.json   (URL → content hash)      │
+└─────────────────────────────────────────────────────┘
 ```
 
-### Workflow
+## Source Types
 
-1. **Clone** - Public repos are cloned into `active_sources/`
-2. **Analyze** - Each codebase is read: README, package.json, source files, architecture
-3. **Generate** - A comprehensive wiki page is written to `wiki/` with architecture diagrams, dependency maps, key modules, and design decisions
-4. **Archive** - The processed repo clone is moved to `cold_storage/`
-5. **Link** - The new page is cross-referenced in [[index]] and related pages via `[[wiki-links]]`
+| Type | Ingest Tool | Active Path | Wiki Path |
+|---|---|---|---|
+| GitHub repo | `git clone` | `active_sources/repos/<name>/` | `wiki/<name>.md` |
+| Article | `scripts/ingest-article.py` | `active_sources/articles/<slug>/` | `wiki/articles/<slug>.md` |
+| YouTube video | `scripts/ingest-youtube.py --video` | `active_sources/youtube/<channel>/<id>/` | `wiki/videos/<channel>-<id>.md` |
+| YouTube channel | `scripts/ingest-youtube.py --channel` | Same as video (per-video folders) | One page per video |
+
+## Workflow
+
+1. **Queue** - Drop URLs into `queue.yml` under the appropriate section (`articles`, `youtube.videos`, `youtube.channels`, `repos`). See [[queue-schema]].
+2. **Ingest** - Run the matching ingest script. Content + metadata land in `active_sources/<type>/<slug>/`.
+3. **Deduplicate** - Scripts check `cold_storage/fingerprints.json` (URL → content hash). Re-queuing a URL with unchanged content is a no-op; changed content triggers re-processing.
+4. **Summarize** - Claude reads the source, generates a wiki page with summary, key ideas, quotes, and `[[wiki-links]]` to related projects and articles.
+5. **Index** - Claude updates [[articles-index]] or [[videos-index]] with the new entry.
+6. **Archive** - Source material moves to `cold_storage/<type>/<slug>/`. The fingerprint record persists.
+7. **Remove from queue** - The URL is deleted from `queue.yml`.
 
 ## Design Decisions
 
-### 1. Markdown as the Single Content Format
+### 1. Three source types, unified pipeline
 
-All wiki content is authored in GitHub-Flavored Markdown (GFM). This ensures:
+Repos, articles, and YouTube transcripts share the same three-stage flow (`active_sources/` → `wiki/` → `cold_storage/`) and the same deduplication store (`fingerprints.json`). Adding a new source type (e.g., podcasts) means one more subdirectory and one more ingest script -- no architectural changes.
 
-- **Portability** - Files can be read in any text editor, GitHub's web UI, or static-site generators.
-- **Diffability** - Git diffs are meaningful and human-readable.
-- **Simplicity** - No compilation or transpilation step is required.
+### 2. Queue file as the only "API"
 
-### 2. `[[wiki-links]]` Convention
+`queue.yml` is the single inbox. You edit it, run an ingest script (or ask Claude), and the pipeline handles the rest. No web UI, no service to run, no scheduler.
 
-Internal references between pages use the `[[page-name]]` double-bracket syntax. This convention:
+### 3. Markdown-only output, tool-agnostic
 
-- Is widely supported by tools like Obsidian, Foam, and GitHub Wiki.
-- Keeps links short and readable compared to relative Markdown links.
-- Creates an implicit knowledge graph that can be visualized by compatible tools.
+All wiki content is GitHub-Flavored Markdown with `[[wiki-links]]`. Files render correctly in Obsidian, Foam, GitHub's web UI, and any Markdown viewer. No build step.
 
-Link resolution follows a flat namespace: `[[sportsdata]]` resolves to `wiki/sportsdata.md`.
+### 4. `.gitignore` sources, commit wiki
 
-### 3. Three-Stage Pipeline (active_sources → wiki → cold_storage)
+`active_sources/` and `cold_storage/` contents are gitignored. Only directory structure is tracked (via `.gitkeep`). This keeps the repo lightweight while preserving full local source access for re-processing.
 
-- **`active_sources/`** holds repo clones during analysis. `.gitignore` excludes contents from version control.
-- **`wiki/`** is the only directory committed to the repository. It contains the generated documentation.
-- **`cold_storage/`** holds processed repos for reference. Also `.gitignore`'d.
+### 5. Graceful dependency fallbacks
 
-This separation keeps the wiki repository lightweight (just markdown) while preserving full source access locally.
+Ingest scripts use optional dependencies (`readability-lxml`, `html2text`, `yt-dlp`, `pyyaml`) and fall back to stdlib-only behavior when they're missing. The pipeline works on a clean machine; installing the optional deps just improves quality.
 
-### 4. One Page Per Repository
+### 6. Content hashing for updates
 
-Each public repo gets a dedicated wiki page following a consistent template:
+`fingerprints.json` maps URL → SHA-256 of fetched content. If a Medium article is edited and re-queued, the hash changes and triggers re-ingestion; unchanged content is skipped. This catches meaningful updates without re-processing the whole queue on every run.
 
-- Overview and metadata table
-- Architecture diagram
-- Key modules listing
-- Dependency table
-- Notable design decisions
-- Related pages (cross-links to sibling projects)
+### 7. One page per source, flat namespaces
 
-### 5. Cross-Project Mapping
+- Repos at top level of `wiki/`: `wiki/sportsdata.md`
+- Articles in their own subdirectory: `wiki/articles/<slug>.md`
+- Videos in their own subdirectory: `wiki/videos/<slug>.md`
 
-The [[index]] page maps shared patterns across the portfolio:
-
-- Council governance pattern (used by [[sportsdata]], [[yolo-projects]], [[pm-game]], [[harness-cli]])
-- Technology stack overlap (Next.js, TypeScript, Tailwind CSS)
-- Project relationships (e.g., [[urban-explorer]] → [[roadtripper]] database sharing)
-
-### 6. Git as the Collaboration Layer
-
-- **Branching** enables parallel documentation work (see [[git-workflow]]).
-- **Pull Requests** provide a review mechanism.
-- **History** offers a full audit trail of every edit.
+This keeps [[wiki-links]] short while avoiding name collisions between source types.
 
 ## Future Considerations
 
 | Consideration | Notes |
 |---|---|
-| Static-site generation | MkDocs or Jekyll could render the wiki into a hosted site |
-| Automated re-processing | Cron job to re-clone and update docs when repos change |
+| Automated queue processing | Cron-triggered `python scripts/ingest-*.py --from-queue` on commit |
 | Link validation | CI check to verify all `[[wiki-links]]` resolve |
-| Tagging / metadata | YAML front matter for filtering and categorization |
+| Static-site generation | MkDocs or Jekyll could render to a hosted site |
+| Podcasts / PDFs | Add `active_sources/podcasts/` etc. with corresponding ingest scripts |
+| Full-text search | Client-side Lunr.js index across all wiki pages |
 
 ---
 
@@ -98,4 +121,6 @@ The [[index]] page maps shared patterns across the portfolio:
 
 - [[project-overview]] - Why this wiki exists
 - [[repository-structure]] - Detailed file layout
-- [[dependencies]] - Cross-project dependency map
+- [[queue-schema]] - Queue format and entry structure
+- [[setup-guide]] - Running the pipeline
+- [[dependencies]] - Cross-project and pipeline dependencies

@@ -1,3 +1,14 @@
-# Cloned repos awaiting wiki processing
+# Cloned sources awaiting wiki processing
+# Only track directory structure, not contents
 *
 !.gitignore
+!repos/
+!articles/
+!youtube/
+!**/.gitkeep
+repos/*
+articles/*
+youtube/*
+!repos/.gitkeep
+!articles/.gitkeep
+!youtube/.gitkeep

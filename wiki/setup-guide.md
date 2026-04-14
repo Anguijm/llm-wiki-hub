@@ -6,8 +6,24 @@
 
 ## Prerequisites
 
-- **Git** (version 2.x or later) - [Download Git](https://git-scm.com/downloads)
+### Required
+
+- **Git** >= 2.x - [Download Git](https://git-scm.com/downloads)
+- **Python** >= 3.10 - Only needed if you want to run the ingest scripts
 - A **text editor** or Markdown viewer
+
+### Optional (improves ingest quality)
+
+```bash
+pip install readability-lxml html2text pyyaml yt-dlp
+```
+
+| Package | Purpose |
+|---|---|
+| `readability-lxml` | Better article content extraction |
+| `html2text` | Clean HTML → Markdown conversion |
+| `pyyaml` | Required for `--from-queue` mode |
+| `yt-dlp` | YouTube transcript fetching |
 
 See [[dependencies]] for the full dependency map.
 
@@ -20,49 +36,83 @@ cd llm-wiki-hub
 
 ## Browse the Wiki
 
-### Option 1: Obsidian (Recommended)
+| Option | Tool |
+|---|---|
+| **Best**: Graph view + clickable wiki-links | [Obsidian](https://obsidian.md/) -- open `wiki/` as vault |
+| VS Code with wiki-link support | [Foam](https://foambubble.github.io/foam/) extension |
+| Read-only on GitHub | Navigate to `wiki/` on github.com |
+| Any text editor | Markdown renders readably even without link support |
 
-[Obsidian](https://obsidian.md/) provides the best experience for `[[wiki-link]]` navigation:
+## Adding Sources
 
-1. Download and install Obsidian.
-2. Select **"Open folder as vault."**
-3. Point to the `wiki/` directory.
-4. All `[[wiki-links]]` become clickable. Use **Graph View** (Ctrl/Cmd + G) to visualize the knowledge graph.
+### Path A: Queue + auto-ingest (recommended)
 
-### Option 2: GitHub Web UI
+1. **Add URLs to `queue.yml`**:
 
-Navigate to the `wiki/` directory on GitHub. Start at `wiki/index.md`.
+   ```yaml
+   articles:
+     - https://medium.com/@author/some-post
 
-### Option 3: VS Code with Foam
+   youtube:
+     videos:
+       - https://youtube.com/watch?v=VIDEO_ID
+     channels:
+       - https://youtube.com/@SomeChannel
+   ```
 
-Install the [Foam](https://foambubble.github.io/foam/) extension for `[[wiki-link]]` support via Ctrl/Cmd + Click.
+2. **Run the ingest scripts**:
 
-### Option 4: Any Text Editor
+   ```bash
+   python scripts/ingest-article.py --from-queue
+   python scripts/ingest-youtube.py --from-queue
+   ```
 
-Open any `.md` file directly. The `[[wiki-links]]` are human-readable even without tool support.
+3. **Ask Claude to summarize**:
 
-## Processing Pipeline
+   > "Process the new sources in `active_sources/` into wiki pages."
 
-To add documentation for a new repository:
+   Claude will read each ingested source, generate a wiki page at `wiki/articles/<slug>.md` or `wiki/videos/<slug>.md`, add an entry to [[articles-index]] or [[videos-index]], cross-link to related projects, and move the source to `cold_storage/`.
 
-### 1. Clone into active_sources
+4. **Clean the queue**: Remove the processed URLs from `queue.yml`.
+
+5. **Commit**:
+
+   ```bash
+   git add wiki/ queue.yml
+   git commit -m "add: wiki pages for <sources>"
+   git push
+   ```
+
+### Path B: One-off ingestion (no queue)
 
 ```bash
-cd active_sources
-git clone https://github.com/Anguijm/<repo-name>.git
+# Single article
+python scripts/ingest-article.py https://example.com/article --tag llm --tag training
+
+# Single video
+python scripts/ingest-youtube.py --video https://youtube.com/watch?v=VIDEO_ID --tag transformers
+
+# Latest 10 videos from a channel
+python scripts/ingest-youtube.py --channel @AndrejKarpathy --limit 10
 ```
 
-### 2. Analyze the codebase
+### Path C: Adding a new GitHub repo
 
-Read the repo's README, package.json, source files, and architecture docs. Understand:
-- What the project does
-- Architecture and key patterns
-- Major dependencies
-- Notable design decisions
+```bash
+cd active_sources/repos
+git clone https://github.com/Anguijm/<repo-name>.git
+cd ../..
+```
 
-### 3. Generate wiki page
+Then ask Claude:
 
-Create `wiki/<repo-name>.md` following the standard template:
+> "Read `active_sources/repos/<repo-name>/` and create a wiki page following the standard template."
+
+Claude will generate `wiki/<repo-name>.md`, add it to [[index]], cross-link related projects, and move the clone to `cold_storage/repos/`.
+
+## Wiki Page Templates
+
+### Per-repo
 
 ```markdown
 # repo-name
@@ -76,7 +126,6 @@ Create `wiki/<repo-name>.md` following the standard template:
 | Repository | [Anguijm/repo-name](https://github.com/Anguijm/repo-name) |
 | Language | ... |
 | Status | Active / Archived / Empty |
-| Created | YYYY-MM-DD |
 
 ---
 
@@ -89,42 +138,66 @@ Create `wiki/<repo-name>.md` following the standard template:
 ---
 
 ## Related Pages
-
-- [[related-project]] - Why it's related
-- [[index]] - All projects
+- [[related-project]]
+- [[index]]
 ```
 
-### 4. Update the index
+### Per-article
 
-Add the new page to [[index]] in the Project Portfolio table.
+```markdown
+# Article Title
 
-### 5. Move to cold storage
+> Back to [[articles-index]]
 
-```bash
-mv active_sources/<repo-name> cold_storage/
+**Author · Published Date · [Source URL]**
+
+---
+
+## Summary
+## Key Ideas
+## Quotes
+## Related Work
+
+---
+
+## Related Pages
+- [[related-project-or-article]]
+- [[articles-index]]
 ```
 
-### 6. Commit
+### Per-video
 
-```bash
-git add wiki/<repo-name>.md wiki/index.md
-git commit -m "add: wiki page for <repo-name>"
-git push
+```markdown
+# Video Title
+
+> Back to [[videos-index]]
+
+**Channel · Upload Date · Duration · [YouTube URL]**
+
+---
+
+## Summary
+## Chapter Highlights
+## Key Quotes
+## Related Work
+
+---
+
+## Related Pages
+- [[related-project-or-video]]
+- [[videos-index]]
 ```
 
-## Edit Existing Pages
+## Dedup and Updates
 
-1. Open any `.md` file in `wiki/`.
-2. Edit using standard Markdown + `[[wiki-links]]`.
-3. Commit and push.
-
-See [[contributing]] for content guidelines.
+`cold_storage/fingerprints.json` records every ingested URL and its content hash. Re-queueing the same URL is a no-op if nothing changed; if a Medium article was edited, the hash changes and the ingest script will fetch it again.
 
 ---
 
 ## Related Pages
 
 - [[dependencies]] - Required and optional tools
+- [[queue-schema]] - `queue.yml` format reference
 - [[contributing]] - Content style guidelines
-- [[repository-structure]] - Where to put new files
+- [[repository-structure]] - Where everything lives
 - [[architecture]] - Processing pipeline design
