@@ -45,11 +45,12 @@ jobs:
         with:
           python-version: '3.12'
           cache: 'pip'
+          cache-dependency-path: requirements.txt
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install yt-dlp pyyaml
+          pip install -r requirements.txt
 
       - name: Record state before scan
         id: before
@@ -130,11 +131,13 @@ jobs:
             echo "**Dry run:** \`${{ inputs.dry_run || false }}\`"
             echo "**Limit override:** \`${{ inputs.limit || 'none' }}\`"
             echo ""
+            before=${{ steps.before.outputs.count || 0 }}
+            after=${{ steps.after.outputs.count || 0 }}
             echo "| Metric | Value |"
             echo "|---|---|"
-            echo "| Fingerprints before | ${{ steps.before.outputs.count }} |"
-            echo "| Fingerprints after | ${{ steps.after.outputs.count }} |"
-            echo "| New videos ingested | $((${{ steps.after.outputs.count }} - ${{ steps.before.outputs.count }})) |"
+            echo "| Fingerprints before | $before |"
+            echo "| Fingerprints after | $after |"
+            echo "| New videos ingested | $((after - before)) |"
             echo ""
             if [ -d active_sources/youtube ] && [ -n "$(ls -A active_sources/youtube 2>/dev/null)" ]; then
               echo "### New transcripts in this run"
@@ -173,10 +176,12 @@ jobs:
           if git diff --cached --quiet; then
             echo "No fingerprint changes; nothing to commit."
           else
-            new_videos=$((${{ steps.after.outputs.count }} - ${{ steps.before.outputs.count }}))
-            git commit -m "chore: scan tracked channels ($new_videos new videos)
-
-            Trigger: ${{ github.event_name }}
-            Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            before=${{ steps.before.outputs.count || 0 }}
+            after=${{ steps.after.outputs.count || 0 }}
+            new_videos=$((after - before))
+            git commit \
+              -m "chore: scan tracked channels ($new_videos new videos)" \
+              -m "Trigger: ${{ github.event_name }}" \
+              -m "Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
             git push
           fi
