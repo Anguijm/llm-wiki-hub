@@ -48,6 +48,16 @@ _No channels processed yet._
 2. Run `python scripts/ingest-youtube.py --from-queue` (fetches latest 10 by default)
 3. Each video is stored separately and can be summarized individually
 
+### Ongoing subscriptions (tracked channels)
+
+For channels you want to re-scan on every run (not one-shot), add them to `tracked_channels.yml` at the repo root instead of `queue.yml`, then:
+
+```bash
+python scripts/ingest-youtube.py --from-tracked
+```
+
+Dedup via `fingerprints.json` means only new videos are actually fetched on each run. A seed list of 10 AI/dev channels (`yolo-phase4` group, ported from [[yolo-projects]]) ships with the repo. See [[tracked-channels-schema]] for the full format.
+
 Requires `yt-dlp` installed (`pip install yt-dlp`).
 
 See [[setup-guide]] for the full workflow and [[queue-schema]] for queue format details.

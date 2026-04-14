@@ -100,6 +100,17 @@ python scripts/ingest-youtube.py --video https://youtube.com/watch?v=VIDEO_ID
 python scripts/ingest-youtube.py --channel @AndrejKarpathy --limit 10
 ```
 
+### Path D — Tracked channel subscriptions
+
+`tracked_channels.yml` at the repo root lists YouTube channels to re-scan on every run (persistent subscriptions, as distinct from `queue.yml` which is a one-shot inbox). A seed list ported from the [yolo-projects Phase 4 research pipeline](https://github.com/Anguijm/yolo-projects) is included.
+
+```bash
+# Scan every tracked channel and ingest new videos (dedup via fingerprints.json)
+python scripts/ingest-youtube.py --from-tracked
+```
+
+Channels are grouped with shared tags and per-group `limit` for latest-N videos. Add new groups or channels by editing the file directly. See [`wiki/tracked-channels-schema.md`](wiki/tracked-channels-schema.md) for the full format.
+
 ### Path C — GitHub repo
 
 ```bash

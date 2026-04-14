@@ -5,7 +5,8 @@ ingest-youtube.py - Fetch YouTube transcripts into active_sources/youtube/
 Usage:
     python scripts/ingest-youtube.py --video <url>
     python scripts/ingest-youtube.py --channel <url-or-handle>
-    python scripts/ingest-youtube.py --from-queue
+    python scripts/ingest-youtube.py --from-queue     # one-shot URLs from queue.yml
+    python scripts/ingest-youtube.py --from-tracked   # subscriptions from tracked_channels.yml
 
 Output:
     active_sources/youtube/<channel>/<video-id>/
@@ -16,7 +17,7 @@ Required external tool:
     yt-dlp (install: pip install yt-dlp  OR  brew install yt-dlp)
 
 Optional dependencies:
-    pyyaml  (for --from-queue)
+    pyyaml  (for --from-queue and --from-tracked)
 """
 
 import argparse
@@ -33,6 +34,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 ACTIVE_DIR = REPO_ROOT / "active_sources" / "youtube"
 FINGERPRINTS = REPO_ROOT / "cold_storage" / "fingerprints.json"
 QUEUE_FILE = REPO_ROOT / "queue.yml"
+TRACKED_FILE = REPO_ROOT / "tracked_channels.yml"
 
 
 def check_ytdlp() -> None:
@@ -227,12 +229,58 @@ def process_queue() -> None:
                 print(f"  ERROR: {e}", file=sys.stderr)
 
 
+def process_tracked() -> None:
+    """Re-scan every channel group in tracked_channels.yml.
+
+    Unlike --from-queue, this does NOT mutate the input file: tracked
+    channels are persistent subscriptions. Dedup via fingerprints.json
+    ensures only new videos produce transcripts on each run.
+    """
+    try:
+        import yaml  # type: ignore
+    except ImportError:
+        sys.exit("pyyaml required for --from-tracked (pip install pyyaml)")
+
+    if not TRACKED_FILE.exists():
+        sys.exit(f"No tracked_channels.yml at {TRACKED_FILE}")
+
+    data = yaml.safe_load(TRACKED_FILE.read_text()) or {}
+    groups = data.get("channels") or {}
+    if not groups:
+        print("No channel groups found in tracked_channels.yml", file=sys.stderr)
+        return
+
+    for group_name, group_config in groups.items():
+        if not isinstance(group_config, dict):
+            continue
+        tags = group_config.get("tags") or [group_name]
+        limit = group_config.get("limit", 10)
+        sources = group_config.get("sources") or []
+
+        print(f"\n=== Group: {group_name} ({len(sources)} channels, limit={limit}) ===", file=sys.stderr)
+        for source in sources:
+            if isinstance(source, str):
+                ref = source
+            elif isinstance(source, dict):
+                # Prefer channel_id (direct RSS, no resolution step)
+                ref = source.get("channel_id") or source.get("handle") or source.get("url")
+            else:
+                continue
+            if not ref:
+                continue
+            try:
+                ingest_channel(ref, limit=limit, tags=tags)
+            except Exception as e:
+                print(f"  ERROR ingesting {ref}: {e}", file=sys.stderr)
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     group = ap.add_mutually_exclusive_group(required=True)
     group.add_argument("--video", help="YouTube video URL")
     group.add_argument("--channel", help="YouTube channel URL or @handle")
-    group.add_argument("--from-queue", action="store_true", help="Process all entries in queue.yml")
+    group.add_argument("--from-queue", action="store_true", help="Process all entries in queue.yml (one-shot)")
+    group.add_argument("--from-tracked", action="store_true", help="Re-scan all channels in tracked_channels.yml (subscriptions)")
     ap.add_argument("--limit", type=int, default=10, help="Max videos when ingesting a channel (default: 10)")
     ap.add_argument("--tag", action="append", default=[], help="Tag to apply (repeatable)")
     args = ap.parse_args()
@@ -245,6 +293,8 @@ def main() -> None:
         ingest_channel(args.channel, limit=args.limit, tags=args.tag)
     elif args.from_queue:
         process_queue()
+    elif args.from_tracked:
+        process_tracked()
 
 
 if __name__ == "__main__":
