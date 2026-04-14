@@ -1,0 +1,17 @@
+# Dependencies for the ingest scripts.
+# Install all with: pip install -r requirements.txt
+#
+# All packages are optional at the library level -- the scripts use
+# stdlib fallbacks when possible (see scripts/ingest-article.py) --
+# but the GitHub Actions workflows install everything here so that
+# both article and YouTube ingestion run at full quality.
+
+# Required for YouTube ingestion (ingest-youtube.py has no stdlib fallback)
+yt-dlp
+
+# Required for --from-queue and --from-tracked modes
+pyyaml
+
+# Improves article ingestion quality (ingest-article.py falls back to stdlib if absent)
+readability-lxml
+html2text

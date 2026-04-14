@@ -39,11 +39,12 @@ jobs:
         with:
           python-version: '3.12'
           cache: 'pip'
+          cache-dependency-path: requirements.txt
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install yt-dlp pyyaml readability-lxml html2text
+          pip install -r requirements.txt
 
       - name: Process articles
         if: ${{ inputs.articles }}
@@ -92,9 +93,9 @@ jobs:
           if git diff --cached --quiet; then
             echo "No fingerprint changes."
           else
-            git commit -m "chore: process queue.yml
-
-            Trigger: ${{ github.event_name }}
-            Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            git commit \
+              -m "chore: process queue.yml" \
+              -m "Trigger: ${{ github.event_name }}" \
+              -m "Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
             git push
           fi
