@@ -74,8 +74,10 @@ Beyond GitHub repos, the wiki ingests articles and YouTube transcripts:
 
 - [[articles-index]] - Medium posts, blog articles, and long-form web content
 - [[videos-index]] - YouTube video transcripts and channel scrapes
+- [[experiments-index]] - Experiments synced from [[yolo-projects]] Phase 4
 - [[queue-schema]] - How to queue sources for ingestion via `queue.yml`
 - [[tracked-channels-schema]] - Persistent YouTube channel subscriptions
+- [[yolo-phase4-integration]] - Cross-repo sync from yolo-projects
 - [[automation]] - GitHub Actions workflows for scheduled/manual ingestion
 
 ---
