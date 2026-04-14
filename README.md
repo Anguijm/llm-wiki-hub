@@ -152,18 +152,20 @@ If you want richer ingest quality, install the Python packages listed in `requir
 pip install -r requirements.txt
 ```
 
-(Individually: `pip install readability-lxml html2text pyyaml yt-dlp`.)
+(Individually: `pip install readability-lxml html2text pyyaml youtube-transcript-api`.)
 
-| Package           | Required for                        | Purpose                                             |
-| ----------------- | ----------------------------------- | --------------------------------------------------- |
-| `yt-dlp`          | **All YouTube ingestion**           | Transcript + metadata fetching (no stdlib fallback) |
-| `pyyaml`          | `--from-queue` mode (either script) | Parsing `queue.yml`                                 |
-| `readability-lxml`| Better article extraction           | Cleaner article content vs. raw HTML                |
-| `html2text`       | Better article extraction           | HTML → Markdown conversion                          |
+| Package                 | Required for                        | Purpose                                                 |
+| ----------------------- | ----------------------------------- | ------------------------------------------------------- |
+| `youtube-transcript-api`| **YouTube transcript ingestion**    | Calls YouTube's public transcript endpoint directly     |
+| `pyyaml`                | `--from-queue` mode (either script) | Parsing `queue.yml`                                     |
+| `readability-lxml`      | Better article extraction           | Cleaner article content vs. raw HTML                    |
+| `html2text`             | Better article extraction           | HTML → Markdown conversion                              |
 
 The **article** script degrades gracefully if `readability-lxml` / `html2text` are missing -- it falls back to stdlib-only extraction, which works but produces rougher output.
 
-The **YouTube** script **requires** `yt-dlp`; without it, `ingest-youtube.py` exits immediately on any command. There is no stdlib alternative for fetching YouTube transcripts.
+The **YouTube** script **requires** `youtube-transcript-api` for transcripts; metadata (title, description, published date, view count) comes from RSS feeds + the public oEmbed endpoint, so metadata-only ingestion still works even if a specific video has transcripts disabled or if the script's IP is temporarily blocked. Failed transcript fetches are not fingerprinted, so they're retried on the next run.
+
+> **Why not yt-dlp?** YouTube aggressively blocks bot-like traffic from datacenter IPs (GitHub Actions runners, AWS, Azure). `yt-dlp`'s browser-impersonation approach breaks frequently in these environments. The narrower APIs used here (RSS feeds + public transcript endpoint + oEmbed) trigger bot detection less often and degrade more gracefully when they do.
 
 ---
 

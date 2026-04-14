@@ -36,7 +36,7 @@ Reads [[tracked-channels-schema|tracked_channels.yml]] and ingests new videos fr
 ### What it does
 
 1. Checks out the repo
-2. Installs `yt-dlp` + `pyyaml`
+2. Installs `youtube-transcript-api` + `pyyaml` (via `requirements.txt`)
 3. Runs `python scripts/ingest-youtube.py --from-tracked`
 4. Uploads `active_sources/youtube/` as a workflow artifact (30-day retention)
 5. Writes a summary to `$GITHUB_STEP_SUMMARY` (renders as a nice table in the Actions UI)
@@ -97,7 +97,7 @@ Both workflows use `concurrency: group: <name>` to prevent scheduled and manual 
 
 ## Permissions
 
-The workflows request `contents: write` so they can push the fingerprints commit back. No other permissions are needed, and no secrets are required — everything runs on the public YouTube RSS + `yt-dlp` stack.
+The workflows request `contents: write` so they can push the fingerprints commit back. No other permissions are needed, and no secrets are required — everything runs on the public YouTube RSS feed + public transcript endpoint (`youtube-transcript-api`) + public oEmbed. This choice was deliberate after an early run showed `yt-dlp` failing on every video due to YouTube's bot detection blocking GitHub runner IPs. The narrower APIs used here don't impersonate a full browser session, so they trigger detection far less often.
 
 ## Cron Adjustment
 

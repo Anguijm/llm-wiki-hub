@@ -16,19 +16,19 @@ llm-wiki-hub
 ├── [Required] Text Editor / Markdown Viewer
 │
 ├── [Optional] Python >= 3.10     (for ingest scripts)
+│   ├── youtube-transcript-api    (YouTube transcript fetching)
 │   ├── readability-lxml          (better article extraction)
 │   ├── html2text                 (HTML -> Markdown)
-│   ├── pyyaml                    (queue.yml parsing for --from-queue)
-│   └── yt-dlp                    (YouTube transcript fetching)
+│   └── pyyaml                    (queue.yml parsing for --from-queue)
 │
 ├── [Optional] Obsidian / Foam    (for [[wiki-link]] navigation)
 └── [Optional] Static Site Generator (MkDocs, Jekyll)
 ```
 
-All Python dependencies are optional -- ingest scripts use stdlib fallbacks when packages are missing, though quality improves with them installed.
+The article script uses stdlib fallbacks when `readability-lxml` / `html2text` are missing. The YouTube script requires `youtube-transcript-api`; metadata (title, description, published date) still comes from RSS feeds + oEmbed even if transcript fetch fails.
 
 ```bash
-pip install readability-lxml html2text pyyaml yt-dlp
+pip install -r requirements.txt
 ```
 
 ## Cross-Project Dependency Map
