@@ -111,6 +111,19 @@ python scripts/ingest-youtube.py --from-tracked
 
 Channels are grouped with shared tags and per-group `limit` for latest-N videos. Add new groups or channels by editing the file directly. See [`wiki/tracked-channels-schema.md`](wiki/tracked-channels-schema.md) for the full format.
 
+### Path E — GitHub Actions (no local machine required)
+
+Two workflows in `.github/workflows/` let you run ingestion entirely from the GitHub UI:
+
+| Workflow | Trigger | UI |
+| -------- | ------- | -- |
+| **Scan Tracked YouTube Channels** | Scheduled daily (21:15 UTC) + manual | Actions tab → "Run workflow" button |
+| **Process Queue** | Manual only | Actions tab → "Run workflow" button |
+
+Manual runs open a form with optional inputs (override limit, dry-run mode, pick articles vs. videos). The scan workflow commits the updated `cold_storage/fingerprints.json` back to `main` so dedup state persists, and uploads fetched transcripts as a downloadable workflow artifact (30-day retention).
+
+See [`wiki/automation.md`](wiki/automation.md) for full details.
+
 ### Path C — GitHub repo
 
 ```bash

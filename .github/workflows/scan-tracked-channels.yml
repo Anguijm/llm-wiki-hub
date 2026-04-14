@@ -1,0 +1,182 @@
+name: Scan Tracked YouTube Channels
+
+# Triggers:
+#   - schedule: daily cron (06:15 JST = 21:15 UTC previous day,
+#     matches the yolo-projects Phase 4 pipeline cadence)
+#   - workflow_dispatch: manual "Run workflow" button in the Actions tab,
+#     with optional form inputs for one-off overrides
+on:
+  schedule:
+    - cron: '15 21 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Override per-channel video limit (default: use tracked_channels.yml values)'
+        required: false
+        type: string
+      dry_run:
+        description: 'Dry run: resolve channels and list new videos, but do not fetch transcripts'
+        required: false
+        type: boolean
+        default: false
+
+# Avoid races on cold_storage/fingerprints.json when a scheduled run
+# and a manual run overlap. Serialize all ingest activity.
+concurrency:
+  group: youtube-ingest
+  cancel-in-progress: false
+
+permissions:
+  # Needed so the workflow can commit the updated fingerprints.json
+  contents: write
+
+jobs:
+  scan:
+    name: Scan and ingest
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install yt-dlp pyyaml
+
+      - name: Record state before scan
+        id: before
+        run: |
+          if [ -f cold_storage/fingerprints.json ]; then
+            echo "count=$(python -c 'import json; print(len(json.load(open(\"cold_storage/fingerprints.json\"))))')" >> "$GITHUB_OUTPUT"
+          else
+            echo "count=0" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run ingest (tracked channels)
+        if: ${{ inputs.dry_run != true }}
+        env:
+          OVERRIDE_LIMIT: ${{ inputs.limit }}
+        run: |
+          # If a manual limit override was provided, patch it in for this run only
+          if [ -n "${OVERRIDE_LIMIT:-}" ]; then
+            python - <<'PY'
+          import yaml, os, pathlib
+          p = pathlib.Path("tracked_channels.yml")
+          data = yaml.safe_load(p.read_text()) or {}
+          limit = int(os.environ["OVERRIDE_LIMIT"])
+          for group in (data.get("channels") or {}).values():
+              if isinstance(group, dict):
+                  group["limit"] = limit
+          p.write_text(yaml.safe_dump(data, sort_keys=False))
+          print(f"Overrode per-group limit to {limit} for this run")
+          PY
+          fi
+          python scripts/ingest-youtube.py --from-tracked
+
+      - name: Dry run (enumerate only, no transcripts)
+        if: ${{ inputs.dry_run == true }}
+        run: |
+          python - <<'PY'
+          import json, pathlib, re, urllib.request, yaml
+          tracked = yaml.safe_load(pathlib.Path("tracked_channels.yml").read_text()) or {}
+          fp_path = pathlib.Path("cold_storage/fingerprints.json")
+          known = set(json.load(fp_path.open())) if fp_path.exists() else set()
+
+          total_new = 0
+          for group_name, cfg in (tracked.get("channels") or {}).items():
+              if not isinstance(cfg, dict):
+                  continue
+              print(f"\n=== {group_name} ===")
+              for src in cfg.get("sources") or []:
+                  cid = src.get("channel_id") if isinstance(src, dict) else None
+                  handle = src.get("handle") if isinstance(src, dict) else src
+                  if not cid:
+                      continue
+                  rss = urllib.request.urlopen(
+                      f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}", timeout=30
+                  ).read().decode("utf-8", errors="replace")
+                  vids = re.findall(r"<yt:videoId>([^<]+)</yt:videoId>", rss)[: cfg.get("limit", 10)]
+                  new = [v for v in vids if f"https://youtube.com/watch?v={v}" not in known]
+                  total_new += len(new)
+                  print(f"  {handle}: {len(new)} new / {len(vids)} latest")
+                  for v in new:
+                      print(f"    https://youtube.com/watch?v={v}")
+          print(f"\nTotal new videos: {total_new}")
+          PY
+
+      - name: Record state after scan
+        id: after
+        run: |
+          if [ -f cold_storage/fingerprints.json ]; then
+            echo "count=$(python -c 'import json; print(len(json.load(open(\"cold_storage/fingerprints.json\"))))')" >> "$GITHUB_OUTPUT"
+          else
+            echo "count=0" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Write step summary
+        run: |
+          {
+            echo "## YouTube Scan Summary"
+            echo ""
+            echo "**Trigger:** \`${{ github.event_name }}\`"
+            echo "**Dry run:** \`${{ inputs.dry_run || false }}\`"
+            echo "**Limit override:** \`${{ inputs.limit || 'none' }}\`"
+            echo ""
+            echo "| Metric | Value |"
+            echo "|---|---|"
+            echo "| Fingerprints before | ${{ steps.before.outputs.count }} |"
+            echo "| Fingerprints after | ${{ steps.after.outputs.count }} |"
+            echo "| New videos ingested | $((${{ steps.after.outputs.count }} - ${{ steps.before.outputs.count }})) |"
+            echo ""
+            if [ -d active_sources/youtube ] && [ -n "$(ls -A active_sources/youtube 2>/dev/null)" ]; then
+              echo "### New transcripts in this run"
+              echo ""
+              echo "Download the \`youtube-transcripts\` artifact from this run to get transcripts + metadata for local summarization."
+              echo ""
+              echo "| Channel | Video ID |"
+              echo "|---|---|"
+              find active_sources/youtube -mindepth 2 -maxdepth 2 -type d | while read d; do
+                ch=$(basename "$(dirname "$d")")
+                vid=$(basename "$d")
+                echo "| $ch | [$vid](https://youtube.com/watch?v=$vid) |"
+              done
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload transcripts as artifact
+        if: ${{ inputs.dry_run != true }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: youtube-transcripts-${{ github.run_id }}
+          path: active_sources/youtube/
+          retention-days: 30
+          if-no-files-found: ignore
+
+      - name: Commit updated fingerprints.json
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Restore any workflow-only edits to tracked_channels.yml (from limit override)
+          git checkout -- tracked_channels.yml 2>/dev/null || true
+
+          git add cold_storage/fingerprints.json
+          if git diff --cached --quiet; then
+            echo "No fingerprint changes; nothing to commit."
+          else
+            new_videos=$((${{ steps.after.outputs.count }} - ${{ steps.before.outputs.count }}))
+            git commit -m "chore: scan tracked channels ($new_videos new videos)
+
+            Trigger: ${{ github.event_name }}
+            Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            git push
+          fi

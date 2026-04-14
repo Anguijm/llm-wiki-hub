@@ -1,7 +1,8 @@
 # Processed sources (wiki docs already generated)
-# Only track directory structure, not contents
+# Only track directory structure + dedup state, not raw content.
 *
 !.gitignore
+!fingerprints.json
 !repos/
 !articles/
 !youtube/
