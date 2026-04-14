@@ -10,23 +10,42 @@ Usage:
 
 Output:
     active_sources/youtube/<channel>/<video-id>/
-        transcript.txt   # plain text transcript (auto-captions if available)
-        meta.json        # title, channel, upload_date, duration, url, tags
+        transcript.txt   # plain-text transcript
+        meta.json        # title, channel, published date, description, url, tags
 
-Required external tool:
-    yt-dlp (install: pip install yt-dlp  OR  brew install yt-dlp)
+Required dependencies:
+    youtube-transcript-api  (pip install youtube-transcript-api)
 
 Optional dependencies:
     pyyaml  (for --from-queue and --from-tracked)
+
+Design note
+-----------
+This script deliberately avoids yt-dlp. YouTube aggressively blocks
+bot-like traffic from datacenter IPs (GitHub Actions runners, AWS,
+Azure), and yt-dlp's full-browser impersonation often fails with
+HTTP 429 / sign-in-required errors. Instead we use two narrow APIs
+that don't trigger bot detection:
+
+  - Channel RSS feeds (https://www.youtube.com/feeds/videos.xml?channel_id=...)
+    give us: video_id, title, published, author, description, view count.
+
+  - youtube-transcript-api calls the public transcript endpoint
+    (the same one the YouTube player uses for closed captions) --
+    no JS runtime, no browser impersonation.
+
+  - YouTube oEmbed (https://www.youtube.com/oembed?...) is the fallback
+    for --video mode when we have a URL but no RSS entry, since it
+    returns title + author_name without auth.
 """
 
 import argparse
-import hashlib
 import json
 import re
-import subprocess
 import sys
+import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -36,12 +55,25 @@ FINGERPRINTS = REPO_ROOT / "cold_storage" / "fingerprints.json"
 QUEUE_FILE = REPO_ROOT / "queue.yml"
 TRACKED_FILE = REPO_ROOT / "tracked_channels.yml"
 
+USER_AGENT = "Mozilla/5.0 (compatible; llm-wiki-hub/1.0)"
 
-def check_ytdlp() -> None:
+NS = {
+    "atom": "http://www.w3.org/2005/Atom",
+    "yt": "http://www.youtube.com/xml/schemas/2015",
+    "media": "http://search.yahoo.com/mrss/",
+}
+
+VIDEO_ID_RE = re.compile(r"(?:v=|/watch\?v=|youtu\.be/|/embed/|/v/)([A-Za-z0-9_-]{11})")
+
+
+def check_deps() -> None:
     try:
-        subprocess.run(["yt-dlp", "--version"], capture_output=True, check=True)
-    except (FileNotFoundError, subprocess.CalledProcessError):
-        sys.exit("yt-dlp not found. Install with: pip install yt-dlp")
+        import youtube_transcript_api  # noqa: F401
+    except ImportError:
+        sys.exit(
+            "youtube-transcript-api not found. "
+            "Install with: pip install youtube-transcript-api  (or pip install -r requirements.txt)"
+        )
 
 
 def slugify(text: str, max_len: int = 40) -> str:
@@ -51,54 +83,11 @@ def slugify(text: str, max_len: int = 40) -> str:
     return text[:max_len] or "unknown"
 
 
-def fetch_video_metadata(url: str) -> dict:
-    """Use yt-dlp to dump metadata as JSON without downloading the video."""
-    result = subprocess.run(
-        ["yt-dlp", "--dump-json", "--skip-download", "--no-warnings", url],
-        capture_output=True,
-        text=True,
-        check=True,
-    )
-    return json.loads(result.stdout)
-
-
-def fetch_transcript(url: str, out_dir: Path) -> Path | None:
-    """Download auto-generated subtitles as VTT, then convert to plain text."""
-    out_dir.mkdir(parents=True, exist_ok=True)
-    subprocess.run(
-        [
-            "yt-dlp",
-            "--write-auto-subs",
-            "--skip-download",
-            "--sub-langs", "en.*",
-            "--sub-format", "vtt",
-            "--no-warnings",
-            "-o", str(out_dir / "%(id)s.%(ext)s"),
-            url,
-        ],
-        capture_output=True,
-        check=False,
-    )
-
-    vtt_files = list(out_dir.glob("*.vtt"))
-    if not vtt_files:
-        return None
-
-    vtt = vtt_files[0].read_text()
-    # Strip VTT timing lines and cue identifiers; keep only text
-    lines = []
-    for line in vtt.splitlines():
-        if "-->" in line or line.strip().isdigit() or line.startswith("WEBVTT") or not line.strip():
-            continue
-        text = re.sub(r"<[^>]+>", "", line).strip()
-        if text and (not lines or lines[-1] != text):
-            lines.append(text)
-
-    transcript_path = out_dir / "transcript.txt"
-    transcript_path.write_text("\n".join(lines))
-    for vtt_file in vtt_files:
-        vtt_file.unlink()
-    return transcript_path
+def extract_video_id(url: str) -> str:
+    m = VIDEO_ID_RE.search(url)
+    if not m:
+        raise ValueError(f"Could not extract video ID from URL: {url}")
+    return m.group(1)
 
 
 def load_fingerprints() -> dict:
@@ -112,57 +101,144 @@ def save_fingerprints(fps: dict) -> None:
     FINGERPRINTS.write_text(json.dumps(fps, indent=2, sort_keys=True))
 
 
-def ingest_video(url: str, tags: list[str] | None = None) -> Path | None:
-    print(f"Fetching video {url}...", file=sys.stderr)
-    meta = fetch_video_metadata(url)
-    video_id = meta.get("id", "")
-    channel = slugify(meta.get("channel", "unknown"))
+def fetch_transcript(video_id: str) -> list[dict] | None:
+    """Return transcript segments (or None if unavailable / private)."""
+    from youtube_transcript_api import YouTubeTranscriptApi
+    from youtube_transcript_api._errors import (
+        TranscriptsDisabled,
+        NoTranscriptFound,
+        VideoUnavailable,
+    )
+
+    try:
+        fetched = YouTubeTranscriptApi().fetch(video_id, languages=["en", "en-US", "en-GB"])
+        return [
+            {"text": seg.text, "start": seg.start, "duration": seg.duration}
+            for seg in fetched
+        ]
+    except (TranscriptsDisabled, NoTranscriptFound, VideoUnavailable):
+        return None
+    except Exception as e:
+        print(f"    transcript fetch error: {type(e).__name__}: {e}", file=sys.stderr)
+        return None
+
+
+def write_transcript(segments: list[dict], out_dir: Path) -> Path:
+    """Write a plain-text transcript with blank lines between segments."""
+    lines = []
+    prev_text = None
+    for seg in segments:
+        text = seg["text"].strip()
+        if text and text != prev_text:
+            lines.append(text)
+            prev_text = text
+    path = out_dir / "transcript.txt"
+    path.write_text("\n".join(lines))
+    return path
+
+
+def fetch_oembed(url: str) -> dict:
+    """Fetch basic video metadata via the public oEmbed endpoint."""
+    oembed_url = f"https://www.youtube.com/oembed?url={urllib.parse.quote(url, safe='')}&format=json"
+    req = urllib.request.Request(oembed_url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        return json.loads(resp.read().decode("utf-8"))
+
+
+def parse_rss_entry(entry: ET.Element) -> dict:
+    """Extract metadata from a single <entry> in a YouTube channel RSS feed."""
+    def text(path: str) -> str:
+        el = entry.find(path, NS)
+        return (el.text or "").strip() if el is not None and el.text else ""
+
+    link = entry.find("atom:link", NS)
+    author_name = entry.find("atom:author/atom:name", NS)
+    description_el = entry.find("media:group/media:description", NS)
+    stats = entry.find("media:group/media:community/media:statistics", NS)
+
+    video_id = text("yt:videoId")
+    return {
+        "video_id": video_id,
+        "channel_id": text("yt:channelId"),
+        "title": text("atom:title"),
+        "published": text("atom:published"),
+        "updated": text("atom:updated"),
+        "author": author_name.text.strip() if author_name is not None and author_name.text else "",
+        "link": link.get("href") if link is not None else f"https://youtube.com/watch?v={video_id}",
+        "description": (description_el.text or "").strip() if description_el is not None and description_el.text else "",
+        "views": int(stats.get("views", 0)) if stats is not None and stats.get("views") else None,
+    }
+
+
+def ingest_from_metadata(metadata: dict, tags: list[str] | None = None) -> Path | None:
+    """Common ingestion path: given metadata dict, fetch transcript and write output."""
+    video_id = metadata["video_id"]
+    channel = slugify(metadata.get("author") or metadata.get("channel") or "unknown")
     canonical_url = f"https://youtube.com/watch?v={video_id}"
 
     fps = load_fingerprints()
-    fp_key = canonical_url
-    if fp_key in fps:
-        print(f"  SKIP: video {video_id} already ingested", file=sys.stderr)
+    if canonical_url in fps:
+        print(f"  SKIP: {video_id} already ingested", file=sys.stderr)
         return None
 
+    print(f"  fetching transcript for {video_id}...", file=sys.stderr)
+    segments = fetch_transcript(video_id)
+
     out_dir = ACTIVE_DIR / channel / video_id
-    transcript = fetch_transcript(url, out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    if segments is not None:
+        write_transcript(segments, out_dir)
 
     record = {
         "url": canonical_url,
         "video_id": video_id,
-        "title": meta.get("title", ""),
-        "channel": meta.get("channel", ""),
-        "channel_id": meta.get("channel_id", ""),
-        "upload_date": meta.get("upload_date", ""),
-        "duration_seconds": meta.get("duration"),
-        "description": (meta.get("description") or "")[:1000],
-        "chapters": meta.get("chapters") or [],
+        "title": metadata.get("title", ""),
+        "channel": metadata.get("author") or metadata.get("channel") or "",
+        "channel_id": metadata.get("channel_id", ""),
+        "published": metadata.get("published", ""),
+        "description": (metadata.get("description") or "")[:2000],
+        "view_count": metadata.get("views"),
         "tags": tags or [],
-        "has_transcript": transcript is not None,
+        "has_transcript": segments is not None,
+        "transcript_segments": len(segments) if segments else 0,
         "fetched_at": datetime.now(timezone.utc).isoformat(),
     }
     (out_dir / "meta.json").write_text(json.dumps(record, indent=2))
 
-    # Only fingerprint when transcript was successfully extracted.
-    # Without this guard, a transient yt-dlp failure (no network, rate
-    # limit, etc.) would write a fingerprint and permanently lock out
-    # retries via the early `if fp_key in fps` check at the top of this
-    # function. Videos that genuinely have no transcript will be re-tried
-    # on each run, but that's cheap (yt-dlp returns quickly).
-    if transcript is not None:
-        fps[fp_key] = {
+    # Only fingerprint when transcript was obtained. Videos with no
+    # transcript (disabled/unavailable) are re-tried on every run so a
+    # transient failure doesn't permanently lock them out.
+    if segments is not None:
+        fps[canonical_url] = {
             "video_id": video_id,
             "channel": channel,
             "fetched_at": record["fetched_at"],
         }
         save_fingerprints(fps)
-        status = "with transcript"
+        status = f"with transcript ({len(segments)} segments)"
     else:
-        status = "no transcript (will retry on re-queue)"
+        status = "no transcript (will retry next run)"
 
     print(f"  OK: active_sources/youtube/{channel}/{video_id}/ ({status})", file=sys.stderr)
     return out_dir
+
+
+def ingest_video(url: str, tags: list[str] | None = None) -> Path | None:
+    """Ingest a single video given a URL (for --video mode)."""
+    print(f"Fetching video {url}...", file=sys.stderr)
+    video_id = extract_video_id(url)
+    oembed = fetch_oembed(url)
+    metadata = {
+        "video_id": video_id,
+        "title": oembed.get("title", ""),
+        "author": oembed.get("author_name", ""),
+        "channel_id": "",
+        "published": "",
+        "description": "",
+        "views": None,
+    }
+    return ingest_from_metadata(metadata, tags=tags)
 
 
 def channel_rss_url(channel_ref: str) -> str:
@@ -170,7 +246,6 @@ def channel_rss_url(channel_ref: str) -> str:
     if channel_ref.startswith("UC") and len(channel_ref) == 24:
         return f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_ref}"
 
-    # Fetch the channel page and grep for channelId
     if channel_ref.startswith("@"):
         url = f"https://www.youtube.com/{channel_ref}"
     elif "youtube.com" in channel_ref:
@@ -178,7 +253,8 @@ def channel_rss_url(channel_ref: str) -> str:
     else:
         url = f"https://www.youtube.com/@{channel_ref}"
 
-    with urllib.request.urlopen(url, timeout=30) as resp:
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(req, timeout=30) as resp:
         html = resp.read().decode("utf-8", errors="replace")
     m = re.search(r'"channelId":"(UC[^"]+)"', html)
     if not m:
@@ -189,17 +265,27 @@ def channel_rss_url(channel_ref: str) -> str:
 def ingest_channel(channel_ref: str, limit: int = 10, tags: list[str] | None = None) -> None:
     print(f"Fetching channel {channel_ref}...", file=sys.stderr)
     rss_url = channel_rss_url(channel_ref)
-    with urllib.request.urlopen(rss_url, timeout=30) as resp:
-        rss = resp.read().decode("utf-8", errors="replace")
 
-    video_ids = re.findall(r"<yt:videoId>([^<]+)</yt:videoId>", rss)
-    print(f"  Found {len(video_ids)} videos in feed; ingesting latest {min(limit, len(video_ids))}", file=sys.stderr)
+    req = urllib.request.Request(rss_url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        rss_bytes = resp.read()
 
-    for vid in video_ids[:limit]:
+    root = ET.fromstring(rss_bytes)
+    entries = root.findall("atom:entry", NS)
+    print(
+        f"  Found {len(entries)} videos in feed; ingesting latest {min(limit, len(entries))}",
+        file=sys.stderr,
+    )
+
+    for entry in entries[:limit]:
         try:
-            ingest_video(f"https://youtube.com/watch?v={vid}", tags=tags)
+            metadata = parse_rss_entry(entry)
+            if not metadata["video_id"]:
+                continue
+            ingest_from_metadata(metadata, tags=tags)
         except Exception as e:
-            print(f"  ERROR ingesting {vid}: {e}", file=sys.stderr)
+            vid = metadata.get("video_id", "?") if "metadata" in locals() else "?"
+            print(f"  ERROR ingesting {vid}: {type(e).__name__}: {e}", file=sys.stderr)
 
 
 def process_queue() -> None:
@@ -257,12 +343,14 @@ def process_tracked() -> None:
         limit = group_config.get("limit", 10)
         sources = group_config.get("sources") or []
 
-        print(f"\n=== Group: {group_name} ({len(sources)} channels, limit={limit}) ===", file=sys.stderr)
+        print(
+            f"\n=== Group: {group_name} ({len(sources)} channels, limit={limit}) ===",
+            file=sys.stderr,
+        )
         for source in sources:
             if isinstance(source, str):
                 ref = source
             elif isinstance(source, dict):
-                # Prefer channel_id (direct RSS, no resolution step)
                 ref = source.get("channel_id") or source.get("handle") or source.get("url")
             else:
                 continue
@@ -271,21 +359,29 @@ def process_tracked() -> None:
             try:
                 ingest_channel(ref, limit=limit, tags=tags)
             except Exception as e:
-                print(f"  ERROR ingesting {ref}: {e}", file=sys.stderr)
+                print(f"  ERROR ingesting {ref}: {type(e).__name__}: {e}", file=sys.stderr)
 
 
 def main() -> None:
-    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap = argparse.ArgumentParser(
+        description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
+    )
     group = ap.add_mutually_exclusive_group(required=True)
     group.add_argument("--video", help="YouTube video URL")
     group.add_argument("--channel", help="YouTube channel URL or @handle")
-    group.add_argument("--from-queue", action="store_true", help="Process all entries in queue.yml (one-shot)")
-    group.add_argument("--from-tracked", action="store_true", help="Re-scan all channels in tracked_channels.yml (subscriptions)")
-    ap.add_argument("--limit", type=int, default=10, help="Max videos when ingesting a channel (default: 10)")
+    group.add_argument(
+        "--from-queue", action="store_true",
+        help="Process all entries in queue.yml (one-shot)",
+    )
+    group.add_argument(
+        "--from-tracked", action="store_true",
+        help="Re-scan all channels in tracked_channels.yml (subscriptions)",
+    )
+    ap.add_argument("--limit", type=int, default=10, help="Max videos per channel (default: 10)")
     ap.add_argument("--tag", action="append", default=[], help="Tag to apply (repeatable)")
     args = ap.parse_args()
 
-    check_ytdlp()
+    check_deps()
 
     if args.video:
         ingest_video(args.video, tags=args.tag)
