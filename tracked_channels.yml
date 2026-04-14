@@ -1,0 +1,48 @@
+# tracked_channels.yml
+#
+# Persistent subscription list of YouTube channels to ingest on every run.
+#
+# Distinct from queue.yml: entries here are re-scanned on each run (new
+# videos are picked up, duplicates are skipped via fingerprints.json),
+# and they are NOT removed after processing. queue.yml is for one-shot
+# URLs; this file is for ongoing subscriptions.
+#
+# Run:
+#   python scripts/ingest-youtube.py --from-tracked
+#
+# The ingest script deduplicates via cold_storage/fingerprints.json,
+# so only new videos produce transcripts on each run. Videos whose
+# transcript fetch fails (network error, rate limit) are retried on
+# the next run.
+
+channels:
+  # Ported from yolo-projects Phase 4 YouTube research pipeline:
+  # https://github.com/Anguijm/yolo-projects/blob/main/fetch_youtube_rss.py
+  # Daily cron scans these RSS feeds for new videos and extracts
+  # experiment cards for the yolo builder system.
+  yolo-phase4:
+    tags: [yolo-phase4, ai-dev, research]
+    limit: 10   # max latest videos per channel per run
+    sources:
+      # Original 5 channels
+      - handle: "@NateBJones"
+        channel_id: UC0C-17n9iuUQPylguM1d-lQ
+      - handle: "@MLOps"
+        channel_id: UCG6qpjVnBTTT8wLGBygANOQ
+      - handle: "@DavidOndrej"
+        channel_id: UCPGrgwfbkjTIgPoOh2q1BAg
+      - handle: "[un]prompted"
+        channel_id: UC5GCrYGsm7EHQzQZj65A-5w
+      - handle: "@NateHerk"
+        channel_id: UC2ojq-nuP8ceeHqiroeKhBA
+      # Added after council review (signal 8-10/10)
+      - handle: "@swyx"
+        channel_id: UC50YKpKY_2Y86Qo4DZY3mMQ
+      - handle: "@GregKamradt"
+        channel_id: UC7mHKIdjuKTJVamHqR5JTRg
+      - handle: "@AIJasonZ"
+        channel_id: UCrXSVX9a1mj8l0CMLwKgMVw
+      - handle: "@echohive"
+        channel_id: UCL7przoMtZTmiQMhc9ifIww
+      - handle: "@ShawTalebi"
+        channel_id: UCa9gErQ9AE5jT2DZLjXBIdA
