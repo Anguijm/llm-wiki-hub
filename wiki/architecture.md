@@ -103,7 +103,7 @@ Ingest scripts use optional dependencies (`readability-lxml`, `html2text`, `yt-d
 - Articles in their own subdirectory: `wiki/articles/<slug>.md`
 - Videos in their own subdirectory: `wiki/videos/<slug>.md`
 
-This keeps [[wiki-links]] short while avoiding name collisions between source types.
+This keeps `[[wiki-links]]` short while avoiding name collisions between source types.
 
 ## Future Considerations
 

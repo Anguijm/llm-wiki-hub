@@ -111,6 +111,17 @@ python scripts/ingest-youtube.py --from-tracked
 
 Channels are grouped with shared tags and per-group `limit` for latest-N videos. Add new groups or channels by editing the file directly. See [`wiki/tracked-channels-schema.md`](wiki/tracked-channels-schema.md) for the full format.
 
+### Path F — yolo-phase4 experiments (pre-synthesized)
+
+The sister repo [yolo-projects](https://github.com/Anguijm/yolo-projects) runs a daily cron that extracts experiment summaries from the same 10 channels in `tracked_channels.yml`. We consume its committed `experiments.json` directly rather than re-scraping — the upstream data is already synthesized and bypasses YouTube's runner-IP blocks that plague our own transcript fetcher.
+
+```bash
+# Fetch + materialize any new experiments as wiki pages
+python scripts/ingest-yolo-phase4.py
+```
+
+A dedicated workflow (`.github/workflows/sync-yolo-phase4.yml`) runs this on a 22:00 UTC daily cron and commits new `wiki/experiments/*.md` pages back to `main`. See [`wiki/yolo-phase4-integration.md`](wiki/yolo-phase4-integration.md) for the full data flow and [`wiki/experiments-index.md`](wiki/experiments-index.md) for the current catalog.
+
 ### Path E — GitHub Actions (no local machine required)
 
 Two workflows in `.github/workflows/` let you run ingestion entirely from the GitHub UI:

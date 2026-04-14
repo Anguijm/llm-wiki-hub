@@ -1,0 +1,123 @@
+name: Sync yolo-phase4 experiments
+
+# Pulls experiments.json from github.com/Anguijm/yolo-projects and
+# materializes any new entries as wiki/experiments/*.md pages.
+#
+# Triggers:
+#   - schedule: daily at 22:00 UTC (about 45 minutes after the yolo-projects
+#     Phase 4 cron at 06:15 JST finishes, giving the commit time to propagate)
+#   - workflow_dispatch: manual "Run workflow" button
+
+on:
+  schedule:
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run: log how many experiments would be added without committing'
+        required: false
+        type: boolean
+        default: false
+
+# Shared group across every workflow that writes cold_storage/fingerprints.json.
+# Two jobs racing on that file would both push from stale main and one would
+# fail as non-fast-forward, so we serialize all fingerprint-writers.
+concurrency:
+  group: fingerprints-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    name: Sync upstream experiments
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Record state before sync
+        id: before
+        run: |
+          if [ -d wiki/experiments ]; then
+            echo "count=$(find wiki/experiments -maxdepth 1 -name '*.md' | wc -l)" >> "$GITHUB_OUTPUT"
+          else
+            echo "count=0" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run sync
+        if: ${{ inputs.dry_run != true }}
+        run: python scripts/ingest-yolo-phase4.py
+
+      - name: Dry run
+        if: ${{ inputs.dry_run == true }}
+        run: |
+          python - <<'PY'
+          import hashlib, json, urllib.request, pathlib
+          base = "https://raw.githubusercontent.com/Anguijm/yolo-projects/main"
+          req = urllib.request.Request(f"{base}/experiments.json", headers={"User-Agent": "llm-wiki-hub"})
+          with urllib.request.urlopen(req, timeout=30) as resp:
+              exps = json.loads(resp.read())
+          fp_path = pathlib.Path("cold_storage/fingerprints.json")
+          fps = json.loads(fp_path.read_text()) if fp_path.exists() else {}
+          new = 0
+          for e in exps:
+              key = f"phase4:{e.get('id')}"
+              h = hashlib.sha256(json.dumps(e, sort_keys=True).encode()).hexdigest()
+              if fps.get(key, {}).get("hash") != h:
+                  new += 1
+          print(f"Would sync {new} new/changed experiments (of {len(exps)} upstream)")
+          PY
+
+      - name: Record state after sync
+        id: after
+        run: |
+          if [ -d wiki/experiments ]; then
+            echo "count=$(find wiki/experiments -maxdepth 1 -name '*.md' | wc -l)" >> "$GITHUB_OUTPUT"
+          else
+            echo "count=0" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Write step summary
+        run: |
+          {
+            echo "## yolo-phase4 sync summary"
+            echo ""
+            echo "**Trigger:** \`${{ github.event_name }}\`"
+            echo "**Dry run:** \`${{ inputs.dry_run || false }}\`"
+            echo ""
+            before=${{ steps.before.outputs.count || 0 }}
+            after=${{ steps.after.outputs.count || 0 }}
+            echo "| Metric | Value |"
+            echo "|---|---|"
+            echo "| Experiment pages before | $before |"
+            echo "| Experiment pages after | $after |"
+            echo "| Net change | $((after - before)) |"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit wiki pages + fingerprints
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add wiki/experiments/ wiki/experiments-index.md cold_storage/fingerprints.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            before=${{ steps.before.outputs.count || 0 }}
+            after=${{ steps.after.outputs.count || 0 }}
+            net=$((after - before))
+            git commit \
+              -m "chore: sync yolo-phase4 experiments ($net net pages)" \
+              -m "Trigger: ${{ github.event_name }}" \
+              -m "Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            git push
+          fi

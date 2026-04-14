@@ -17,8 +17,11 @@ on:
         type: boolean
         default: true
 
+# Shared group across every workflow that writes cold_storage/fingerprints.json
+# (scan-tracked-channels, sync-yolo-phase4). Prevents non-fast-forward push
+# failures when runs overlap.
 concurrency:
-  group: queue-ingest
+  group: fingerprints-write
   cancel-in-progress: false
 
 permissions:
