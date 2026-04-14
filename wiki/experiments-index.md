@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**75 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**79 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -16,6 +16,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | `discarded` | 11 |
 | `adopted` | 10 |
 | `deferred` | 8 |
+| `backlog` | 4 |
 | `skipped` | 2 |
 
 ## By verdict
@@ -27,16 +28,16 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | `discard` | 10 |
 | `adopted` | 10 |
 | `deferred` | 8 |
-| `(none)` | 2 |
+| `(none)` | 6 |
 
 ## By channel
 
 | Channel | Experiments |
 |---|---|
-| @NateBJones | 26 |
+| @NateBJones | 28 |
 | @MLOps | 20 |
-| @NateHerk | 15 |
-| @DavidOndrej | 7 |
+| @NateHerk | 16 |
+| @DavidOndrej | 8 |
 | @ShawTalebi | 3 |
 | @Fireship | 2 |
 | @[un]prompted | 1 |
@@ -50,6 +51,10 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-04-14 | [[experiments/nb-2026-04-14-track-model-drops-against-product-viability|Build a model-release impact tracker that flags capability obsolescence risks]] | @NateBJones | `-` |
+| 2026-04-13 | [[experiments/nh-2026-04-13-claude-code-vs-antigravity-benchmark|Run a structured 100-task head-to-head between Claude Code and a challenger tool]] | @NateHerk | `-` |
+| 2026-04-13 | [[experiments/nb-2026-04-13-amazon-ai-code-quality-audit|Audit AI-generated code for systemic failure patterns]] | @NateBJones | `-` |
+| 2026-04-13 | [[experiments/do-2026-04-13-claude-swift-rork-mobile|Use Rork as a Claude-powered mobile prototyping layer]] | @DavidOndrej | `-` |
 | 2026-04-12 | [[experiments/st-2026-04-12-claude-video-editing|Build a Claude-Driven Video Edit Instruction Pipeline]] | @ShawTalebi | `discarded` |
 | 2026-04-12 | [[experiments/st-2026-04-12-claude-style-guide-prompt|Encode a YOLO Loop Style Guide as a Reusable Claude System Prompt]] | @ShawTalebi | `adopt` |
 | 2026-04-12 | [[experiments/nh-2026-04-12-claude-code-plugin-10x|Integrate the Featured Plugin into Claude Code Workflow]] | @NateHerk | `deferred` |

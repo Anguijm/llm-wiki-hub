@@ -34,6 +34,11 @@
     "slug": "do-2026-04-12-codex-zero-to-deployed",
     "synced_at": "2026-04-14T15:01:17.417467+00:00"
   },
+  "phase4:do-2026-04-13-claude-swift-rork-mobile": {
+    "hash": "9dbc20312bfa1034bb32c893bd144940e7d24eb187e8adb2da1205b839acaf27",
+    "slug": "do-2026-04-13-claude-swift-rork-mobile",
+    "synced_at": "2026-04-14T22:44:52.568790+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "2da5ebc7be82326bbe4256f53149319c7d2b485cd32331e06319be689f70ff18",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -274,6 +279,16 @@
     "slug": "nb-2026-04-12-manager-layoff-wall",
     "synced_at": "2026-04-14T15:01:17.418071+00:00"
   },
+  "phase4:nb-2026-04-13-amazon-ai-code-quality-audit": {
+    "hash": "bdadd94798c3293e90d3b87a0d0a5955cc64145aa6a017dd3cf83ac8ef263047",
+    "slug": "nb-2026-04-13-amazon-ai-code-quality-audit",
+    "synced_at": "2026-04-14T22:44:52.568226+00:00"
+  },
+  "phase4:nb-2026-04-14-track-model-drops-against-product-viability": {
+    "hash": "db3c8ee2636ca58f41c124eb73b18bc95c3850cbe2c4d583ffcd1c2c5918f334",
+    "slug": "nb-2026-04-14-track-model-drops-against-product-viability",
+    "synced_at": "2026-04-14T22:44:52.569891+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "088def761b98644bce4999c2def3334a62dbd18f60ed9ccbf59a177f567d0ffa",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -348,6 +363,11 @@
     "hash": "5373e0e35e9e7dcb1d7771c8ebb39e495f4b824120278bc54b55a7892021f87b",
     "slug": "nh-2026-04-12-claude-code-plugin-10x",
     "synced_at": "2026-04-14T15:01:17.418705+00:00"
+  },
+  "phase4:nh-2026-04-13-claude-code-vs-antigravity-benchmark": {
+    "hash": "06e8afb10c81bc7541c51a633e990e51773fb29cdb71b90edc2a33a6fde2de3a",
+    "slug": "nh-2026-04-13-claude-code-vs-antigravity-benchmark",
+    "synced_at": "2026-04-14T22:44:52.569330+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "a80e67601d4d95ab70d5f2430da0c78024e833bc401be010287303bb0073a0a8",
