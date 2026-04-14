@@ -68,6 +68,16 @@ ai-dev-team-template ──► harness-cli (archived predecessor)
 
 ---
 
+## External Sources
+
+Beyond GitHub repos, the wiki ingests articles and YouTube transcripts:
+
+- [[articles-index]] - Medium posts, blog articles, and long-form web content
+- [[videos-index]] - YouTube video transcripts and channel scrapes
+- [[queue-schema]] - How to queue sources for ingestion via `queue.yml`
+
+---
+
 ## Wiki Meta-Documentation
 
 - [[project-overview]] - Purpose, goals, and inspiration behind this wiki
@@ -82,13 +92,15 @@ ai-dev-team-template ──► harness-cli (archived predecessor)
 
 ## Processing Workflow
 
-This wiki uses a three-stage pipeline:
+This wiki uses a three-stage pipeline across three source types (repos, articles, YouTube):
 
-1. **`active_sources/`** - Unprocessed clones of public repos
+1. **`active_sources/{repos,articles,youtube}/`** - Unprocessed sources awaiting wiki generation
 2. **`wiki/`** - Generated markdown documentation (you are here)
-3. **`cold_storage/`** - Processed repos (documentation already generated)
+3. **`cold_storage/{repos,articles,youtube}/`** - Processed sources (documentation already generated)
 
-See [[repository-structure]] for the full layout.
+Sources enter via `queue.yml` → ingest scripts (`scripts/ingest-article.py`, `scripts/ingest-youtube.py`) → Claude summarization → wiki page → archive.
+
+See [[architecture]] for the full pipeline and [[queue-schema]] for the queue format.
 
 | Property | Value |
 |---|---|

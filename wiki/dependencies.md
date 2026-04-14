@@ -14,8 +14,21 @@ This page maps dependencies across the entire portfolio. The wiki itself has zer
 llm-wiki-hub
 ├── [Required] Git >= 2.x
 ├── [Required] Text Editor / Markdown Viewer
-├── [Optional] Obsidian / Foam (for [[wiki-link]] navigation)
+│
+├── [Optional] Python >= 3.10     (for ingest scripts)
+│   ├── readability-lxml          (better article extraction)
+│   ├── html2text                 (HTML -> Markdown)
+│   ├── pyyaml                    (queue.yml parsing for --from-queue)
+│   └── yt-dlp                    (YouTube transcript fetching)
+│
+├── [Optional] Obsidian / Foam    (for [[wiki-link]] navigation)
 └── [Optional] Static Site Generator (MkDocs, Jekyll)
+```
+
+All Python dependencies are optional -- ingest scripts use stdlib fallbacks when packages are missing, though quality improves with them installed.
+
+```bash
+pip install readability-lxml html2text pyyaml yt-dlp
 ```
 
 ## Cross-Project Dependency Map
