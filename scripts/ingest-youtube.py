@@ -142,14 +142,23 @@ def ingest_video(url: str, tags: list[str] | None = None) -> Path | None:
     }
     (out_dir / "meta.json").write_text(json.dumps(record, indent=2))
 
-    fps[fp_key] = {
-        "video_id": video_id,
-        "channel": channel,
-        "fetched_at": record["fetched_at"],
-    }
-    save_fingerprints(fps)
+    # Only fingerprint when transcript was successfully extracted.
+    # Without this guard, a transient yt-dlp failure (no network, rate
+    # limit, etc.) would write a fingerprint and permanently lock out
+    # retries via the early `if fp_key in fps` check at the top of this
+    # function. Videos that genuinely have no transcript will be re-tried
+    # on each run, but that's cheap (yt-dlp returns quickly).
+    if transcript is not None:
+        fps[fp_key] = {
+            "video_id": video_id,
+            "channel": channel,
+            "fetched_at": record["fetched_at"],
+        }
+        save_fingerprints(fps)
+        status = "with transcript"
+    else:
+        status = "no transcript (will retry on re-queue)"
 
-    status = "with transcript" if transcript else "no transcript available"
     print(f"  OK: active_sources/youtube/{channel}/{video_id}/ ({status})", file=sys.stderr)
     return out_dir
 

@@ -157,9 +157,19 @@ def process_queue() -> None:
     articles = data.get("articles") or []
     for entry in articles:
         if isinstance(entry, str):
-            ingest(entry)
+            url, tags, note = entry, None, ""
         elif isinstance(entry, dict) and "url" in entry:
-            ingest(entry["url"], tags=entry.get("tags"), note=entry.get("note", ""))
+            url = entry["url"]
+            tags = entry.get("tags")
+            note = entry.get("note", "")
+        else:
+            continue
+
+        # Catch per-entry failures so one bad URL doesn't abort the batch.
+        try:
+            ingest(url, tags=tags, note=note)
+        except Exception as e:
+            print(f"  ERROR ingesting {url}: {e}", file=sys.stderr)
 
 
 def main() -> None:
