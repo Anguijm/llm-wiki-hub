@@ -146,11 +146,13 @@ Then ask Claude:
 | A Markdown viewer                | Yes       | Obsidian, Foam, VS Code, GitHub web UI, or any editor |
 | Python ≥ 3.10                    | Optional  | Only if you want to run the ingest scripts            |
 
-If you want richer ingest quality, install the optional Python packages:
+If you want richer ingest quality, install the Python packages listed in `requirements.txt`:
 
 ```bash
-pip install readability-lxml html2text pyyaml yt-dlp
+pip install -r requirements.txt
 ```
+
+(Individually: `pip install readability-lxml html2text pyyaml yt-dlp`.)
 
 | Package           | Required for                        | Purpose                                             |
 | ----------------- | ----------------------------------- | --------------------------------------------------- |
