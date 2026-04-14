@@ -60,16 +60,15 @@ Contents of `active_sources/` and `cold_storage/` are gitignored; only the gener
        - https://youtube.com/watch?v=VIDEO_ID
      channels:
        - https://youtube.com/@AndrejKarpathy
-
-   repos:
-     - https://github.com/karpathy/nanoGPT
    ```
+
+   (Repos aren't processed by `--from-queue` -- clone them directly via **Path C** below.)
 
 2. **Run the ingest scripts** to fetch content into `active_sources/`:
 
    ```bash
    python scripts/ingest-article.py --from-queue
-   python scripts/ingest-youtube.py --from-queue
+   python scripts/ingest-youtube.py --from-queue   # requires yt-dlp
    ```
 
 3. **Ask Claude to generate wiki pages**:
@@ -129,14 +128,16 @@ If you want richer ingest quality, install the optional Python packages:
 pip install readability-lxml html2text pyyaml yt-dlp
 ```
 
-| Package           | Purpose                                                 |
-| ----------------- | ------------------------------------------------------- |
-| `readability-lxml`| Clean article content extraction (vs. raw HTML)         |
-| `html2text`       | HTML → Markdown conversion                              |
-| `pyyaml`          | Required for `--from-queue` mode                        |
-| `yt-dlp`          | YouTube transcript and metadata fetching                |
+| Package           | Required for                        | Purpose                                             |
+| ----------------- | ----------------------------------- | --------------------------------------------------- |
+| `yt-dlp`          | **All YouTube ingestion**           | Transcript + metadata fetching (no stdlib fallback) |
+| `pyyaml`          | `--from-queue` mode (either script) | Parsing `queue.yml`                                 |
+| `readability-lxml`| Better article extraction           | Cleaner article content vs. raw HTML                |
+| `html2text`       | Better article extraction           | HTML → Markdown conversion                          |
 
-All scripts fall back to stdlib-only behavior when optional packages are missing; the fallbacks work, they just produce rougher output.
+The **article** script degrades gracefully if `readability-lxml` / `html2text` are missing -- it falls back to stdlib-only extraction, which works but produces rougher output.
+
+The **YouTube** script **requires** `yt-dlp`; without it, `ingest-youtube.py` exits immediately on any command. There is no stdlib alternative for fetching YouTube transcripts.
 
 ---
 
