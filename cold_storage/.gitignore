@@ -1,3 +1,14 @@
-# Processed repos (wiki docs already generated)
+# Processed sources (wiki docs already generated)
+# Only track directory structure, not contents
 *
 !.gitignore
+!repos/
+!articles/
+!youtube/
+!**/.gitkeep
+repos/*
+articles/*
+youtube/*
+!repos/.gitkeep
+!articles/.gitkeep
+!youtube/.gitkeep
