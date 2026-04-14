@@ -1,0 +1,100 @@
+name: Process Queue (articles + videos)
+
+# Manual-only workflow for processing one-shot URLs from queue.yml.
+# Unlike scan-tracked-channels (scheduled), queue processing is
+# deliberately manual: you edit queue.yml, then trigger this.
+on:
+  workflow_dispatch:
+    inputs:
+      articles:
+        description: 'Process articles section of queue.yml'
+        required: false
+        type: boolean
+        default: true
+      videos:
+        description: 'Process youtube.videos and youtube.channels sections of queue.yml'
+        required: false
+        type: boolean
+        default: true
+
+concurrency:
+  group: queue-ingest
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  process:
+    name: Ingest queued URLs
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install yt-dlp pyyaml readability-lxml html2text
+
+      - name: Process articles
+        if: ${{ inputs.articles }}
+        run: python scripts/ingest-article.py --from-queue
+
+      - name: Process videos
+        if: ${{ inputs.videos }}
+        run: python scripts/ingest-youtube.py --from-queue
+
+      - name: Write step summary
+        run: |
+          {
+            echo "## Queue Processing Summary"
+            echo ""
+            echo "| Section | Processed? |"
+            echo "|---|---|"
+            echo "| Articles | ${{ inputs.articles }} |"
+            echo "| Videos/Channels | ${{ inputs.videos }} |"
+            echo ""
+            for type in articles youtube; do
+              if [ -d "active_sources/$type" ] && [ -n "$(ls -A active_sources/$type 2>/dev/null | grep -v '^\.gitkeep$')" ]; then
+                echo "### New $type sources"
+                echo ""
+                ls -1 "active_sources/$type" | grep -v '^\.gitkeep$' | while read item; do
+                  echo "- \`$item\`"
+                done
+                echo ""
+              fi
+            done
+            echo "**Next step:** Download the artifacts from this run and ask Claude to generate wiki pages, or pull the branch and run locally."
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload ingested sources as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: queue-ingest-${{ github.run_id }}
+          path: active_sources/
+          retention-days: 30
+          if-no-files-found: ignore
+
+      - name: Commit updated fingerprints.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cold_storage/fingerprints.json
+          if git diff --cached --quiet; then
+            echo "No fingerprint changes."
+          else
+            git commit -m "chore: process queue.yml
+
+            Trigger: ${{ github.event_name }}
+            Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            git push
+          fi
