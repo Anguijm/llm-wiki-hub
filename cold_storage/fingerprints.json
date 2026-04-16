@@ -39,6 +39,11 @@
     "slug": "do-2026-04-13-claude-swift-rork-mobile",
     "synced_at": "2026-04-14T22:44:52.568790+00:00"
   },
+  "phase4:do-2026-04-16-claude-code-opus-47-agent": {
+    "hash": "9c369e70bbf353febb42c2e2f4b2b1eee0fa2e326296ab6f491439d9dbe6d3c4",
+    "slug": "do-2026-04-16-claude-code-opus-47-agent",
+    "synced_at": "2026-04-16T22:40:00.992119+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "2da5ebc7be82326bbe4256f53149319c7d2b485cd32331e06319be689f70ff18",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -48,6 +53,11 @@
     "hash": "8ae717df5823dd190c3decf34566480ef5c41b82fce215323f5699fe4eaa1c18",
     "slug": "fs-2026-04-02-pretext-text-measurement",
     "synced_at": "2026-04-14T15:01:17.389739+00:00"
+  },
+  "phase4:mk-2026-04-16-replace-openclaw-hermes-claude-code": {
+    "hash": "ebad8898e743ee260d7829eceeff04063fad7b69a4136bdfb228033aed9746eb",
+    "slug": "mk-2026-04-16-replace-openclaw-hermes-claude-code",
+    "synced_at": "2026-04-16T22:40:00.993100+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "9164c51ea77888eeefc1ba09c4dc6d5d38bff3a9090c755306ef3a81f9d4203c",
@@ -289,6 +299,16 @@
     "slug": "nb-2026-04-14-track-model-drops-against-product-viability",
     "synced_at": "2026-04-14T22:44:52.569891+00:00"
   },
+  "phase4:nb-2026-04-16-agent-failure-mode-audit": {
+    "hash": "1becb09c8d35be582a1f40b57cb02d82a03d995b776524e6078bf82936a96517",
+    "slug": "nb-2026-04-16-agent-failure-mode-audit",
+    "synced_at": "2026-04-16T22:40:00.991793+00:00"
+  },
+  "phase4:nb-2026-04-16-fix-bottleneck-not-ai-speed": {
+    "hash": "610c6008a0cbc43b22641dbf9bd605d0a5ca6c8faf38c25961f2dc1e02fdd909",
+    "slug": "nb-2026-04-16-fix-bottleneck-not-ai-speed",
+    "synced_at": "2026-04-16T22:40:00.991395+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "088def761b98644bce4999c2def3334a62dbd18f60ed9ccbf59a177f567d0ffa",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -368,6 +388,16 @@
     "hash": "06e8afb10c81bc7541c51a633e990e51773fb29cdb71b90edc2a33a6fde2de3a",
     "slug": "nh-2026-04-13-claude-code-vs-antigravity-benchmark",
     "synced_at": "2026-04-14T22:44:52.569330+00:00"
+  },
+  "phase4:nh-2026-04-16-claude-code-routines-scheduler": {
+    "hash": "2b36c8c960847528a20dec9a844d0e30b405513ed026f204fee7460983a41527",
+    "slug": "nh-2026-04-16-claude-code-routines-scheduler",
+    "synced_at": "2026-04-16T22:40:00.992458+00:00"
+  },
+  "phase4:nh-2026-04-16-claude-heygen-content-pipeline": {
+    "hash": "f3c60b173821403dacd69c534bf1bbbde2a50e2dc1bb0b156a6844b80d531c47",
+    "slug": "nh-2026-04-16-claude-heygen-content-pipeline",
+    "synced_at": "2026-04-16T22:40:00.992786+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "a80e67601d4d95ab70d5f2430da0c78024e833bc401be010287303bb0073a0a8",

@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**79 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**85 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -15,8 +15,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | `done` | 44 |
 | `discarded` | 11 |
 | `adopted` | 10 |
+| `backlog` | 10 |
 | `deferred` | 8 |
-| `backlog` | 4 |
 | `skipped` | 2 |
 
 ## By verdict
@@ -24,24 +24,25 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Verdict | Count |
 |---|---|
 | `adopt` | 34 |
+| `(none)` | 12 |
 | `discarded` | 11 |
 | `discard` | 10 |
 | `adopted` | 10 |
 | `deferred` | 8 |
-| `(none)` | 6 |
 
 ## By channel
 
 | Channel | Experiments |
 |---|---|
-| @NateBJones | 28 |
+| @NateBJones | 30 |
 | @MLOps | 20 |
-| @NateHerk | 16 |
-| @DavidOndrej | 8 |
+| @NateHerk | 18 |
+| @DavidOndrej | 9 |
 | @ShawTalebi | 3 |
 | @Fireship | 2 |
 | @[un]prompted | 1 |
 | @TwoMinutePapers | 1 |
+| @Mark_Kashef | 1 |
 
 ---
 
@@ -51,6 +52,12 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-04-16 | [[experiments/nh-2026-04-16-claude-heygen-content-pipeline|Pipe Claude Script Output Directly Into HeyGen Avatar API for Automated Video Generation]] | @NateHerk | `-` |
+| 2026-04-16 | [[experiments/nh-2026-04-16-claude-code-routines-scheduler|Implement Claude Code Routines for Scheduled Autonomous Dev Tasks]] | @NateHerk | `-` |
+| 2026-04-16 | [[experiments/nb-2026-04-16-fix-bottleneck-not-ai-speed|Map and Eliminate the Non-AI Bottleneck in Your Dev Loop]] | @NateBJones | `-` |
+| 2026-04-16 | [[experiments/nb-2026-04-16-agent-failure-mode-audit|Build a Failure-Mode Audit Layer Into Every Agent Pipeline]] | @NateBJones | `-` |
+| 2026-04-16 | [[experiments/mk-2026-04-16-replace-openclaw-hermes-claude-code|Consolidate Multi-Tool Agent Stacks Into a Single Claude Code Configuration]] | @Mark_Kashef | `-` |
+| 2026-04-16 | [[experiments/do-2026-04-16-claude-code-opus-47-agent|Run Claude Code with Opus 4.7 as Primary Coding Agent and Benchmark Against Sonnet]] | @DavidOndrej | `-` |
 | 2026-04-14 | [[experiments/nb-2026-04-14-track-model-drops-against-product-viability|Build a model-release impact tracker that flags capability obsolescence risks]] | @NateBJones | `-` |
 | 2026-04-13 | [[experiments/nh-2026-04-13-claude-code-vs-antigravity-benchmark|Run a structured 100-task head-to-head between Claude Code and a challenger tool]] | @NateHerk | `-` |
 | 2026-04-13 | [[experiments/nb-2026-04-13-amazon-ai-code-quality-audit|Audit AI-generated code for systemic failure patterns]] | @NateBJones | `-` |
