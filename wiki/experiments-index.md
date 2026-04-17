@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**85 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**86 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -14,8 +14,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 |---|---|
 | `done` | 44 |
 | `discarded` | 11 |
+| `backlog` | 11 |
 | `adopted` | 10 |
-| `backlog` | 10 |
 | `deferred` | 8 |
 | `skipped` | 2 |
 
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Verdict | Count |
 |---|---|
 | `adopt` | 34 |
-| `(none)` | 12 |
+| `(none)` | 13 |
 | `discarded` | 11 |
 | `discard` | 10 |
 | `adopted` | 10 |
@@ -34,7 +34,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @NateBJones | 30 |
+| @NateBJones | 31 |
 | @MLOps | 20 |
 | @NateHerk | 18 |
 | @DavidOndrej | 9 |
@@ -52,6 +52,7 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-04-17 | [[experiments/nb-2026-04-17-memory-control-layer|Build a User-Controlled Memory Layer Between LLM and Platform]] | @NateBJones | `-` |
 | 2026-04-16 | [[experiments/nh-2026-04-16-claude-heygen-content-pipeline|Pipe Claude Script Output Directly Into HeyGen Avatar API for Automated Video Generation]] | @NateHerk | `-` |
 | 2026-04-16 | [[experiments/nh-2026-04-16-claude-code-routines-scheduler|Implement Claude Code Routines for Scheduled Autonomous Dev Tasks]] | @NateHerk | `-` |
 | 2026-04-16 | [[experiments/nb-2026-04-16-fix-bottleneck-not-ai-speed|Map and Eliminate the Non-AI Bottleneck in Your Dev Loop]] | @NateBJones | `-` |

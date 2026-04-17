@@ -309,6 +309,11 @@
     "slug": "nb-2026-04-16-fix-bottleneck-not-ai-speed",
     "synced_at": "2026-04-16T22:40:00.991395+00:00"
   },
+  "phase4:nb-2026-04-17-memory-control-layer": {
+    "hash": "af2544ef69210195cdbc823e7eed2585d7ed0b602d67bf54beef0d24541c0ef6",
+    "slug": "nb-2026-04-17-memory-control-layer",
+    "synced_at": "2026-04-17T22:39:01.242956+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "088def761b98644bce4999c2def3334a62dbd18f60ed9ccbf59a177f567d0ffa",
     "slug": "nh-2026-03-29-boring-automation-products",
