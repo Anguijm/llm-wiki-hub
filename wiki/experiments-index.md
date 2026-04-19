@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**86 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**92 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -13,8 +13,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Status | Count |
 |---|---|
 | `done` | 44 |
+| `backlog` | 17 |
 | `discarded` | 11 |
-| `backlog` | 11 |
 | `adopted` | 10 |
 | `deferred` | 8 |
 | `skipped` | 2 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Verdict | Count |
 |---|---|
 | `adopt` | 34 |
-| `(none)` | 13 |
+| `(none)` | 19 |
 | `discarded` | 11 |
 | `discard` | 10 |
 | `adopted` | 10 |
@@ -34,15 +34,15 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @NateBJones | 31 |
+| @NateBJones | 33 |
+| @NateHerk | 21 |
 | @MLOps | 20 |
-| @NateHerk | 18 |
 | @DavidOndrej | 9 |
 | @ShawTalebi | 3 |
 | @Fireship | 2 |
+| @Mark_Kashef | 2 |
 | @[un]prompted | 1 |
 | @TwoMinutePapers | 1 |
-| @Mark_Kashef | 1 |
 
 ---
 
@@ -52,6 +52,12 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-04-19 | [[experiments/nh-2026-04-19-claude-video-editing|Use Claude to Generate Video Edit Instructions From Transcript]] | @NateHerk | `-` |
+| 2026-04-19 | [[experiments/nh-2026-04-19-claude-design-unstoppable|Use Claude to Iterate on UI/UX Designs From Text Prompts]] | @NateHerk | `-` |
+| 2026-04-19 | [[experiments/nh-2026-04-19-claude-24-7-trader|Build a Long-Running Claude Agent With Persistent Decision Loop]] | @NateHerk | `-` |
+| 2026-04-19 | [[experiments/nb-2026-04-19-karpathy-700-experiments|Run Overnight Autonomous Experiment Sweeps With an Agent]] | @NateBJones | `-` |
+| 2026-04-19 | [[experiments/nb-2026-04-19-ai-replaced-managers|Replace Coordination Layer With AI Orchestration]] | @NateBJones | `-` |
+| 2026-04-19 | [[experiments/mk-2026-04-19-claude-design-industry|Pipe Design Briefs Into Claude to Generate Production-Ready Component Specs]] | @Mark_Kashef | `-` |
 | 2026-04-17 | [[experiments/nb-2026-04-17-memory-control-layer|Build a User-Controlled Memory Layer Between LLM and Platform]] | @NateBJones | `-` |
 | 2026-04-16 | [[experiments/nh-2026-04-16-claude-heygen-content-pipeline|Pipe Claude Script Output Directly Into HeyGen Avatar API for Automated Video Generation]] | @NateHerk | `-` |
 | 2026-04-16 | [[experiments/nh-2026-04-16-claude-code-routines-scheduler|Implement Claude Code Routines for Scheduled Autonomous Dev Tasks]] | @NateHerk | `-` |

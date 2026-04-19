@@ -59,6 +59,11 @@
     "slug": "mk-2026-04-16-replace-openclaw-hermes-claude-code",
     "synced_at": "2026-04-16T22:40:00.993100+00:00"
   },
+  "phase4:mk-2026-04-19-claude-design-industry": {
+    "hash": "bb1ff82cb2bbf1ba2e78cc075f543dee488c8f142e7f1186b9847946c0b140ca",
+    "slug": "mk-2026-04-19-claude-design-industry",
+    "synced_at": "2026-04-19T22:35:41.921520+00:00"
+  },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "9164c51ea77888eeefc1ba09c4dc6d5d38bff3a9090c755306ef3a81f9d4203c",
     "slug": "mlops-2026-03-17-durable-execution-agents",
@@ -314,6 +319,16 @@
     "slug": "nb-2026-04-17-memory-control-layer",
     "synced_at": "2026-04-17T22:39:01.242956+00:00"
   },
+  "phase4:nb-2026-04-19-ai-replaced-managers": {
+    "hash": "9dfcf0b1b9e3663e574e1cd87779b50cc90ac1a988eeec3e4ca84457d86a9420",
+    "slug": "nb-2026-04-19-ai-replaced-managers",
+    "synced_at": "2026-04-19T22:35:41.920434+00:00"
+  },
+  "phase4:nb-2026-04-19-karpathy-700-experiments": {
+    "hash": "80a423f42c7c3c494dcc2341a14ae3bcafe857ce33524bf707c15fcda020722c",
+    "slug": "nb-2026-04-19-karpathy-700-experiments",
+    "synced_at": "2026-04-19T22:35:41.920685+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "088def761b98644bce4999c2def3334a62dbd18f60ed9ccbf59a177f567d0ffa",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -403,6 +418,21 @@
     "hash": "f3c60b173821403dacd69c534bf1bbbde2a50e2dc1bb0b156a6844b80d531c47",
     "slug": "nh-2026-04-16-claude-heygen-content-pipeline",
     "synced_at": "2026-04-16T22:40:00.992786+00:00"
+  },
+  "phase4:nh-2026-04-19-claude-24-7-trader": {
+    "hash": "84b5bf7bd6c7351d2db0c4b57b3d6eaa5afde6a7ac9486705e52a9f36b6551e9",
+    "slug": "nh-2026-04-19-claude-24-7-trader",
+    "synced_at": "2026-04-19T22:35:41.921307+00:00"
+  },
+  "phase4:nh-2026-04-19-claude-design-unstoppable": {
+    "hash": "2a66e76669d8abf0519f558eb58665d4b90a6c89643e75b0a0873a695f9e689d",
+    "slug": "nh-2026-04-19-claude-design-unstoppable",
+    "synced_at": "2026-04-19T22:35:41.921104+00:00"
+  },
+  "phase4:nh-2026-04-19-claude-video-editing": {
+    "hash": "b9e09b0a41c1c5a1849c2c4eabb1535b8e106b69ac49dc75d05145285e1d53d0",
+    "slug": "nh-2026-04-19-claude-video-editing",
+    "synced_at": "2026-04-19T22:35:41.920900+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "a80e67601d4d95ab70d5f2430da0c78024e833bc401be010287303bb0073a0a8",
