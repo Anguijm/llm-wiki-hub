@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**92 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**97 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -13,7 +13,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Status | Count |
 |---|---|
 | `done` | 44 |
-| `backlog` | 17 |
+| `backlog` | 22 |
 | `discarded` | 11 |
 | `adopted` | 10 |
 | `deferred` | 8 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Verdict | Count |
 |---|---|
 | `adopt` | 34 |
-| `(none)` | 19 |
+| `(none)` | 24 |
 | `discarded` | 11 |
 | `discard` | 10 |
 | `adopted` | 10 |
@@ -35,9 +35,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Channel | Experiments |
 |---|---|
 | @NateBJones | 33 |
-| @NateHerk | 21 |
-| @MLOps | 20 |
-| @DavidOndrej | 9 |
+| @MLOps | 23 |
+| @NateHerk | 22 |
+| @DavidOndrej | 10 |
 | @ShawTalebi | 3 |
 | @Fireship | 2 |
 | @Mark_Kashef | 2 |
@@ -52,6 +52,11 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-04-20 | [[experiments/nh-2026-04-20-claude-session-limit|Implement context compression and session checkpointing to bypass Claude usage limits]] | @NateHerk | `-` |
+| 2026-04-20 | [[experiments/mlops-2026-04-20-tensorrt-llm-latency|Optimize LLM inference with TensorRT to cut response latency]] | @MLOps | `-` |
+| 2026-04-20 | [[experiments/mlops-2026-04-20-new-kind-of-marketplace|Expose YOLO loop capabilities as composable marketplace primitives]] | @MLOps | `-` |
+| 2026-04-20 | [[experiments/mlops-2026-04-20-modern-software-engineer|Restructure dev workflow around AI-assisted code generation with human review gates]] | @MLOps | `-` |
+| 2026-04-20 | [[experiments/do-2026-04-20-hermes-agent|Integrate Hermes agent framework as the orchestration layer inside the YOLO loop]] | @DavidOndrej | `-` |
 | 2026-04-19 | [[experiments/nh-2026-04-19-claude-video-editing|Use Claude to Generate Video Edit Instructions From Transcript]] | @NateHerk | `-` |
 | 2026-04-19 | [[experiments/nh-2026-04-19-claude-design-unstoppable|Use Claude to Iterate on UI/UX Designs From Text Prompts]] | @NateHerk | `-` |
 | 2026-04-19 | [[experiments/nh-2026-04-19-claude-24-7-trader|Build a Long-Running Claude Agent With Persistent Decision Loop]] | @NateHerk | `-` |

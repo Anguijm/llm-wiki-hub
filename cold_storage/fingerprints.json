@@ -44,6 +44,11 @@
     "slug": "do-2026-04-16-claude-code-opus-47-agent",
     "synced_at": "2026-04-16T22:40:00.992119+00:00"
   },
+  "phase4:do-2026-04-20-hermes-agent": {
+    "hash": "f860ed71e3b5891bce8cc576173bf65feb7a979d66116ac21859a419ba4e7fb4",
+    "slug": "do-2026-04-20-hermes-agent",
+    "synced_at": "2026-04-20T22:42:47.643245+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "2da5ebc7be82326bbe4256f53149319c7d2b485cd32331e06319be689f70ff18",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -163,6 +168,21 @@
     "hash": "baca2ae08e2b1b752f23c24964860f7524463e4bf28cbe0364539906ea17ed7d",
     "slug": "mlops-2026-04-10-ship-agents-track2",
     "synced_at": "2026-04-14T15:01:17.411857+00:00"
+  },
+  "phase4:mlops-2026-04-20-modern-software-engineer": {
+    "hash": "4fcb88a8e10f9771329e8061a05fd9e969c85d0e911427663cf6d25509b01771",
+    "slug": "mlops-2026-04-20-modern-software-engineer",
+    "synced_at": "2026-04-20T22:42:47.642573+00:00"
+  },
+  "phase4:mlops-2026-04-20-new-kind-of-marketplace": {
+    "hash": "76068efdf2e90a3ccbbc06577b191e49d61f3d33714b30459d2f33e3f6db4af7",
+    "slug": "mlops-2026-04-20-new-kind-of-marketplace",
+    "synced_at": "2026-04-20T22:42:47.642909+00:00"
+  },
+  "phase4:mlops-2026-04-20-tensorrt-llm-latency": {
+    "hash": "7c961859e5a550ce5030acea7902510eb99bf253dda76a827ec92ea6d63191d8",
+    "slug": "mlops-2026-04-20-tensorrt-llm-latency",
+    "synced_at": "2026-04-20T22:42:47.642218+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "11beb12ed7fc04c67df0832941fbec767ea14ab393610268e5d8507350568196",
@@ -433,6 +453,11 @@
     "hash": "b9e09b0a41c1c5a1849c2c4eabb1535b8e106b69ac49dc75d05145285e1d53d0",
     "slug": "nh-2026-04-19-claude-video-editing",
     "synced_at": "2026-04-19T22:35:41.920900+00:00"
+  },
+  "phase4:nh-2026-04-20-claude-session-limit": {
+    "hash": "58846bea95a52271d75da62371282d523bdc1c46441f6145d9d96ea39b8591d2",
+    "slug": "nh-2026-04-20-claude-session-limit",
+    "synced_at": "2026-04-20T22:42:47.643549+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "a80e67601d4d95ab70d5f2430da0c78024e833bc401be010287303bb0073a0a8",
