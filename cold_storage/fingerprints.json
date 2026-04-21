@@ -464,6 +464,16 @@
     "slug": "nh-2026-04-20-claude-session-limit",
     "synced_at": "2026-04-20T22:42:47.643549+00:00"
   },
+  "phase4:nh-2026-04-21-claude-3d-website-design": {
+    "hash": "b8486d9a7c1fe7b800418063d8ec425433a257f4be159479d3d1ae006466000d",
+    "slug": "nh-2026-04-21-claude-3d-website-design",
+    "synced_at": "2026-04-21T22:37:45.938624+00:00"
+  },
+  "phase4:nh-2026-04-21-claude-design-prompt-structure": {
+    "hash": "ff68d33f2afe1ac7086d06b2ecfb474b7b9ab19708f8553beb6abddb04c4aa7d",
+    "slug": "nh-2026-04-21-claude-design-prompt-structure",
+    "synced_at": "2026-04-21T22:37:45.939144+00:00"
+  },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "a80e67601d4d95ab70d5f2430da0c78024e833bc401be010287303bb0073a0a8",
     "slug": "st-2026-04-05-skill-creator-meta-agent",

@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**97 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**99 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -13,7 +13,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Status | Count |
 |---|---|
 | `done` | 44 |
-| `backlog` | 22 |
+| `backlog` | 24 |
 | `discarded` | 11 |
 | `adopted` | 10 |
 | `deferred` | 8 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Verdict | Count |
 |---|---|
 | `adopt` | 34 |
-| `(none)` | 24 |
+| `(none)` | 26 |
 | `discarded` | 11 |
 | `discard` | 10 |
 | `adopted` | 10 |
@@ -41,6 +41,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | @ShawTalebi | 3 |
 | @Fireship | 2 |
 | @Mark_Kashef | 2 |
+| @Nate Herk | 2 |
 | @[un]prompted | 1 |
 | @TwoMinutePapers | 1 |
 
@@ -52,6 +53,8 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-04-21 | [[experiments/nh-2026-04-21-claude-design-prompt-structure|Develop a reusable design-intent prompt template for Claude UI generation]] | @Nate Herk | `-` |
+| 2026-04-21 | [[experiments/nh-2026-04-21-claude-3d-website-design|Use Claude as a 3D UI code generator for rapid front-end prototyping]] | @Nate Herk | `-` |
 | 2026-04-20 | [[experiments/nh-2026-04-20-claude-session-limit|Implement context compression and session checkpointing to bypass Claude usage limits]] | @NateHerk | `-` |
 | 2026-04-20 | [[experiments/mlops-2026-04-20-tensorrt-llm-latency|Optimize LLM inference with TensorRT to cut response latency]] | @MLOps | `-` |
 | 2026-04-20 | [[experiments/mlops-2026-04-20-new-kind-of-marketplace|Expose YOLO loop capabilities as composable marketplace primitives]] | @MLOps | `-` |
