@@ -1,4 +1,9 @@
 {
+  "https://youtube.com/watch?v=kPC4YOkIxVo": {
+    "channel": "mlops-community",
+    "fetched_at": "2026-04-21T21:59:08.114218+00:00",
+    "video_id": "kPC4YOkIxVo"
+  },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "67475d1be31892da20e833f5fdba929cb783c510976540603f5ad5e472e27d54",
     "slug": "do-2026-03-27-private-local-agent",
