@@ -4,7 +4,7 @@
 
 Source: **[Claude Design Just Shook Up the Design Industry](https://www.youtube.com/watch?v=TJRsTwi1McI)** · Mark_Kashef · 2026-04-19
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Demonstrated Claude generating detailed, production-quality design artifacts fro
 
 Extends the YOLO loop into the design phase — Claude-generated specs can feed directly into the code generation step, eliminating a manual handoff between design and engineering.
 
+## Notes
+
+Overlaps with nh-2026-04-19-claude-design-unstoppable and nh-2026-04-21-claude-design-prompt-structure. Same "design brief via Claude" theme; defer all three pending a focused design-prompting session.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-19 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `deferred` | Overlaps with nh-2026-04-19-claude-design-unstoppable and nh-2026-04-21-claude-design-prompt-structure. Same "design brief via Claude" theme; defer all three pending a focused design-prompting session. |
 
 ---
 

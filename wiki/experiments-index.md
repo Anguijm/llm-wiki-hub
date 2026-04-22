@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**99 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**105 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -13,37 +13,38 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Status | Count |
 |---|---|
 | `done` | 44 |
-| `backlog` | 24 |
-| `discarded` | 11 |
-| `adopted` | 10 |
-| `deferred` | 8 |
+| `deferred` | 20 |
+| `adopted` | 17 |
+| `discarded` | 16 |
+| `backlog` | 6 |
 | `skipped` | 2 |
 
 ## By verdict
 
 | Verdict | Count |
 |---|---|
-| `adopt` | 34 |
-| `(none)` | 26 |
+| `adopt` | 41 |
+| `deferred` | 20 |
+| `discard` | 15 |
 | `discarded` | 11 |
-| `discard` | 10 |
 | `adopted` | 10 |
-| `deferred` | 8 |
+| `(none)` | 8 |
 
 ## By channel
 
 | Channel | Experiments |
 |---|---|
-| @NateBJones | 33 |
-| @MLOps | 23 |
-| @NateHerk | 22 |
+| @NateBJones | 35 |
+| @MLOps | 24 |
+| @NateHerk | 23 |
 | @DavidOndrej | 10 |
 | @ShawTalebi | 3 |
+| @Mark_Kashef | 3 |
 | @Fireship | 2 |
-| @Mark_Kashef | 2 |
 | @Nate Herk | 2 |
 | @[un]prompted | 1 |
 | @TwoMinutePapers | 1 |
+| @AIJasonZ | 1 |
 
 ---
 
@@ -53,30 +54,36 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
-| 2026-04-21 | [[experiments/nh-2026-04-21-claude-design-prompt-structure|Develop a reusable design-intent prompt template for Claude UI generation]] | @Nate Herk | `-` |
-| 2026-04-21 | [[experiments/nh-2026-04-21-claude-3d-website-design|Use Claude as a 3D UI code generator for rapid front-end prototyping]] | @Nate Herk | `-` |
-| 2026-04-20 | [[experiments/nh-2026-04-20-claude-session-limit|Implement context compression and session checkpointing to bypass Claude usage limits]] | @NateHerk | `-` |
-| 2026-04-20 | [[experiments/mlops-2026-04-20-tensorrt-llm-latency|Optimize LLM inference with TensorRT to cut response latency]] | @MLOps | `-` |
-| 2026-04-20 | [[experiments/mlops-2026-04-20-new-kind-of-marketplace|Expose YOLO loop capabilities as composable marketplace primitives]] | @MLOps | `-` |
-| 2026-04-20 | [[experiments/mlops-2026-04-20-modern-software-engineer|Restructure dev workflow around AI-assisted code generation with human review gates]] | @MLOps | `-` |
-| 2026-04-20 | [[experiments/do-2026-04-20-hermes-agent|Integrate Hermes agent framework as the orchestration layer inside the YOLO loop]] | @DavidOndrej | `-` |
-| 2026-04-19 | [[experiments/nh-2026-04-19-claude-video-editing|Use Claude to Generate Video Edit Instructions From Transcript]] | @NateHerk | `-` |
-| 2026-04-19 | [[experiments/nh-2026-04-19-claude-design-unstoppable|Use Claude to Iterate on UI/UX Designs From Text Prompts]] | @NateHerk | `-` |
-| 2026-04-19 | [[experiments/nh-2026-04-19-claude-24-7-trader|Build a Long-Running Claude Agent With Persistent Decision Loop]] | @NateHerk | `-` |
-| 2026-04-19 | [[experiments/nb-2026-04-19-karpathy-700-experiments|Run Overnight Autonomous Experiment Sweeps With an Agent]] | @NateBJones | `-` |
-| 2026-04-19 | [[experiments/nb-2026-04-19-ai-replaced-managers|Replace Coordination Layer With AI Orchestration]] | @NateBJones | `-` |
-| 2026-04-19 | [[experiments/mk-2026-04-19-claude-design-industry|Pipe Design Briefs Into Claude to Generate Production-Ready Component Specs]] | @Mark_Kashef | `-` |
-| 2026-04-17 | [[experiments/nb-2026-04-17-memory-control-layer|Build a User-Controlled Memory Layer Between LLM and Platform]] | @NateBJones | `-` |
-| 2026-04-16 | [[experiments/nh-2026-04-16-claude-heygen-content-pipeline|Pipe Claude Script Output Directly Into HeyGen Avatar API for Automated Video Generation]] | @NateHerk | `-` |
-| 2026-04-16 | [[experiments/nh-2026-04-16-claude-code-routines-scheduler|Implement Claude Code Routines for Scheduled Autonomous Dev Tasks]] | @NateHerk | `-` |
-| 2026-04-16 | [[experiments/nb-2026-04-16-fix-bottleneck-not-ai-speed|Map and Eliminate the Non-AI Bottleneck in Your Dev Loop]] | @NateBJones | `-` |
-| 2026-04-16 | [[experiments/nb-2026-04-16-agent-failure-mode-audit|Build a Failure-Mode Audit Layer Into Every Agent Pipeline]] | @NateBJones | `-` |
-| 2026-04-16 | [[experiments/mk-2026-04-16-replace-openclaw-hermes-claude-code|Consolidate Multi-Tool Agent Stacks Into a Single Claude Code Configuration]] | @Mark_Kashef | `-` |
-| 2026-04-16 | [[experiments/do-2026-04-16-claude-code-opus-47-agent|Run Claude Code with Opus 4.7 as Primary Coding Agent and Benchmark Against Sonnet]] | @DavidOndrej | `-` |
-| 2026-04-14 | [[experiments/nb-2026-04-14-track-model-drops-against-product-viability|Build a model-release impact tracker that flags capability obsolescence risks]] | @NateBJones | `-` |
-| 2026-04-13 | [[experiments/nh-2026-04-13-claude-code-vs-antigravity-benchmark|Run a structured 100-task head-to-head between Claude Code and a challenger tool]] | @NateHerk | `-` |
-| 2026-04-13 | [[experiments/nb-2026-04-13-amazon-ai-code-quality-audit|Audit AI-generated code for systemic failure patterns]] | @NateBJones | `-` |
-| 2026-04-13 | [[experiments/do-2026-04-13-claude-swift-rork-mobile|Use Rork as a Claude-powered mobile prototyping layer]] | @DavidOndrej | `-` |
+| 2026-04-22 | [[experiments/nh-2026-04-22-openai-image2-use-cases|Integrate OpenAI Image 2 as a UI Mockup Generator in the Dev Loop]] | @NateHerk | `-` |
+| 2026-04-22 | [[experiments/nb-2026-04-22-wiki-vs-openbrain-reliability|Stress-Test Knowledge Retrieval Under Load Conditions]] | @NateBJones | `-` |
+| 2026-04-22 | [[experiments/nb-2026-04-22-opus-47-prompt-behavior-shift|Audit Existing Prompts Against Opus 4.7 Behavioral Changes]] | @NateBJones | `-` |
+| 2026-04-22 | [[experiments/nb-2026-04-22-claude-code-memory-patterns|Implement Structured CLAUDE.md Memory Layering for the YOLO Loop]] | @Mark_Kashef | `-` |
+| 2026-04-22 | [[experiments/mlops-2026-04-22-evals-still-matter-2026|Implement a Minimal Persistent Eval Harness for the YOLO Loop]] | @MLOps | `-` |
+| 2026-04-22 | [[experiments/aij-2026-04-22-self-evolving-agent|Add a Self-Reflection Step That Rewrites the Agent's Own System Prompt]] | @AIJasonZ | `-` |
+| 2026-04-21 | [[experiments/nh-2026-04-21-claude-design-prompt-structure|Develop a reusable design-intent prompt template for Claude UI generation]] | @Nate Herk | `deferred` |
+| 2026-04-21 | [[experiments/nh-2026-04-21-claude-3d-website-design|Use Claude as a 3D UI code generator for rapid front-end prototyping]] | @Nate Herk | `discard` |
+| 2026-04-20 | [[experiments/nh-2026-04-20-claude-session-limit|Implement context compression and session checkpointing to bypass Claude usage limits]] | @NateHerk | `adopt` |
+| 2026-04-20 | [[experiments/mlops-2026-04-20-tensorrt-llm-latency|Optimize LLM inference with TensorRT to cut response latency]] | @MLOps | `deferred` |
+| 2026-04-20 | [[experiments/mlops-2026-04-20-new-kind-of-marketplace|Expose YOLO loop capabilities as composable marketplace primitives]] | @MLOps | `discard` |
+| 2026-04-20 | [[experiments/mlops-2026-04-20-modern-software-engineer|Restructure dev workflow around AI-assisted code generation with human review gates]] | @MLOps | `adopt` |
+| 2026-04-20 | [[experiments/do-2026-04-20-hermes-agent|Integrate Hermes agent framework as the orchestration layer inside the YOLO loop]] | @DavidOndrej | `deferred` |
+| 2026-04-19 | [[experiments/nh-2026-04-19-claude-video-editing|Use Claude to Generate Video Edit Instructions From Transcript]] | @NateHerk | `deferred` |
+| 2026-04-19 | [[experiments/nh-2026-04-19-claude-design-unstoppable|Use Claude to Iterate on UI/UX Designs From Text Prompts]] | @NateHerk | `deferred` |
+| 2026-04-19 | [[experiments/nh-2026-04-19-claude-24-7-trader|Build a Long-Running Claude Agent With Persistent Decision Loop]] | @NateHerk | `discard` |
+| 2026-04-19 | [[experiments/nb-2026-04-19-karpathy-700-experiments|Run Overnight Autonomous Experiment Sweeps With an Agent]] | @NateBJones | `adopt` |
+| 2026-04-19 | [[experiments/nb-2026-04-19-ai-replaced-managers|Replace Coordination Layer With AI Orchestration]] | @NateBJones | `discard` |
+| 2026-04-19 | [[experiments/mk-2026-04-19-claude-design-industry|Pipe Design Briefs Into Claude to Generate Production-Ready Component Specs]] | @Mark_Kashef | `deferred` |
+| 2026-04-17 | [[experiments/nb-2026-04-17-memory-control-layer|Build a User-Controlled Memory Layer Between LLM and Platform]] | @NateBJones | `deferred` |
+| 2026-04-16 | [[experiments/nh-2026-04-16-claude-heygen-content-pipeline|Pipe Claude Script Output Directly Into HeyGen Avatar API for Automated Video Generation]] | @NateHerk | `deferred` |
+| 2026-04-16 | [[experiments/nh-2026-04-16-claude-code-routines-scheduler|Implement Claude Code Routines for Scheduled Autonomous Dev Tasks]] | @NateHerk | `deferred` |
+| 2026-04-16 | [[experiments/nb-2026-04-16-fix-bottleneck-not-ai-speed|Map and Eliminate the Non-AI Bottleneck in Your Dev Loop]] | @NateBJones | `adopt` |
+| 2026-04-16 | [[experiments/nb-2026-04-16-agent-failure-mode-audit|Build a Failure-Mode Audit Layer Into Every Agent Pipeline]] | @NateBJones | `adopt` |
+| 2026-04-16 | [[experiments/mk-2026-04-16-replace-openclaw-hermes-claude-code|Consolidate Multi-Tool Agent Stacks Into a Single Claude Code Configuration]] | @Mark_Kashef | `discard` |
+| 2026-04-16 | [[experiments/do-2026-04-16-claude-code-opus-47-agent|Run Claude Code with Opus 4.7 as Primary Coding Agent and Benchmark Against Sonnet]] | @DavidOndrej | `adopt` |
+| 2026-04-14 | [[experiments/nb-2026-04-14-track-model-drops-against-product-viability|Build a model-release impact tracker that flags capability obsolescence risks]] | @NateBJones | `deferred` |
+| 2026-04-13 | [[experiments/nh-2026-04-13-claude-code-vs-antigravity-benchmark|Run a structured 100-task head-to-head between Claude Code and a challenger tool]] | @NateHerk | `deferred` |
+| 2026-04-13 | [[experiments/nb-2026-04-13-amazon-ai-code-quality-audit|Audit AI-generated code for systemic failure patterns]] | @NateBJones | `adopt` |
+| 2026-04-13 | [[experiments/do-2026-04-13-claude-swift-rork-mobile|Use Rork as a Claude-powered mobile prototyping layer]] | @DavidOndrej | `deferred` |
 | 2026-04-12 | [[experiments/st-2026-04-12-claude-video-editing|Build a Claude-Driven Video Edit Instruction Pipeline]] | @ShawTalebi | `discarded` |
 | 2026-04-12 | [[experiments/st-2026-04-12-claude-style-guide-prompt|Encode a YOLO Loop Style Guide as a Reusable Claude System Prompt]] | @ShawTalebi | `adopt` |
 | 2026-04-12 | [[experiments/nh-2026-04-12-claude-code-plugin-10x|Integrate the Featured Plugin into Claude Code Workflow]] | @NateHerk | `deferred` |

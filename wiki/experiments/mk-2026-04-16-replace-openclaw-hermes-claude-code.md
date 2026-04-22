@@ -4,7 +4,7 @@
 
 Source: **[I Replaced OpenClaw and Hermes With This Claude Code Setup](https://www.youtube.com/watch?v=rVzGu5OYYS0)** · Mark_Kashef · 2026-04-16
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker shows a before/after comparison of an agent stack that previously used O
 
 Directly relevant to our toolchain consolidation goals — if Claude Code can absorb orchestration and memory responsibilities, we can simplify the YOLO loop's dependency surface significantly.
 
+## Notes
+
+Overlaps with do-2026-04-20-hermes-agent and misframes our stack — we are already Claude Code + GitHub Actions + minimal tooling. No "multi-tool stack to consolidate."
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-16 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `discarded` | Overlaps with do-2026-04-20-hermes-agent and misframes our stack — we are already Claude Code + GitHub Actions + minimal tooling. No "multi-tool stack to consolidate." |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Claude Just Destroyed Every Video Editing Tool](https://www.youtube.com/watch?v=ZNbgOhxhzXg)** · NateHerk · 2026-04-19
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Demonstrated using Claude to analyze video content and generate editing instruct
 
 Maps to the output-generation step of the YOLO loop — if Claude can produce structured artifacts (edit lists, scripts) from raw inputs, it extends the loop into media production pipelines.
 
+## Notes
+
+Video editing outside current portfolio scope (same category as the HeyGen pipeline deferred earlier).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-19 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `deferred` | Video editing outside current portfolio scope (same category as the HeyGen pipeline deferred earlier). |
 
 ---
 

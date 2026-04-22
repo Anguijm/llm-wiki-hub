@@ -4,6 +4,11 @@
     "fetched_at": "2026-04-21T21:59:08.114218+00:00",
     "video_id": "kPC4YOkIxVo"
   },
+  "phase4:aij-2026-04-22-self-evolving-agent": {
+    "hash": "2949d28baf64b32b3bc632ab3dbb98d82b70a14ee1be2bb5c3cb32d8fba945c0",
+    "slug": "aij-2026-04-22-self-evolving-agent",
+    "synced_at": "2026-04-22T22:48:15.139537+00:00"
+  },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "67475d1be31892da20e833f5fdba929cb783c510976540603f5ad5e472e27d54",
     "slug": "do-2026-03-27-private-local-agent",
@@ -40,19 +45,19 @@
     "synced_at": "2026-04-14T15:01:17.417467+00:00"
   },
   "phase4:do-2026-04-13-claude-swift-rork-mobile": {
-    "hash": "9dbc20312bfa1034bb32c893bd144940e7d24eb187e8adb2da1205b839acaf27",
+    "hash": "9873a4e36f4b69bf3b93b52b68a6cd6e46e55c69d38607fe80a3038e9a5c3ab1",
     "slug": "do-2026-04-13-claude-swift-rork-mobile",
-    "synced_at": "2026-04-14T22:44:52.568790+00:00"
+    "synced_at": "2026-04-22T22:48:15.132875+00:00"
   },
   "phase4:do-2026-04-16-claude-code-opus-47-agent": {
-    "hash": "9c369e70bbf353febb42c2e2f4b2b1eee0fa2e326296ab6f491439d9dbe6d3c4",
+    "hash": "7c157e561f0f4ee9ffc5811dd1277e2e0ee030c9f8e73fc5ba9ff7a116e48dc3",
     "slug": "do-2026-04-16-claude-code-opus-47-agent",
-    "synced_at": "2026-04-16T22:40:00.992119+00:00"
+    "synced_at": "2026-04-22T22:48:15.134232+00:00"
   },
   "phase4:do-2026-04-20-hermes-agent": {
-    "hash": "f860ed71e3b5891bce8cc576173bf65feb7a979d66116ac21859a419ba4e7fb4",
+    "hash": "6b0de330b6cf1b1219c6890ba8623730127a11e3ab5e8873f65f66af147a734b",
     "slug": "do-2026-04-20-hermes-agent",
-    "synced_at": "2026-04-20T22:42:47.643245+00:00"
+    "synced_at": "2026-04-22T22:48:15.137790+00:00"
   },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "2da5ebc7be82326bbe4256f53149319c7d2b485cd32331e06319be689f70ff18",
@@ -65,14 +70,14 @@
     "synced_at": "2026-04-14T15:01:17.389739+00:00"
   },
   "phase4:mk-2026-04-16-replace-openclaw-hermes-claude-code": {
-    "hash": "ebad8898e743ee260d7829eceeff04063fad7b69a4136bdfb228033aed9746eb",
+    "hash": "e367dc6ad1891e0198145f64e1e347fc44e8462ab4ad922d3c06e4a2838f6292",
     "slug": "mk-2026-04-16-replace-openclaw-hermes-claude-code",
-    "synced_at": "2026-04-16T22:40:00.993100+00:00"
+    "synced_at": "2026-04-22T22:48:15.134994+00:00"
   },
   "phase4:mk-2026-04-19-claude-design-industry": {
-    "hash": "bb1ff82cb2bbf1ba2e78cc075f543dee488c8f142e7f1186b9847946c0b140ca",
+    "hash": "1353734605a1269aa8bca6d7d31cf04f89c5935f4de9437d2b4174eb3bc53e9b",
     "slug": "mk-2026-04-19-claude-design-industry",
-    "synced_at": "2026-04-19T22:35:41.921520+00:00"
+    "synced_at": "2026-04-22T22:48:15.136749+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "9164c51ea77888eeefc1ba09c4dc6d5d38bff3a9090c755306ef3a81f9d4203c",
@@ -175,19 +180,24 @@
     "synced_at": "2026-04-14T15:01:17.411857+00:00"
   },
   "phase4:mlops-2026-04-20-modern-software-engineer": {
-    "hash": "4fcb88a8e10f9771329e8061a05fd9e969c85d0e911427663cf6d25509b01771",
+    "hash": "2876cb9acd4bb4034b2029c3d852dfd6e892c2baa12b38d8dd5b0b4b6b32fc3c",
     "slug": "mlops-2026-04-20-modern-software-engineer",
-    "synced_at": "2026-04-20T22:42:47.642573+00:00"
+    "synced_at": "2026-04-22T22:48:15.137312+00:00"
   },
   "phase4:mlops-2026-04-20-new-kind-of-marketplace": {
-    "hash": "76068efdf2e90a3ccbbc06577b191e49d61f3d33714b30459d2f33e3f6db4af7",
+    "hash": "61e619272ad010c466ad555b8ea93647924455840e0244448b6fbc4d9a9645fa",
     "slug": "mlops-2026-04-20-new-kind-of-marketplace",
-    "synced_at": "2026-04-20T22:42:47.642909+00:00"
+    "synced_at": "2026-04-22T22:48:15.137555+00:00"
   },
   "phase4:mlops-2026-04-20-tensorrt-llm-latency": {
-    "hash": "7c961859e5a550ce5030acea7902510eb99bf253dda76a827ec92ea6d63191d8",
+    "hash": "0414e2077be438b88b58901adae7e37b7893208876da0b535ebcec0bd80807ed",
     "slug": "mlops-2026-04-20-tensorrt-llm-latency",
-    "synced_at": "2026-04-20T22:42:47.642218+00:00"
+    "synced_at": "2026-04-22T22:48:15.137050+00:00"
+  },
+  "phase4:mlops-2026-04-22-evals-still-matter-2026": {
+    "hash": "33acfe77599da4bb3ec0a288de672b8b6431605f6bdbe19786eee9dfc0da8535",
+    "slug": "mlops-2026-04-22-evals-still-matter-2026",
+    "synced_at": "2026-04-22T22:48:15.139157+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "11beb12ed7fc04c67df0832941fbec767ea14ab393610268e5d8507350568196",
@@ -320,39 +330,54 @@
     "synced_at": "2026-04-14T15:01:17.418071+00:00"
   },
   "phase4:nb-2026-04-13-amazon-ai-code-quality-audit": {
-    "hash": "bdadd94798c3293e90d3b87a0d0a5955cc64145aa6a017dd3cf83ac8ef263047",
+    "hash": "db0f031b8682c30929842948dd05c2a0950dfd9a5218ebce3a7cd27df583d2e9",
     "slug": "nb-2026-04-13-amazon-ai-code-quality-audit",
-    "synced_at": "2026-04-14T22:44:52.568226+00:00"
+    "synced_at": "2026-04-22T22:48:15.132536+00:00"
   },
   "phase4:nb-2026-04-14-track-model-drops-against-product-viability": {
-    "hash": "db3c8ee2636ca58f41c124eb73b18bc95c3850cbe2c4d583ffcd1c2c5918f334",
+    "hash": "be2826fc0b078a2a3113083420e631f1818d3ac971655a3e7f100391e8f409b4",
     "slug": "nb-2026-04-14-track-model-drops-against-product-viability",
-    "synced_at": "2026-04-14T22:44:52.569891+00:00"
+    "synced_at": "2026-04-22T22:48:15.133454+00:00"
   },
   "phase4:nb-2026-04-16-agent-failure-mode-audit": {
-    "hash": "1becb09c8d35be582a1f40b57cb02d82a03d995b776524e6078bf82936a96517",
+    "hash": "8974a38f9d0d7ef0cc11ceb14a4f6f621d918944a7c436f1763e4a9f6d5c14a0",
     "slug": "nb-2026-04-16-agent-failure-mode-audit",
-    "synced_at": "2026-04-16T22:40:00.991793+00:00"
+    "synced_at": "2026-04-22T22:48:15.133929+00:00"
   },
   "phase4:nb-2026-04-16-fix-bottleneck-not-ai-speed": {
-    "hash": "610c6008a0cbc43b22641dbf9bd605d0a5ca6c8faf38c25961f2dc1e02fdd909",
+    "hash": "6b552c3e16250f81cb56d6a7647c15e230298a16aca6d5b5bdc5d0902ecc357c",
     "slug": "nb-2026-04-16-fix-bottleneck-not-ai-speed",
-    "synced_at": "2026-04-16T22:40:00.991395+00:00"
+    "synced_at": "2026-04-22T22:48:15.133697+00:00"
   },
   "phase4:nb-2026-04-17-memory-control-layer": {
-    "hash": "af2544ef69210195cdbc823e7eed2585d7ed0b602d67bf54beef0d24541c0ef6",
+    "hash": "d1af0251870275a9cbe20d94aefd3d2687fd408dfc7f6f03bba37a358b54fcf0",
     "slug": "nb-2026-04-17-memory-control-layer",
-    "synced_at": "2026-04-17T22:39:01.242956+00:00"
+    "synced_at": "2026-04-22T22:48:15.135234+00:00"
   },
   "phase4:nb-2026-04-19-ai-replaced-managers": {
-    "hash": "9dfcf0b1b9e3663e574e1cd87779b50cc90ac1a988eeec3e4ca84457d86a9420",
+    "hash": "cd759678629c6863f2efad6eb6f70a893fe4b8e3a33d71cfa0f80f5b5af59cb9",
     "slug": "nb-2026-04-19-ai-replaced-managers",
-    "synced_at": "2026-04-19T22:35:41.920434+00:00"
+    "synced_at": "2026-04-22T22:48:15.135510+00:00"
   },
   "phase4:nb-2026-04-19-karpathy-700-experiments": {
-    "hash": "80a423f42c7c3c494dcc2341a14ae3bcafe857ce33524bf707c15fcda020722c",
+    "hash": "0a26eff2258de2377658ac7e83333dc78b3e22f7ee6a0ee73cfba088930ce5e7",
     "slug": "nb-2026-04-19-karpathy-700-experiments",
-    "synced_at": "2026-04-19T22:35:41.920685+00:00"
+    "synced_at": "2026-04-22T22:48:15.135753+00:00"
+  },
+  "phase4:nb-2026-04-22-claude-code-memory-patterns": {
+    "hash": "80d95d5b01dd1609fd9fdb4763eba556bc87706541a37d33d5e3bbb022f43eb4",
+    "slug": "nb-2026-04-22-claude-code-memory-patterns",
+    "synced_at": "2026-04-22T22:48:15.139723+00:00"
+  },
+  "phase4:nb-2026-04-22-opus-47-prompt-behavior-shift": {
+    "hash": "46a8f24f7ea204872169004d44ea8d8dc33512e3bac0a12cabed64afe1802fef",
+    "slug": "nb-2026-04-22-opus-47-prompt-behavior-shift",
+    "synced_at": "2026-04-22T22:48:15.138952+00:00"
+  },
+  "phase4:nb-2026-04-22-wiki-vs-openbrain-reliability": {
+    "hash": "66cb52c5dd3aafb5858083cd583179659d5e2e5f079bafa24738ce5d51ee845c",
+    "slug": "nb-2026-04-22-wiki-vs-openbrain-reliability",
+    "synced_at": "2026-04-22T22:48:15.138758+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "088def761b98644bce4999c2def3334a62dbd18f60ed9ccbf59a177f567d0ffa",
@@ -430,49 +455,54 @@
     "synced_at": "2026-04-14T15:01:17.418705+00:00"
   },
   "phase4:nh-2026-04-13-claude-code-vs-antigravity-benchmark": {
-    "hash": "06e8afb10c81bc7541c51a633e990e51773fb29cdb71b90edc2a33a6fde2de3a",
+    "hash": "e027c6307f902cdc9c0daab1613c4750a572073a6247633571069cc988fd23be",
     "slug": "nh-2026-04-13-claude-code-vs-antigravity-benchmark",
-    "synced_at": "2026-04-14T22:44:52.569330+00:00"
+    "synced_at": "2026-04-22T22:48:15.133175+00:00"
   },
   "phase4:nh-2026-04-16-claude-code-routines-scheduler": {
-    "hash": "2b36c8c960847528a20dec9a844d0e30b405513ed026f204fee7460983a41527",
+    "hash": "d7e775c7ed4922df0ec99dde53fb128ec4066e945cf31ed5f8ebe4eb059f4697",
     "slug": "nh-2026-04-16-claude-code-routines-scheduler",
-    "synced_at": "2026-04-16T22:40:00.992458+00:00"
+    "synced_at": "2026-04-22T22:48:15.134477+00:00"
   },
   "phase4:nh-2026-04-16-claude-heygen-content-pipeline": {
-    "hash": "f3c60b173821403dacd69c534bf1bbbde2a50e2dc1bb0b156a6844b80d531c47",
+    "hash": "113002e31675332007611eb43bcd0008172cfccf522744697fc568fac38305d2",
     "slug": "nh-2026-04-16-claude-heygen-content-pipeline",
-    "synced_at": "2026-04-16T22:40:00.992786+00:00"
+    "synced_at": "2026-04-22T22:48:15.134737+00:00"
   },
   "phase4:nh-2026-04-19-claude-24-7-trader": {
-    "hash": "84b5bf7bd6c7351d2db0c4b57b3d6eaa5afde6a7ac9486705e52a9f36b6551e9",
+    "hash": "25eac3db146a9cd6f5080d787a454f36a095f4cda195c0b1dd052f8b87d3fb23",
     "slug": "nh-2026-04-19-claude-24-7-trader",
-    "synced_at": "2026-04-19T22:35:41.921307+00:00"
+    "synced_at": "2026-04-22T22:48:15.136487+00:00"
   },
   "phase4:nh-2026-04-19-claude-design-unstoppable": {
-    "hash": "2a66e76669d8abf0519f558eb58665d4b90a6c89643e75b0a0873a695f9e689d",
+    "hash": "dd14127eb3f676600926f38a05e992de45b6b5f34c4b20dd9cd2767b903665be",
     "slug": "nh-2026-04-19-claude-design-unstoppable",
-    "synced_at": "2026-04-19T22:35:41.921104+00:00"
+    "synced_at": "2026-04-22T22:48:15.136251+00:00"
   },
   "phase4:nh-2026-04-19-claude-video-editing": {
-    "hash": "b9e09b0a41c1c5a1849c2c4eabb1535b8e106b69ac49dc75d05145285e1d53d0",
+    "hash": "8c6bc778c4aa180d5ce41e364819e220a9d967e6906a8827f87ce2bceb8b10a2",
     "slug": "nh-2026-04-19-claude-video-editing",
-    "synced_at": "2026-04-19T22:35:41.920900+00:00"
+    "synced_at": "2026-04-22T22:48:15.135994+00:00"
   },
   "phase4:nh-2026-04-20-claude-session-limit": {
-    "hash": "58846bea95a52271d75da62371282d523bdc1c46441f6145d9d96ea39b8591d2",
+    "hash": "a7a8d017365ca147cf99897b84e4159f51d0a887966536f892d2e704421dc02f",
     "slug": "nh-2026-04-20-claude-session-limit",
-    "synced_at": "2026-04-20T22:42:47.643549+00:00"
+    "synced_at": "2026-04-22T22:48:15.138046+00:00"
   },
   "phase4:nh-2026-04-21-claude-3d-website-design": {
-    "hash": "b8486d9a7c1fe7b800418063d8ec425433a257f4be159479d3d1ae006466000d",
+    "hash": "4bc47a57635875289d6b1735d1f0a6da1536fd2011f2e2510c9125b8cafaf1a9",
     "slug": "nh-2026-04-21-claude-3d-website-design",
-    "synced_at": "2026-04-21T22:37:45.938624+00:00"
+    "synced_at": "2026-04-22T22:48:15.138309+00:00"
   },
   "phase4:nh-2026-04-21-claude-design-prompt-structure": {
-    "hash": "ff68d33f2afe1ac7086d06b2ecfb474b7b9ab19708f8553beb6abddb04c4aa7d",
+    "hash": "8bce4860dc98f7357b510655d2c99db1da84e17b834afc71f2af4bc0f81f1fd6",
     "slug": "nh-2026-04-21-claude-design-prompt-structure",
-    "synced_at": "2026-04-21T22:37:45.939144+00:00"
+    "synced_at": "2026-04-22T22:48:15.138550+00:00"
+  },
+  "phase4:nh-2026-04-22-openai-image2-use-cases": {
+    "hash": "c7e0717cca47f71f1b701585051bc1f4a3bacec1a3695e49151f8b12fa07dcc6",
+    "slug": "nh-2026-04-22-openai-image2-use-cases",
+    "synced_at": "2026-04-22T22:48:15.139346+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "a80e67601d4d95ab70d5f2430da0c78024e833bc401be010287303bb0073a0a8",

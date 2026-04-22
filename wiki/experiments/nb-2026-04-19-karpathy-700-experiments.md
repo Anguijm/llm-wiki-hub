@@ -4,7 +4,7 @@
 
 Source: **[Karpathy's Agent Ran 700 Experiments While He Slept. It's Coming For You.](https://www.youtube.com/watch?v=xnG8h3UnNFI)** · NateBJones · 2026-04-19
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Described Andrej Karpathy's setup where an AI agent autonomously executed ~700 M
 
 Core to the YOLO loop philosophy — automates the run/observe/iterate cycle so the human only reviews a summarized report rather than babysitting each loop tick.
 
+## Notes
+
+See tick_queue_approved entry 'infra-sweep-mode' in session_state.json.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-19 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `adopted` | Promoted to tick queue as infra-sweep-mode. |
 
 ---
 

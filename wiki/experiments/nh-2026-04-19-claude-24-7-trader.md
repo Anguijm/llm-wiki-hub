@@ -4,7 +4,7 @@
 
 Source: **[I Turned Claude Opus 4.7 Into a 24/7 Trader](https://www.youtube.com/watch?v=6MC1XqZSltw)** · NateHerk · 2026-04-19
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Built an autonomous trading agent using Claude Opus 4.7 that continuously monito
 
 This is a direct instantiation of the YOLO loop architecture — a persistent observe/decide/act cycle. The pattern (polling + Claude decision + action execution) is reusable for any autonomous agent task beyond trading.
 
+## Notes
+
+Financial trading is outside YOLO portfolio scope (dev tools, utilities, and agent infrastructure — not financial systems). Long-running persistent decision loops are independently interesting but the domain mismatch means any lessons would not transfer back to the YOLO loop.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-19 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `discarded` | Financial trading is outside YOLO portfolio scope (dev tools, utilities, and agent infrastructure — not financial systems). Long-running persistent decision loops are independently interesting but the domain mismatch means any lessons would not transfer back to the YOLO loop. |
 
 ---
 

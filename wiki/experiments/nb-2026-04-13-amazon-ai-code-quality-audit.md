@@ -4,7 +4,7 @@
 
 Source: **[I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything.](https://www.youtube.com/watch?v=E1idsrv79tI)** · NateBJones · 2026-04-13
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker analyzed Amazon's post-layoff codebase and engineering output, arguing t
 
 Directly relevant to the review and validation gate in the YOLO loop. If AI is generating code autonomously, we need a recurring audit step that checks for the failure modes Nate identifies — not just unit test pass rates but structural and integration health.
 
+## Notes
+
+See tick_queue_approved entry 'infra-ai-code-audit-lenses' in session_state.json.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-13 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `adopted` | Promoted to tick queue as infra-ai-code-audit-lenses. |
 
 ---
 

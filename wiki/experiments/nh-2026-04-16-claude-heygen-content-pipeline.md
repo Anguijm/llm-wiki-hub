@@ -4,7 +4,7 @@
 
 Source: **[Claude + HeyGen Just Changed Content Creation Forever](https://www.youtube.com/watch?v=EbJu9T30nfI)** · NateHerk · 2026-04-16
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker demos an end-to-end workflow: Claude generates a structured script with 
 
 Applicable to documentation and demo generation stages of the YOLO loop — could automate creation of walkthrough videos for new features without manual recording sessions.
 
+## Notes
+
+Requires HeyGen API key + video generation trust model we have not established. The Claude-to-video-script half of this is interesting but the HeyGen integration half is outside current scope. Revisit if we add video tooling to the portfolio, or rescope to just the script-generation half as a standalone tick.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-16 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `deferred` | Requires HeyGen API key + video generation trust model we have not established. The Claude-to-video-script half of this is interesting but the HeyGen integration half is outside current scope. Revisit if we add video tooling to the portfolio, or rescope to just the script-generation half as a standalone tick. |
 
 ---
 

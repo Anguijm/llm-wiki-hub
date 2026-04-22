@@ -4,7 +4,7 @@
 
 Source: **[Claude + Swift + Rork = insane mobile apps](https://www.youtube.com/watch?v=rQY-yB-Gob4)** · DavidOndrej · 2026-04-13
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker demonstrated building functional iOS apps by combining Claude (for logic
 
 Maps to the scaffolding and rapid-prototype phase of the YOLO loop. If we ever need a mobile surface or want to test AI-assisted native app generation, this stack is a low-friction entry point. Also useful as a reference architecture for how a domain-specific IDE (Rork) can wrap a general model (Claude) effectively.
 
+## Notes
+
+Mobile not in current portfolio scope; Rork is external service. Revisit if mobile enters scope.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-13 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `deferred` | Mobile not in current portfolio scope; Rork is external service. Revisit if mobile enters scope. |
 
 ---
 

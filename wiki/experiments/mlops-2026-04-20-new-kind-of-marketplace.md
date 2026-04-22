@@ -4,7 +4,7 @@
 
 Source: **[A New Kind of Marketplace](https://www.youtube.com/watch?v=q9e2e5Y8Q0k)** · MLOps · 2026-04-20
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ The speaker described an emerging model where AI capabilities are offered as fin
 
 Suggests decomposing the YOLO loop into independently addressable steps that could be registered, versioned, and called by external orchestration layers — useful if the loop needs to integrate with third-party agent frameworks or be shared across projects.
 
+## Notes
+
+"YOLO loop as composable marketplace primitives" — too abstract for tick-sized work, same category as the ai-replaced-managers discarded yesterday. No concrete deliverable path.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-20 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `discarded` | "YOLO loop as composable marketplace primitives" — too abstract for tick-sized work, same category as the ai-replaced-managers discarded yesterday. No concrete deliverable path. |
 
 ---
 

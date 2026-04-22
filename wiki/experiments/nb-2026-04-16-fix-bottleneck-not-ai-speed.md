@@ -4,7 +4,7 @@
 
 Source: **[Your AI Is 50x Faster. You're Getting 2x. You're Fixing the Wrong Thing.](https://www.youtube.com/watch?v=XlfumXPPrLY)** · NateBJones · 2026-04-16
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker argues that AI coding speed improvements are being absorbed by surroundi
 
 Directly applicable: we should instrument the YOLO loop stages (prompt → generation → review → merge → deploy) to find where wall-clock time is actually spent before tuning model parameters.
 
+## Notes
+
+See tick_queue_approved entry 'infra-loop-timing' in session_state.json.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-16 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `adopted` | Promoted to tick queue as infra-loop-timing. |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Dorsey Says AI Replaced 4,000 Managers.](https://www.youtube.com/watch?v=fm6mYqFAM5c)** · NateBJones · 2026-04-19
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Discussed Jack Dorsey's claim that AI replaced 4,000 managers at Block by handli
 
 Directly maps to the orchestration layer of the YOLO loop — if human review gates between agent steps can be replaced by an AI coordinator, loop throughput increases significantly.
 
+## Notes
+
+Too abstract for tick-sized work. "Replace coordination layer with AI orchestration" has no concrete deliverable path for a solo builder — no API surface, no tool to build, no benchmark to run. High-effort talking-point video without actionable specifics.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-19 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `discarded` | Too abstract for tick-sized work. "Replace coordination layer with AI orchestration" has no concrete deliverable path for a solo builder — no API surface, no tool to build, no benchmark to run. High-effort talking-point video without actionable specifics. |
 
 ---
 

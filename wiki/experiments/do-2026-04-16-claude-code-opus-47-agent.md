@@ -4,7 +4,7 @@
 
 Source: **[Claude Code + Opus 4.7 = Ultimate Coding Agent](https://www.youtube.com/watch?v=Tv3lIkbdAGc)** · DavidOndrej · 2026-04-16
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker configures Claude Code CLI to target Opus 4.7, walks through a multi-fil
 
 Direct swap-in experiment for the YOLO loop's model selection layer — we can A/B test Opus 4.7 vs Sonnet 3.7 on our standard task suite to measure quality vs cost tradeoff.
 
+## Notes
+
+See tick_queue_approved entry "eval-opus-47-backbone" in session_state.json.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-16 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `adopted` | Promoted to tick queue as eval-opus-47-backbone. Adapted from Claude-Code-CLI framing to council.py CLAUDE_MODEL swap since the YOLO loop uses council.py not Claude Code CLI for gate evaluation. |
 
 ---
 

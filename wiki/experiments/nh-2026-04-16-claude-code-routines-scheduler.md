@@ -4,7 +4,7 @@
 
 Source: **[Claude Code Just Dropped Routines. 24/7 Agents.](https://www.youtube.com/watch?v=ehg4fhydTgs)** · NateHerk · 2026-04-16
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker demonstrates the newly released Claude Code Routines feature, which allo
 
 High relevance — Routines could automate the maintenance and monitoring phases of the YOLO loop, freeing human attention for creative/architectural decisions while keeping the repo healthy around the clock.
 
+## Notes
+
+Duplicates what GitHub Actions already gives us for scheduling. Low differentiation.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-16 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `deferred` | Duplicates what GitHub Actions already gives us for scheduling. Low differentiation. |
 
 ---
 

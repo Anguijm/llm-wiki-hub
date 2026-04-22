@@ -4,7 +4,7 @@
 
 Source: **[Claude Design Just Became Unstoppable](https://www.youtube.com/watch?v=gAoZ95kqG7w)** · NateHerk · 2026-04-19
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Showcased Claude generating and iterating on UI/UX designs directly from prompts
 
 Relevant to the YOLO loop's front-end scaffolding step — Claude-generated UI specs or component code could feed directly into the build step without a human design handoff.
 
+## Notes
+
+Generic "Claude iterates UI" prompting — vague deliverable. Useful as a prompt pattern but not tick-sized work.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-19 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `deferred` | Generic "Claude iterates UI" prompting — vague deliverable. Useful as a prompt pattern but not tick-sized work. |
 
 ---
 

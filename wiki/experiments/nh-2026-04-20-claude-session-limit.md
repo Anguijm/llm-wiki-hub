@@ -4,7 +4,7 @@
 
 Source: **[How to Never Hit Your Claude Session Limit Again](https://www.youtube.com/watch?v=_qZvORxGqI0)** · NateHerk · 2026-04-20
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ The speaker demonstrated techniques for avoiding Claude's context window and ses
 
 Critical for long-running YOLO loop sessions. Adding automatic context compression at a token threshold and serializing loop state to a checkpoint file would allow loops that span hours or days without manual intervention when a session limit is hit.
 
+## Notes
+
+See tick_queue_approved entry 'adopt-session-checkpointing' in session_state.json.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-20 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `adopted` | Promoted to tick queue as adopt-session-checkpointing. |
 
 ---
 

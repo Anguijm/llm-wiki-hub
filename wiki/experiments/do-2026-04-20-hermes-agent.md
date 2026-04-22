@@ -4,7 +4,7 @@
 
 Source: **[Hermes Agent is insane… 100,000+ github stars](https://www.youtube.com/watch?v=4Sln_6K2z8c)** · DavidOndrej · 2026-04-20
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ The speaker demoed the Hermes open-source agent framework, showing its tool-use 
 
 Hermes could replace custom agent scaffolding in the YOLO loop, providing standardized tool definitions, retry logic, and planning steps — reducing the surface area of custom code that needs to be maintained.
 
+## Notes
+
+Replacing our existing orchestration architecture is high-risk low-value now. Revisit if the current stack hits limits.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-20 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `deferred` | Replacing our existing orchestration architecture is high-risk low-value now. Revisit if the current stack hits limits. |
 
 ---
 

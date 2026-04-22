@@ -4,7 +4,7 @@
 
 Source: **[The Modern Software Engineer](https://www.youtube.com/watch?v=jOe4fJSc2IE)** · MLOps · 2026-04-20
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ The speaker outlined a framework for how software engineers should reposition th
 
 Maps directly to how the YOLO loop assigns tasks between the AI agent and the human operator. Formalizing the human review gate positions and the AI generation positions would reduce loop failures caused by unchecked agent output.
 
+## Notes
+
+See tick_queue_approved entry 'adopt-ai-human-gate-spec' in session_state.json.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-20 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `adopted` | Promoted to tick queue as adopt-ai-human-gate-spec. |
 
 ---
 

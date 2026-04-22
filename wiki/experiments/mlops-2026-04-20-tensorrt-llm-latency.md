@@ -4,7 +4,7 @@
 
 Source: **[How We Cut LLM Latency 70% With TensorRT in Production](https://www.youtube.com/watch?v=wTrv1hMQbVg)** · MLOps · 2026-04-20
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ The speaker walked through their production deployment switch from a standard LL
 
 Directly impacts the speed of any LLM-backed step in the YOLO loop. Faster inference means tighter iteration cycles and lower cost per loop execution, especially for code generation and review steps that call an LLM repeatedly.
 
+## Notes
+
+Hardware-blocked. TensorRT-LLM requires dedicated GPU infrastructure we do not have. Revisit if we ever land GPU hosting or integrate with a managed inference service that supports TensorRT optimization. Video idea was legitimate but our infrastructure constraints make it undeliverable as a tick right now.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-20 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `deferred` | Hardware-blocked. TensorRT-LLM requires dedicated GPU infrastructure we do not have. Revisit if we ever land GPU hosting or integrate with a managed inference service that supports TensorRT optimization. Video idea was legitimate but our infrastructure constraints make it undeliverable as a tick right now. |
 
 ---
 

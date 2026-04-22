@@ -4,7 +4,7 @@
 
 Source: **[100 Hours Testing Claude Code vs Antigravity (honest results)](https://www.youtube.com/watch?v=99VHENEKA9o)** · NateHerk · 2026-04-13
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker spent 100 hours running Claude Code and Antigravity against comparable c
 
 Directly relevant to tool selection at the core of the YOLO loop. Nate's methodology — same tasks, honest failure logging, time-boxed — is a replicable evaluation framework we could apply whenever a new agentic coding tool emerges. The specific Claude Code findings also inform how much autonomous trust to extend in our current loop.
 
+## Notes
+
+100-task head-to-head too big for a tick. eval-opus-47-backbone (already queued) partially covers the model-comparison angle — defer until that ships and we see the methodology work.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-13 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `deferred` | 100-task head-to-head too big for a tick. eval-opus-47-backbone (already queued) partially covers the model-comparison angle — defer until that ships and we see the methodology work. |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Claude Design Builds Beautiful 3D Websites Instantly (full course)](https://www.youtube.com/watch?v=TcFeSjwTo7g)** · Nate Herk · 2026-04-21
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ The speaker walked through a full workflow using Claude to generate visually ric
 
 Directly applicable to the UI/front-end generation step of the YOLO loop — instead of scaffolding dashboards or demo interfaces by hand, we can use Claude with design-focused prompts to produce polished 3D UI shells that wrap our AI outputs, reducing iteration time on presentation layers.
 
+## Notes
+
+Per feedback_utility_focus: UTILITY is king — no visual toys, build things people bookmark. 3D UI code generation is a visual-novelty rabbit hole that produces impressive demos but not utility tools. Portfolio bias is against this category.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-21 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `discarded` | Per feedback_utility_focus: UTILITY is king — no visual toys, build things people bookmark. 3D UI code generation is a visual-novelty rabbit hole that produces impressive demos but not utility tools. Portfolio bias is against this category. |
 
 ---
 

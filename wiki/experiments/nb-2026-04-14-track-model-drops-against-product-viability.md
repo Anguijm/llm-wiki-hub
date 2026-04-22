@@ -4,7 +4,7 @@
 
 Source: **[3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](https://www.youtube.com/watch?v=0vdlwOK_Qdk)** · NateBJones · 2026-04-14
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker analyzed three concurrent frontier model drops alongside $15M/day comput
 
 In the YOLO loop, we build fast on top of current model capabilities. This experiment adds a lightweight monitoring step: after each loop iteration, run a diff between our product's core capability claims and the latest frontier model benchmarks to catch cases where a new model drop makes our differentiator redundant before we invest further.
 
+## Notes
+
+Model-release impact tracker needs a long-running service. Could reframe as a one-shot quarterly audit later, but not tick-sized today.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-14 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `deferred` | Model-release impact tracker needs a long-running service. Could reframe as a one-shot quarterly audit later, but not tick-sized today. |
 
 ---
 

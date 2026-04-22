@@ -4,7 +4,7 @@
 
 Source: **[Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.](https://www.youtube.com/watch?v=4KAF72BTyCE)** · NateBJones · 2026-04-17
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -22,13 +22,14 @@ Our YOLO loop currently passes context directly to the LLM API with no intermedi
 
 ## Notes
 
-Video is primarily commentary but contains an implicit actionable: own your memory layer. Worth pairing with MemGPT or Zep-style local memory architecture research before implementing.
+Overlaps with build_memory.py + infra-memory-feedback in progress. Revisit as a follow-on tick after memory-feedback ships.
 
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-17 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `deferred` | Overlaps with build_memory.py + infra-memory-feedback in progress. Revisit as a follow-on tick after memory-feedback ships. |
 
 ---
 

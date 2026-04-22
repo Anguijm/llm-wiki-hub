@@ -4,7 +4,7 @@
 
 Source: **[Claude Design Builds Beautiful 3D Websites Instantly (full course)](https://www.youtube.com/watch?v=TcFeSjwTo7g)** · Nate Herk · 2026-04-21
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ As part of the full course, the speaker demonstrated iterative prompt refinement
 
 Maps to the prompt engineering and tooling layer of the YOLO loop — building a shared design prompt template we can drop into any experiment that needs a front-end, reducing setup friction and ensuring visual consistency across demos and prototypes.
 
+## Notes
+
+Reusable design prompt template could land as a learnings.md entry later. Not a distinct tick deliverable.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-21 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `deferred` | Reusable design prompt template could land as a learnings.md entry later. Not a distinct tick deliverable. |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[The Real Problem With AI Agents Nobody's Talking About](https://www.youtube.com/watch?v=2PWJu6uAaoU)** · NateBJones · 2026-04-16
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker identifies that the underreported core problem with AI agents is not cap
 
 Maps to the YOLO loop's agent orchestration layer — we can wrap tool calls with structured failure logging to catch silent errors before they cascade through multi-step tasks.
 
+## Notes
+
+See tick_queue_approved entry 'infra-failure-mode-audit' in session_state.json.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-16 | `backlog` | Extracted from YouTube RSS |
+| 2026-04-22 | `adopted` | Promoted to tick queue as infra-failure-mode-audit. |
 
 ---
 
