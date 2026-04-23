@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**105 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**111 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -16,7 +16,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | `deferred` | 20 |
 | `adopted` | 17 |
 | `discarded` | 16 |
-| `backlog` | 6 |
+| `backlog` | 12 |
 | `skipped` | 2 |
 
 ## By verdict
@@ -26,23 +26,23 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | `adopt` | 41 |
 | `deferred` | 20 |
 | `discard` | 15 |
+| `(none)` | 14 |
 | `discarded` | 11 |
 | `adopted` | 10 |
-| `(none)` | 8 |
 
 ## By channel
 
 | Channel | Experiments |
 |---|---|
-| @NateBJones | 35 |
+| @NateBJones | 36 |
+| @NateHerk | 25 |
 | @MLOps | 24 |
-| @NateHerk | 23 |
 | @DavidOndrej | 10 |
+| @[un]prompted | 4 |
 | @ShawTalebi | 3 |
 | @Mark_Kashef | 3 |
 | @Fireship | 2 |
 | @Nate Herk | 2 |
-| @[un]prompted | 1 |
 | @TwoMinutePapers | 1 |
 | @AIJasonZ | 1 |
 
@@ -54,6 +54,12 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-04-23 | [[experiments/up-2026-04-23-llm-safety-mechanisms|Audit YOLO loop outputs for safety mechanism degradation after fine-tuning or prompt chaining]] | @[un]prompted | `-` |
+| 2026-04-23 | [[experiments/up-2026-04-23-confidential-ai-tee|Evaluate Trusted Execution Environment (TEE) deployment for YOLO loop inference on sensitive data]] | @[un]prompted | `-` |
+| 2026-04-23 | [[experiments/up-2026-04-23-beyond-chatbot-agents|Architect a persistent-state agent layer above the YOLO loop's stateless inference calls]] | @[un]prompted | `-` |
+| 2026-04-23 | [[experiments/nh-2026-04-23-gpt55-vs-opus47|Benchmark GPT-5.5 vs Claude Opus 4.7 on YOLO loop coding tasks]] | @NateHerk | `-` |
+| 2026-04-23 | [[experiments/nh-2026-04-23-claude-video-editing|Use Claude as an agentic video editing orchestrator via tool calls]] | @NateHerk | `-` |
+| 2026-04-23 | [[experiments/nb-2026-04-23-codex-no-api|Replace REST API layer with Codex-driven direct task execution]] | @NateBJones | `-` |
 | 2026-04-22 | [[experiments/nh-2026-04-22-openai-image2-use-cases|Integrate OpenAI Image 2 as a UI Mockup Generator in the Dev Loop]] | @NateHerk | `-` |
 | 2026-04-22 | [[experiments/nb-2026-04-22-wiki-vs-openbrain-reliability|Stress-Test Knowledge Retrieval Under Load Conditions]] | @NateBJones | `-` |
 | 2026-04-22 | [[experiments/nb-2026-04-22-opus-47-prompt-behavior-shift|Audit Existing Prompts Against Opus 4.7 Behavioral Changes]] | @NateBJones | `-` |

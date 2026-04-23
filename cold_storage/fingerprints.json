@@ -379,6 +379,11 @@
     "slug": "nb-2026-04-22-wiki-vs-openbrain-reliability",
     "synced_at": "2026-04-22T22:48:15.138758+00:00"
   },
+  "phase4:nb-2026-04-23-codex-no-api": {
+    "hash": "3b2f45618bac80575e81f78651a4be233aec74c4d05cc3d9bf71c2e8b5b33c76",
+    "slug": "nb-2026-04-23-codex-no-api",
+    "synced_at": "2026-04-23T22:43:26.328006+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "088def761b98644bce4999c2def3334a62dbd18f60ed9ccbf59a177f567d0ffa",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -504,6 +509,16 @@
     "slug": "nh-2026-04-22-openai-image2-use-cases",
     "synced_at": "2026-04-22T22:48:15.139346+00:00"
   },
+  "phase4:nh-2026-04-23-claude-video-editing": {
+    "hash": "3a83df24c155428a1507bbf5e3344e14ef4eb24adda1fbabb0588497fbad0a45",
+    "slug": "nh-2026-04-23-claude-video-editing",
+    "synced_at": "2026-04-23T22:43:26.328606+00:00"
+  },
+  "phase4:nh-2026-04-23-gpt55-vs-opus47": {
+    "hash": "fecb92f8586b5f7c008836ea200edf55eae5c80295ace96fb8dea6bffa771e7e",
+    "slug": "nh-2026-04-23-gpt55-vs-opus47",
+    "synced_at": "2026-04-23T22:43:26.328325+00:00"
+  },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "a80e67601d4d95ab70d5f2430da0c78024e833bc401be010287303bb0073a0a8",
     "slug": "st-2026-04-05-skill-creator-meta-agent",
@@ -528,5 +543,20 @@
     "hash": "a94b320ce40dc114871830fb1c60ff3f64478e9b03a86c51820fc566b8ffaeac",
     "slug": "up-2026-03-31-personal-ai-infrastructure",
     "synced_at": "2026-04-14T15:01:17.377765+00:00"
+  },
+  "phase4:up-2026-04-23-beyond-chatbot-agents": {
+    "hash": "bf825d717a94e41c88fc04a5f7a276f04ec0650b567320855d05d09d4020bffa",
+    "slug": "up-2026-04-23-beyond-chatbot-agents",
+    "synced_at": "2026-04-23T22:43:26.329175+00:00"
+  },
+  "phase4:up-2026-04-23-confidential-ai-tee": {
+    "hash": "99a71700c2d7ac8c9fb6841aeeeab3603f7a87260a8548f634707fac13274109",
+    "slug": "up-2026-04-23-confidential-ai-tee",
+    "synced_at": "2026-04-23T22:43:26.329446+00:00"
+  },
+  "phase4:up-2026-04-23-llm-safety-mechanisms": {
+    "hash": "bed2b1fe4d3bd59e74116f2d2f6318e8bc053d54277baaa57c67df457397fb76",
+    "slug": "up-2026-04-23-llm-safety-mechanisms",
+    "synced_at": "2026-04-23T22:43:26.328872+00:00"
   }
 }
