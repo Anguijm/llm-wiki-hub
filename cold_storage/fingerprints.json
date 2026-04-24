@@ -59,6 +59,16 @@
     "slug": "do-2026-04-20-hermes-agent",
     "synced_at": "2026-04-22T22:48:15.137790+00:00"
   },
+  "phase4:do-2026-04-24-deepseek-v4-benchmark": {
+    "hash": "149398d2e2453135d75e998434fa2d4cf23451ec3170b529e68797a005e5f65b",
+    "slug": "do-2026-04-24-deepseek-v4-benchmark",
+    "synced_at": "2026-04-24T22:38:57.751906+00:00"
+  },
+  "phase4:do-2026-04-24-gpt-images-native-gen": {
+    "hash": "73f3b6651fa0535123ffe86ca88a7f2f92b55658cc6c71fa6e63157eaf2c16dc",
+    "slug": "do-2026-04-24-gpt-images-native-gen",
+    "synced_at": "2026-04-24T22:38:57.752301+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "2da5ebc7be82326bbe4256f53149319c7d2b485cd32331e06319be689f70ff18",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -198,6 +208,11 @@
     "hash": "33acfe77599da4bb3ec0a288de672b8b6431605f6bdbe19786eee9dfc0da8535",
     "slug": "mlops-2026-04-22-evals-still-matter-2026",
     "synced_at": "2026-04-22T22:48:15.139157+00:00"
+  },
+  "phase4:mlops-2026-04-24-openxdata-conference": {
+    "hash": "6449144046d084fc8cf812d0509f0f29e3f1d5115b2e1cffce7581708090f82a",
+    "slug": "mlops-2026-04-24-openxdata-conference",
+    "synced_at": "2026-04-24T22:38:57.751582+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "11beb12ed7fc04c67df0832941fbec767ea14ab393610268e5d8507350568196",
@@ -383,6 +398,11 @@
     "hash": "3b2f45618bac80575e81f78651a4be233aec74c4d05cc3d9bf71c2e8b5b33c76",
     "slug": "nb-2026-04-23-codex-no-api",
     "synced_at": "2026-04-23T22:43:26.328006+00:00"
+  },
+  "phase4:nb-2026-04-24-claude-design-sprint": {
+    "hash": "43b6b71ccc29ba29f4611418538f47e70e8d8db00bbb8566ccf040a859899ae9",
+    "slug": "nb-2026-04-24-claude-design-sprint",
+    "synced_at": "2026-04-24T22:38:57.751198+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "088def761b98644bce4999c2def3334a62dbd18f60ed9ccbf59a177f567d0ffa",

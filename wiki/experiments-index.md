@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**111 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**115 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -16,7 +16,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | `deferred` | 20 |
 | `adopted` | 17 |
 | `discarded` | 16 |
-| `backlog` | 12 |
+| `backlog` | 16 |
 | `skipped` | 2 |
 
 ## By verdict
@@ -25,8 +25,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 |---|---|
 | `adopt` | 41 |
 | `deferred` | 20 |
+| `(none)` | 18 |
 | `discard` | 15 |
-| `(none)` | 14 |
 | `discarded` | 11 |
 | `adopted` | 10 |
 
@@ -34,10 +34,10 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @NateBJones | 36 |
+| @NateBJones | 37 |
+| @MLOps | 25 |
 | @NateHerk | 25 |
-| @MLOps | 24 |
-| @DavidOndrej | 10 |
+| @DavidOndrej | 12 |
 | @[un]prompted | 4 |
 | @ShawTalebi | 3 |
 | @Mark_Kashef | 3 |
@@ -54,6 +54,10 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-04-24 | [[experiments/nb-2026-04-24-claude-design-sprint|Replace UI/UX Sprint Cycles with Claude-Driven Design Sessions]] | @NateBJones | `-` |
+| 2026-04-24 | [[experiments/mlops-2026-04-24-openxdata-conference|Audit Dev Loop for Open Data Pipeline Integration Points]] | @MLOps | `-` |
+| 2026-04-24 | [[experiments/do-2026-04-24-gpt-images-native-gen|Integrate GPT Native Image Generation into Asset Pipeline]] | @DavidOndrej | `-` |
+| 2026-04-24 | [[experiments/do-2026-04-24-deepseek-v4-benchmark|Benchmark DeepSeek V4 Against Current Loop Models on Code Gen Tasks]] | @DavidOndrej | `-` |
 | 2026-04-23 | [[experiments/up-2026-04-23-llm-safety-mechanisms|Audit YOLO loop outputs for safety mechanism degradation after fine-tuning or prompt chaining]] | @[un]prompted | `-` |
 | 2026-04-23 | [[experiments/up-2026-04-23-confidential-ai-tee|Evaluate Trusted Execution Environment (TEE) deployment for YOLO loop inference on sensitive data]] | @[un]prompted | `-` |
 | 2026-04-23 | [[experiments/up-2026-04-23-beyond-chatbot-agents|Architect a persistent-state agent layer above the YOLO loop's stateless inference calls]] | @[un]prompted | `-` |
