@@ -74,6 +74,11 @@
     "slug": "do-2026-04-24-gpt-images-native-gen",
     "synced_at": "2026-04-24T22:38:57.752301+00:00"
   },
+  "phase4:do-2026-04-25-gpt55-mythos-killer": {
+    "hash": "c6c30bc2e9c654ef0e1194e29fab756400efc6b219788612aa47a0ca16b20194",
+    "slug": "do-2026-04-25-gpt55-mythos-killer",
+    "synced_at": "2026-04-25T22:37:11.252324+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "2da5ebc7be82326bbe4256f53149319c7d2b485cd32331e06319be689f70ff18",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -409,6 +414,11 @@
     "slug": "nb-2026-04-24-claude-design-sprint",
     "synced_at": "2026-04-24T22:38:57.751198+00:00"
   },
+  "phase4:nb-2026-04-25-chatgpt-images-replace-team": {
+    "hash": "2e30171e9c969ae9e67099cc2d1b358b7101815bb7dd356a0d4ff3a98bfa1e6d",
+    "slug": "nb-2026-04-25-chatgpt-images-replace-team",
+    "synced_at": "2026-04-25T22:37:11.252062+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "088def761b98644bce4999c2def3334a62dbd18f60ed9ccbf59a177f567d0ffa",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -543,6 +553,11 @@
     "hash": "fecb92f8586b5f7c008836ea200edf55eae5c80295ace96fb8dea6bffa771e7e",
     "slug": "nh-2026-04-23-gpt55-vs-opus47",
     "synced_at": "2026-04-23T22:43:26.328325+00:00"
+  },
+  "phase4:nh-2026-04-25-claude-code-playwright-automation": {
+    "hash": "a44944d5742653bd53f79300394397850d65eb21d68eb3c984a22712141ddc8d",
+    "slug": "nh-2026-04-25-claude-code-playwright-automation",
+    "synced_at": "2026-04-25T22:37:11.252559+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "a80e67601d4d95ab70d5f2430da0c78024e833bc401be010287303bb0073a0a8",

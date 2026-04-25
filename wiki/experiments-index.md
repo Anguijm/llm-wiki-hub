@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**115 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**118 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -14,9 +14,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 |---|---|
 | `done` | 44 |
 | `deferred` | 20 |
+| `backlog` | 19 |
 | `adopted` | 17 |
 | `discarded` | 16 |
-| `backlog` | 16 |
 | `skipped` | 2 |
 
 ## By verdict
@@ -24,8 +24,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Verdict | Count |
 |---|---|
 | `adopt` | 41 |
+| `(none)` | 21 |
 | `deferred` | 20 |
-| `(none)` | 18 |
 | `discard` | 15 |
 | `discarded` | 11 |
 | `adopted` | 10 |
@@ -34,10 +34,10 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @NateBJones | 37 |
+| @NateBJones | 38 |
+| @NateHerk | 26 |
 | @MLOps | 25 |
-| @NateHerk | 25 |
-| @DavidOndrej | 12 |
+| @DavidOndrej | 13 |
 | @[un]prompted | 4 |
 | @ShawTalebi | 3 |
 | @Mark_Kashef | 3 |
@@ -54,6 +54,9 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-04-25 | [[experiments/nh-2026-04-25-claude-code-playwright-automation|Wire Claude Code to Playwright for End-to-End Test Authoring and Execution]] | @NateHerk | `-` |
+| 2026-04-25 | [[experiments/nb-2026-04-25-chatgpt-images-replace-team|Replace Asset Pipeline Steps with ChatGPT Image Generation]] | @NateBJones | `-` |
+| 2026-04-25 | [[experiments/do-2026-04-25-gpt55-mythos-killer|Benchmark GPT-5.5 Against Current Loop Model on Code + Reasoning Tasks]] | @DavidOndrej | `-` |
 | 2026-04-24 | [[experiments/nb-2026-04-24-claude-design-sprint|Replace UI/UX Sprint Cycles with Claude-Driven Design Sessions]] | @NateBJones | `-` |
 | 2026-04-24 | [[experiments/mlops-2026-04-24-openxdata-conference|Audit Dev Loop for Open Data Pipeline Integration Points]] | @MLOps | `-` |
 | 2026-04-24 | [[experiments/do-2026-04-24-gpt-images-native-gen|Integrate GPT Native Image Generation into Asset Pipeline]] | @DavidOndrej | `-` |
