@@ -99,6 +99,11 @@
     "slug": "mk-2026-04-19-claude-design-industry",
     "synced_at": "2026-04-22T22:48:15.136749+00:00"
   },
+  "phase4:mk-2026-04-26-run-claude-codex-together": {
+    "hash": "23d455eb690baefca4d39204ffcf059c70ba2c3b6ebbc1b7796cd2074671f1e7",
+    "slug": "mk-2026-04-26-run-claude-codex-together",
+    "synced_at": "2026-04-26T22:38:12.729081+00:00"
+  },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "9164c51ea77888eeefc1ba09c4dc6d5d38bff3a9090c755306ef3a81f9d4203c",
     "slug": "mlops-2026-03-17-durable-execution-agents",
