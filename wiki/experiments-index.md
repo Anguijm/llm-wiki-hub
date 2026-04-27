@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**119 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**124 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -13,8 +13,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Status | Count |
 |---|---|
 | `done` | 44 |
+| `backlog` | 25 |
 | `deferred` | 20 |
-| `backlog` | 20 |
 | `adopted` | 17 |
 | `discarded` | 16 |
 | `skipped` | 2 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Verdict | Count |
 |---|---|
 | `adopt` | 41 |
-| `(none)` | 22 |
+| `(none)` | 27 |
 | `deferred` | 20 |
 | `discard` | 15 |
 | `discarded` | 11 |
@@ -34,9 +34,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @NateBJones | 38 |
-| @NateHerk | 26 |
-| @MLOps | 25 |
+| @NateBJones | 39 |
+| @NateHerk | 28 |
+| @MLOps | 27 |
 | @DavidOndrej | 13 |
 | @[un]prompted | 4 |
 | @Mark_Kashef | 4 |
@@ -54,6 +54,11 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-04-27 | [[experiments/nh-2026-04-27-claude-code-headless-automation|Run Claude Code in Headless Mode as a Scriptable YOLO Loop Step]] | @NateHerk | `-` |
+| 2026-04-27 | [[experiments/nh-2026-04-27-claude-code-hacks|Adopt a Structured CLAUDE.md + Slash Command Library for YOLO Loop Sessions]] | @NateHerk | `-` |
+| 2026-04-27 | [[experiments/nb-2026-04-27-openai-free-employee-catch|Integrate OpenAI Responses API Agent as a Background Dev Task Runner]] | @NateBJones | `-` |
+| 2026-04-27 | [[experiments/mlops-2026-04-27-agents-software-dev-cloud|Move YOLO Loop Execution Environment to Ephemeral Cloud Sandboxes]] | @MLOps | `-` |
+| 2026-04-27 | [[experiments/mlops-2026-04-27-agent-observability-cloud|Add Structured Observability Logging to Every YOLO Loop Agent Step]] | @MLOps | `-` |
 | 2026-04-26 | [[experiments/mk-2026-04-26-run-claude-codex-together|Run Claude and Codex in Parallel on the Same Codebase]] | @Mark_Kashef | `-` |
 | 2026-04-25 | [[experiments/nh-2026-04-25-claude-code-playwright-automation|Wire Claude Code to Playwright for End-to-End Test Authoring and Execution]] | @NateHerk | `-` |
 | 2026-04-25 | [[experiments/nb-2026-04-25-chatgpt-images-replace-team|Replace Asset Pipeline Steps with ChatGPT Image Generation]] | @NateBJones | `-` |

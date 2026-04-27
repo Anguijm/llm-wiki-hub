@@ -229,6 +229,16 @@
     "slug": "mlops-2026-04-24-openxdata-conference",
     "synced_at": "2026-04-24T22:38:57.751582+00:00"
   },
+  "phase4:mlops-2026-04-27-agent-observability-cloud": {
+    "hash": "75ece42cf062f4a61c1cc544fea747aca58e4d7c5a3de1de51bb50761a6e5806",
+    "slug": "mlops-2026-04-27-agent-observability-cloud",
+    "synced_at": "2026-04-27T22:52:00.647948+00:00"
+  },
+  "phase4:mlops-2026-04-27-agents-software-dev-cloud": {
+    "hash": "9c1c2f0f3e03b8ca95ad2bc4352bd2dbb8d7b00dfd2a6c314d23e0db7ab635ad",
+    "slug": "mlops-2026-04-27-agents-software-dev-cloud",
+    "synced_at": "2026-04-27T22:52:00.647603+00:00"
+  },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "11beb12ed7fc04c67df0832941fbec767ea14ab393610268e5d8507350568196",
     "slug": "nb-2026-03-24-agent-readiness-checklist",
@@ -424,6 +434,11 @@
     "slug": "nb-2026-04-25-chatgpt-images-replace-team",
     "synced_at": "2026-04-25T22:37:11.252062+00:00"
   },
+  "phase4:nb-2026-04-27-openai-free-employee-catch": {
+    "hash": "6e49ff5d8507bac3270ed6801e648c0837e73c616f4a2a2848054fcd32ff2cc1",
+    "slug": "nb-2026-04-27-openai-free-employee-catch",
+    "synced_at": "2026-04-27T22:52:00.647267+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "088def761b98644bce4999c2def3334a62dbd18f60ed9ccbf59a177f567d0ffa",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -563,6 +578,16 @@
     "hash": "a44944d5742653bd53f79300394397850d65eb21d68eb3c984a22712141ddc8d",
     "slug": "nh-2026-04-25-claude-code-playwright-automation",
     "synced_at": "2026-04-25T22:37:11.252559+00:00"
+  },
+  "phase4:nh-2026-04-27-claude-code-hacks": {
+    "hash": "315e24e42406da005625512c4e44f21ce5fefdc818d1ee7301534d1a3f54aae8",
+    "slug": "nh-2026-04-27-claude-code-hacks",
+    "synced_at": "2026-04-27T22:52:00.648257+00:00"
+  },
+  "phase4:nh-2026-04-27-claude-code-headless-automation": {
+    "hash": "6c2d3c2407454e7309ab866b0c266e59c88df05c5a449bb56102e78245b77f2f",
+    "slug": "nh-2026-04-27-claude-code-headless-automation",
+    "synced_at": "2026-04-27T22:52:00.648560+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "a80e67601d4d95ab70d5f2430da0c78024e833bc401be010287303bb0073a0a8",
