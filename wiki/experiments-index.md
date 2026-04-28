@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**124 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**129 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -13,18 +13,18 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Status | Count |
 |---|---|
 | `done` | 44 |
-| `backlog` | 25 |
+| `backlog` | 29 |
 | `deferred` | 20 |
 | `adopted` | 17 |
 | `discarded` | 16 |
-| `skipped` | 2 |
+| `skipped` | 3 |
 
 ## By verdict
 
 | Verdict | Count |
 |---|---|
 | `adopt` | 41 |
-| `(none)` | 27 |
+| `(none)` | 32 |
 | `deferred` | 20 |
 | `discard` | 15 |
 | `discarded` | 11 |
@@ -34,12 +34,12 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @NateBJones | 39 |
+| @NateBJones | 41 |
 | @NateHerk | 28 |
 | @MLOps | 27 |
-| @DavidOndrej | 13 |
+| @DavidOndrej | 15 |
+| @Mark_Kashef | 5 |
 | @[un]prompted | 4 |
-| @Mark_Kashef | 4 |
 | @ShawTalebi | 3 |
 | @Fireship | 2 |
 | @Nate Herk | 2 |
@@ -54,6 +54,11 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-04-28 | [[experiments/nb-2026-04-28-gpt55-vs-claude-vs-gemini-real-difference|Benchmark Model Routing by Task Class Across GPT-5.5, Claude, and Gemini]] | @NateBJones | `-` |
+| 2026-04-28 | [[experiments/nb-2026-04-28-apple-trillion-dollar-ai-position|SKIP - Pure News Commentary]] | @NateBJones | `-` |
+| 2026-04-28 | [[experiments/mk-2026-04-28-claude-codex-plan-together|Orchestrate Claude as Planner and Codex as Executor in a Two-Agent Dev Pipeline]] | @Mark_Kashef | `-` |
+| 2026-04-28 | [[experiments/do-2026-04-28-self-evolving-ai-agent|Implement a Self-Modifying Agent Loop That Rewrites Its Own Prompts or Tools]] | @DavidOndrej | `-` |
+| 2026-04-28 | [[experiments/do-2026-04-28-self-evolving-agent-eval-harness|Build a Lightweight Eval Harness That Scores Agent Runs and Feeds Results Back as Context]] | @DavidOndrej | `-` |
 | 2026-04-27 | [[experiments/nh-2026-04-27-claude-code-headless-automation|Run Claude Code in Headless Mode as a Scriptable YOLO Loop Step]] | @NateHerk | `-` |
 | 2026-04-27 | [[experiments/nh-2026-04-27-claude-code-hacks|Adopt a Structured CLAUDE.md + Slash Command Library for YOLO Loop Sessions]] | @NateHerk | `-` |
 | 2026-04-27 | [[experiments/nb-2026-04-27-openai-free-employee-catch|Integrate OpenAI Responses API Agent as a Background Dev Task Runner]] | @NateBJones | `-` |

@@ -79,6 +79,16 @@
     "slug": "do-2026-04-25-gpt55-mythos-killer",
     "synced_at": "2026-04-25T22:37:11.252324+00:00"
   },
+  "phase4:do-2026-04-28-self-evolving-agent-eval-harness": {
+    "hash": "f7ecdbe8f32a1b2776b68884bd3ebf7f7cade606539c658b3acf347b6728f582",
+    "slug": "do-2026-04-28-self-evolving-agent-eval-harness",
+    "synced_at": "2026-04-28T22:56:45.597371+00:00"
+  },
+  "phase4:do-2026-04-28-self-evolving-ai-agent": {
+    "hash": "567e1f3f216228fd7c9101f732230bfe19bb60522cbf28159b99c26743967a71",
+    "slug": "do-2026-04-28-self-evolving-ai-agent",
+    "synced_at": "2026-04-28T22:56:45.597059+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "2da5ebc7be82326bbe4256f53149319c7d2b485cd32331e06319be689f70ff18",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -103,6 +113,11 @@
     "hash": "23d455eb690baefca4d39204ffcf059c70ba2c3b6ebbc1b7796cd2074671f1e7",
     "slug": "mk-2026-04-26-run-claude-codex-together",
     "synced_at": "2026-04-26T22:38:12.729081+00:00"
+  },
+  "phase4:mk-2026-04-28-claude-codex-plan-together": {
+    "hash": "cca5ac859fa001db822b306a4d53e712eaccce628493ffee66ef7922ef8878a7",
+    "slug": "mk-2026-04-28-claude-codex-plan-together",
+    "synced_at": "2026-04-28T22:56:45.597751+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "9164c51ea77888eeefc1ba09c4dc6d5d38bff3a9090c755306ef3a81f9d4203c",
@@ -438,6 +453,16 @@
     "hash": "6e49ff5d8507bac3270ed6801e648c0837e73c616f4a2a2848054fcd32ff2cc1",
     "slug": "nb-2026-04-27-openai-free-employee-catch",
     "synced_at": "2026-04-27T22:52:00.647267+00:00"
+  },
+  "phase4:nb-2026-04-28-apple-trillion-dollar-ai-position": {
+    "hash": "fd867fd6b29f72e390efd5502df6723dfa9a1f9d59ba94c132e76b509cf0e970",
+    "slug": "nb-2026-04-28-apple-trillion-dollar-ai-position",
+    "synced_at": "2026-04-28T22:56:45.596742+00:00"
+  },
+  "phase4:nb-2026-04-28-gpt55-vs-claude-vs-gemini-real-difference": {
+    "hash": "b6324bd5c9736dbcc3f45218a9c382c3a567c0728c78dba972c60d91e3d31be8",
+    "slug": "nb-2026-04-28-gpt55-vs-claude-vs-gemini-real-difference",
+    "synced_at": "2026-04-28T22:56:45.596364+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "088def761b98644bce4999c2def3334a62dbd18f60ed9ccbf59a177f567d0ffa",
