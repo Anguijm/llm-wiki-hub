@@ -464,6 +464,16 @@
     "slug": "nb-2026-04-28-gpt55-vs-claude-vs-gemini-real-difference",
     "synced_at": "2026-04-28T22:56:45.596364+00:00"
   },
+  "phase4:nb-2026-04-29-agent-crm-browser-replacement": {
+    "hash": "9132d21cb0db5afcaba4ecc655499f07dadd1fa3e7d16505917de59c932760c2",
+    "slug": "nb-2026-04-29-agent-crm-browser-replacement",
+    "synced_at": "2026-04-29T22:56:45.108657+00:00"
+  },
+  "phase4:nb-2026-04-29-agent-crm-write-back": {
+    "hash": "c35e62112e77e85ed76373caf38f1fba41de318443ebe02fbd00a373bb3ecea8",
+    "slug": "nb-2026-04-29-agent-crm-write-back",
+    "synced_at": "2026-04-29T22:56:45.109025+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "088def761b98644bce4999c2def3334a62dbd18f60ed9ccbf59a177f567d0ffa",
     "slug": "nh-2026-03-29-boring-automation-products",

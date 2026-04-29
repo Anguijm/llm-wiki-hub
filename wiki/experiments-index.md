@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**129 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**131 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -13,7 +13,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Status | Count |
 |---|---|
 | `done` | 44 |
-| `backlog` | 29 |
+| `backlog` | 31 |
 | `deferred` | 20 |
 | `adopted` | 17 |
 | `discarded` | 16 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Verdict | Count |
 |---|---|
 | `adopt` | 41 |
-| `(none)` | 32 |
+| `(none)` | 34 |
 | `deferred` | 20 |
 | `discard` | 15 |
 | `discarded` | 11 |
@@ -34,7 +34,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @NateBJones | 41 |
+| @NateBJones | 43 |
 | @NateHerk | 28 |
 | @MLOps | 27 |
 | @DavidOndrej | 15 |
@@ -54,6 +54,8 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-04-29 | [[experiments/nb-2026-04-29-agent-crm-write-back|Instrument Agent Actions to Write Structured Logs Back to a Central Store]] | @NateBJones | `-` |
+| 2026-04-29 | [[experiments/nb-2026-04-29-agent-crm-browser-replacement|Replace Browser-Based CRM Lookups With Agent Tool Calls]] | @NateBJones | `-` |
 | 2026-04-28 | [[experiments/nb-2026-04-28-gpt55-vs-claude-vs-gemini-real-difference|Benchmark Model Routing by Task Class Across GPT-5.5, Claude, and Gemini]] | @NateBJones | `-` |
 | 2026-04-28 | [[experiments/nb-2026-04-28-apple-trillion-dollar-ai-position|SKIP - Pure News Commentary]] | @NateBJones | `-` |
 | 2026-04-28 | [[experiments/mk-2026-04-28-claude-codex-plan-together|Orchestrate Claude as Planner and Codex as Executor in a Two-Agent Dev Pipeline]] | @Mark_Kashef | `-` |
