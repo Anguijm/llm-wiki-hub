@@ -4,7 +4,7 @@
 
 Source: **[GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About](https://www.youtube.com/watch?v=9aIYhjeYxzM)** · NateBJones · 2026-04-28
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `in_progress` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker ran comparative tests across GPT-5.5, Claude, and Gemini on a set of rea
 
 Directly informs model selection at each node in the YOLO loop; a routing layer could swap the backbone model based on the task type detected at runtime.
 
+## Notes
+
+[2026-04-29T08:05:00Z] Implemented at experiments/model-routing-bench/. Adapters degrade to deterministic stubs without API keys, so the scaffold is runnable end-to-end. Promotion to tick queue is the next step.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-28 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Implemented as research-spike scaffold at experiments/model-routing-bench/. See README.md for design and usage. |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[You Can Run Claude AND Codex Together. Here's How.](https://www.youtube.com/watch?v=Fu5KIG2Jm1g)** · @Mark_Kashef · 2026-04-26
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `in_progress` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker demonstrated a workflow where Claude (likely via Claude API or Claude De
 
 Directly extends the YOLO loop by enabling multi-agent parallelism at the task level — instead of one AI agent per loop iteration, two agents work simultaneously, potentially doubling throughput for independent subtasks like writing tests while refactoring code.
 
+## Notes
+
+[2026-04-29T08:05:00Z] Implemented at experiments/mk-claude-codex-parallel/. Adapters degrade to deterministic stubs without API keys, so the scaffold is runnable end-to-end. Promotion to tick queue is the next step.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-26 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Implemented as research-spike scaffold at experiments/mk-claude-codex-parallel/. See README.md for design and usage. |
 
 ---
 

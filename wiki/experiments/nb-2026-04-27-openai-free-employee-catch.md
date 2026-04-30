@@ -4,7 +4,7 @@
 
 Source: **[OpenAI Just Gave Every Team A Free Employee. Here's The Catch.](https://www.youtube.com/watch?v=QrvVkm-8Jx4)** · NateBJones · 2026-04-27
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `in_progress` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker walked through OpenAI's new agent offering (likely the Responses API wit
 
 Directly maps to the dispatch layer of the YOLO loop — if an agent can hold state and execute multi-step tasks asynchronously, it could replace or augment the manual handoff step between loop iterations.
 
+## Notes
+
+[2026-04-29T08:05:00Z] Implemented at experiments/openai-bg-runner/. Adapters degrade to deterministic stubs without API keys, so the scaffold is runnable end-to-end. Promotion to tick queue is the next step.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-27 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Implemented as research-spike scaffold at experiments/openai-bg-runner/. See README.md for design and usage. |
 
 ---
 

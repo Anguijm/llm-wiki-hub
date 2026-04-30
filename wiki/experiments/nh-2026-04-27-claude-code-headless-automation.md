@@ -4,7 +4,7 @@
 
 Source: **[32 Claude Code Hacks in 16 Mins](https://www.youtube.com/watch?v=jqoFP9QapXI)** · NateHerk · 2026-04-27
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `in_progress` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker demonstrated Claude Code's headless/non-interactive mode where you pass 
 
 Core enabler for the YOLO loop's automation layer. Headless Claude Code turns a conversational tool into a programmable subprocess, which is the missing link between a human-driven loop and a fully automated one.
 
+## Notes
+
+[2026-04-29T08:05:00Z] Implemented at experiments/claude-headless/. Adapters degrade to deterministic stubs without API keys, so the scaffold is runnable end-to-end. Promotion to tick queue is the next step.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-27 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Implemented as research-spike scaffold at experiments/claude-headless/. See README.md for design and usage. |
 
 ---
 

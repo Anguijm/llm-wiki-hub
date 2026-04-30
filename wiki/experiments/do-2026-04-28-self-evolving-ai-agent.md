@@ -4,7 +4,7 @@
 
 Source: **[This AI Agent can actually self-evolve… just watch](https://www.youtube.com/watch?v=F3ZzNgf-R7Y)** · DavidOndrej · 2026-04-28
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `in_progress` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker demonstrated an AI agent architecture where the agent evaluates its own 
 
 Maps directly to the reflection and self-repair phase of the YOLO loop; could replace or augment the manual prompt-tuning step by automating it within the loop itself.
 
+## Notes
+
+[2026-04-29T08:05:00Z] Implemented at experiments/self-evolving-agent/. Adapters degrade to deterministic stubs without API keys, so the scaffold is runnable end-to-end. Promotion to tick queue is the next step.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-28 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Implemented as research-spike scaffold at experiments/self-evolving-agent/. See README.md for design and usage. |
 
 ---
 

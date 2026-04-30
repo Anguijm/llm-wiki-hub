@@ -4,7 +4,7 @@
 
 Source: **[Why Agents are Driving Software Development to the Cloud](https://www.youtube.com/watch?v=uT-jEi9Ledw)** · MLOps · 2026-04-27
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `in_progress` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker argued that AI coding agents are pushing development workflows toward cl
 
 Directly challenges the assumption that the YOLO loop runs locally. If agent execution moves to cloud sandboxes, the loop's environment setup, file I/O, and git operations all need to be re-architected around remote ephemeral instances.
 
+## Notes
+
+[2026-04-29T08:05:00Z] Implemented at experiments/cloud-sandbox-adapter/. Adapters degrade to deterministic stubs without API keys, so the scaffold is runnable end-to-end. Promotion to tick queue is the next step.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-27 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Implemented as research-spike scaffold at experiments/cloud-sandbox-adapter/. See README.md for design and usage. |
 
 ---
 

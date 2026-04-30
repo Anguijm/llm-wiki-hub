@@ -4,7 +4,7 @@
 
 Source: **[You Can Make Claude + Codex Plan Together. Here's How.](https://www.youtube.com/watch?v=RChO5deJ_fE)** · Mark_Kashef · 2026-04-28
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `in_progress` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker walked through a concrete integration where Claude is prompted to produc
 
 Directly applicable to the planning and implementation phases of the YOLO loop; introduces a specialization pattern that could replace the current single-model code generation step with a planner-executor split.
 
+## Notes
+
+[2026-04-29T08:05:00Z] Implemented at experiments/planner-executor/. Adapters degrade to deterministic stubs without API keys, so the scaffold is runnable end-to-end. Promotion to tick queue is the next step.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-28 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Implemented as research-spike scaffold at experiments/planner-executor/. See README.md for design and usage. |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[This AI Agent can actually self-evolve… just watch](https://www.youtube.com/watch?v=F3ZzNgf-R7Y)** · DavidOndrej · 2026-04-28
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `in_progress` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ As part of the self-evolution demo, speaker used an evaluation layer that quanti
 
 The eval harness is a foundational component for any automated improvement cycle in the YOLO loop; this experiment isolates and validates just that component before full self-modification is attempted.
 
+## Notes
+
+[2026-04-29T08:05:00Z] Implemented at experiments/eval-harness/. Adapters degrade to deterministic stubs without API keys, so the scaffold is runnable end-to-end. Promotion to tick queue is the next step.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-28 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Implemented as research-spike scaffold at experiments/eval-harness/. See README.md for design and usage. |
 
 ---
 

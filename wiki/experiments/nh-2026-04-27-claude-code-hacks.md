@@ -4,7 +4,7 @@
 
 Source: **[32 Claude Code Hacks in 16 Mins](https://www.youtube.com/watch?v=jqoFP9QapXI)** · NateHerk · 2026-04-27
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `in_progress` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker ran through 32 Claude Code productivity tips including: using CLAUDE.md 
 
 Directly improves the prompt layer of the YOLO loop. A well-tuned CLAUDE.md acts as the loop's system prompt equivalent, and slash commands standardize the most frequent loop operations without rebuilding context each time.
 
+## Notes
+
+[2026-04-29T08:05:00Z] Implemented at experiments/claude-code-hacks/. Adapters degrade to deterministic stubs without API keys, so the scaffold is runnable end-to-end. Promotion to tick queue is the next step.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-27 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Implemented as research-spike scaffold at experiments/claude-code-hacks/. See README.md for design and usage. |
 
 ---
 

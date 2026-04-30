@@ -4,7 +4,7 @@
 
 Source: **[Why Agents are Driving Software Development to the Cloud](https://www.youtube.com/watch?v=uT-jEi9Ledw)** · MLOps · 2026-04-27
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `in_progress` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker highlighted that moving agents to the cloud forces teams to adopt proper
 
 Maps to the evaluation and debugging phase of the YOLO loop. Without structured traces, failed loops are hard to replay or improve systematically.
 
+## Notes
+
+[2026-04-29T08:05:00Z] Implemented at experiments/agent-observability/. Adapters degrade to deterministic stubs without API keys, so the scaffold is runnable end-to-end. Promotion to tick queue is the next step.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-27 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Implemented as research-spike scaffold at experiments/agent-observability/. See README.md for design and usage. |
 
 ---
 
