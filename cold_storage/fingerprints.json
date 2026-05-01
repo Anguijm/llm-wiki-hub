@@ -89,6 +89,11 @@
     "slug": "do-2026-04-28-self-evolving-ai-agent",
     "synced_at": "2026-04-30T22:52:59.426639+00:00"
   },
+  "phase4:do-2026-05-01-hermes-agent-claude-code": {
+    "hash": "d7996485f5a3e36919e472cc6572d91363a8e73a5c04ade279734cdc286b8214",
+    "slug": "do-2026-05-01-hermes-agent-claude-code",
+    "synced_at": "2026-05-01T22:50:44.406547+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "2da5ebc7be82326bbe4256f53149319c7d2b485cd32331e06319be689f70ff18",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -253,6 +258,11 @@
     "hash": "7575ddaa4190d95364f3c75c7f7b37c2763880c877bf708074b16d1a7a12ff03",
     "slug": "mlops-2026-04-27-agents-software-dev-cloud",
     "synced_at": "2026-04-30T22:52:59.424797+00:00"
+  },
+  "phase4:mlops-2026-05-01-human-out-of-loop-agent-teams": {
+    "hash": "285578af12f5ac6adfc90200fed18b461cb24d2e975dadca85b69219f2e40be3",
+    "slug": "mlops-2026-05-01-human-out-of-loop-agent-teams",
+    "synced_at": "2026-05-01T22:50:44.406044+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "11beb12ed7fc04c67df0832941fbec767ea14ab393610268e5d8507350568196",
@@ -479,6 +489,11 @@
     "slug": "nb-2026-04-30-microsoft-claude-vs-copilot",
     "synced_at": "2026-04-30T22:52:59.427709+00:00"
   },
+  "phase4:nb-2026-05-01-benchmark-local-ai-hardware": {
+    "hash": "ead68377b8fec0e6eb69357c9851b8ef5eeeed69725564d779b028a05906664a",
+    "slug": "nb-2026-05-01-benchmark-local-ai-hardware",
+    "synced_at": "2026-05-01T22:50:44.405505+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "088def761b98644bce4999c2def3334a62dbd18f60ed9ccbf59a177f567d0ffa",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -633,6 +648,11 @@
     "hash": "cd5ae7c34bc1ab6590f8d5122dbc860b9af0cc42ebcd8891b336748d41536834",
     "slug": "nh-2026-04-30-claude-design-beginner-pro",
     "synced_at": "2026-04-30T22:52:59.428009+00:00"
+  },
+  "phase4:nh-2026-05-01-claude-code-operating-system": {
+    "hash": "92c918313da5f4c84e83956395fda2403df725150114823284ac884774421a68",
+    "slug": "nh-2026-05-01-claude-code-operating-system",
+    "synced_at": "2026-05-01T22:50:44.407007+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "a80e67601d4d95ab70d5f2430da0c78024e833bc401be010287303bb0073a0a8",

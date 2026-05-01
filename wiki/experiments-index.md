@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**133 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**137 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -13,7 +13,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Status | Count |
 |---|---|
 | `done` | 44 |
-| `backlog` | 23 |
+| `backlog` | 27 |
 | `deferred` | 20 |
 | `adopted` | 17 |
 | `discarded` | 16 |
@@ -25,7 +25,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Verdict | Count |
 |---|---|
 | `adopt` | 41 |
-| `(none)` | 36 |
+| `(none)` | 40 |
 | `deferred` | 20 |
 | `discard` | 15 |
 | `discarded` | 11 |
@@ -35,10 +35,10 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @NateBJones | 44 |
-| @NateHerk | 29 |
-| @MLOps | 27 |
-| @DavidOndrej | 15 |
+| @NateBJones | 45 |
+| @NateHerk | 30 |
+| @MLOps | 28 |
+| @DavidOndrej | 16 |
 | @Mark_Kashef | 5 |
 | @[un]prompted | 4 |
 | @ShawTalebi | 3 |
@@ -55,6 +55,10 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-05-01 | [[experiments/nh-2026-05-01-claude-code-operating-system|Build a Claude Code Operating System with Layered CLAUDE.md and MCP Configuration]] | @NateHerk | `-` |
+| 2026-05-01 | [[experiments/nb-2026-05-01-benchmark-local-ai-hardware|Benchmark Local AI Hardware Options Against Dev Loop Workloads]] | @NateBJones | `-` |
+| 2026-05-01 | [[experiments/mlops-2026-05-01-human-out-of-loop-agent-teams|Design Agent Handoff Protocols to Minimize Human Interrupts]] | @MLOps | `-` |
+| 2026-05-01 | [[experiments/do-2026-05-01-hermes-agent-claude-code|Integrate Hermes Agent as a Claude Code Orchestration Layer]] | @DavidOndrej | `-` |
 | 2026-04-30 | [[experiments/nh-2026-04-30-claude-design-beginner-pro|Apply Claude Prompt Design Patterns to YOLO Loop System Prompts]] | @NateHerk | `-` |
 | 2026-04-30 | [[experiments/nb-2026-04-30-microsoft-claude-vs-copilot|Benchmark Claude Against Your Primary Copilot on Internal Tasks]] | @NateBJones | `-` |
 | 2026-04-29 | [[experiments/nb-2026-04-29-agent-crm-write-back|Instrument Agent Actions to Write Structured Logs Back to a Central Store]] | @NateBJones | `-` |
