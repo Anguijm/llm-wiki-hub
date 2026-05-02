@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**137 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**139 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -13,19 +13,19 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Status | Count |
 |---|---|
 | `done` | 44 |
-| `backlog` | 27 |
+| `backlog` | 28 |
 | `deferred` | 20 |
 | `adopted` | 17 |
 | `discarded` | 16 |
 | `in_progress` | 10 |
-| `skipped` | 3 |
+| `skipped` | 4 |
 
 ## By verdict
 
 | Verdict | Count |
 |---|---|
+| `(none)` | 42 |
 | `adopt` | 41 |
-| `(none)` | 40 |
 | `deferred` | 20 |
 | `discard` | 15 |
 | `discarded` | 11 |
@@ -35,7 +35,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @NateBJones | 45 |
+| @NateBJones | 46 |
 | @NateHerk | 30 |
 | @MLOps | 28 |
 | @DavidOndrej | 16 |
@@ -44,8 +44,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | @ShawTalebi | 3 |
 | @Fireship | 2 |
 | @Nate Herk | 2 |
+| @AIJasonZ | 2 |
 | @TwoMinutePapers | 1 |
-| @AIJasonZ | 1 |
 
 ---
 
@@ -55,6 +55,8 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-05-02 | [[experiments/nb-2026-05-02-anthropic-atlassian-acquisition|Untitled]] | @NateBJones | `-` |
+| 2026-05-02 | [[experiments/aij-2026-05-02-openai-symphony-coding-paradigm|Implement a Symphony-style multi-agent coding orchestration layer]] | @AIJasonZ | `-` |
 | 2026-05-01 | [[experiments/nh-2026-05-01-claude-code-operating-system|Build a Claude Code Operating System with Layered CLAUDE.md and MCP Configuration]] | @NateHerk | `-` |
 | 2026-05-01 | [[experiments/nb-2026-05-01-benchmark-local-ai-hardware|Benchmark Local AI Hardware Options Against Dev Loop Workloads]] | @NateBJones | `-` |
 | 2026-05-01 | [[experiments/mlops-2026-05-01-human-out-of-loop-agent-teams|Design Agent Handoff Protocols to Minimize Human Interrupts]] | @MLOps | `-` |

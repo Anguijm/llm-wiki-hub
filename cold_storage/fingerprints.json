@@ -14,6 +14,11 @@
     "slug": "aij-2026-04-22-self-evolving-agent",
     "synced_at": "2026-04-22T22:48:15.139537+00:00"
   },
+  "phase4:aij-2026-05-02-openai-symphony-coding-paradigm": {
+    "hash": "b11e9815552d9bf4aaf53f890d52bb755c0e4d3b172fd3a7c831519962f27009",
+    "slug": "aij-2026-05-02-openai-symphony-coding-paradigm",
+    "synced_at": "2026-05-02T22:41:03.961218+00:00"
+  },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "67475d1be31892da20e833f5fdba929cb783c510976540603f5ad5e472e27d54",
     "slug": "do-2026-03-27-private-local-agent",
@@ -493,6 +498,11 @@
     "hash": "ead68377b8fec0e6eb69357c9851b8ef5eeeed69725564d779b028a05906664a",
     "slug": "nb-2026-05-01-benchmark-local-ai-hardware",
     "synced_at": "2026-05-01T22:50:44.405505+00:00"
+  },
+  "phase4:nb-2026-05-02-anthropic-atlassian-acquisition": {
+    "hash": "0736a056d5e7224e7ea3dedd521de6d91330190a9ac1165040f25906f0c587f2",
+    "slug": "nb-2026-05-02-anthropic-atlassian-acquisition",
+    "synced_at": "2026-05-02T22:41:03.960866+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "088def761b98644bce4999c2def3334a62dbd18f60ed9ccbf59a177f567d0ffa",
