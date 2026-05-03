@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**139 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**145 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -13,7 +13,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Status | Count |
 |---|---|
 | `done` | 44 |
-| `backlog` | 28 |
+| `backlog` | 34 |
 | `deferred` | 20 |
 | `adopted` | 17 |
 | `discarded` | 16 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 42 |
+| `(none)` | 48 |
 | `adopt` | 41 |
 | `deferred` | 20 |
 | `discard` | 15 |
@@ -36,12 +36,12 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Channel | Experiments |
 |---|---|
 | @NateBJones | 46 |
-| @NateHerk | 30 |
+| @NateHerk | 32 |
 | @MLOps | 28 |
-| @DavidOndrej | 16 |
-| @Mark_Kashef | 5 |
+| @DavidOndrej | 17 |
+| @Mark_Kashef | 7 |
 | @[un]prompted | 4 |
-| @ShawTalebi | 3 |
+| @ShawTalebi | 4 |
 | @Fireship | 2 |
 | @Nate Herk | 2 |
 | @AIJasonZ | 2 |
@@ -55,13 +55,19 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-05-03 | [[experiments/st-2026-05-03-cowork-connectors-skills-setup|Configure Claude CoWork with project-scoped skills and scheduled tasks to replace recurring manual workflows]] | @ShawTalebi | `-` |
+| 2026-05-03 | [[experiments/nh-2026-05-03-superpowers-plan-first-skill|Add Superpowers skill to enforce plan-then-test coding discipline in Claude Code]] | @NateHerk | `-` |
+| 2026-05-03 | [[experiments/nh-2026-05-03-claude-design-course|Apply structured Claude prompt design patterns to YOLO loop system prompts]] | @NateHerk | `-` |
+| 2026-05-03 | [[experiments/nh-2026-05-03-claude-code-skill-creator|Install Skill Creator globally to bootstrap all Claude Code skills via plain-English prompts]] | @NateHerk | `-` |
+| 2026-05-03 | [[experiments/nh-2026-05-03-claude-code-os-build-sell|Build a reusable Claude Code OS template with pre-wired tools, memory, and task scaffolding]] | @NateHerk | `-` |
+| 2026-05-03 | [[experiments/nb-2026-05-03-benchmark-hardware-local-ai|Benchmark Local AI Hardware Options for Dev Loop Inference]] | @NateBJones | `-` |
+| 2026-05-03 | [[experiments/mlops-2026-05-03-humans-out-of-way-agent-teams|Design a multi-agent pipeline that minimizes human checkpoints]] | @MLOps | `-` |
+| 2026-05-03 | [[experiments/mk-2026-05-03-hive-mind-multi-agent-os|Build a multi-agent hive-mind with shared memory database and Telegram interface over Claude Code]] | @Mark_Kashef | `-` |
+| 2026-05-03 | [[experiments/mk-2026-05-03-global-vs-project-skill-hygiene|Audit and promote skills to global vs. project scope as a prerequisite to multi-agent reliability]] | @Mark_Kashef | `-` |
+| 2026-05-03 | [[experiments/do-2026-05-03-pi-agent-self-modifying|Implement a Self-Modifying Agent That Rewrites Its Own Prompts or Tools]] | @DavidOndrej | `-` |
+| 2026-05-03 | [[experiments/do-2026-05-03-hermes-agent-switch|Swap current agent framework for Hermes Agent and benchmark task completion]] | @DavidOndrej | `-` |
+| 2026-05-03 | [[experiments/aij-2026-05-03-openai-symphony-coding-paradigm|Prototype a Symphony-style multi-model coding orchestration layer]] | @AIJasonZ | `-` |
 | 2026-05-02 | [[experiments/nb-2026-05-02-anthropic-atlassian-acquisition|Untitled]] | @NateBJones | `-` |
-| 2026-05-02 | [[experiments/aij-2026-05-02-openai-symphony-coding-paradigm|Implement a Symphony-style multi-agent coding orchestration layer]] | @AIJasonZ | `-` |
-| 2026-05-01 | [[experiments/nh-2026-05-01-claude-code-operating-system|Build a Claude Code Operating System with Layered CLAUDE.md and MCP Configuration]] | @NateHerk | `-` |
-| 2026-05-01 | [[experiments/nb-2026-05-01-benchmark-local-ai-hardware|Benchmark Local AI Hardware Options Against Dev Loop Workloads]] | @NateBJones | `-` |
-| 2026-05-01 | [[experiments/mlops-2026-05-01-human-out-of-loop-agent-teams|Design Agent Handoff Protocols to Minimize Human Interrupts]] | @MLOps | `-` |
-| 2026-05-01 | [[experiments/do-2026-05-01-hermes-agent-claude-code|Integrate Hermes Agent as a Claude Code Orchestration Layer]] | @DavidOndrej | `-` |
-| 2026-04-30 | [[experiments/nh-2026-04-30-claude-design-beginner-pro|Apply Claude Prompt Design Patterns to YOLO Loop System Prompts]] | @NateHerk | `-` |
 | 2026-04-30 | [[experiments/nb-2026-04-30-microsoft-claude-vs-copilot|Benchmark Claude Against Your Primary Copilot on Internal Tasks]] | @NateBJones | `-` |
 | 2026-04-29 | [[experiments/nb-2026-04-29-agent-crm-write-back|Instrument Agent Actions to Write Structured Logs Back to a Central Store]] | @NateBJones | `-` |
 | 2026-04-29 | [[experiments/nb-2026-04-29-agent-crm-browser-replacement|Replace Browser-Based CRM Lookups With Agent Tool Calls]] | @NateBJones | `-` |

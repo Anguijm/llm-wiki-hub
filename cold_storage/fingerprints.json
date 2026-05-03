@@ -19,6 +19,11 @@
     "slug": "aij-2026-05-02-openai-symphony-coding-paradigm",
     "synced_at": "2026-05-02T22:41:03.961218+00:00"
   },
+  "phase4:aij-2026-05-03-openai-symphony-coding-paradigm": {
+    "hash": "0868437a9863ab9881448756c8dd3e80367b9ed2b5a44095df1b035bd914cd74",
+    "slug": "aij-2026-05-03-openai-symphony-coding-paradigm",
+    "synced_at": "2026-05-03T22:41:01.905308+00:00"
+  },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "67475d1be31892da20e833f5fdba929cb783c510976540603f5ad5e472e27d54",
     "slug": "do-2026-03-27-private-local-agent",
@@ -99,6 +104,16 @@
     "slug": "do-2026-05-01-hermes-agent-claude-code",
     "synced_at": "2026-05-01T22:50:44.406547+00:00"
   },
+  "phase4:do-2026-05-03-hermes-agent-switch": {
+    "hash": "d129fc69db7fd4ffcfc6ca8f7a063297b224b3520661d51c7a62c4236f2948ec",
+    "slug": "do-2026-05-03-hermes-agent-switch",
+    "synced_at": "2026-05-03T22:41:01.904362+00:00"
+  },
+  "phase4:do-2026-05-03-pi-agent-self-modifying": {
+    "hash": "ba350826c0d3e0a07205ed2ed43ed9befd543b1a13066cf2773ace76ed8a1874",
+    "slug": "do-2026-05-03-pi-agent-self-modifying",
+    "synced_at": "2026-05-03T22:41:01.905989+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "2da5ebc7be82326bbe4256f53149319c7d2b485cd32331e06319be689f70ff18",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -128,6 +143,16 @@
     "hash": "3de5521fa4dc710bd38443e6776b560b731129b6a1048a66d2f031cb41fbc705",
     "slug": "mk-2026-04-28-claude-codex-plan-together",
     "synced_at": "2026-04-30T22:52:59.427367+00:00"
+  },
+  "phase4:mk-2026-05-03-global-vs-project-skill-hygiene": {
+    "hash": "cab04a04f424158ddcad5b507343d473e8272217990e5133ab2a2ae0d89a8016",
+    "slug": "mk-2026-05-03-global-vs-project-skill-hygiene",
+    "synced_at": "2026-05-03T22:41:01.907514+00:00"
+  },
+  "phase4:mk-2026-05-03-hive-mind-multi-agent-os": {
+    "hash": "b725e27238d806c72815606edc85cbd5951227bfb1425c4e666c7bb7aed1d2c9",
+    "slug": "mk-2026-05-03-hive-mind-multi-agent-os",
+    "synced_at": "2026-05-03T22:41:01.907215+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "9164c51ea77888eeefc1ba09c4dc6d5d38bff3a9090c755306ef3a81f9d4203c",
@@ -268,6 +293,11 @@
     "hash": "285578af12f5ac6adfc90200fed18b461cb24d2e975dadca85b69219f2e40be3",
     "slug": "mlops-2026-05-01-human-out-of-loop-agent-teams",
     "synced_at": "2026-05-01T22:50:44.406044+00:00"
+  },
+  "phase4:mlops-2026-05-03-humans-out-of-way-agent-teams": {
+    "hash": "980a955c220f74f263dae60312e0e8b56a71628711514ef655e31b06e9df174f",
+    "slug": "mlops-2026-05-03-humans-out-of-way-agent-teams",
+    "synced_at": "2026-05-03T22:41:01.904023+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "11beb12ed7fc04c67df0832941fbec767ea14ab393610268e5d8507350568196",
@@ -504,6 +534,11 @@
     "slug": "nb-2026-05-02-anthropic-atlassian-acquisition",
     "synced_at": "2026-05-02T22:41:03.960866+00:00"
   },
+  "phase4:nb-2026-05-03-benchmark-hardware-local-ai": {
+    "hash": "83c8fecf7da4f441c7e199544a311a1ce5a2574a6c29a1029b22857c194dd64c",
+    "slug": "nb-2026-05-03-benchmark-hardware-local-ai",
+    "synced_at": "2026-05-03T22:41:01.905640+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "088def761b98644bce4999c2def3334a62dbd18f60ed9ccbf59a177f567d0ffa",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -664,6 +699,26 @@
     "slug": "nh-2026-05-01-claude-code-operating-system",
     "synced_at": "2026-05-01T22:50:44.407007+00:00"
   },
+  "phase4:nh-2026-05-03-claude-code-os-build-sell": {
+    "hash": "65c5b6848863e7c9d75df2a9982b49799060d2feef9c105b611e2cb7dbd65c5b",
+    "slug": "nh-2026-05-03-claude-code-os-build-sell",
+    "synced_at": "2026-05-03T22:41:01.904693+00:00"
+  },
+  "phase4:nh-2026-05-03-claude-code-skill-creator": {
+    "hash": "3aec975a40dcbcd650c00d4f7c949051e20b1b139029a1ae4cd562240c73d911",
+    "slug": "nh-2026-05-03-claude-code-skill-creator",
+    "synced_at": "2026-05-03T22:41:01.906284+00:00"
+  },
+  "phase4:nh-2026-05-03-claude-design-course": {
+    "hash": "40da0a4830c9337a6dabf1f9f09876032c90bb995258c55bdaaa0582cd6bce67",
+    "slug": "nh-2026-05-03-claude-design-course",
+    "synced_at": "2026-05-03T22:41:01.905010+00:00"
+  },
+  "phase4:nh-2026-05-03-superpowers-plan-first-skill": {
+    "hash": "a1be818aad4a6e156686d315e2a9669ee276dbcf6e123207a5743bea0e457859",
+    "slug": "nh-2026-05-03-superpowers-plan-first-skill",
+    "synced_at": "2026-05-03T22:41:01.906578+00:00"
+  },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "a80e67601d4d95ab70d5f2430da0c78024e833bc401be010287303bb0073a0a8",
     "slug": "st-2026-04-05-skill-creator-meta-agent",
@@ -678,6 +733,11 @@
     "hash": "0372d078843884c8b13b646d4051e18b4ee87985af6c0c93a6b861f0009974c6",
     "slug": "st-2026-04-12-claude-video-editing",
     "synced_at": "2026-04-14T15:01:17.419285+00:00"
+  },
+  "phase4:st-2026-05-03-cowork-connectors-skills-setup": {
+    "hash": "d9366dd13a9f37e5b2b3d13ba3bf5cbb4c96bc72f9b9adfee0d7334b455cc1c2",
+    "slug": "st-2026-05-03-cowork-connectors-skills-setup",
+    "synced_at": "2026-05-03T22:41:01.906897+00:00"
   },
   "phase4:tmp-2026-04-01-quantized-local-inference": {
     "hash": "6f80e0b6c3d6077df12a8315751d54d2a6ccb02daa699e92b348588a98109a36",
