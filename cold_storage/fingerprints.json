@@ -539,6 +539,16 @@
     "slug": "nb-2026-05-03-benchmark-hardware-local-ai",
     "synced_at": "2026-05-03T22:41:01.905640+00:00"
   },
+  "phase4:nb-2026-05-04-agentic-commerce-buyer-agent-readiness": {
+    "hash": "47ef3a524f27f4fba4d1513c95726a24332833c29fee8b150cccbd2c589ed1e3",
+    "slug": "nb-2026-05-04-agentic-commerce-buyer-agent-readiness",
+    "synced_at": "2026-05-04T22:56:57.553639+00:00"
+  },
+  "phase4:nb-2026-05-04-job-audit-four-buckets": {
+    "hash": "59cac719b43775fbef2db6b7c0e870b042d119586b2418230564cf0cb4434ae2",
+    "slug": "nb-2026-05-04-job-audit-four-buckets",
+    "synced_at": "2026-05-04T22:56:57.553255+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "088def761b98644bce4999c2def3334a62dbd18f60ed9ccbf59a177f567d0ffa",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -718,6 +728,11 @@
     "hash": "a1be818aad4a6e156686d315e2a9669ee276dbcf6e123207a5743bea0e457859",
     "slug": "nh-2026-05-03-superpowers-plan-first-skill",
     "synced_at": "2026-05-03T22:41:01.906578+00:00"
+  },
+  "phase4:nh-2026-05-04-voice-agent-claude-code-elevenlabs": {
+    "hash": "1c215a3e363d660793de8da1dccb2441062d38365d19aa66103dfa5f43ae473e",
+    "slug": "nh-2026-05-04-voice-agent-claude-code-elevenlabs",
+    "synced_at": "2026-05-04T22:56:57.553965+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "a80e67601d4d95ab70d5f2430da0c78024e833bc401be010287303bb0073a0a8",

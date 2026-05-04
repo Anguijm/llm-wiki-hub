@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**145 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**148 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -13,7 +13,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Status | Count |
 |---|---|
 | `done` | 44 |
-| `backlog` | 34 |
+| `backlog` | 37 |
 | `deferred` | 20 |
 | `adopted` | 17 |
 | `discarded` | 16 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 48 |
+| `(none)` | 51 |
 | `adopt` | 41 |
 | `deferred` | 20 |
 | `discard` | 15 |
@@ -35,8 +35,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @NateBJones | 46 |
-| @NateHerk | 32 |
+| @NateBJones | 48 |
+| @NateHerk | 33 |
 | @MLOps | 28 |
 | @DavidOndrej | 17 |
 | @Mark_Kashef | 7 |
@@ -55,6 +55,9 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-05-04 | [[experiments/nh-2026-05-04-voice-agent-claude-code-elevenlabs|Build a Knowledge-Grounded Voice Agent via Claude Code and ElevenLabs in a Single Session]] | @NateHerk | `-` |
+| 2026-05-04 | [[experiments/nb-2026-05-04-job-audit-four-buckets|Run a Four-Bucket Work Audit to Identify AI-Vulnerable Task Categories]] | @NateBJones | `-` |
+| 2026-05-04 | [[experiments/nb-2026-05-04-agentic-commerce-buyer-agent-readiness|Audit a Service or Tool for AI Agent Callability and Structured-Data Readiness]] | @NateBJones | `-` |
 | 2026-05-03 | [[experiments/st-2026-05-03-cowork-connectors-skills-setup|Configure Claude CoWork with project-scoped skills and scheduled tasks to replace recurring manual workflows]] | @ShawTalebi | `-` |
 | 2026-05-03 | [[experiments/nh-2026-05-03-superpowers-plan-first-skill|Add Superpowers skill to enforce plan-then-test coding discipline in Claude Code]] | @NateHerk | `-` |
 | 2026-05-03 | [[experiments/nh-2026-05-03-claude-design-course|Apply structured Claude prompt design patterns to YOLO loop system prompts]] | @NateHerk | `-` |
