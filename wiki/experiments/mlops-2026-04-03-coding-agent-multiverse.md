@@ -4,7 +4,7 @@
 
 Source: **[The Coding Agent Multiverse of Madness]()** · @MLOps · 2026-04-02
 
-**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `high`
+**Status:** `deferred` · **Effort:** `high`
 
 ---
 

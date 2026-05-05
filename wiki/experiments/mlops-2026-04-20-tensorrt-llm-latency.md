@@ -4,7 +4,7 @@
 
 Source: **[How We Cut LLM Latency 70% With TensorRT in Production](https://www.youtube.com/watch?v=wTrv1hMQbVg)** · MLOps · 2026-04-20
 
-**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `high`
+**Status:** `deferred` · **Effort:** `high`
 
 ---
 

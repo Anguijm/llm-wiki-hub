@@ -4,7 +4,7 @@
 
 Source: **[Beyond SWE-Bench Pro - Where do Agents go from Here?]()** · @MLOps · 2026-04-02
 
-**Status:** `adopted` · **Verdict:** `adopted` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 

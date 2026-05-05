@@ -4,7 +4,7 @@
 
 Source: **[I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.]()** · @NateBJones · 2026-04-02
 
-**Status:** `adopted` · **Verdict:** `adopted` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Seedance 2.0 + Claude Code Creates $10k Websites in Minutes](https://www.youtube.com/watch?v=NvxiSG34mPU)** · NateHerk · 2026-04-11
 
-**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 

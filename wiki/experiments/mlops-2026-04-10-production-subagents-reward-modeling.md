@@ -4,7 +4,7 @@
 
 Source: **[Production Sub-agents for LLM Post Training](https://www.youtube.com/watch?v=kPC4YOkIxVo)** · MLOps · 2026-04-10
 
-**Status:** `discarded` · **Verdict:** `discarded` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 

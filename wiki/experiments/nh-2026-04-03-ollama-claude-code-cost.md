@@ -4,7 +4,7 @@
 
 Source: **[Ollama + Claude Code = 99% CHEAPER]()** · @NateHerk · 2026-04-02
 
-**Status:** `discarded` · **Verdict:** `discarded` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 

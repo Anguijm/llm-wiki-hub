@@ -40,29 +40,29 @@
     "synced_at": "2026-04-14T15:01:17.377107+00:00"
   },
   "phase4:do-2026-04-03-gemma4-local-review": {
-    "hash": "385f10fbf7e8ab405f600c348dc0d283b812fbb5f95ff836e16b75ea8866ae6d",
+    "hash": "d68e22930a8eec70dedadc39077992cb231c7cbf78565b7a5430348eb924af66",
     "slug": "do-2026-04-03-gemma4-local-review",
-    "synced_at": "2026-04-14T15:01:17.396910+00:00"
+    "synced_at": "2026-05-05T22:55:14.187214+00:00"
   },
   "phase4:do-2026-04-07-minimal-agent-pattern": {
-    "hash": "5d3b4aeb59817766f38ffed1148bf1f265e2fa3daef4feb94f127c7b976b2843",
+    "hash": "27710ad0ef6bc8dfad88209f4654af2d5b3c09ab66b3980270a0017936160216",
     "slug": "do-2026-04-07-minimal-agent-pattern",
-    "synced_at": "2026-04-14T15:01:17.405169+00:00"
+    "synced_at": "2026-05-05T22:55:14.188531+00:00"
   },
   "phase4:do-2026-04-08-claude-mythos-agentic-eval": {
-    "hash": "24e33d3ecc516eb8ff6bbd986d03a934325e66cffd8376e1d62420324994d49c",
+    "hash": "86b6a51b648a9a1f0e1bb97cfea636cf6f2e0c4a01fe440ec983e4e868283e1d",
     "slug": "do-2026-04-08-claude-mythos-agentic-eval",
-    "synced_at": "2026-04-14T15:01:17.408197+00:00"
+    "synced_at": "2026-05-05T22:55:14.189434+00:00"
   },
   "phase4:do-2026-04-12-codex-zero-to-deployed": {
-    "hash": "9c7340f9ee3a4cd690dd2a417653025344e487858bb47d710cba979e0ba26b1b",
+    "hash": "90a67b9bbffe2fecd6c0fd351687ad3a49479a60055159fd80177dc668f07f44",
     "slug": "do-2026-04-12-codex-zero-to-deployed",
-    "synced_at": "2026-04-14T15:01:17.417467+00:00"
+    "synced_at": "2026-05-05T22:55:14.192132+00:00"
   },
   "phase4:do-2026-04-13-claude-swift-rork-mobile": {
-    "hash": "9873a4e36f4b69bf3b93b52b68a6cd6e46e55c69d38607fe80a3038e9a5c3ab1",
+    "hash": "f32d909f210cc3cfac44035d16028df0bdce156d9f7fe34a4f0288528685d031",
     "slug": "do-2026-04-13-claude-swift-rork-mobile",
-    "synced_at": "2026-04-22T22:48:15.132875+00:00"
+    "synced_at": "2026-05-05T22:55:14.192841+00:00"
   },
   "phase4:do-2026-04-16-claude-code-opus-47-agent": {
     "hash": "7c157e561f0f4ee9ffc5811dd1277e2e0ee030c9f8e73fc5ba9ff7a116e48dc3",
@@ -70,9 +70,9 @@
     "synced_at": "2026-04-22T22:48:15.134232+00:00"
   },
   "phase4:do-2026-04-20-hermes-agent": {
-    "hash": "6b0de330b6cf1b1219c6890ba8623730127a11e3ab5e8873f65f66af147a734b",
+    "hash": "7d66f493bc56965c5646a571b2f5a7d1dfdc7acfe44557ea27309fcca0b3abf2",
     "slug": "do-2026-04-20-hermes-agent",
-    "synced_at": "2026-04-22T22:48:15.137790+00:00"
+    "synced_at": "2026-05-05T22:55:14.195319+00:00"
   },
   "phase4:do-2026-04-24-deepseek-v4-benchmark": {
     "hash": "149398d2e2453135d75e998434fa2d4cf23451ec3170b529e68797a005e5f65b",
@@ -130,9 +130,9 @@
     "synced_at": "2026-04-22T22:48:15.134994+00:00"
   },
   "phase4:mk-2026-04-19-claude-design-industry": {
-    "hash": "1353734605a1269aa8bca6d7d31cf04f89c5935f4de9437d2b4174eb3bc53e9b",
+    "hash": "a3be90198845ff03141d90b9053cdc72f52f4c40e7949f37320559f6d2548d8a",
     "slug": "mk-2026-04-19-claude-design-industry",
-    "synced_at": "2026-04-22T22:48:15.136749+00:00"
+    "synced_at": "2026-05-05T22:55:14.194847+00:00"
   },
   "phase4:mk-2026-04-26-run-claude-codex-together": {
     "hash": "3d4d790feb6538297f8e51edd6409191830390d0de49c2c211bc030d93b7d742",
@@ -205,24 +205,24 @@
     "synced_at": "2026-04-14T15:01:17.394129+00:00"
   },
   "phase4:mlops-2026-04-03-beyond-swebench-evals": {
-    "hash": "d16040a616a5b653237578151132e528031e2eb1fafc10824e5756cd0b2658a9",
+    "hash": "9010234dd31e1aaecb32f2bb9f3a582efd4aa27bd3997d19f04cbfecf13c2560",
     "slug": "mlops-2026-04-03-beyond-swebench-evals",
-    "synced_at": "2026-04-14T15:01:17.394783+00:00"
+    "synced_at": "2026-05-05T22:55:14.186648+00:00"
   },
   "phase4:mlops-2026-04-03-coding-agent-multiverse": {
-    "hash": "113414f59218a11f5fffaf0c2a3e020f02d25d258df5dd4c0b0a954599fc9f01",
+    "hash": "3d5c685fe3c9168b0b07cab2f4cf0ffa43513936bd7957747b6fb256a25dafa9",
     "slug": "mlops-2026-04-03-coding-agent-multiverse",
-    "synced_at": "2026-04-14T15:01:17.393342+00:00"
+    "synced_at": "2026-05-05T22:55:14.186252+00:00"
   },
   "phase4:mlops-2026-04-03-mcp-day2-integrations": {
-    "hash": "c1fe3146dbd8dcd3cab51ec172e3d9cf53e6e6f627f4e02069743b52e39a46b9",
+    "hash": "0d6625ad7276d427b2c60816b9b0450f18559e8e96db353706ba9d370d181d75",
     "slug": "mlops-2026-04-03-mcp-day2-integrations",
-    "synced_at": "2026-04-14T15:01:17.392538+00:00"
+    "synced_at": "2026-05-05T22:55:14.185859+00:00"
   },
   "phase4:mlops-2026-04-03-self-learning-agent-memory": {
-    "hash": "56059a1ecda30b7244934deb43f3e5b3a27a48ee9193110ae410a0c6a374b8c4",
+    "hash": "6c9a8269a8c22abdd99b952e7bc73bf134f1cfacb4f4538fa42b065c48cbe1c8",
     "slug": "mlops-2026-04-03-self-learning-agent-memory",
-    "synced_at": "2026-04-14T15:01:17.395434+00:00"
+    "synced_at": "2026-05-05T22:55:14.186917+00:00"
   },
   "phase4:mlops-2026-04-03-self-learning-feedback-loop": {
     "hash": "c0b81c1bb0bdfaa27e3ba85e00a6229ea4a1dcebf11f640f77fe1103166cb0c2",
@@ -230,29 +230,29 @@
     "synced_at": "2026-04-14T15:01:17.396080+00:00"
   },
   "phase4:mlops-2026-04-07-agents-summit-evals-patterns": {
-    "hash": "6575d270d01d2af27d46516dff0dd9dde23baa3f9aeffac4bed5ca13e9b10ab1",
+    "hash": "7088ab47edb4cfe2202f4a06ded0a3bdcc91ae464b9d5c6b5449990bfdaa52fd",
     "slug": "mlops-2026-04-07-agents-summit-evals-patterns",
-    "synced_at": "2026-04-14T15:01:17.404512+00:00"
+    "synced_at": "2026-05-05T22:55:14.188290+00:00"
   },
   "phase4:mlops-2026-04-10-gpu-starvation-distributed-training": {
-    "hash": "132e3f071274438c45f7e6b2cd4a408fdd36a662bb0efbe54978e344654cbc58",
+    "hash": "66b25d9915e6b17e93c3a2e38f75a392cfd14be1fa60b85c80b8f6d5e309a9e0",
     "slug": "mlops-2026-04-10-gpu-starvation-distributed-training",
-    "synced_at": "2026-04-14T15:01:17.412432+00:00"
+    "synced_at": "2026-05-05T22:55:14.190822+00:00"
   },
   "phase4:mlops-2026-04-10-production-subagents-llm-posttraining": {
-    "hash": "ff386488c4f333ab0f8d34e19994974c16b0984f925ed68e587ef876de0f9d17",
+    "hash": "33fdaadcaa9861fd94c932a0c8006eaf26c57ee1ec2f4dc707ced8f2398c6d7f",
     "slug": "mlops-2026-04-10-production-subagents-llm-posttraining",
-    "synced_at": "2026-04-14T15:01:17.413052+00:00"
+    "synced_at": "2026-05-05T22:55:14.191037+00:00"
   },
   "phase4:mlops-2026-04-10-production-subagents-reward-modeling": {
-    "hash": "99c5bfb03fa8e040aac36328abed79adb8587724ae6848516db5db830089f7b4",
+    "hash": "4810e2a15c542d2a7b11f236221499ddce956d7bba6fe53cfffc9ba4468ae3ec",
     "slug": "mlops-2026-04-10-production-subagents-reward-modeling",
-    "synced_at": "2026-04-14T15:01:17.413620+00:00"
+    "synced_at": "2026-05-05T22:55:14.191247+00:00"
   },
   "phase4:mlops-2026-04-10-ship-agents-track2": {
-    "hash": "baca2ae08e2b1b752f23c24964860f7524463e4bf28cbe0364539906ea17ed7d",
+    "hash": "676672a2db60ebf3c05c360e87bb02a3c369c34f10a9d7cdccb9222f20396b5b",
     "slug": "mlops-2026-04-10-ship-agents-track2",
-    "synced_at": "2026-04-14T15:01:17.411857+00:00"
+    "synced_at": "2026-05-05T22:55:14.190607+00:00"
   },
   "phase4:mlops-2026-04-20-modern-software-engineer": {
     "hash": "2876cb9acd4bb4034b2029c3d852dfd6e892c2baa12b38d8dd5b0b4b6b32fc3c",
@@ -265,9 +265,9 @@
     "synced_at": "2026-04-22T22:48:15.137555+00:00"
   },
   "phase4:mlops-2026-04-20-tensorrt-llm-latency": {
-    "hash": "0414e2077be438b88b58901adae7e37b7893208876da0b535ebcec0bd80807ed",
+    "hash": "8db21a36ea4678b54c1429c26fd7da3ddc325ca692bb725832d16d544469af66",
     "slug": "mlops-2026-04-20-tensorrt-llm-latency",
-    "synced_at": "2026-04-22T22:48:15.137050+00:00"
+    "synced_at": "2026-05-05T22:55:14.195068+00:00"
   },
   "phase4:mlops-2026-04-22-evals-still-matter-2026": {
     "hash": "33acfe77599da4bb3ec0a288de672b8b6431605f6bdbe19786eee9dfc0da8535",
@@ -370,9 +370,9 @@
     "synced_at": "2026-04-14T15:01:17.391063+00:00"
   },
   "phase4:nb-2026-04-03-agent-guardrails-leak": {
-    "hash": "61e62c73db94f2959834a9473dc1d7fbbcf5ab9ce21dcaa383eae757a7fb894c",
+    "hash": "e6fa2660fb35e7b69b2699f36a1e03cdb9a90e0bd4f87527725f7e292f2b97b1",
     "slug": "nb-2026-04-03-agent-guardrails-leak",
-    "synced_at": "2026-04-14T15:01:17.391761+00:00"
+    "synced_at": "2026-05-05T22:55:14.185395+00:00"
   },
   "phase4:nb-2026-04-04-agent-recipe-presets": {
     "hash": "3dbbc8f8e843946087e089112d6560139ce37e65cd5411ad634a11c8a967a4c6",
@@ -395,29 +395,29 @@
     "synced_at": "2026-04-14T15:01:17.400521+00:00"
   },
   "phase4:nb-2026-04-07-ephemeral-layers-stack-audit": {
-    "hash": "aa7bccf02b8d13212d5df0be445fc7b41e635437408902c49447180d712c8f74",
+    "hash": "10c6dde27258e089cb425bc9957a387cfd44f704dcd95ae9a9f6664f1a2f09dc",
     "slug": "nb-2026-04-07-ephemeral-layers-stack-audit",
-    "synced_at": "2026-04-14T15:01:17.403785+00:00"
+    "synced_at": "2026-05-05T22:55:14.188062+00:00"
   },
   "phase4:nb-2026-04-07-polymarket-bot-disruption-audit": {
-    "hash": "b44120920e8911aef24ed5b542afe46046d1adec5328260362eacfa552b8474f",
+    "hash": "b5f240119e1a2ab73dfe5fca3a628bbf8ec023ec2a588220d0784a5c44093891",
     "slug": "nb-2026-04-07-polymarket-bot-disruption-audit",
-    "synced_at": "2026-04-14T15:01:17.403060+00:00"
+    "synced_at": "2026-05-05T22:55:14.187827+00:00"
   },
   "phase4:nb-2026-04-08-analyze-leaked-code-patterns": {
-    "hash": "4b82cfe964245ddcc9fe9ec0fc7d14a63bc230d3f0d796f232a44ba1829d7e4f",
+    "hash": "d3d2e3d837f51d5dc49967346172c042c71a89fcc1b51ae82627ba4311dc2b18",
     "slug": "nb-2026-04-08-analyze-leaked-code-patterns",
-    "synced_at": "2026-04-14T15:01:17.407524+00:00"
+    "synced_at": "2026-05-05T22:55:14.189201+00:00"
   },
   "phase4:nb-2026-04-10-five-safe-places-ai": {
-    "hash": "0bbafda8b4695c56862ea17c34833c5189752a89925f3906dac4faceef6deff1",
+    "hash": "a325063eaeb66fe998bcd58a66009256a35c7418a273b6bc9fbbad9b744e94e6",
     "slug": "nb-2026-04-10-five-safe-places-ai",
-    "synced_at": "2026-04-14T15:01:17.411232+00:00"
+    "synced_at": "2026-05-05T22:55:14.190393+00:00"
   },
   "phase4:nb-2026-04-11-google-quantization-inference": {
-    "hash": "d819f2ecc552257e3a1e7d8458370c94552924f22ff1cee6a34c1c272fe49aa5",
+    "hash": "c29c230eee61903ce09b7103608c65cc9ec5ef7070a91f2bfcd530dc3c64749c",
     "slug": "nb-2026-04-11-google-quantization-inference",
-    "synced_at": "2026-04-14T15:01:17.415486+00:00"
+    "synced_at": "2026-05-05T22:55:14.191690+00:00"
   },
   "phase4:nb-2026-04-12-ipo-trap-commentary": {
     "hash": "8d0778cb057dffc3462b39bf1c5db3fa58ca8f5f448f302167c04264f303cccb",
@@ -435,9 +435,9 @@
     "synced_at": "2026-04-22T22:48:15.132536+00:00"
   },
   "phase4:nb-2026-04-14-track-model-drops-against-product-viability": {
-    "hash": "be2826fc0b078a2a3113083420e631f1818d3ac971655a3e7f100391e8f409b4",
+    "hash": "a393fb26825194eaf1f692b675995d347aaae0c4985d1191626a1fcb51418105",
     "slug": "nb-2026-04-14-track-model-drops-against-product-viability",
-    "synced_at": "2026-04-22T22:48:15.133454+00:00"
+    "synced_at": "2026-05-05T22:55:14.193296+00:00"
   },
   "phase4:nb-2026-04-16-agent-failure-mode-audit": {
     "hash": "8974a38f9d0d7ef0cc11ceb14a4f6f621d918944a7c436f1763e4a9f6d5c14a0",
@@ -450,9 +450,9 @@
     "synced_at": "2026-04-22T22:48:15.133697+00:00"
   },
   "phase4:nb-2026-04-17-memory-control-layer": {
-    "hash": "d1af0251870275a9cbe20d94aefd3d2687fd408dfc7f6f03bba37a358b54fcf0",
+    "hash": "58ccbd047d4f7a7afb8381126bc260476f63684ca6d627b13ab5e4e272857b16",
     "slug": "nb-2026-04-17-memory-control-layer",
-    "synced_at": "2026-04-22T22:48:15.135234+00:00"
+    "synced_at": "2026-05-05T22:55:14.194057+00:00"
   },
   "phase4:nb-2026-04-19-ai-replaced-managers": {
     "hash": "cd759678629c6863f2efad6eb6f70a893fe4b8e3a33d71cfa0f80f5b5af59cb9",
@@ -549,6 +549,11 @@
     "slug": "nb-2026-05-04-job-audit-four-buckets",
     "synced_at": "2026-05-04T22:56:57.553255+00:00"
   },
+  "phase4:nb-2026-05-05-proactive-agent-load-test": {
+    "hash": "76090ad5385cae61206bdc4a810c220a69944bd27d368ed5d546859cf3e7179d",
+    "slug": "nb-2026-05-05-proactive-agent-load-test",
+    "synced_at": "2026-05-05T22:55:14.196461+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "088def761b98644bce4999c2def3334a62dbd18f60ed9ccbf59a177f567d0ffa",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -575,9 +580,9 @@
     "synced_at": "2026-04-14T15:01:17.389005+00:00"
   },
   "phase4:nh-2026-04-03-ollama-claude-code-cost": {
-    "hash": "010f3b6d0ec3e5ac2d6f3af9d74c0982d091adb17d115a274cdbc08391ec1554",
+    "hash": "f72953cf9efe1893ca1f5b005c53d124dcd364c2202175416c031720417645fc",
     "slug": "nh-2026-04-03-ollama-claude-code-cost",
-    "synced_at": "2026-04-14T15:01:17.397571+00:00"
+    "synced_at": "2026-05-05T22:55:14.187486+00:00"
   },
   "phase4:nh-2026-04-05-karpathy-llm-wiki-hot-cache": {
     "hash": "7872c2b82b1b50e095d7c5b3b90b285561c978037c7c9719f2d0a10abc6c299b",
@@ -585,59 +590,59 @@
     "synced_at": "2026-04-14T15:01:17.401469+00:00"
   },
   "phase4:nh-2026-04-07-claude-code-planning-mode": {
-    "hash": "94357cfbb26ee6886f976d904d27d19fa03069300f5cd823448470693c470834",
+    "hash": "f24e379b4ac955d48f86d978203c4e502489d082ede1d9116ae8b5c87f940391",
     "slug": "nh-2026-04-07-claude-code-planning-mode",
-    "synced_at": "2026-04-14T15:01:17.405968+00:00"
+    "synced_at": "2026-05-05T22:55:14.188755+00:00"
   },
   "phase4:nh-2026-04-07-ollama-claude-code-cost-reduction": {
-    "hash": "c949ffbe1ae29c4ea4648957a3015fd930d967ec6ec8d5c28abdaea941c4357b",
+    "hash": "189903c86d06cd0813b454104f11e6b61f8dfafca74eef937cb9948bd5cea496",
     "slug": "nh-2026-04-07-ollama-claude-code-cost-reduction",
-    "synced_at": "2026-04-14T15:01:17.406744+00:00"
+    "synced_at": "2026-05-05T22:55:14.188979+00:00"
   },
   "phase4:nh-2026-04-08-claude-internet-tool-integration": {
-    "hash": "b307a6bc8bf42142f2c35fb241f74da7293f67ac300336b50a7a1243c10ddb29",
+    "hash": "0271cf6a641265bf1836c3b3db2a2be6414f751e94e8d8d26300dce04e04cb1f",
     "slug": "nh-2026-04-08-claude-internet-tool-integration",
-    "synced_at": "2026-04-14T15:01:17.409167+00:00"
+    "synced_at": "2026-05-05T22:55:14.189711+00:00"
   },
   "phase4:nh-2026-04-09-claude-managed-agents": {
-    "hash": "b5083882314ea975ac162148a4594d9025e0ce66ac6b9716a331cac0297210ca",
+    "hash": "f0a1e5787f1d2d7d2775284ba58cea98403a99fce80ed3c51dda4c276951b8c4",
     "slug": "nh-2026-04-09-claude-managed-agents",
-    "synced_at": "2026-04-14T15:01:17.410638+00:00"
+    "synced_at": "2026-05-05T22:55:14.190163+00:00"
   },
   "phase4:nh-2026-04-09-openclaw-trading-agent": {
-    "hash": "44da7dd20911409cf6ebe4e3c59552c7e48b6a72c4bf57b542abb0e78d579fc1",
+    "hash": "07a48b6ee73abb01e39311205e5cb7c6fdc46ca4e21396ba1883b1348de5246b",
     "slug": "nh-2026-04-09-openclaw-trading-agent",
-    "synced_at": "2026-04-14T15:01:17.410032+00:00"
+    "synced_at": "2026-05-05T22:55:14.189938+00:00"
   },
   "phase4:nh-2026-04-10-claude-stop-using-best-model": {
-    "hash": "3e3fc806b4102006874ecc05c8fda33375fc50f06e62ad22b4be6ac31b920862",
+    "hash": "9890380baed355df51ca4b3b1633e1ece5c680b182f88a1a2d075df173d18d31",
     "slug": "nh-2026-04-10-claude-stop-using-best-model",
-    "synced_at": "2026-04-14T15:01:17.414228+00:00"
+    "synced_at": "2026-05-05T22:55:14.191474+00:00"
   },
   "phase4:nh-2026-04-11-seedance-claude-code-websites": {
-    "hash": "ec36384b55ea850901191f0ce5980ce213c80ad9d340c0a2ba15789582d6f91b",
+    "hash": "81d1772cb79b31ee03d23b419833592c8b2587eaea1141093976ab2dc262d3cf",
     "slug": "nh-2026-04-11-seedance-claude-code-websites",
-    "synced_at": "2026-04-14T15:01:17.416233+00:00"
+    "synced_at": "2026-05-05T22:55:14.191906+00:00"
   },
   "phase4:nh-2026-04-12-claude-code-plugin-10x": {
-    "hash": "5373e0e35e9e7dcb1d7771c8ebb39e495f4b824120278bc54b55a7892021f87b",
+    "hash": "7aa1305ae1bca6e0c1cbe787c335aab6bcb195a67b2b57dc922717adaeee6926",
     "slug": "nh-2026-04-12-claude-code-plugin-10x",
-    "synced_at": "2026-04-14T15:01:17.418705+00:00"
+    "synced_at": "2026-05-05T22:55:14.192374+00:00"
   },
   "phase4:nh-2026-04-13-claude-code-vs-antigravity-benchmark": {
-    "hash": "e027c6307f902cdc9c0daab1613c4750a572073a6247633571069cc988fd23be",
+    "hash": "2cdcbc1bb22c4edf17cfcd4e6383c9b1e40b3e21cdcbaae2892b230c1b257cd5",
     "slug": "nh-2026-04-13-claude-code-vs-antigravity-benchmark",
-    "synced_at": "2026-04-22T22:48:15.133175+00:00"
+    "synced_at": "2026-05-05T22:55:14.193065+00:00"
   },
   "phase4:nh-2026-04-16-claude-code-routines-scheduler": {
-    "hash": "d7e775c7ed4922df0ec99dde53fb128ec4066e945cf31ed5f8ebe4eb059f4697",
+    "hash": "75d49a7bcf9bebfd7d0e8f1c3807cb25023acc760c8fcbc64750db00ddebd759",
     "slug": "nh-2026-04-16-claude-code-routines-scheduler",
-    "synced_at": "2026-04-22T22:48:15.134477+00:00"
+    "synced_at": "2026-05-05T22:55:14.193597+00:00"
   },
   "phase4:nh-2026-04-16-claude-heygen-content-pipeline": {
-    "hash": "113002e31675332007611eb43bcd0008172cfccf522744697fc568fac38305d2",
+    "hash": "98f263e28f9879a39d0a488e73795a88c4d08a9f2429a9bfad34bb9f61722e49",
     "slug": "nh-2026-04-16-claude-heygen-content-pipeline",
-    "synced_at": "2026-04-22T22:48:15.134737+00:00"
+    "synced_at": "2026-05-05T22:55:14.193818+00:00"
   },
   "phase4:nh-2026-04-19-claude-24-7-trader": {
     "hash": "25eac3db146a9cd6f5080d787a454f36a095f4cda195c0b1dd052f8b87d3fb23",
@@ -645,14 +650,14 @@
     "synced_at": "2026-04-22T22:48:15.136487+00:00"
   },
   "phase4:nh-2026-04-19-claude-design-unstoppable": {
-    "hash": "dd14127eb3f676600926f38a05e992de45b6b5f34c4b20dd9cd2767b903665be",
+    "hash": "b7126486744c3793fc2f1385c619a99b96f377212fa48d022a21b71b2b496b8c",
     "slug": "nh-2026-04-19-claude-design-unstoppable",
-    "synced_at": "2026-04-22T22:48:15.136251+00:00"
+    "synced_at": "2026-05-05T22:55:14.194537+00:00"
   },
   "phase4:nh-2026-04-19-claude-video-editing": {
-    "hash": "8c6bc778c4aa180d5ce41e364819e220a9d967e6906a8827f87ce2bceb8b10a2",
+    "hash": "9037dbd9a09e6adb7e1c52941311ad9428f1c21c58e904ed97edbb7b1c306c49",
     "slug": "nh-2026-04-19-claude-video-editing",
-    "synced_at": "2026-04-22T22:48:15.135994+00:00"
+    "synced_at": "2026-05-05T22:55:14.194306+00:00"
   },
   "phase4:nh-2026-04-20-claude-session-limit": {
     "hash": "a7a8d017365ca147cf99897b84e4159f51d0a887966536f892d2e704421dc02f",
@@ -665,9 +670,9 @@
     "synced_at": "2026-04-22T22:48:15.138309+00:00"
   },
   "phase4:nh-2026-04-21-claude-design-prompt-structure": {
-    "hash": "8bce4860dc98f7357b510655d2c99db1da84e17b834afc71f2af4bc0f81f1fd6",
+    "hash": "c8bec1bb7d627e27bbf23b86d44f76ac21b89bf8736b776ba18d9528b38e5888",
     "slug": "nh-2026-04-21-claude-design-prompt-structure",
-    "synced_at": "2026-04-22T22:48:15.138550+00:00"
+    "synced_at": "2026-05-05T22:55:14.195587+00:00"
   },
   "phase4:nh-2026-04-22-openai-image2-use-cases": {
     "hash": "c7e0717cca47f71f1b701585051bc1f4a3bacec1a3695e49151f8b12fa07dcc6",
@@ -734,6 +739,11 @@
     "slug": "nh-2026-05-04-voice-agent-claude-code-elevenlabs",
     "synced_at": "2026-05-04T22:56:57.553965+00:00"
   },
+  "phase4:nh-2026-05-05-higgsfield-claude-mcp-creative-agency": {
+    "hash": "6f2d17521ee2ac4037348e1ddf32083646eb46e14cdd49f53220e3b2fe19a37b",
+    "slug": "nh-2026-05-05-higgsfield-claude-mcp-creative-agency",
+    "synced_at": "2026-05-05T22:55:14.196665+00:00"
+  },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "a80e67601d4d95ab70d5f2430da0c78024e833bc401be010287303bb0073a0a8",
     "slug": "st-2026-04-05-skill-creator-meta-agent",
@@ -745,9 +755,9 @@
     "synced_at": "2026-04-14T15:01:17.419893+00:00"
   },
   "phase4:st-2026-04-12-claude-video-editing": {
-    "hash": "0372d078843884c8b13b646d4051e18b4ee87985af6c0c93a6b861f0009974c6",
+    "hash": "185c227fe768ac1515d58ed9d43f2e28a8665288db1d26159e7fef085e795884",
     "slug": "st-2026-04-12-claude-video-editing",
-    "synced_at": "2026-04-14T15:01:17.419285+00:00"
+    "synced_at": "2026-05-05T22:55:14.192593+00:00"
   },
   "phase4:st-2026-05-03-cowork-connectors-skills-setup": {
     "hash": "d9366dd13a9f37e5b2b3d13ba3bf5cbb4c96bc72f9b9adfee0d7334b455cc1c2",

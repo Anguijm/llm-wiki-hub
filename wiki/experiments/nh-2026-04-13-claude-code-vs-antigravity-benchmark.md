@@ -4,7 +4,7 @@
 
 Source: **[100 Hours Testing Claude Code vs Antigravity (honest results)](https://www.youtube.com/watch?v=99VHENEKA9o)** · NateHerk · 2026-04-13
 
-**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `high`
+**Status:** `deferred` · **Effort:** `high`
 
 ---
 

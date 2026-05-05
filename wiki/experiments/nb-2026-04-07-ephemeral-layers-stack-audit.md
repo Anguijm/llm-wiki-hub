@@ -4,7 +4,7 @@
 
 Source: **[You're Building AI Agents on Layers That Won't Exist in 18 Months. (What this Means for You)](https://www.youtube.com/watch?v=7HP1jFJ9W1c)** · NateBJones · 2026-04-07
 
-**Status:** `adopted` · **Verdict:** `adopted` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 

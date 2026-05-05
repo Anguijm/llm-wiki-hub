@@ -4,7 +4,7 @@
 
 Source: **[This 100% minimal AI Agent can do anything… just watch](https://www.youtube.com/watch?v=9KYfx_GzY1o)** · DavidOndrej · 2026-04-07
 
-**Status:** `adopted` · **Verdict:** `adopted` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 

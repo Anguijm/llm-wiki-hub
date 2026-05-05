@@ -4,7 +4,7 @@
 
 Source: **[Ship Agents  A Virtual Conference Track 2](https://www.youtube.com/watch?v=nKDKhbPcFcs)** · MLOps · 2026-04-10
 
-**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 

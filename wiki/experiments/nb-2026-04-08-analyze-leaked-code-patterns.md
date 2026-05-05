@@ -4,7 +4,7 @@
 
 Source: **[I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.](https://www.youtube.com/watch?v=ro5jpbi5uYc)** · NateBJones · 2026-04-08
 
-**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 

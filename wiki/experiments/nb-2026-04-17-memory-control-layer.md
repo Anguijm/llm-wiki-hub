@@ -4,7 +4,7 @@
 
 Source: **[Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.](https://www.youtube.com/watch?v=4KAF72BTyCE)** · NateBJones · 2026-04-17
 
-**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 

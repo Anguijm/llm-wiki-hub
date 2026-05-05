@@ -4,7 +4,7 @@
 
 Source: **[There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](https://www.youtube.com/watch?v=ib2m9HVX7as)** · NateBJones · 2026-04-10
 
-**Status:** `adopted` · **Verdict:** `adopted` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 

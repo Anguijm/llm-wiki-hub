@@ -4,7 +4,7 @@
 
 Source: **[3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](https://www.youtube.com/watch?v=0vdlwOK_Qdk)** · NateBJones · 2026-04-14
 
-**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Fixing GPU Starvation in Large-Scale Distributed Training](https://www.youtube.com/watch?v=1WFffCGhm7U)** · MLOps · 2026-04-10
 
-**Status:** `discarded` · **Verdict:** `discarded` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 

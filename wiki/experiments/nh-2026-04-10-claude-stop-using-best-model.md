@@ -4,7 +4,7 @@
 
 Source: **[Claude Just Told Us to Stop Using Their Best Model](https://www.youtube.com/watch?v=1EPsUXSManU)** · NateHerk · 2026-04-10
 
-**Status:** `adopted` · **Verdict:** `adopted` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 

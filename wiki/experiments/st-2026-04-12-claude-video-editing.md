@@ -4,7 +4,7 @@
 
 Source: **[How I Taught Claude To Edit My YouTube Videos](https://www.youtube.com/watch?v=wmIO2rs-AIs)** · ShawTalebi · 2026-04-12
 
-**Status:** `discarded` · **Verdict:** `discarded` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 

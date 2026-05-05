@@ -4,7 +4,7 @@
 
 Source: **[Claude + HeyGen Just Changed Content Creation Forever](https://www.youtube.com/watch?v=EbJu9T30nfI)** · NateHerk · 2026-04-16
 
-**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 

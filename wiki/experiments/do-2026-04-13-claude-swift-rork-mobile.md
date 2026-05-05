@@ -4,7 +4,7 @@
 
 Source: **[Claude + Swift + Rork = insane mobile apps](https://www.youtube.com/watch?v=rQY-yB-Gob4)** · DavidOndrej · 2026-04-13
 
-**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `low`
+**Status:** `deferred` · **Effort:** `low`
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Google's New Quantization is a Game Changer](https://www.youtube.com/watch?v=erV_8yrGMA8)** · NateBJones · 2026-04-11
 
-**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Hermes Agent is insane… 100,000+ github stars](https://www.youtube.com/watch?v=4Sln_6K2z8c)** · DavidOndrej · 2026-04-20
 
-**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 

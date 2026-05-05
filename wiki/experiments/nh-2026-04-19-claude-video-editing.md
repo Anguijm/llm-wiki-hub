@@ -4,7 +4,7 @@
 
 Source: **[Claude Just Destroyed Every Video Editing Tool](https://www.youtube.com/watch?v=ZNbgOhxhzXg)** · NateHerk · 2026-04-19
 
-**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 

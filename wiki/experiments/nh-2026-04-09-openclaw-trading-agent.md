@@ -4,7 +4,7 @@
 
 Source: **[I Gave OpenClaw $10,000 to Trade Stocks](https://www.youtube.com/watch?v=eu8UJtuIi-E)** · NateHerk · 2026-04-09
 
-**Status:** `discarded` · **Verdict:** `discarded` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 

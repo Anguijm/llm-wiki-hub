@@ -4,7 +4,7 @@
 
 Source: **[How to Fix Your Agent's Amnesia: Lessons from Building a Self-learning Agent]()** · @MLOps · 2026-04-02
 
-**Status:** `adopted` · **Verdict:** `adopted` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[I Tested Claude's New Managed Agents... What You Need To Know](https://www.youtube.com/watch?v=27Y44JYXZJ8)** · NateHerk · 2026-04-09
 
-**Status:** `adopted` · **Verdict:** `adopted` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 

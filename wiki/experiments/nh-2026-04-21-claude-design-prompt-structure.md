@@ -4,7 +4,7 @@
 
 Source: **[Claude Design Builds Beautiful 3D Websites Instantly (full course)](https://www.youtube.com/watch?v=TcFeSjwTo7g)** · Nate Herk · 2026-04-21
 
-**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 

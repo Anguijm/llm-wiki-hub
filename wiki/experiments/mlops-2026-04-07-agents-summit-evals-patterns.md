@@ -4,7 +4,7 @@
 
 Source: **[AI Agents Summit Seattle](https://www.youtube.com/watch?v=bha7cnTh534)** · MLOps · 2026-04-07
 
-**Status:** `discarded` · **Verdict:** `discarded` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 

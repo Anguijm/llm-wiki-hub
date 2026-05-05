@@ -4,7 +4,7 @@
 
 Source: **[Claude Code Just Dropped Routines. 24/7 Agents.](https://www.youtube.com/watch?v=ehg4fhydTgs)** · NateHerk · 2026-04-16
 
-**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 

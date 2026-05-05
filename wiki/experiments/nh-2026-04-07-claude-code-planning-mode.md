@@ -4,7 +4,7 @@
 
 Source: **[Planning In Claude Code Just Got a Huge Upgrade](https://www.youtube.com/watch?v=T4fXb3sbJIo)** · NateHerk · 2026-04-07
 
-**Status:** `adopted` · **Verdict:** `adopted` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Gemma 4 is insane… best open-source model ever?!]()** · @DavidOndrej · 2026-04-02
 
-**Status:** `discarded` · **Verdict:** `discarded` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 

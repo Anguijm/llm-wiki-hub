@@ -4,7 +4,7 @@
 
 Source: **[Claude's New AI Just Changed the Internet Forever](https://www.youtube.com/watch?v=DG1wRgEpdO4)** · NateHerk · 2026-04-08
 
-**Status:** `discarded` · **Verdict:** `discarded` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 

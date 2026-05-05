@@ -4,7 +4,7 @@
 
 Source: **[CODEX FULL COURSE: From Zero to Deployed App (2026)](https://www.youtube.com/watch?v=hoCWD1aI60Y)** · DavidOndrej · 2026-04-12
 
-**Status:** `discarded` · **Verdict:** `discarded` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 

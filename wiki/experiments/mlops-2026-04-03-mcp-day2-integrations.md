@@ -4,7 +4,7 @@
 
 Source: **[MCP Dev Summit [Day 2] ft AWS, Docker, & Datadog]()** · @MLOps · 2026-04-02
 
-**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `high`
+**Status:** `deferred` · **Effort:** `high`
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Claude Design Just Shook Up the Design Industry](https://www.youtube.com/watch?v=TJRsTwi1McI)** · Mark_Kashef · 2026-04-19
 
-**Status:** `deferred` · **Verdict:** `deferred` · **Effort:** `low`
+**Status:** `deferred` · **Effort:** `low`
 
 ---
 

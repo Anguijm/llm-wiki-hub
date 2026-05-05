@@ -4,7 +4,7 @@
 
 Source: **[Claude Mythos might actually be AGI… wtf](https://www.youtube.com/watch?v=ZruZhMdFdl8)** · DavidOndrej · 2026-04-08
 
-**Status:** `adopted` · **Verdict:** `adopted` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
