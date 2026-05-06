@@ -4,7 +4,7 @@
 
 Source: **[Everyone is switching to Hermes Agent… you should too.](https://www.youtube.com/watch?v=1nDiiXfMUK4)** · DavidOndrej · 2026-05-03
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker advocated switching to Hermes Agent, describing its advantages over othe
 
 Could replace or augment the orchestration layer in our YOLO loop; worth benchmarking against current Claude Code / LangChain setup on our standard task suite.
 
+## Notes
+
+[2026-05-06T19:43:19Z] DISCARD: Vague reactor card — 'switch frameworks' without concrete migration spec or comparable benchmarks.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Triage 2026-05-05: Vague reactor card — 'switch frameworks' without concrete migration spec or comparable benchmarks. |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Getting Humans Out of the Way: How to Work with Teams of Agents](https://www.youtube.com/watch?v=ie1M8p-SVfM)** · MLOps · 2026-05-03
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `deferred` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker outlined an architecture and coordination patterns for teams of agents d
 
 Directly addresses YOLO loop autonomy: if we can reduce mid-loop human interrupts in our own Claude Code pipelines, we increase the 'YOLO' factor and get longer unattended runs.
 
+## Notes
+
+[2026-05-06T19:43:19Z] DEFER: Thought-piece on agent autonomy. Needs a concrete metric (e.g., 'human interrupts per build') before it's actionable.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Triage 2026-05-05: Thought-piece on agent autonomy. Needs a concrete metric (e.g., 'human interrupts per build') before it's actionable. |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[RTX 5090, Mac Studio, or DGX Spark? I tried all three.](https://www.youtube.com/watch?v=iUSdS-6uwr4)** · NateBJones · 2026-05-03
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `deferred` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker acquired and tested all three hardware platforms (RTX 5090, Mac Studio, 
 
 Choosing local inference hardware directly affects iteration speed in the YOLO loop; faster local inference means tighter feedback cycles without API latency or cost.
 
+## Notes
+
+[2026-05-06T19:43:19Z] DEFER: Big purchase decision, not a code experiment. Defer until there's a clear cost/latency case for moving inference local.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Triage 2026-05-05: Big purchase decision, not a code experiment. Defer until there's a clear cost/latency case for moving inference local. |
 
 ---
 

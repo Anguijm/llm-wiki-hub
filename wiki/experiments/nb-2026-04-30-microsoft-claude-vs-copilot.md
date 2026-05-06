@@ -4,7 +4,7 @@
 
 Source: **[Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.](https://www.youtube.com/watch?v=JvCtGjrn_N0)** · NateBJones · 2026-04-30
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker reported that Microsoft is internally pitting Claude against GitHub Copi
 
 Directly applicable to the YOLO loop's model-selection layer. We can run parallel completions from Claude and our current default model on loop-generated prompts and score outputs, feeding results back into model routing logic.
 
+## Notes
+
+[2026-05-06T19:43:19Z] DISCARD: Pure news commentary — describes Microsoft's internal benchmarking process, no actionable experiment for our loop.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-30 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Triage 2026-05-05: Pure news commentary — describes Microsoft's internal benchmarking process, no actionable experiment for our loop. |
 
 ---
 

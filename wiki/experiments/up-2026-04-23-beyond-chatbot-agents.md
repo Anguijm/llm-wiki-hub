@@ -4,7 +4,7 @@
 
 Source: **[Peter Smith & RK Sharma - Beyond the Chatbot | [un]prompted 2026](https://www.youtube.com/watch?v=zn2u-V5DriA)** · [un]prompted · 2026-04-23
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `deferred` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Speakers laid out an architectural pattern for moving from reactive chatbot inte
 
 Directly addresses a known YOLO loop limitation — state is currently ephemeral per run. This experiment would test whether adding a persistence layer meaningfully improves long-horizon task success.
 
+## Notes
+
+[2026-05-06T19:43:19Z] DEFER: Architectural rabbit-hole — 'persistent-state agent layer' would be a from-scratch redesign. Revisit when the current shape stops scaling.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Triage 2026-05-05: Architectural rabbit-hole — 'persistent-state agent layer' would be a from-scratch redesign. Revisit when the current shape stops scaling. |
 
 ---
 

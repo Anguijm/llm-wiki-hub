@@ -4,7 +4,7 @@
 
 Source: **[Raghu Yeluri - The Advent of Confidential AI | [un]prompted 2026](https://www.youtube.com/watch?v=uvpXwLBF1mM)** · [un]prompted · 2026-04-23
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `deferred` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker from Intel described the confidential AI stack using Trusted Execution E
 
 Relevant if the YOLO loop is extended to enterprise or regulated-data contexts — TEE deployment would be a prerequisite for certain customers and is worth scoping now.
 
+## Notes
+
+[2026-05-06T19:43:19Z] DEFER: TEE/confidential inference is overkill for the YOLO loop's current threat model. Revisit if we ever process external customer data.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Triage 2026-05-05: TEE/confidential inference is overkill for the YOLO loop's current threat model. Revisit if we ever process external customer data. |
 
 ---
 

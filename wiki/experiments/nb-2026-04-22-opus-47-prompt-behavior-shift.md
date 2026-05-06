@@ -4,7 +4,7 @@
 
 Source: **[Your Prompts Didn't Change. Opus 4.7 Did.](https://www.youtube.com/watch?v=tJB_8mfRgCo)** · NateBJones · 2026-04-22
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker demonstrated that Opus 4.7 exhibits meaningfully different behavior on t
 
 The YOLO loop uses Claude as a core reasoning engine; if Opus 4.7 changed how it interprets system prompts or tool-use instructions, our loop may be producing subtly different outputs without triggering any existing alerts.
 
+## Notes
+
+[2026-05-06T19:43:19Z] DISCARD: Aged out — Opus 4.7 has been live 2+ weeks; behavioral regressions would have surfaced by now via the existing council pipeline.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-22 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Triage 2026-05-05: Aged out — Opus 4.7 has been live 2+ weeks; behavioral regressions would have surfaced by now via the existing council pipeline. |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.](https://www.youtube.com/watch?v=dxq7WtWxi44)** · NateBJones · 2026-04-22
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker compared Karpathy's wiki-based knowledge retrieval approach to Open Brai
 
 Directly relevant to how the YOLO loop sources context and knowledge; choosing the wrong retrieval backend could cause silent failures during complex coding tasks where correctness is hardest to verify.
 
+## Notes
+
+[2026-05-06T19:43:19Z] DEFER: Reactor commentary on Karpathy. Now that @AndrejKarpathy is in the channel roster (since 2026-04-30), we get his content directly.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-22 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Triage 2026-05-05: Reactor commentary on Karpathy. Now that @AndrejKarpathy is in the channel roster (since 2026-04-30), we get his content directly. |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Your Apps Don't Need an API Anymore. Codex Just Proved It.](https://www.youtube.com/watch?v=2d9ZmA-4QzU)** · @NateBJones · 2026-04-23
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker demonstrated using OpenAI Codex to perform actions and retrieve/manipula
 
 Directly applicable to the YOLO loop's scaffolding layer — could replace or simplify the tool-calling and API plumbing that wraps agent actions, letting Codex operate closer to raw environment.
 
+## Notes
+
+[2026-05-06T19:43:19Z] DISCARD: Vague philosophy card — 'replace REST API with Codex direct execution' without concrete API surface or migration plan.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Triage 2026-05-05: Vague philosophy card — 'replace REST API with Codex direct execution' without concrete API surface or migration plan. |
 
 ---
 

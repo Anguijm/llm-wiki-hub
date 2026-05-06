@@ -4,7 +4,7 @@
 
 Source: **[Claude Video Editing Just Became Unrecognizable](https://www.youtube.com/watch?v=Aw3BkmhYu4I)** · @NateHerk · 2026-04-23
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `deferred` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker demonstrated Claude controlling video editing software or pipelines thro
 
 Tests the boundary of the YOLO loop's agentic reach into creative/media tooling — relevant if the loop needs to produce or modify video artifacts as part of a pipeline output.
 
+## Notes
+
+[2026-05-06T19:43:19Z] DEFER: Not aligned with the YOLO loop's domain (single-file HTML tools + flagship products). Revisit if we ever pivot to media work.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Triage 2026-05-05: Not aligned with the YOLO loop's domain (single-file HTML tools + flagship products). Revisit if we ever pivot to media work. |
 
 ---
 

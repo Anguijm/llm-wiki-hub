@@ -4,7 +4,7 @@
 
 Source: **[Pi Agent, the self-modifying agent behind OpenClaw](https://www.youtube.com/watch?v=sqtX2OmgOF0)** · DavidOndrej · 2026-05-03
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker introduced Pi Agent, described as a self-modifying agent architecture po
 
 A self-modifying agent could allow the YOLO loop itself to evolve its own prompts, retry strategies, or tool configurations based on observed failures, reducing manual prompt engineering overhead.
 
+## Notes
+
+[2026-05-06T19:43:19Z] DISCARD: Duplicate of experiments/self-evolving-agent/ — same hypothesis (self-modifying agent rewrites own prompts).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Triage 2026-05-05: Duplicate of experiments/self-evolving-agent/ — same hypothesis (self-modifying agent rewrites own prompts). |
 
 ---
 

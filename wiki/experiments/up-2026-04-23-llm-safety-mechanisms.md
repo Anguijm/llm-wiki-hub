@@ -4,7 +4,7 @@
 
 Source: **[Akash Mukherje - Are Your LLM's Safety Mechanisms Intact? | [un]prompted 2026](https://www.youtube.com/watch?v=S2Gv1leaIcE)** · [un]prompted · 2026-04-23
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker presented research and frameworks for evaluating whether LLM safety mech
 
 The YOLO loop's iterative prompt and chain modifications are exactly the vector the speaker flags — adding a lightweight safety regression step to CI would catch drift before deployment.
 
+## Notes
+
+[2026-05-06T19:43:19Z] DEFER: Audit doesn't have a clear failure scenario yet. Defer until we see a concrete safety regression in production builds.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Triage 2026-05-05: Audit doesn't have a clear failure scenario yet. Defer until we see a concrete safety regression in production builds. |
 
 ---
 

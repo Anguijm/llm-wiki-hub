@@ -13,10 +13,10 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Status | Count |
 |---|---|
 | `done` | 44 |
-| `backlog` | 39 |
-| `deferred` | 20 |
+| `deferred` | 29 |
+| `discarded` | 25 |
+| `backlog` | 21 |
 | `adopted` | 17 |
-| `discarded` | 16 |
 | `in_progress` | 10 |
 | `skipped` | 4 |
 
@@ -24,9 +24,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 73 |
+| `(none)` | 64 |
 | `adopt` | 51 |
-| `discard` | 26 |
+| `discard` | 35 |
 
 ## By channel
 
@@ -66,11 +66,11 @@ Ordered by published date, most recent first.
 | 2026-05-03 | [[experiments/mlops-2026-05-03-humans-out-of-way-agent-teams|Design a multi-agent pipeline that minimizes human checkpoints]] | @MLOps | `-` |
 | 2026-05-03 | [[experiments/mk-2026-05-03-hive-mind-multi-agent-os|Build a multi-agent hive-mind with shared memory database and Telegram interface over Claude Code]] | @Mark_Kashef | `-` |
 | 2026-05-03 | [[experiments/mk-2026-05-03-global-vs-project-skill-hygiene|Audit and promote skills to global vs. project scope as a prerequisite to multi-agent reliability]] | @Mark_Kashef | `-` |
-| 2026-05-03 | [[experiments/do-2026-05-03-pi-agent-self-modifying|Implement a Self-Modifying Agent That Rewrites Its Own Prompts or Tools]] | @DavidOndrej | `-` |
-| 2026-05-03 | [[experiments/do-2026-05-03-hermes-agent-switch|Swap current agent framework for Hermes Agent and benchmark task completion]] | @DavidOndrej | `-` |
+| 2026-05-03 | [[experiments/do-2026-05-03-pi-agent-self-modifying|Implement a Self-Modifying Agent That Rewrites Its Own Prompts or Tools]] | @DavidOndrej | `discard` |
+| 2026-05-03 | [[experiments/do-2026-05-03-hermes-agent-switch|Swap current agent framework for Hermes Agent and benchmark task completion]] | @DavidOndrej | `discard` |
 | 2026-05-03 | [[experiments/aij-2026-05-03-openai-symphony-coding-paradigm|Prototype a Symphony-style multi-model coding orchestration layer]] | @AIJasonZ | `-` |
 | 2026-05-02 | [[experiments/nb-2026-05-02-anthropic-atlassian-acquisition|Untitled]] | @NateBJones | `-` |
-| 2026-04-30 | [[experiments/nb-2026-04-30-microsoft-claude-vs-copilot|Benchmark Claude Against Your Primary Copilot on Internal Tasks]] | @NateBJones | `-` |
+| 2026-04-30 | [[experiments/nb-2026-04-30-microsoft-claude-vs-copilot|Benchmark Claude Against Your Primary Copilot on Internal Tasks]] | @NateBJones | `discard` |
 | 2026-04-29 | [[experiments/nb-2026-04-29-agent-crm-write-back|Instrument Agent Actions to Write Structured Logs Back to a Central Store]] | @NateBJones | `-` |
 | 2026-04-29 | [[experiments/nb-2026-04-29-agent-crm-browser-replacement|Replace Browser-Based CRM Lookups With Agent Tool Calls]] | @NateBJones | `-` |
 | 2026-04-28 | [[experiments/nb-2026-04-28-gpt55-vs-claude-vs-gemini-real-difference|Benchmark Model Routing by Task Class Across GPT-5.5, Claude, and Gemini]] | @NateBJones | `-` |
@@ -86,7 +86,7 @@ Ordered by published date, most recent first.
 | 2026-04-26 | [[experiments/mk-2026-04-26-run-claude-codex-together|Run Claude and Codex in Parallel on the Same Codebase]] | @Mark_Kashef | `-` |
 | 2026-04-25 | [[experiments/nh-2026-04-25-claude-code-playwright-automation|Wire Claude Code to Playwright for End-to-End Test Authoring and Execution]] | @NateHerk | `-` |
 | 2026-04-25 | [[experiments/nb-2026-04-25-chatgpt-images-replace-team|Replace Asset Pipeline Steps with ChatGPT Image Generation]] | @NateBJones | `-` |
-| 2026-04-25 | [[experiments/do-2026-04-25-gpt55-mythos-killer|Benchmark GPT-5.5 Against Current Loop Model on Code + Reasoning Tasks]] | @DavidOndrej | `-` |
+| 2026-04-25 | [[experiments/do-2026-04-25-gpt55-mythos-killer|Benchmark GPT-5.5 Against Current Loop Model on Code + Reasoning Tasks]] | @DavidOndrej | `discard` |
 | 2026-04-24 | [[experiments/nb-2026-04-24-claude-design-sprint|Replace UI/UX Sprint Cycles with Claude-Driven Design Sessions]] | @NateBJones | `-` |
 | 2026-04-24 | [[experiments/mlops-2026-04-24-openxdata-conference|Audit Dev Loop for Open Data Pipeline Integration Points]] | @MLOps | `-` |
 | 2026-04-24 | [[experiments/do-2026-04-24-gpt-images-native-gen|Integrate GPT Native Image Generation into Asset Pipeline]] | @DavidOndrej | `-` |
@@ -94,15 +94,15 @@ Ordered by published date, most recent first.
 | 2026-04-23 | [[experiments/up-2026-04-23-llm-safety-mechanisms|Audit YOLO loop outputs for safety mechanism degradation after fine-tuning or prompt chaining]] | @[un]prompted | `-` |
 | 2026-04-23 | [[experiments/up-2026-04-23-confidential-ai-tee|Evaluate Trusted Execution Environment (TEE) deployment for YOLO loop inference on sensitive data]] | @[un]prompted | `-` |
 | 2026-04-23 | [[experiments/up-2026-04-23-beyond-chatbot-agents|Architect a persistent-state agent layer above the YOLO loop's stateless inference calls]] | @[un]prompted | `-` |
-| 2026-04-23 | [[experiments/nh-2026-04-23-gpt55-vs-opus47|Benchmark GPT-5.5 vs Claude Opus 4.7 on YOLO loop coding tasks]] | @NateHerk | `-` |
+| 2026-04-23 | [[experiments/nh-2026-04-23-gpt55-vs-opus47|Benchmark GPT-5.5 vs Claude Opus 4.7 on YOLO loop coding tasks]] | @NateHerk | `discard` |
 | 2026-04-23 | [[experiments/nh-2026-04-23-claude-video-editing|Use Claude as an agentic video editing orchestrator via tool calls]] | @NateHerk | `-` |
-| 2026-04-23 | [[experiments/nb-2026-04-23-codex-no-api|Replace REST API layer with Codex-driven direct task execution]] | @NateBJones | `-` |
+| 2026-04-23 | [[experiments/nb-2026-04-23-codex-no-api|Replace REST API layer with Codex-driven direct task execution]] | @NateBJones | `discard` |
 | 2026-04-22 | [[experiments/nh-2026-04-22-openai-image2-use-cases|Integrate OpenAI Image 2 as a UI Mockup Generator in the Dev Loop]] | @NateHerk | `-` |
 | 2026-04-22 | [[experiments/nb-2026-04-22-wiki-vs-openbrain-reliability|Stress-Test Knowledge Retrieval Under Load Conditions]] | @NateBJones | `-` |
-| 2026-04-22 | [[experiments/nb-2026-04-22-opus-47-prompt-behavior-shift|Audit Existing Prompts Against Opus 4.7 Behavioral Changes]] | @NateBJones | `-` |
+| 2026-04-22 | [[experiments/nb-2026-04-22-opus-47-prompt-behavior-shift|Audit Existing Prompts Against Opus 4.7 Behavioral Changes]] | @NateBJones | `discard` |
 | 2026-04-22 | [[experiments/nb-2026-04-22-claude-code-memory-patterns|Implement Structured CLAUDE.md Memory Layering for the YOLO Loop]] | @Mark_Kashef | `-` |
-| 2026-04-22 | [[experiments/mlops-2026-04-22-evals-still-matter-2026|Implement a Minimal Persistent Eval Harness for the YOLO Loop]] | @MLOps | `-` |
-| 2026-04-22 | [[experiments/aij-2026-04-22-self-evolving-agent|Add a Self-Reflection Step That Rewrites the Agent's Own System Prompt]] | @AIJasonZ | `-` |
+| 2026-04-22 | [[experiments/mlops-2026-04-22-evals-still-matter-2026|Implement a Minimal Persistent Eval Harness for the YOLO Loop]] | @MLOps | `discard` |
+| 2026-04-22 | [[experiments/aij-2026-04-22-self-evolving-agent|Add a Self-Reflection Step That Rewrites the Agent's Own System Prompt]] | @AIJasonZ | `discard` |
 | 2026-04-21 | [[experiments/nh-2026-04-21-claude-design-prompt-structure|Develop a reusable design-intent prompt template for Claude UI generation]] | @Nate Herk | `-` |
 | 2026-04-21 | [[experiments/nh-2026-04-21-claude-3d-website-design|Use Claude as a 3D UI code generator for rapid front-end prototyping]] | @Nate Herk | `discard` |
 | 2026-04-20 | [[experiments/nh-2026-04-20-claude-session-limit|Implement context compression and session checkpointing to bypass Claude usage limits]] | @NateHerk | `adopt` |

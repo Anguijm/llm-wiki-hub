@@ -4,7 +4,7 @@
 
 Source: **[Claude Code + Playwright Automates Literally Anything](https://www.youtube.com/watch?v=J-6pnl5DQg8)** · NateHerk · 2026-04-25
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker demonstrated Claude Code driving Playwright to automate browser-based wo
 
 High-value integration: adds an automated verification layer to the YOLO loop so that after code gen, Claude can self-validate UI behavior via Playwright before surfacing results. Closes the feedback cycle without human QA intervention.
 
+## Notes
+
+[2026-05-06T19:43:19Z] DEFER: Playwright is already wired in for browser tests. The experiment isn't well-scoped beyond what we have.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-25 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Triage 2026-05-05: Playwright is already wired in for browser tests. The experiment isn't well-scoped beyond what we have. |
 
 ---
 

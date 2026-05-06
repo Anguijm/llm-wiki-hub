@@ -10,9 +10,9 @@
     "video_id": "kPC4YOkIxVo"
   },
   "phase4:aij-2026-04-22-self-evolving-agent": {
-    "hash": "2949d28baf64b32b3bc632ab3dbb98d82b70a14ee1be2bb5c3cb32d8fba945c0",
+    "hash": "7f990be0e2c7968aef9c35b6ab477082f7d8d8720b9e68ad4da8d00cbcd82127",
     "slug": "aij-2026-04-22-self-evolving-agent",
-    "synced_at": "2026-04-22T22:48:15.139537+00:00"
+    "synced_at": "2026-05-06T22:52:54.755155+00:00"
   },
   "phase4:aij-2026-05-02-openai-symphony-coding-paradigm": {
     "hash": "b11e9815552d9bf4aaf53f890d52bb755c0e4d3b172fd3a7c831519962f27009",
@@ -85,9 +85,9 @@
     "synced_at": "2026-04-24T22:38:57.752301+00:00"
   },
   "phase4:do-2026-04-25-gpt55-mythos-killer": {
-    "hash": "c6c30bc2e9c654ef0e1194e29fab756400efc6b219788612aa47a0ca16b20194",
+    "hash": "d9ac01bf8e57cc657d282a8ad5ea98368ddd02fd6470a39c745200ce8ddd1882",
     "slug": "do-2026-04-25-gpt55-mythos-killer",
-    "synced_at": "2026-04-25T22:37:11.252324+00:00"
+    "synced_at": "2026-05-06T22:52:54.758401+00:00"
   },
   "phase4:do-2026-04-28-self-evolving-agent-eval-harness": {
     "hash": "a38c09eb438f738ad24eea67db207c8cb7f1fac5d3626ce1348be7726a711940",
@@ -105,14 +105,14 @@
     "synced_at": "2026-05-01T22:50:44.406547+00:00"
   },
   "phase4:do-2026-05-03-hermes-agent-switch": {
-    "hash": "d129fc69db7fd4ffcfc6ca8f7a063297b224b3520661d51c7a62c4236f2948ec",
+    "hash": "fb990c3c2036f5bdd0d16bdab7c72d63bd663fab4c39cea449ebb9d1eb0e0aca",
     "slug": "do-2026-05-03-hermes-agent-switch",
-    "synced_at": "2026-05-03T22:41:01.904362+00:00"
+    "synced_at": "2026-05-06T22:52:54.759757+00:00"
   },
   "phase4:do-2026-05-03-pi-agent-self-modifying": {
-    "hash": "ba350826c0d3e0a07205ed2ed43ed9befd543b1a13066cf2773ace76ed8a1874",
+    "hash": "21da30033d40a009202bfa8c36e6dbcb720b5569d35e43ef126ca477079bec02",
     "slug": "do-2026-05-03-pi-agent-self-modifying",
-    "synced_at": "2026-05-03T22:41:01.905989+00:00"
+    "synced_at": "2026-05-06T22:52:54.760672+00:00"
   },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "2da5ebc7be82326bbe4256f53149319c7d2b485cd32331e06319be689f70ff18",
@@ -270,14 +270,14 @@
     "synced_at": "2026-05-05T22:55:14.195068+00:00"
   },
   "phase4:mlops-2026-04-22-evals-still-matter-2026": {
-    "hash": "33acfe77599da4bb3ec0a288de672b8b6431605f6bdbe19786eee9dfc0da8535",
+    "hash": "3fb4ec23685ee22d55a811de186cdfb7a375ff204aa9434fb64408b6dbf55c78",
     "slug": "mlops-2026-04-22-evals-still-matter-2026",
-    "synced_at": "2026-04-22T22:48:15.139157+00:00"
+    "synced_at": "2026-05-06T22:52:54.754724+00:00"
   },
   "phase4:mlops-2026-04-24-openxdata-conference": {
-    "hash": "6449144046d084fc8cf812d0509f0f29e3f1d5115b2e1cffce7581708090f82a",
+    "hash": "74ba0002a30d2d25d7cf19c681d044ab2d123858be35ecc0feb50372fbc1432d",
     "slug": "mlops-2026-04-24-openxdata-conference",
-    "synced_at": "2026-04-24T22:38:57.751582+00:00"
+    "synced_at": "2026-05-06T22:52:54.757944+00:00"
   },
   "phase4:mlops-2026-04-27-agent-observability-cloud": {
     "hash": "8a2c8d38ee8815dacff99262ca248923049ee1dc6665cd731c720d3d884407ac",
@@ -295,9 +295,9 @@
     "synced_at": "2026-05-01T22:50:44.406044+00:00"
   },
   "phase4:mlops-2026-05-03-humans-out-of-way-agent-teams": {
-    "hash": "980a955c220f74f263dae60312e0e8b56a71628711514ef655e31b06e9df174f",
+    "hash": "18c7aa607e1f8b032269a1db4732f05c1bb69d8ed5b9a9d5d7b463411c93ec40",
     "slug": "mlops-2026-05-03-humans-out-of-way-agent-teams",
-    "synced_at": "2026-05-03T22:41:01.904023+00:00"
+    "synced_at": "2026-05-06T22:52:54.759392+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "11beb12ed7fc04c67df0832941fbec767ea14ab393610268e5d8507350568196",
@@ -470,19 +470,19 @@
     "synced_at": "2026-04-22T22:48:15.139723+00:00"
   },
   "phase4:nb-2026-04-22-opus-47-prompt-behavior-shift": {
-    "hash": "46a8f24f7ea204872169004d44ea8d8dc33512e3bac0a12cabed64afe1802fef",
+    "hash": "7c39991b976e31495e8bd65adee2ecbc22aa6aba933c2a1391f0bff0618733e9",
     "slug": "nb-2026-04-22-opus-47-prompt-behavior-shift",
-    "synced_at": "2026-04-22T22:48:15.138952+00:00"
+    "synced_at": "2026-05-06T22:52:54.754320+00:00"
   },
   "phase4:nb-2026-04-22-wiki-vs-openbrain-reliability": {
-    "hash": "66cb52c5dd3aafb5858083cd583179659d5e2e5f079bafa24738ce5d51ee845c",
+    "hash": "65a75e44ea0bb502ed947fc56e4284d8df4ed5ee049a3a0e260c0b2b43112d69",
     "slug": "nb-2026-04-22-wiki-vs-openbrain-reliability",
-    "synced_at": "2026-04-22T22:48:15.138758+00:00"
+    "synced_at": "2026-05-06T22:52:54.753858+00:00"
   },
   "phase4:nb-2026-04-23-codex-no-api": {
-    "hash": "3b2f45618bac80575e81f78651a4be233aec74c4d05cc3d9bf71c2e8b5b33c76",
+    "hash": "ee0b00270dba6d72fbf62b0afe3ab4dacfcacf584f3b93190fb959db54a7d8f2",
     "slug": "nb-2026-04-23-codex-no-api",
-    "synced_at": "2026-04-23T22:43:26.328006+00:00"
+    "synced_at": "2026-05-06T22:52:54.755570+00:00"
   },
   "phase4:nb-2026-04-24-claude-design-sprint": {
     "hash": "43b6b71ccc29ba29f4611418538f47e70e8d8db00bbb8566ccf040a859899ae9",
@@ -520,9 +520,9 @@
     "synced_at": "2026-04-29T22:56:45.109025+00:00"
   },
   "phase4:nb-2026-04-30-microsoft-claude-vs-copilot": {
-    "hash": "fd83842315f159492ee37d18b48ff80cad6f39044d8ee87cfcdc14a0df0903c7",
+    "hash": "74dff53b74e3783c5fb3942f59220e004abc5a40a0c90aa573dfeaf08fad9a77",
     "slug": "nb-2026-04-30-microsoft-claude-vs-copilot",
-    "synced_at": "2026-04-30T22:52:59.427709+00:00"
+    "synced_at": "2026-05-06T22:52:54.761156+00:00"
   },
   "phase4:nb-2026-05-01-benchmark-local-ai-hardware": {
     "hash": "ead68377b8fec0e6eb69357c9851b8ef5eeeed69725564d779b028a05906664a",
@@ -535,9 +535,9 @@
     "synced_at": "2026-05-02T22:41:03.960866+00:00"
   },
   "phase4:nb-2026-05-03-benchmark-hardware-local-ai": {
-    "hash": "83c8fecf7da4f441c7e199544a311a1ce5a2574a6c29a1029b22857c194dd64c",
+    "hash": "7d44cb317330f80e91f765bb15b76857c0252ca18589d182add25dd8305d8895",
     "slug": "nb-2026-05-03-benchmark-hardware-local-ai",
-    "synced_at": "2026-05-03T22:41:01.905640+00:00"
+    "synced_at": "2026-05-06T22:52:54.760285+00:00"
   },
   "phase4:nb-2026-05-04-agentic-commerce-buyer-agent-readiness": {
     "hash": "47ef3a524f27f4fba4d1513c95726a24332833c29fee8b150cccbd2c589ed1e3",
@@ -680,19 +680,19 @@
     "synced_at": "2026-04-22T22:48:15.139346+00:00"
   },
   "phase4:nh-2026-04-23-claude-video-editing": {
-    "hash": "3a83df24c155428a1507bbf5e3344e14ef4eb24adda1fbabb0588497fbad0a45",
+    "hash": "8619a1f16ac755cc02e9fa8817ba1e92ce528a68bede053c05fd9fe43b0b4701",
     "slug": "nh-2026-04-23-claude-video-editing",
-    "synced_at": "2026-04-23T22:43:26.328606+00:00"
+    "synced_at": "2026-05-06T22:52:54.756352+00:00"
   },
   "phase4:nh-2026-04-23-gpt55-vs-opus47": {
-    "hash": "fecb92f8586b5f7c008836ea200edf55eae5c80295ace96fb8dea6bffa771e7e",
+    "hash": "2ade832085e3cf4cdc66a19b3ff5bfb6de8ca7bee08c33c5a4d2ae5fd64105b2",
     "slug": "nh-2026-04-23-gpt55-vs-opus47",
-    "synced_at": "2026-04-23T22:43:26.328325+00:00"
+    "synced_at": "2026-05-06T22:52:54.755950+00:00"
   },
   "phase4:nh-2026-04-25-claude-code-playwright-automation": {
-    "hash": "a44944d5742653bd53f79300394397850d65eb21d68eb3c984a22712141ddc8d",
+    "hash": "7d66f9c3c29c532ea5b98eac5fdf7e42a5bf3c4c72ab1a3888f3924ff0a2e306",
     "slug": "nh-2026-04-25-claude-code-playwright-automation",
-    "synced_at": "2026-04-25T22:37:11.252559+00:00"
+    "synced_at": "2026-05-06T22:52:54.758784+00:00"
   },
   "phase4:nh-2026-04-27-claude-code-hacks": {
     "hash": "07fc1da6c8b96a8bc87dd12e9a7b24b83a9f17e6c5d0a962db2dd64d9785b7e8",
@@ -775,18 +775,18 @@
     "synced_at": "2026-04-14T15:01:17.377765+00:00"
   },
   "phase4:up-2026-04-23-beyond-chatbot-agents": {
-    "hash": "bf825d717a94e41c88fc04a5f7a276f04ec0650b567320855d05d09d4020bffa",
+    "hash": "7ece87133c10985c8aa969b9f9b989a4281958e9a3d9176319121fc44e8e7795",
     "slug": "up-2026-04-23-beyond-chatbot-agents",
-    "synced_at": "2026-04-23T22:43:26.329175+00:00"
+    "synced_at": "2026-05-06T22:52:54.757149+00:00"
   },
   "phase4:up-2026-04-23-confidential-ai-tee": {
-    "hash": "99a71700c2d7ac8c9fb6841aeeeab3603f7a87260a8548f634707fac13274109",
+    "hash": "57cf8c16235aa9e398e4075ae43f38bea497e9bf71e45d90dee413c88cce1cc8",
     "slug": "up-2026-04-23-confidential-ai-tee",
-    "synced_at": "2026-04-23T22:43:26.329446+00:00"
+    "synced_at": "2026-05-06T22:52:54.757542+00:00"
   },
   "phase4:up-2026-04-23-llm-safety-mechanisms": {
-    "hash": "bed2b1fe4d3bd59e74116f2d2f6318e8bc053d54277baaa57c67df457397fb76",
+    "hash": "2c5b899c718cf8d176126992bf43ae3d3109fe889e84713ba68c9c520d605a51",
     "slug": "up-2026-04-23-llm-safety-mechanisms",
-    "synced_at": "2026-04-23T22:43:26.328872+00:00"
+    "synced_at": "2026-05-06T22:52:54.756738+00:00"
   }
 }

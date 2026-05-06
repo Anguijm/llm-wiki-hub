@@ -4,7 +4,7 @@
 
 Source: **[OpenXData Conference](https://www.youtube.com/watch?v=YInxWv_4N7w)** · MLOps · 2026-04-24
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -23,12 +23,14 @@ Maps to the data ingestion and context-loading phases of our dev loop. Open data
 ## Notes
 
 Conference format — may need to review specific talk timestamps for more granular experiment extraction.
+[2026-05-06T19:43:19Z] DEFER: Vague conference notes — no concrete data-pipeline experiment named.
 
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Triage 2026-05-05: Vague conference notes — no concrete data-pipeline experiment named. |
 
 ---
 

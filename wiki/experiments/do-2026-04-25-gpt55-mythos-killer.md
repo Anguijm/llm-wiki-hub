@@ -4,7 +4,7 @@
 
 Source: **[OpenAI just shipped the Mythos killer (GPT 5.5)](https://www.youtube.com/watch?v=T_xyhjfFCdY)** · DavidOndrej · 2026-04-25
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker evaluated GPT-5.5 capabilities relative to competing frontier models, hi
 
 Directly affects model selection for the core inference step of the loop. Worth running a head-to-head on our standard task suite to decide whether to update the default model config.
 
+## Notes
+
+[2026-05-06T19:43:19Z] DISCARD: Subsumed by experiments/bench-prompt-format/ (queued) and experiments/model-routing-bench/ (built).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-25 | `backlog` | Extracted from YouTube RSS |
+|  | `` | Triage 2026-05-05: Subsumed by experiments/bench-prompt-format/ (queued) and experiments/model-routing-bench/ (built). |
 
 ---
 
