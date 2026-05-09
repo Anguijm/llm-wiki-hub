@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**150 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**173 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -13,9 +13,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Status | Count |
 |---|---|
 | `done` | 44 |
+| `backlog` | 44 |
 | `deferred` | 29 |
 | `discarded` | 25 |
-| `backlog` | 21 |
 | `adopted` | 17 |
 | `in_progress` | 10 |
 | `skipped` | 4 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 64 |
+| `(none)` | 87 |
 | `adopt` | 51 |
 | `discard` | 35 |
 
@@ -32,16 +32,17 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @NateBJones | 49 |
-| @NateHerk | 34 |
-| @MLOps | 28 |
-| @DavidOndrej | 17 |
-| @Mark_Kashef | 7 |
+| @NateBJones | 54 |
+| @NateHerk | 38 |
+| @MLOps | 31 |
+| @DavidOndrej | 19 |
+| @Mark_Kashef | 8 |
+| @aiDotEngineer | 7 |
 | @[un]prompted | 4 |
 | @ShawTalebi | 4 |
+| @AIJasonZ | 3 |
 | @Fireship | 2 |
 | @Nate Herk | 2 |
-| @AIJasonZ | 2 |
 | @TwoMinutePapers | 1 |
 
 ---
@@ -52,6 +53,29 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-05-09 | [[experiments/nh-2026-05-09-most-powerful-tool-claude-code|Identify and integrate the highest-leverage MCP tool for Claude Code]] | @NateHerk | `-` |
+| 2026-05-09 | [[experiments/nh-2026-05-09-codex-full-course|Run through Codex full-course to identify features absent from our current Claude Code workflow]] | @NateHerk | `-` |
+| 2026-05-09 | [[experiments/nh-2026-05-09-claude-session-limits-solution|Use Claude's new session continuity mechanism to run long multi-step tasks]] | @NateHerk | `-` |
+| 2026-05-09 | [[experiments/nh-2026-05-09-ai-tech-stack-copy|Adopt a curated minimal AI tech stack to reduce tool sprawl]] | @NateHerk | `-` |
+| 2026-05-09 | [[experiments/nb-2026-05-09-semantic-work-primitive-product-test|Evaluate each tool/action in your agent for semantic meaning, not just access]] | @NateBJones | `-` |
+| 2026-05-09 | [[experiments/nb-2026-05-09-prompt-skill-plugin-mental-model|Audit workflows and classify each as prompt, skill, plugin, or MCP]] | @NateBJones | `-` |
+| 2026-05-09 | [[experiments/nb-2026-05-09-openclaw-swappable-model-memory|Decouple agent memory from the model so workflows survive model swaps]] | @NateBJones | `-` |
+| 2026-05-09 | [[experiments/nb-2026-05-09-mozilla-mythos-spec-legibility|Write spec files that are legible enough for AI security review]] | @NateBJones | `-` |
+| 2026-05-09 | [[experiments/nb-2026-05-09-deterministic-script-verification|Add deterministic verification scripts as post-agent hooks]] | @NateBJones | `-` |
+| 2026-05-09 | [[experiments/mlops-2026-05-09-sql-injection-ai-agents|Add input sanitization and query allowlisting to agent database tools]] | @MLOps | `-` |
+| 2026-05-09 | [[experiments/mlops-2026-05-09-fraud-models-vs-agents|Keep specialized ML models for high-stakes decisions; use agents only for orchestration]] | @MLOps | `-` |
+| 2026-05-09 | [[experiments/mlops-2026-05-09-agents-survive-production|Implement retry logic, state persistence, and failure observability in production agents]] | @MLOps | `-` |
+| 2026-05-09 | [[experiments/mk-2026-05-09-agentic-os-build|Design a personal agentic OS with layered memory, tools, and routing]] | @Mark_Kashef | `-` |
+| 2026-05-09 | [[experiments/do-2026-05-09-hermes-agent-lessons|Apply condensed Hermes agent architecture lessons to reduce agent iteration time]] | @DavidOndrej | `-` |
+| 2026-05-09 | [[experiments/do-2026-05-09-codex-edit-anything|Use Codex computer-use editing for arbitrary file and UI modifications]] | @DavidOndrej | `-` |
+| 2026-05-09 | [[experiments/aij-2026-05-09-goals-command-tips|Correctly structure /goals commands to improve agent task alignment]] | @AIJasonZ | `-` |
+| 2026-05-09 | [[experiments/aie-2026-05-09-tts-models-like-llms|Evaluate LLM-style TTS models for voice output in agentic pipelines]] | @aiDotEngineer | `-` |
+| 2026-05-09 | [[experiments/aie-2026-05-09-pydantic-agents-production-optimisation|Use Pydantic AI structured outputs to enforce agent response contracts in production]] | @aiDotEngineer | `-` |
+| 2026-05-09 | [[experiments/aie-2026-05-09-multi-agent-architecture-factory|Adopt a task-decomposition multi-agent pattern for complex coding workflows]] | @aiDotEngineer | `-` |
+| 2026-05-09 | [[experiments/aie-2026-05-09-mcp-ui-extensions|Build MCP servers that expose UI components for human-in-the-loop agent steps]] | @aiDotEngineer | `-` |
+| 2026-05-09 | [[experiments/aie-2026-05-09-elevenlabs-chat-agent-voice|Integrate ElevenLabs voice layer into a chat agent for real-time voice interaction]] | @aiDotEngineer | `-` |
+| 2026-05-09 | [[experiments/aie-2026-05-09-agentic-search-context-engineering|Replace static RAG retrieval with agentic search for dynamic context assembly]] | @aiDotEngineer | `-` |
+| 2026-05-09 | [[experiments/aie-2026-05-09-agent-observability-raindrop|Add structured trace logging to agent runs for post-hoc debugging]] | @aiDotEngineer | `-` |
 | 2026-05-05 | [[experiments/nh-2026-05-05-higgsfield-claude-mcp-creative-agency|Connect Higgsfield MCP to Claude and Drive Full Brand Asset Generation from a Single Prompt]] | @NateHerk | `-` |
 | 2026-05-05 | [[experiments/nb-2026-05-05-proactive-agent-load-test|Run 3-4 Agents in Parallel for a Month to Measure Proactivity Progress]] | @NateBJones | `-` |
 | 2026-05-04 | [[experiments/nh-2026-05-04-voice-agent-claude-code-elevenlabs|Build a Knowledge-Grounded Voice Agent via Claude Code and ElevenLabs in a Single Session]] | @NateHerk | `-` |

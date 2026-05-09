@@ -9,6 +9,41 @@
     "fetched_at": "2026-04-21T21:59:08.114218+00:00",
     "video_id": "kPC4YOkIxVo"
   },
+  "phase4:aie-2026-05-09-agent-observability-raindrop": {
+    "hash": "ffc289f2699e5ab93d52838be8961ed5866bda9cf66825f96b955e3ea9d8969b",
+    "slug": "aie-2026-05-09-agent-observability-raindrop",
+    "synced_at": "2026-05-09T22:43:07.707074+00:00"
+  },
+  "phase4:aie-2026-05-09-agentic-search-context-engineering": {
+    "hash": "d2bfb1aba35cafd31b657831f6a918abeabf6f40d4ba36393476ee28335bc0de",
+    "slug": "aie-2026-05-09-agentic-search-context-engineering",
+    "synced_at": "2026-05-09T22:43:07.706446+00:00"
+  },
+  "phase4:aie-2026-05-09-elevenlabs-chat-agent-voice": {
+    "hash": "a7e23fbb5bba00b69992829e1bbcd81aa0cb0d3fa6675f4913d2239353e43280",
+    "slug": "aie-2026-05-09-elevenlabs-chat-agent-voice",
+    "synced_at": "2026-05-09T22:43:07.706146+00:00"
+  },
+  "phase4:aie-2026-05-09-mcp-ui-extensions": {
+    "hash": "03f5e9d3a03a95aa5c05df553ac4a8242d752921534c3e00b3646f4b1f559644",
+    "slug": "aie-2026-05-09-mcp-ui-extensions",
+    "synced_at": "2026-05-09T22:43:07.707682+00:00"
+  },
+  "phase4:aie-2026-05-09-multi-agent-architecture-factory": {
+    "hash": "2252c570d4994f4255e5b5f91ff529e2107c228283b7acf235e9f5a44adab27e",
+    "slug": "aie-2026-05-09-multi-agent-architecture-factory",
+    "synced_at": "2026-05-09T22:43:07.707385+00:00"
+  },
+  "phase4:aie-2026-05-09-pydantic-agents-production-optimisation": {
+    "hash": "9375ca7096e6adb13711553bad2ad164fd68687b01a0fe6757d8f0b69cd33682",
+    "slug": "aie-2026-05-09-pydantic-agents-production-optimisation",
+    "synced_at": "2026-05-09T22:43:07.706734+00:00"
+  },
+  "phase4:aie-2026-05-09-tts-models-like-llms": {
+    "hash": "c4ac787c30578ecd4a079f477331c3fce468df953d795ee7f59cfbdddf66bc68",
+    "slug": "aie-2026-05-09-tts-models-like-llms",
+    "synced_at": "2026-05-09T22:43:07.705796+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "7f990be0e2c7968aef9c35b6ab477082f7d8d8720b9e68ad4da8d00cbcd82127",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -23,6 +58,11 @@
     "hash": "0868437a9863ab9881448756c8dd3e80367b9ed2b5a44095df1b035bd914cd74",
     "slug": "aij-2026-05-03-openai-symphony-coding-paradigm",
     "synced_at": "2026-05-03T22:41:01.905308+00:00"
+  },
+  "phase4:aij-2026-05-09-goals-command-tips": {
+    "hash": "80f65799ce6c1756cdc1ba37fe766e27070042b35a9d5f80da4ae1b8eea8dec8",
+    "slug": "aij-2026-05-09-goals-command-tips",
+    "synced_at": "2026-05-09T22:43:07.705194+00:00"
   },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "67475d1be31892da20e833f5fdba929cb783c510976540603f5ad5e472e27d54",
@@ -114,6 +154,16 @@
     "slug": "do-2026-05-03-pi-agent-self-modifying",
     "synced_at": "2026-05-06T22:52:54.760672+00:00"
   },
+  "phase4:do-2026-05-09-codex-edit-anything": {
+    "hash": "f25298806350896c2062c64a567c75474368ce434aab383fe77aa9516cd80d81",
+    "slug": "do-2026-05-09-codex-edit-anything",
+    "synced_at": "2026-05-09T22:43:07.703250+00:00"
+  },
+  "phase4:do-2026-05-09-hermes-agent-lessons": {
+    "hash": "fdf57c499bc4acf5a43ca8f17f7f1f3b601ab3a7df1b22de82cb9ad346d20bfc",
+    "slug": "do-2026-05-09-hermes-agent-lessons",
+    "synced_at": "2026-05-09T22:43:07.703584+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "2da5ebc7be82326bbe4256f53149319c7d2b485cd32331e06319be689f70ff18",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -153,6 +203,11 @@
     "hash": "b725e27238d806c72815606edc85cbd5951227bfb1425c4e666c7bb7aed1d2c9",
     "slug": "mk-2026-05-03-hive-mind-multi-agent-os",
     "synced_at": "2026-05-03T22:41:01.907215+00:00"
+  },
+  "phase4:mk-2026-05-09-agentic-os-build": {
+    "hash": "fe6c8722510a2311f74cf92439a3babbcd1702a12bce6e0bbbfd9f44a85a4780",
+    "slug": "mk-2026-05-09-agentic-os-build",
+    "synced_at": "2026-05-09T22:43:07.705497+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "9164c51ea77888eeefc1ba09c4dc6d5d38bff3a9090c755306ef3a81f9d4203c",
@@ -298,6 +353,21 @@
     "hash": "18c7aa607e1f8b032269a1db4732f05c1bb69d8ed5b9a9d5d7b463411c93ec40",
     "slug": "mlops-2026-05-03-humans-out-of-way-agent-teams",
     "synced_at": "2026-05-06T22:52:54.759392+00:00"
+  },
+  "phase4:mlops-2026-05-09-agents-survive-production": {
+    "hash": "1ca6c954bc3e57d3584ed38ae9448429c2ade02f1417ceb2b5225a6fa59983ff",
+    "slug": "mlops-2026-05-09-agents-survive-production",
+    "synced_at": "2026-05-09T22:43:07.702928+00:00"
+  },
+  "phase4:mlops-2026-05-09-fraud-models-vs-agents": {
+    "hash": "d180dcfaa7ef1dcf56e53c056b7804ea9c74fd2edea9309d7621d4b3d4296afa",
+    "slug": "mlops-2026-05-09-fraud-models-vs-agents",
+    "synced_at": "2026-05-09T22:43:07.702641+00:00"
+  },
+  "phase4:mlops-2026-05-09-sql-injection-ai-agents": {
+    "hash": "ba41de4ee5ae971b29770021e50f8c9b6032d51c4693d5adcc9485062b497720",
+    "slug": "mlops-2026-05-09-sql-injection-ai-agents",
+    "synced_at": "2026-05-09T22:43:07.702342+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "11beb12ed7fc04c67df0832941fbec767ea14ab393610268e5d8507350568196",
@@ -554,6 +624,31 @@
     "slug": "nb-2026-05-05-proactive-agent-load-test",
     "synced_at": "2026-05-05T22:55:14.196461+00:00"
   },
+  "phase4:nb-2026-05-09-deterministic-script-verification": {
+    "hash": "33c3769a21266a311d0c009afa8a9d1dca9f09cbd6e206d4111436baa44ae5f5",
+    "slug": "nb-2026-05-09-deterministic-script-verification",
+    "synced_at": "2026-05-09T22:43:07.701007+00:00"
+  },
+  "phase4:nb-2026-05-09-mozilla-mythos-spec-legibility": {
+    "hash": "4b71f65391f0f4582d4347334db65e44bd14ccf802da97165f35e4c9664cd250",
+    "slug": "nb-2026-05-09-mozilla-mythos-spec-legibility",
+    "synced_at": "2026-05-09T22:43:07.701352+00:00"
+  },
+  "phase4:nb-2026-05-09-openclaw-swappable-model-memory": {
+    "hash": "20e8e0dbcb31c4baa7433b6c9c1d9aae02f0d1cd0de0755f56d0a22266ded7b7",
+    "slug": "nb-2026-05-09-openclaw-swappable-model-memory",
+    "synced_at": "2026-05-09T22:43:07.701663+00:00"
+  },
+  "phase4:nb-2026-05-09-prompt-skill-plugin-mental-model": {
+    "hash": "d6a8c8bb73c770dbcb03851952cdb8ce14629874dccd6488e1bb8358ab47e200",
+    "slug": "nb-2026-05-09-prompt-skill-plugin-mental-model",
+    "synced_at": "2026-05-09T22:43:07.700662+00:00"
+  },
+  "phase4:nb-2026-05-09-semantic-work-primitive-product-test": {
+    "hash": "4e333f8613b6772568dce931072d95fde1dc20fba064f515a73be6e4b6593f73",
+    "slug": "nb-2026-05-09-semantic-work-primitive-product-test",
+    "synced_at": "2026-05-09T22:43:07.701974+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "088def761b98644bce4999c2def3334a62dbd18f60ed9ccbf59a177f567d0ffa",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -743,6 +838,26 @@
     "hash": "6f2d17521ee2ac4037348e1ddf32083646eb46e14cdd49f53220e3b2fe19a37b",
     "slug": "nh-2026-05-05-higgsfield-claude-mcp-creative-agency",
     "synced_at": "2026-05-05T22:55:14.196665+00:00"
+  },
+  "phase4:nh-2026-05-09-ai-tech-stack-copy": {
+    "hash": "0ad0f70954f902462747be08aebf9a0070938f5a4d23cdb4f826a1b7b6e05ece",
+    "slug": "nh-2026-05-09-ai-tech-stack-copy",
+    "synced_at": "2026-05-09T22:43:07.704228+00:00"
+  },
+  "phase4:nh-2026-05-09-claude-session-limits-solution": {
+    "hash": "0535d648235f5da040fe46fdb1c391f1c7d72018f9e7ceff251f07daebe3caf8",
+    "slug": "nh-2026-05-09-claude-session-limits-solution",
+    "synced_at": "2026-05-09T22:43:07.704533+00:00"
+  },
+  "phase4:nh-2026-05-09-codex-full-course": {
+    "hash": "78ebb462a2071f36d5947912e5c90aab82433e06ed07d2eded37ed78a19439ba",
+    "slug": "nh-2026-05-09-codex-full-course",
+    "synced_at": "2026-05-09T22:43:07.704820+00:00"
+  },
+  "phase4:nh-2026-05-09-most-powerful-tool-claude-code": {
+    "hash": "48b9e5492f66c1d4ec86cd74194cd4c15475cd8e1109eeee05835424971f1712",
+    "slug": "nh-2026-05-09-most-powerful-tool-claude-code",
+    "synced_at": "2026-05-09T22:43:07.703909+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "a80e67601d4d95ab70d5f2430da0c78024e833bc401be010287303bb0073a0a8",
