@@ -44,6 +44,36 @@
     "slug": "aie-2026-05-09-tts-models-like-llms",
     "synced_at": "2026-05-09T22:43:07.705796+00:00"
   },
+  "phase4:aie-2026-05-10-effect-clone-repo-agent-context": {
+    "hash": "bbd480ef42b90b13aba386cb12b7b9fdf85874384a2833b60a55349d7ff45a51",
+    "slug": "aie-2026-05-10-effect-clone-repo-agent-context",
+    "synced_at": "2026-05-10T22:47:53.008857+00:00"
+  },
+  "phase4:aie-2026-05-10-effect-workflows-long-running-ai": {
+    "hash": "57dee1255c1d9567005cf2a7cb1a2823b497cb934241ead3956a40480be44cda",
+    "slug": "aie-2026-05-10-effect-workflows-long-running-ai",
+    "synced_at": "2026-05-10T22:47:53.009345+00:00"
+  },
+  "phase4:aie-2026-05-10-flux-context-realtime-image-editing": {
+    "hash": "77e68bcaa726d44afda9caa881a598441b3e1c694fb93aa49f87ddef27464bd8",
+    "slug": "aie-2026-05-10-flux-context-realtime-image-editing",
+    "synced_at": "2026-05-10T22:47:53.008401+00:00"
+  },
+  "phase4:aie-2026-05-10-on-device-tts-cost-reduction": {
+    "hash": "c4aadccf2a0319c5d846ad3ff3d8251aece1871f42724e67691088375d2b527d",
+    "slug": "aie-2026-05-10-on-device-tts-cost-reduction",
+    "synced_at": "2026-05-10T22:47:53.007020+00:00"
+  },
+  "phase4:aie-2026-05-10-semantic-vad-streaming-pipeline": {
+    "hash": "35e9682fbd0f6e31c153c54d59e6801140959a62fc293db9f641b4c47ca7ab50",
+    "slug": "aie-2026-05-10-semantic-vad-streaming-pipeline",
+    "synced_at": "2026-05-10T22:47:53.007506+00:00"
+  },
+  "phase4:aie-2026-05-10-vit-nas-deployment-flexibility": {
+    "hash": "1ff2761b126391aad01a3ff2b4667c92c3d647d96fd8785ec561480ba51b0bc4",
+    "slug": "aie-2026-05-10-vit-nas-deployment-flexibility",
+    "synced_at": "2026-05-10T22:47:53.007940+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "7f990be0e2c7968aef9c35b6ab477082f7d8d8720b9e68ad4da8d00cbcd82127",
     "slug": "aij-2026-04-22-self-evolving-agent",

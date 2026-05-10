@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**173 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**179 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,8 +12,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
+| `backlog` | 50 |
 | `done` | 44 |
-| `backlog` | 44 |
 | `deferred` | 29 |
 | `discarded` | 25 |
 | `adopted` | 17 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 87 |
+| `(none)` | 93 |
 | `adopt` | 51 |
 | `discard` | 35 |
 
@@ -36,8 +36,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | @NateHerk | 38 |
 | @MLOps | 31 |
 | @DavidOndrej | 19 |
+| @aiDotEngineer | 13 |
 | @Mark_Kashef | 8 |
-| @aiDotEngineer | 7 |
 | @[un]prompted | 4 |
 | @ShawTalebi | 4 |
 | @AIJasonZ | 3 |
@@ -53,6 +53,12 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-05-10 | [[experiments/aie-2026-05-10-vit-nas-deployment-flexibility|Use neural architecture search on a pretrained ViT backbone to generate a family of deployment-flexible vision models]] | @aiDotEngineer | `-` |
+| 2026-05-10 | [[experiments/aie-2026-05-10-semantic-vad-streaming-pipeline|Add semantic VAD to streaming STT→LLM→TTS pipeline to reduce perceived latency]] | @aiDotEngineer | `-` |
+| 2026-05-10 | [[experiments/aie-2026-05-10-on-device-tts-cost-reduction|Replace cloud TTS with on-device CPU model to eliminate API costs]] | @aiDotEngineer | `-` |
+| 2026-05-10 | [[experiments/aie-2026-05-10-flux-context-realtime-image-editing|Integrate Flux Context for sub-second in-loop image editing instead of generation-only models]] | @aiDotEngineer | `-` |
+| 2026-05-10 | [[experiments/aie-2026-05-10-effect-workflows-long-running-ai|Use Effect Cluster workflows to guarantee completion of multi-step AI agent processes across server crashes]] | @aiDotEngineer | `-` |
+| 2026-05-10 | [[experiments/aie-2026-05-10-effect-clone-repo-agent-context|Feed the full library repo as agent context instead of relying on training data or MCP docs]] | @aiDotEngineer | `-` |
 | 2026-05-09 | [[experiments/nh-2026-05-09-most-powerful-tool-claude-code|Identify and integrate the highest-leverage MCP tool for Claude Code]] | @NateHerk | `-` |
 | 2026-05-09 | [[experiments/nh-2026-05-09-codex-full-course|Run through Codex full-course to identify features absent from our current Claude Code workflow]] | @NateHerk | `-` |
 | 2026-05-09 | [[experiments/nh-2026-05-09-claude-session-limits-solution|Use Claude's new session continuity mechanism to run long multi-step tasks]] | @NateHerk | `-` |
