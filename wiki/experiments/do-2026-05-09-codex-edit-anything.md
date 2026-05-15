@@ -4,7 +4,7 @@
 
 Source: **[Edit Anything with Codex, Here's How](https://www.youtube.com/watch?v=oyWSdPYeQwQ)** · DavidOndrej · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Inferred from title: speaker demonstrated how to use Codex's computer-use or edi
 
 Relevant as an alternative execution backend to Claude Code; comparing Codex computer-use vs Claude Code for editing tasks could inform which tool to route specific YOLO loop tasks to.
 
+## Notes
+
+Deferred 2026-05-10: codex tooling demo overlaps with our existing Claude Code workflow; revisit if we adopt codex as a council reviewer.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

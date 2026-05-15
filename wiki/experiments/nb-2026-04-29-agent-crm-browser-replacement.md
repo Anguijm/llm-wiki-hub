@@ -4,7 +4,7 @@
 
 Source: **[Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](https://www.youtube.com/watch?v=dQK_pTXrGDk)** · NateBJones · 2026-04-29
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker demonstrated Salesforce's Agentforce paradigm where AI agents natively r
 
 In the YOLO loop, agents frequently need project context (open tasks, stakeholder info, prior decisions). Wiring a lightweight CRM-style tool (even a local Notion/Airtable wrapper) into the loop means agents self-serve that context instead of stalling for human lookup, directly reducing loop interruptions.
 
+## Notes
+
+Deferred 2026-05-10: multi-week build for a use case (CRM replacement) we have no target customer for. Park until a real CRM project lands in the portfolio.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-29 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

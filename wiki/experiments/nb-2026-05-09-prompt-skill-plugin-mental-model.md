@@ -4,7 +4,7 @@
 
 Source: **[You're Wasting 40% Of Your AI Time On Something Fixable](https://www.youtube.com/watch?v=647pSnX5H_Y)** · NateBJones · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker laid out a decision framework distinguishing four scaffold layers: promp
 
 Directly applicable: we can audit our current YOLO loop prompts and CLAUDE.md conventions, promote stable patterns to skill files, package multi-tool flows as plugins, and add deterministic scripts for verification steps.
 
+## Notes
+
+Deferred 2026-05-10: theoretical taxonomy. Useful framing but no build attached. Revisit when we have 3+ skills shipped and need to organize them.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

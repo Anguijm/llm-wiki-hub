@@ -4,7 +4,7 @@
 
 Source: **[The Multi-Agent Architecture That Actually Ships — Luke Alvoeiro, Factory](https://www.youtube.com/watch?v=ow1we5PzK-o)** · aiDotEngineer · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker from Factory described the multi-agent architecture they use in producti
 
 Directly applicable: our loop currently uses a single agent; introducing a planner-executor split or specialist subagents for test writing vs implementation could improve handling of large tasks.
 
+## Notes
+
+Discarded 2026-05-10: vague 'multi-agent factory' framing. The concrete multi-agent prototype already lives in tick queue (mk-2026-05-03-hive-mind-multi-agent-os).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

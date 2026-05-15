@@ -4,7 +4,7 @@
 
 Source: **[FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs](https://www.youtube.com/watch?v=x8Yb4RidLgM)** · aiDotEngineer · 2026-05-10
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `deferred` · **Effort:** `low`
 
 ---
 
@@ -22,13 +22,14 @@ An agent loop that generates visual artifacts (mockups, UI screenshots, diagrams
 
 ## Notes
 
-Client model available via BFL API. Training data composition is trade secret per Q&A. World model / robotics work is forward-looking research, not yet productized. Flux 1 is open-source and runnable locally.
+Deferred 2026-05-10: image-editing cluster. Park with the other image-tooling defers.
 
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-10 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

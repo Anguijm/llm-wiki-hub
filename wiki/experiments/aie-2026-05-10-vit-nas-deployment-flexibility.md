@@ -4,7 +4,7 @@
 
 Source: **[How Transformers Finally Ate Vision – Isaac Robinson, Roboflow](https://www.youtube.com/watch?v=VhfAVA3BG2I)** · aiDotEngineer · 2026-05-10
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -22,13 +22,14 @@ If the YOLO loop incorporates vision-based tooling (screenshot understanding, UI
 
 ## Notes
 
-RF100-VL dataset and RFDetR available via Roboflow. SAM3 baseline is 800M params / 300ms on T4. NAS family trades some accuracy for 15-40x speed improvement. VJEPA not yet proven for downstream transfer per speaker.
+Discarded 2026-05-10: ViT/NAS deployment flexibility is computer-vision-deployment scope; out of scope for the YOLO dev loop.
 
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-10 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

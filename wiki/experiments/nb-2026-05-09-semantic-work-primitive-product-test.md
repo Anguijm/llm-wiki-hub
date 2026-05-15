@@ -4,7 +4,7 @@
 
 Source: **[The Work Primitive: What Every AI Product Leader Gets Wrong](https://www.youtube.com/watch?v=b1fxYGPbHeo)** · NateBJones · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker introduced the concept of the 'semantic work primitive' as a layer benea
 
 Applicable to tool design in our loop: when we add new MCP tools or Claude Code actions, we should document not just what the tool does mechanically but its semantic contract, reversibility, and permission implications.
 
+## Notes
+
+Deferred 2026-05-10: 'semantic work primitive' framing; needs a concrete product test before we build. Revisit when we can attach it to a tock.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Master 97% of Codex in 1 Hour (full course)](https://www.youtube.com/watch?v=3TdD8Qv5Tk8)** · NateHerk · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Inferred from title: speaker produced a comprehensive one-hour course covering t
 
 Useful as a comparative reference; watching with a gap-analysis mindset against our current loop could surface quick wins.
 
+## Notes
+
+Discarded 2026-05-10: tutorial/course recap; not an experiment.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

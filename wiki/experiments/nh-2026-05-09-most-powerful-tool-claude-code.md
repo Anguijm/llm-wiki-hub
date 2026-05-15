@@ -4,7 +4,7 @@
 
 Source: **[This is The Most Powerful Tool to Give to Claude Code](https://www.youtube.com/watch?v=YHk45NEpspE)** · NateHerk · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Inferred from title: speaker identified a specific tool or MCP server as the mos
 
 Directly applicable: evaluating and adding this tool to our Claude Code MCP configuration could immediately improve loop capabilities.
 
+## Notes
+
+Discarded 2026-05-10: marketing-style recap of Claude Code's strengths; nothing new to test that we don't already do.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

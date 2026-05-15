@@ -4,7 +4,7 @@
 
 Source: **[Agentic Search for Context Engineering — Leonie Monigatti, Elastic](https://www.youtube.com/watch?v=ynJyIKwjonM)** · aiDotEngineer · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `deferred` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker from Elastic described agentic search patterns where the retrieval step 
 
 Applicable to any retrieval step in our loop (codebase search, documentation lookup); replacing static search with agentic search could reduce context gaps that cause Claude to hallucinate missing information.
 
+## Notes
+
+Deferred 2026-05-10: context-engineering deep dive. Overlaps with the lessons-compounding work already running. Revisit if we hit a context-window blocker.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

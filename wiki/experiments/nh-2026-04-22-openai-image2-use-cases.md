@@ -4,7 +4,7 @@
 
 Source: **[OpenAI Image 2 is Nuts. Here are 10 Ways to Use it.](https://www.youtube.com/watch?v=GY-kAiZGLOw)** · NateHerk · 2026-04-22
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `deferred` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker demonstrated 10 practical applications of OpenAI Image 2, including gene
 
 The YOLO loop produces code but lacks a visual grounding step; inserting image generation for UI or flow diagrams could improve human review speed and catch layout mismatches before implementation.
 
+## Notes
+
+Deferred 2026-05-10: image-generation use cases are off the current loop. Park until we have a portfolio project that needs generated imagery.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-22 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

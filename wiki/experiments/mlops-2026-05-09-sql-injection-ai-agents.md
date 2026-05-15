@@ -4,7 +4,7 @@
 
 Source: **[Stop AI Agents From SQL Injecting Your Database](https://www.youtube.com/watch?v=jDxAtxGv3fI)** · MLOps · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Inferred from title: the video covers techniques to prevent AI agents from being
 
 Directly relevant if our dev loop agents have database write access; adding query constraints or a review gate before execution reduces risk of agent-induced data corruption.
 
+## Notes
+
+Deferred 2026-05-10: security-flavored topic worth flagging in the security angle's prompt, but no current YOLO project handles SQL agents. Park; promote if a tick uses SQL tools.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

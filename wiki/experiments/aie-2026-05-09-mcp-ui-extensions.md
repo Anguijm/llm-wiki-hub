@@ -4,7 +4,7 @@
 
 Source: **[MCP UI: Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps](https://www.youtube.com/watch?v=o-zkvb0iFDQ)** · aiDotEngineer · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `deferred` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Speakers from MCP Apps described how to extend the MCP protocol with UI componen
 
 Relevant for adding human-in-the-loop gates to our YOLO loop without fully stopping execution; a UI-bearing MCP tool could prompt for approval before destructive operations.
 
+## Notes
+
+Deferred 2026-05-10: MCP UI extensions only earn their slot when we have an MCP server worth fronting. Park until we ship one.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

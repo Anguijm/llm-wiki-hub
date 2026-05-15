@@ -4,7 +4,7 @@
 
 Source: **[Overwhelmed By AI? Just Copy My Tech Stack](https://www.youtube.com/watch?v=35WuZxbAY68)** · NateHerk · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Inferred from title: speaker shared their personal AI tooling stack and the reas
 
 Useful for auditing our own YOLO loop stack and identifying redundant or low-value tools to remove.
 
+## Notes
+
+Discarded 2026-05-10: 'copy this tech stack' listicle; no testable hypothesis specific to YOLO.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

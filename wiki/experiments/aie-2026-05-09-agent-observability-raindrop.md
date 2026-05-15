@@ -4,7 +4,7 @@
 
 Source: **[Everything You Need To Know About Agent Observability — Danny Gollapalli and Ben Hylak, Raindrop](https://www.youtube.com/watch?v=-aM2EDTiaMs)** · aiDotEngineer · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speakers from Raindrop described the key components of agent observability: trac
 
 High relevance: our YOLO loop currently has minimal observability; adding even lightweight structured logging of each Claude Code tool call and response would dramatically improve our ability to debug failures.
 
+## Notes
+
+Discarded 2026-05-10: vendor pitch for Raindrop. We don't run agents in production; observability tooling earns no slot until we do.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

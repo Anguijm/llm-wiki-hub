@@ -4,7 +4,7 @@
 
 Source: **[Voice AI: when is the "Her" moment? — Neil Zeghidour, Gradium AI](https://www.youtube.com/watch?v=P_RI1kCkRbo)** · aiDotEngineer · 2026-05-10
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -22,13 +22,14 @@ If the YOLO loop gains a voice interface for hands-free operation or agent statu
 
 ## Notes
 
-Speaker noted that even best-in-class cascaded systems are 'not there yet' for human-level conversation. Semantic VAD is an incremental improvement, not a full solution. Full speech-to-speech models (Moshi-style) likely needed for true Her-moment parity.
+Deferred 2026-05-10: streaming pipeline needs a real-time platform we don't have. Park.
 
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-10 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

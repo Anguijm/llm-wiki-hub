@@ -4,7 +4,7 @@
 
 Source: **[Vibe Engineering Effect Apps — Michael Arnaldi, Effectful](https://www.youtube.com/watch?v=Wmp2Tku2PrI)** · aiDotEngineer · 2026-05-10
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -22,13 +22,14 @@ YOLO loop agentic runs are long-lived processes (LLM calls, tool chains, file wr
 
 ## Notes
 
-Effect workflows currently marked unstable in Effect v4. Speaker expects stabilization soon. Temporal cited as proof-of-market: its adoption spiked in past 12 months due to AI process longevity. Evaluate Effect workflows vs Temporal for TypeScript-native stack alignment.
+Deferred 2026-05-10: Effect TS framework; revisit only if we adopt TypeScript for a portfolio project. Today the loop is Python-centric.
 
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-10 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

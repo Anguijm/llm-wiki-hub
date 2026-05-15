@@ -4,7 +4,7 @@
 
 Source: **[Why AI Agents Shouldn't Replace Your Fraud Models](https://www.youtube.com/watch?v=HaWk8kAD8ZU)** · MLOps · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `deferred` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Inferred from title: the video argues that AI agents are not suitable replacemen
 
 Relevant to architecture decisions: when our loop needs to call domain-specific models (classifiers, rankers), we should wire agents to invoke them rather than prompting a general LLM to replicate their behavior.
 
+## Notes
+
+Deferred 2026-05-10: ML-training topic, not our scope (we don't train models). Park.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

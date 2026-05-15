@@ -4,7 +4,7 @@
 
 Source: **[Your AI Agent Is Locked To One Model. OpenClaw Just Killed That.](https://www.youtube.com/watch?v=85Q9htV2CBE)** · NateBJones · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `deferred` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker described OpenClaw's April 2026 maturation into a serious agent runtime 
 
 High relevance: our YOLO loop's persistence layer should be model-agnostic; experimenting with an OpenBrain-style memory store would let us route different models (Claude, GPT-4o, local) through the same workflow without rebuilding state.
 
+## Notes
+
+Deferred 2026-05-10: swappable-model-memory pattern is interesting but the harness already has model abstraction. Revisit if we hit a model-portability blocker.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

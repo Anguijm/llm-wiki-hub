@@ -4,7 +4,7 @@
 
 Source: **[Consumer AI Has a Problem Nobody's Naming.](https://www.youtube.com/watch?v=Z0HizICooiw)** · NateBJones · 2026-05-05
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -22,13 +22,14 @@ Directly applicable as a structured evaluation harness for the YOLO loop: instea
 
 ## Notes
 
-Nate also mentions Clicky.so as a consumer agent UX worth watching — small cursor-based agents instantiated by plain English. Could be worth a separate card if we test it. His Substack apparently has a step-by-step guide for adding proactivity hooks using open-source tools (he references 'open brain project' and Steinberger's work).
+Deferred 2026-05-10: load-testing only earns its slot after we have a deployed agent service. We don't yet. Park until then.
 
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-05 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

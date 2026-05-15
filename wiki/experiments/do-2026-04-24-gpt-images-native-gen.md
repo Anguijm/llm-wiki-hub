@@ -4,7 +4,7 @@
 
 Source: **[OpenAI just destroyed all AI image tools… GPT Images 2.0](https://www.youtube.com/watch?v=XdQq90Ug8eY)** · DavidOndrej · 2026-04-24
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `deferred` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker demonstrated GPT Images 2.0 capabilities including text rendering accura
 
 Relevant to any asset generation step in our loop (UI mockups, diagrams, marketing assets). Native integration means one fewer external API call and tighter context continuity.
 
+## Notes
+
+Deferred 2026-05-10: native image gen tied to the same image-tooling cluster as openai-image2-use-cases. Park together.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

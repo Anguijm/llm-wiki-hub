@@ -4,7 +4,7 @@
 
 Source: **[I used /goals command wrong... Here are all tips & mistakes](https://www.youtube.com/watch?v=rIs802-bXDY)** · AIJasonZ · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Inferred from title: speaker reflected on their own mistakes using the /goals co
 
 Directly applicable if we use goal-setting commands in our loop; reviewing common mistakes could help us avoid misalignment in task specification.
 
+## Notes
+
+Discarded 2026-05-10: tips-and-tricks listicle; no hypothesis we'd run as a tick.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

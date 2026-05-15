@@ -4,7 +4,7 @@
 
 Source: **[AI's 'Thin Ice' Moment: Is Your Job Already Gone?](https://www.youtube.com/watch?v=rYqt6mMlv7o)** · NateBJones · 2026-05-04
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `deferred` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ The speaker described a personal work audit framework that sorts every task from
 
 Directly applicable to auditing which steps in the YOLO dev loop (e.g., writing summaries, formatting outputs, routing tasks, generating boilerplate) are already commodity-automatable versus which steps require human judgment about architecture, prioritization, or novel problem framing. The audit output could inform where to invest agentic automation next.
 
+## Notes
+
+Deferred 2026-05-10: meta-strategic 'audit your jobs' framing; useful as a thinking tool but not a tick build. Capture as a planning-doc prompt later.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-04 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

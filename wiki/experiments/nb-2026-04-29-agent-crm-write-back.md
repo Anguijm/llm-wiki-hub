@@ -4,7 +4,7 @@
 
 Source: **[Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](https://www.youtube.com/watch?v=dQK_pTXrGDk)** · NateBJones · 2026-04-29
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `deferred` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker highlighted that in Salesforce's agent model every agent action is recor
 
 The YOLO loop currently loses context between runs. Adding a lightweight write-back step at loop completion (append structured JSON summary to a local SQLite or Notion DB) mirrors this pattern and builds the memory layer needed for multi-session continuity.
 
+## Notes
+
+Deferred 2026-05-10: same cluster as agent-crm-browser-replacement. Park together.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-29 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

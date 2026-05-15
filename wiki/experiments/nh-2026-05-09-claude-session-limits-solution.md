@@ -4,7 +4,7 @@
 
 Source: **[Claude Just Solved Session Limits](https://www.youtube.com/watch?v=3QclAjmu5Tw)** · NateHerk · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Inferred from title: speaker demonstrated a new Claude feature or technique that
 
 High relevance: session limits are a known friction point in our loop for long coding tasks; applying this technique could allow uninterrupted multi-file refactors or extended research tasks.
 
+## Notes
+
+Discarded 2026-05-10: duplicate of nh-2026-04-20-claude-session-limit which is already in tick_queue_approved.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[271 Vulnerabilities: What Mozilla's AI Found Changes Everything](https://www.youtube.com/watch?v=W79FW7iUkro)** · NateBJones · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker analyzed Mozilla's use of Anthropic's Claude Mythos preview on Firefox, 
 
 Directly relevant: improving SPECS.md and task-level intent documents in our repo makes our codebase more defensible by automated review tools and improves Claude Code task scoping.
 
+## Notes
+
+Deferred 2026-05-10: spec-legibility research spike; valuable but lower priority than the deterministic-script-verification tick we're promoting from the same batch.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

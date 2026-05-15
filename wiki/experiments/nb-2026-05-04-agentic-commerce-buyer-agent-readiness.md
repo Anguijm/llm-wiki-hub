@@ -4,7 +4,7 @@
 
 Source: **[Stripe, Visa, Mastercard, Microsoft, Meta. All Building The Same Thing.](https://www.youtube.com/watch?v=XGvDbeoSN3E)** · NateBJones · 2026-05-04
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ The speaker analyzed Stripe's Session announcements as a unified architecture fo
 
 Relevant to any YOLO loop component that exposes APIs or tools to downstream agents — ensuring those interfaces have clean contracts, structured capability descriptions, and machine-readable policies so that orchestrating agents can discover, evaluate, and invoke them without human intervention. Maps directly to tool-definition and MCP server design work.
 
+## Notes
+
+Deferred 2026-05-10: agentic-commerce angle is far from the current YOLO loop. Park until we have a commerce project in the portfolio.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-04 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

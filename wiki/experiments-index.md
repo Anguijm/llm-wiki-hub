@@ -12,11 +12,11 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 50 |
+| `deferred` | 56 |
 | `done` | 44 |
-| `deferred` | 29 |
-| `discarded` | 25 |
+| `discarded` | 36 |
 | `adopted` | 17 |
+| `backlog` | 12 |
 | `in_progress` | 10 |
 | `skipped` | 4 |
 
@@ -24,9 +24,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 93 |
+| `(none)` | 82 |
 | `adopt` | 51 |
-| `discard` | 35 |
+| `discard` | 46 |
 
 ## By channel
 
@@ -53,16 +53,16 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
-| 2026-05-10 | [[experiments/aie-2026-05-10-vit-nas-deployment-flexibility|Use neural architecture search on a pretrained ViT backbone to generate a family of deployment-flexible vision models]] | @aiDotEngineer | `-` |
+| 2026-05-10 | [[experiments/aie-2026-05-10-vit-nas-deployment-flexibility|Use neural architecture search on a pretrained ViT backbone to generate a family of deployment-flexible vision models]] | @aiDotEngineer | `discard` |
 | 2026-05-10 | [[experiments/aie-2026-05-10-semantic-vad-streaming-pipeline|Add semantic VAD to streaming STT→LLM→TTS pipeline to reduce perceived latency]] | @aiDotEngineer | `-` |
 | 2026-05-10 | [[experiments/aie-2026-05-10-on-device-tts-cost-reduction|Replace cloud TTS with on-device CPU model to eliminate API costs]] | @aiDotEngineer | `-` |
 | 2026-05-10 | [[experiments/aie-2026-05-10-flux-context-realtime-image-editing|Integrate Flux Context for sub-second in-loop image editing instead of generation-only models]] | @aiDotEngineer | `-` |
 | 2026-05-10 | [[experiments/aie-2026-05-10-effect-workflows-long-running-ai|Use Effect Cluster workflows to guarantee completion of multi-step AI agent processes across server crashes]] | @aiDotEngineer | `-` |
 | 2026-05-10 | [[experiments/aie-2026-05-10-effect-clone-repo-agent-context|Feed the full library repo as agent context instead of relying on training data or MCP docs]] | @aiDotEngineer | `-` |
-| 2026-05-09 | [[experiments/nh-2026-05-09-most-powerful-tool-claude-code|Identify and integrate the highest-leverage MCP tool for Claude Code]] | @NateHerk | `-` |
-| 2026-05-09 | [[experiments/nh-2026-05-09-codex-full-course|Run through Codex full-course to identify features absent from our current Claude Code workflow]] | @NateHerk | `-` |
-| 2026-05-09 | [[experiments/nh-2026-05-09-claude-session-limits-solution|Use Claude's new session continuity mechanism to run long multi-step tasks]] | @NateHerk | `-` |
-| 2026-05-09 | [[experiments/nh-2026-05-09-ai-tech-stack-copy|Adopt a curated minimal AI tech stack to reduce tool sprawl]] | @NateHerk | `-` |
+| 2026-05-09 | [[experiments/nh-2026-05-09-most-powerful-tool-claude-code|Identify and integrate the highest-leverage MCP tool for Claude Code]] | @NateHerk | `discard` |
+| 2026-05-09 | [[experiments/nh-2026-05-09-codex-full-course|Run through Codex full-course to identify features absent from our current Claude Code workflow]] | @NateHerk | `discard` |
+| 2026-05-09 | [[experiments/nh-2026-05-09-claude-session-limits-solution|Use Claude's new session continuity mechanism to run long multi-step tasks]] | @NateHerk | `discard` |
+| 2026-05-09 | [[experiments/nh-2026-05-09-ai-tech-stack-copy|Adopt a curated minimal AI tech stack to reduce tool sprawl]] | @NateHerk | `discard` |
 | 2026-05-09 | [[experiments/nb-2026-05-09-semantic-work-primitive-product-test|Evaluate each tool/action in your agent for semantic meaning, not just access]] | @NateBJones | `-` |
 | 2026-05-09 | [[experiments/nb-2026-05-09-prompt-skill-plugin-mental-model|Audit workflows and classify each as prompt, skill, plugin, or MCP]] | @NateBJones | `-` |
 | 2026-05-09 | [[experiments/nb-2026-05-09-openclaw-swappable-model-memory|Decouple agent memory from the model so workflows survive model swaps]] | @NateBJones | `-` |
@@ -72,16 +72,16 @@ Ordered by published date, most recent first.
 | 2026-05-09 | [[experiments/mlops-2026-05-09-fraud-models-vs-agents|Keep specialized ML models for high-stakes decisions; use agents only for orchestration]] | @MLOps | `-` |
 | 2026-05-09 | [[experiments/mlops-2026-05-09-agents-survive-production|Implement retry logic, state persistence, and failure observability in production agents]] | @MLOps | `-` |
 | 2026-05-09 | [[experiments/mk-2026-05-09-agentic-os-build|Design a personal agentic OS with layered memory, tools, and routing]] | @Mark_Kashef | `-` |
-| 2026-05-09 | [[experiments/do-2026-05-09-hermes-agent-lessons|Apply condensed Hermes agent architecture lessons to reduce agent iteration time]] | @DavidOndrej | `-` |
+| 2026-05-09 | [[experiments/do-2026-05-09-hermes-agent-lessons|Apply condensed Hermes agent architecture lessons to reduce agent iteration time]] | @DavidOndrej | `discard` |
 | 2026-05-09 | [[experiments/do-2026-05-09-codex-edit-anything|Use Codex computer-use editing for arbitrary file and UI modifications]] | @DavidOndrej | `-` |
-| 2026-05-09 | [[experiments/aij-2026-05-09-goals-command-tips|Correctly structure /goals commands to improve agent task alignment]] | @AIJasonZ | `-` |
+| 2026-05-09 | [[experiments/aij-2026-05-09-goals-command-tips|Correctly structure /goals commands to improve agent task alignment]] | @AIJasonZ | `discard` |
 | 2026-05-09 | [[experiments/aie-2026-05-09-tts-models-like-llms|Evaluate LLM-style TTS models for voice output in agentic pipelines]] | @aiDotEngineer | `-` |
 | 2026-05-09 | [[experiments/aie-2026-05-09-pydantic-agents-production-optimisation|Use Pydantic AI structured outputs to enforce agent response contracts in production]] | @aiDotEngineer | `-` |
-| 2026-05-09 | [[experiments/aie-2026-05-09-multi-agent-architecture-factory|Adopt a task-decomposition multi-agent pattern for complex coding workflows]] | @aiDotEngineer | `-` |
+| 2026-05-09 | [[experiments/aie-2026-05-09-multi-agent-architecture-factory|Adopt a task-decomposition multi-agent pattern for complex coding workflows]] | @aiDotEngineer | `discard` |
 | 2026-05-09 | [[experiments/aie-2026-05-09-mcp-ui-extensions|Build MCP servers that expose UI components for human-in-the-loop agent steps]] | @aiDotEngineer | `-` |
-| 2026-05-09 | [[experiments/aie-2026-05-09-elevenlabs-chat-agent-voice|Integrate ElevenLabs voice layer into a chat agent for real-time voice interaction]] | @aiDotEngineer | `-` |
+| 2026-05-09 | [[experiments/aie-2026-05-09-elevenlabs-chat-agent-voice|Integrate ElevenLabs voice layer into a chat agent for real-time voice interaction]] | @aiDotEngineer | `discard` |
 | 2026-05-09 | [[experiments/aie-2026-05-09-agentic-search-context-engineering|Replace static RAG retrieval with agentic search for dynamic context assembly]] | @aiDotEngineer | `-` |
-| 2026-05-09 | [[experiments/aie-2026-05-09-agent-observability-raindrop|Add structured trace logging to agent runs for post-hoc debugging]] | @aiDotEngineer | `-` |
+| 2026-05-09 | [[experiments/aie-2026-05-09-agent-observability-raindrop|Add structured trace logging to agent runs for post-hoc debugging]] | @aiDotEngineer | `discard` |
 | 2026-05-05 | [[experiments/nh-2026-05-05-higgsfield-claude-mcp-creative-agency|Connect Higgsfield MCP to Claude and Drive Full Brand Asset Generation from a Single Prompt]] | @NateHerk | `-` |
 | 2026-05-05 | [[experiments/nb-2026-05-05-proactive-agent-load-test|Run 3-4 Agents in Parallel for a Month to Measure Proactivity Progress]] | @NateBJones | `-` |
 | 2026-05-04 | [[experiments/nh-2026-05-04-voice-agent-claude-code-elevenlabs|Build a Knowledge-Grounded Voice Agent via Claude Code and ElevenLabs in a Single Session]] | @NateHerk | `-` |
@@ -98,7 +98,7 @@ Ordered by published date, most recent first.
 | 2026-05-03 | [[experiments/mk-2026-05-03-global-vs-project-skill-hygiene|Audit and promote skills to global vs. project scope as a prerequisite to multi-agent reliability]] | @Mark_Kashef | `-` |
 | 2026-05-03 | [[experiments/do-2026-05-03-pi-agent-self-modifying|Implement a Self-Modifying Agent That Rewrites Its Own Prompts or Tools]] | @DavidOndrej | `discard` |
 | 2026-05-03 | [[experiments/do-2026-05-03-hermes-agent-switch|Swap current agent framework for Hermes Agent and benchmark task completion]] | @DavidOndrej | `discard` |
-| 2026-05-03 | [[experiments/aij-2026-05-03-openai-symphony-coding-paradigm|Prototype a Symphony-style multi-model coding orchestration layer]] | @AIJasonZ | `-` |
+| 2026-05-03 | [[experiments/aij-2026-05-03-openai-symphony-coding-paradigm|Prototype a Symphony-style multi-model coding orchestration layer]] | @AIJasonZ | `discard` |
 | 2026-05-02 | [[experiments/nb-2026-05-02-anthropic-atlassian-acquisition|Untitled]] | @NateBJones | `-` |
 | 2026-04-30 | [[experiments/nb-2026-04-30-microsoft-claude-vs-copilot|Benchmark Claude Against Your Primary Copilot on Internal Tasks]] | @NateBJones | `discard` |
 | 2026-04-29 | [[experiments/nb-2026-04-29-agent-crm-write-back|Instrument Agent Actions to Write Structured Logs Back to a Central Store]] | @NateBJones | `-` |

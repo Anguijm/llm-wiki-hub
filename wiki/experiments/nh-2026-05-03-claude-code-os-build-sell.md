@@ -4,7 +4,7 @@
 
 Source: **[Build & Sell Claude Code Operating Systems (2+ Hour Course)](https://www.youtube.com/watch?v=bCljOfCH8Ms)** · NateHerk · 2026-05-03
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `deferred` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Nate walked through a full course on designing, building, and packaging Claude C
 
 Highly relevant: formalizing our YOLO loop as a 'Claude Code OS' would make it portable, versioned, and easier to hand off or extend. Could become the canonical internal harness.
 
+## Notes
+
+Deferred 2026-05-10: business-model speculation rather than a testable experiment. Revisit only if we decide to commercialize.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

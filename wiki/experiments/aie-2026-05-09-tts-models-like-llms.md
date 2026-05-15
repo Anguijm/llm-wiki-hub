@@ -4,7 +4,7 @@
 
 Source: **[Why TTS Models Now Look Like LLMs — Samuel Humeau, Mistral](https://www.youtube.com/watch?v=3jGAU2sbAyY)** · aiDotEngineer · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker from Mistral explained the architectural convergence of TTS models towar
 
 Applicable if we add voice interfaces to our loop; useful for evaluating Mistral's TTS as an alternative to ElevenLabs or OpenAI TTS.
 
+## Notes
+
+Deferred 2026-05-10: TTS-landscape survey. We have one TTS need (audio summaries) and it's already solved. Park unless we need on-device or streaming TTS.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

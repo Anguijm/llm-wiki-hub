@@ -4,7 +4,7 @@
 
 Source: **[Give Your Chat Agent a Voice — Luke Harries, ElevenLabs](https://www.youtube.com/watch?v=DCZZ3AJKzuc)** · aiDotEngineer · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker from ElevenLabs described how to wire their voice API into a chat agent 
 
 Relevant if we build voice-accessible interfaces for our loop; ElevenLabs integration pattern is well-documented and could be added as an output channel.
 
+## Notes
+
+Discarded 2026-05-10: covered by nh-2026-05-04-voice-agent-claude-code-elevenlabs already in tick_queue_approved.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

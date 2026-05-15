@@ -4,7 +4,7 @@
 
 Source: **[Voice AI: when is the "Her" moment? — Neil Zeghidour, Gradium AI](https://www.youtube.com/watch?v=P_RI1kCkRbo)** · aiDotEngineer · 2026-05-10
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -22,13 +22,14 @@ Any YOLO-loop feature that speaks output (status narration, agent voice feedback
 
 ## Notes
 
-Gradion Phonon private beta at gradium.ai. Key constraint: voice cloning still requires ~10s reference audio clip. Latency tradeoff vs cloud not yet benchmarked on our hardware.
+Deferred 2026-05-10: TTS-cluster; same reasoning as tts-models-like-llms. Park together.
 
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-10 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

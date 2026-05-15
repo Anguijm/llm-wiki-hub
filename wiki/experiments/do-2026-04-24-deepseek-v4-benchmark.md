@@ -4,7 +4,7 @@
 
 Source: **[DeepSeek V4 just shocked the AI industry…](https://www.youtube.com/watch?v=UVObNdNmzzw)** · DavidOndrej · 2026-04-24
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `deferred` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker walked through DeepSeek V4 benchmark results, capability comparisons aga
 
 Directly relevant to model selection in our dev loop. If DeepSeek V4 matches or exceeds current models on code gen tasks at lower cost, it's a candidate for the primary or fallback model slot in the loop.
 
+## Notes
+
+Deferred 2026-05-10: model benchmarking earns no slot while cost is not a constraint. Already settled on Claude+Gemini for council; revisit if API budget tightens.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

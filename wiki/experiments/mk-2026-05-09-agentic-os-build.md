@@ -4,7 +4,7 @@
 
 Source: **[Build Your Agentic OS Better Than The 99%](https://www.youtube.com/watch?v=-WCNwxz3uoM)** · Mark_Kashef · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `deferred` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Inferred from title: speaker outlined an architecture or framework for building 
 
 Directly relevant as a design reference for evolving our YOLO loop from a single-agent script into a more durable multi-component agentic system.
 
+## Notes
+
+Deferred 2026-05-10: 'agentic OS' is a mega-system pitch; the concrete multi-agent prototype is already covered by mk-2026-05-03-hive-mind-multi-agent-os in tick queue.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

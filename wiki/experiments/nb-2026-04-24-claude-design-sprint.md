@@ -4,7 +4,7 @@
 
 Source: **[Claude Design Does In 30 Minutes What Your Team Does In A Sprint](https://www.youtube.com/watch?v=KlPxWaY91rE)** · NateBJones · 2026-04-24
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `deferred` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker demonstrated using Claude to handle a full design sprint deliverable —
 
 Directly accelerates the design-to-implementation handoff in our dev loop. Could replace or augment the planning/scoping phase before code generation begins, feeding Claude-generated specs directly into the build step.
 
+## Notes
+
+Deferred 2026-05-10: design-sprint format is interesting for the flagship products (markdown-deck, naval-scribe) but not as a tick. Revisit when we plan a tock-cluster.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[100 hours of Hermes Agent lessons in 46 minutes](https://www.youtube.com/watch?v=G47mnkGkYwQ)** · DavidOndrej · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Inferred from title: speaker condensed 100 hours of building and iterating on th
 
 High value as a reference: reviewing the lessons could surface architecture or prompting patterns applicable to our own agent loop without requiring us to rediscover them through trial and error.
 
+## Notes
+
+Discarded 2026-05-10: generic 'agent lessons' recap with no concrete experiment proposal; the actionable bits we already capture in .harness/learnings.md.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

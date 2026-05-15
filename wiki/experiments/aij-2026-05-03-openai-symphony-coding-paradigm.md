@@ -4,7 +4,7 @@
 
 Source: **[New AI coding paradigm - OpenAI Symphony](https://www.youtube.com/watch?v=M_AmPWmkpwA)** · AIJasonZ · 2026-05-03
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Jason described OpenAI Symphony as a new paradigm for AI-assisted coding, likely
 
 Offers an architectural alternative to our single-model YOLO loop; worth prototyping a Symphony-style router in front of Claude Code to see if specialist routing reduces error rate on complex tasks.
 
+## Notes
+
+Discarded 2026-05-10: pure OpenAI commentary/announcement recap; no testable hypothesis we'd run on the YOLO loop.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

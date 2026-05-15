@@ -4,7 +4,7 @@
 
 Source: **[Claude Cowork Explained in 29 Minutes (for non-coders)](https://www.youtube.com/watch?v=u_8NdSf2VV4)** · @ShawTalebi · 2026-05-03
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `deferred` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker walked through setting up Claude CoWork (desktop app, paid plan) with co
 
 Maps directly to the orchestration and scheduling layer of the dev loop; project-scoped skills prevent context pollution across workstreams, and scheduled tasks eliminate the manual trigger step for known recurring jobs.
 
+## Notes
+
+Deferred 2026-05-10: connector/skills demo is interesting but the concrete skill-creator + plan-first prototypes are already in the tick queue (nh-2026-05-03-claude-code-skill-creator, nh-2026-05-03-superpowers-plan-first-skill). Revisit only if those land and we want to layer connectors.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

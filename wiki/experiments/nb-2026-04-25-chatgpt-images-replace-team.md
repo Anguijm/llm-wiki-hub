@@ -4,7 +4,7 @@
 
 Source: **[ChatGPT Images Just Replaced Three People on Your Team.](https://www.youtube.com/watch?v=brBPsPPyuQM)** · NateBJones · 2026-04-25
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `deferred` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker demonstrated using ChatGPT's native image generation to produce assets t
 
 Directly reduces friction in the asset/content generation step of the loop. Can be integrated as a pre-commit or story-card artifact generator, replacing manual handoffs to non-dev team members.
 
+## Notes
+
+Deferred 2026-05-10: image-tooling cluster. Park.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-25 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 
