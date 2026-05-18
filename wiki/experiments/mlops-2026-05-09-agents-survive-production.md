@@ -4,7 +4,7 @@
 
 Source: **[Building AI Agents That Survive Production](https://www.youtube.com/watch?v=swO5svhBhQ4)** · MLOps · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `done` · **Verdict:** `adopt` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Inferred from title: the video covers engineering practices for making AI agents
 
 Core to productionizing our YOLO loop: adding checkpoint saves, structured error logs, and retry wrappers around Claude Code tool calls would make the loop resumable after failures.
 
+## Outcome
+
+Audited in experiments/agents-survive-production/ (PR #10): tick_tock.yml scored 3 PASS / 5 PARTIAL / 6 FAIL against a 14-criterion checklist. top_gaps.md surfaces three concrete follow-on tick proposals (output-shape alerting, runbook directory, Python dep pinning) for the next triage.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+| 2026-05-15 | `done` | Scaffold deliverables shipped in PR #10; promoted via PR #11 (tick_queue_approved). Status flipped post-merge since deliverables already on main. |
 
 ---
 

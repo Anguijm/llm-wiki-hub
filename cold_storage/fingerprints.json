@@ -35,9 +35,9 @@
     "synced_at": "2026-05-15T22:53:53.862874+00:00"
   },
   "phase4:aie-2026-05-09-pydantic-agents-production-optimisation": {
-    "hash": "9375ca7096e6adb13711553bad2ad164fd68687b01a0fe6757d8f0b69cd33682",
+    "hash": "3408bf38a2761e00cc15faf4a06c83ccbc4ab42edc0c0ffb5699a6d6bc3e7914",
     "slug": "aie-2026-05-09-pydantic-agents-production-optimisation",
-    "synced_at": "2026-05-09T22:43:07.706734+00:00"
+    "synced_at": "2026-05-18T23:00:44.476602+00:00"
   },
   "phase4:aie-2026-05-09-tts-models-like-llms": {
     "hash": "a167a9130bc30b66f9dd7aed13b6c3076a8ac95006d1722f9708643294d0b20f",
@@ -45,9 +45,9 @@
     "synced_at": "2026-05-15T22:53:53.861484+00:00"
   },
   "phase4:aie-2026-05-10-effect-clone-repo-agent-context": {
-    "hash": "bbd480ef42b90b13aba386cb12b7b9fdf85874384a2833b60a55349d7ff45a51",
+    "hash": "642b8f81aef1c8d41f2da6b2165cee1e03237a61d5447fff2fe869659d57bcba",
     "slug": "aie-2026-05-10-effect-clone-repo-agent-context",
-    "synced_at": "2026-05-10T22:47:53.008857+00:00"
+    "synced_at": "2026-05-18T23:00:44.477334+00:00"
   },
   "phase4:aie-2026-05-10-effect-workflows-long-running-ai": {
     "hash": "6a5e061953fb88a373905120082508e37b0455b87cb97f82a0336c0a0fd1e5b4",
@@ -385,9 +385,9 @@
     "synced_at": "2026-05-06T22:52:54.759392+00:00"
   },
   "phase4:mlops-2026-05-09-agents-survive-production": {
-    "hash": "1ca6c954bc3e57d3584ed38ae9448429c2ade02f1417ceb2b5225a6fa59983ff",
+    "hash": "cce09facd48b2c10365530c9a74e9825cc37e45006ad4a35220138f58b29a9ea",
     "slug": "mlops-2026-05-09-agents-survive-production",
-    "synced_at": "2026-05-09T22:43:07.702928+00:00"
+    "synced_at": "2026-05-18T23:00:44.475755+00:00"
   },
   "phase4:mlops-2026-05-09-fraud-models-vs-agents": {
     "hash": "d05e1b5ded4f3a08140f1c55de65087a73a06967e9dd4920a063ffe6162b9382",
@@ -655,9 +655,9 @@
     "synced_at": "2026-05-15T22:53:53.856275+00:00"
   },
   "phase4:nb-2026-05-09-deterministic-script-verification": {
-    "hash": "33c3769a21266a311d0c009afa8a9d1dca9f09cbd6e206d4111436baa44ae5f5",
+    "hash": "7655469c168017478f0694fd5db346941341b6793f4e8575f1c52bce8936c2e1",
     "slug": "nb-2026-05-09-deterministic-script-verification",
-    "synced_at": "2026-05-09T22:43:07.701007+00:00"
+    "synced_at": "2026-05-18T23:00:44.475021+00:00"
   },
   "phase4:nb-2026-05-09-mozilla-mythos-spec-legibility": {
     "hash": "85d02382712e6364983807db1af82d1fd682e748a8673eb6633491b5a5edd86a",

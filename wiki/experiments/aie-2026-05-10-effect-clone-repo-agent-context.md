@@ -4,7 +4,7 @@
 
 Source: **[Vibe Engineering Effect Apps — Michael Arnaldi, Effectful](https://www.youtube.com/watch?v=Wmp2Tku2PrI)** · aiDotEngineer · 2026-05-10
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,6 +20,10 @@ Michael Arnaldi ran a live unprepared workshop building a working Effect.ts Type
 
 The YOLO loop itself uses libraries and frameworks that may be newer than model training cutoffs. Cloning dependency repos into agent context is a zero-infrastructure technique that immediately improves code generation accuracy for any cutting-edge dependency, and can be applied as a standard YOLO loop preparation step.
 
+## Outcome
+
+Scaffolded in experiments/effect-clone-repo-agent-context/ (PR #10): bundle_repo.py produces an 8K-token-capped markdown bundle (overview + changed files + heuristic related files); demo run on PR #8's diff yields a 2.9K-token sample_bundle.md (under cap); quality_protocol.md is the 5-PR manual A/B recipe for a follow-on tick.
+
 ## Notes
 
 Speaker used ~1.5 hours to build a working typed API from scratch with zero prior preparation. Key insight: treat LLMs as fixed-knowledge machines requiring explicit context injection, not live learners. Effect workflows (for long-running AI processes) flagged as high-value follow-on experiment.
@@ -29,6 +33,7 @@ Speaker used ~1.5 hours to build a working typed API from scratch with zero prio
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-10 | `backlog` | Extracted from YouTube RSS |
+| 2026-05-15 | `done` | Scaffold deliverables shipped in PR #10; promoted via PR #11 (tick_queue_approved). Status flipped post-merge since deliverables already on main. |
 
 ---
 

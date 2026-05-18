@@ -4,7 +4,7 @@
 
 Source: **[Playground in Prod: Optimising Agents in Production Environments — Samuel Colvin, Pydantic](https://www.youtube.com/watch?v=A48uhxfxbsM)** · aiDotEngineer · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `done` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker from Pydantic described how to move agent prototypes into production by 
 
 Directly applicable: adding Pydantic models to our Claude Code tool outputs would catch schema drift early and make the loop more robust to model output variation.
 
+## Outcome
+
+Scaffolded in experiments/pydantic-agents-production-optimisation/ (PR #10): verdict_schema.py defines Pydantic models for per-angle Verdicts; parse_with_pydantic.py wraps the parse path and returns structured ParseError instead of phantom OBJECT (--demo passes for 3 valid + 3 distinguishable errors); comparison_protocol.md is the A/B replay recipe for a follow-on rollout tick.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+| 2026-05-15 | `done` | Scaffold deliverables shipped in PR #10; promoted via PR #11 (tick_queue_approved). Status flipped post-merge since deliverables already on main. |
 
 ---
 

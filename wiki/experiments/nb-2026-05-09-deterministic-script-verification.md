@@ -4,7 +4,7 @@
 
 Source: **[You're Wasting 40% Of Your AI Time On Something Fixable](https://www.youtube.com/watch?v=647pSnX5H_Y)** · NateBJones · 2026-05-09
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker explicitly distinguished hooks and scripts from LLM-driven steps, noting
 
 Maps directly to the verification phase of our dev loop; we can add shell/Python assertion scripts that run after Claude Code completes a task to catch regressions without relying on model self-evaluation.
 
+## Outcome
+
+Scaffolded in experiments/deterministic-script-verification/ (PR #10): verify.py works against golden-fixture JSON (catches injected regressions); fixtures/ has frozen process_experiments input + expected shape; proposed_ci_check.yml is a draft GHA workflow ready for a follow-on wire-up tick.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-09 | `backlog` | Extracted from YouTube RSS |
+| 2026-05-15 | `done` | Scaffold deliverables shipped in PR #10; promoted via PR #11 (tick_queue_approved). Status flipped post-merge since deliverables already on main. |
 
 ---
 
