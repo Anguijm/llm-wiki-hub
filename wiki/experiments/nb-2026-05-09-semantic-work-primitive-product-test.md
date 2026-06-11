@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[The Work Primitive: What Every AI Product Leader Gets Wrong](https://www.youtube.com/watch?v=b1fxYGPbHeo)** · NateBJones · 2026-05-09
+Source: **[The Work Primitive: What Every AI Product Leader Gets Wrong](https://www.youtube.com/watch?v=b1fxYGPbHeo)** · nb · 2026-05-09
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: 'semantic work primitive' framing; needs a concrete product
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-05-09-semantic-work-primitive-product-test` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [The Work Primitive: What Every AI Product Leader Gets Wrong](https://www.youtube.com/watch?v=b1fxYGPbHeo) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

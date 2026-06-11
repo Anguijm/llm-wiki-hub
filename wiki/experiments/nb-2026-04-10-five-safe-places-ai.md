@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](https://www.youtube.com/watch?v=ib2m9HVX7as)** · NateBJones · 2026-04-10
+Source: **[There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](https://www.youtube.com/watch?v=ib2m9HVX7as)** · nb · 2026-04-10
 
 **Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Adopted 2026-04-12: low-effort strategic positioning audit. Maps YOLO loop focus
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-10-five-safe-places-ai` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [There Are Only 5 Safe Places to Build in AI Right Now. Are You in One?](https://www.youtube.com/watch?v=ib2m9HVX7as) |
 | Published | 2026-04-10 |
 | Ingested upstream | 2026-04-10 |

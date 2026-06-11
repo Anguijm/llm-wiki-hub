@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[The Coding Agent Multiverse of Madness]()** · @MLOps · 2026-04-02
+Source: **[The Coding Agent Multiverse of Madness]()** · mlops · 2026-04-02
 
 **Status:** `deferred` · **Effort:** `high`
 
@@ -53,7 +53,7 @@ Deferred 2026-04-07: cross-agent benchmark is high cost (API keys for Codex, Gem
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-03-coding-agent-multiverse` |
-| Channel | @MLOps |
+| Channel | mlops |
 | Published | 2026-04-02 |
 | Ingested upstream | 2026-04-03 |
 | Source | [yolo-projects/experiments.json](https://github.com/Anguijm/yolo-projects/blob/main/experiments.json) |

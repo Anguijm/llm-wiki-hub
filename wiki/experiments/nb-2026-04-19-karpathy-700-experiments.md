@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Karpathy's Agent Ran 700 Experiments While He Slept. It's Coming For You.](https://www.youtube.com/watch?v=xnG8h3UnNFI)** · NateBJones · 2026-04-19
+Source: **[Karpathy's Agent Ran 700 Experiments While He Slept. It's Coming For You.](https://www.youtube.com/watch?v=xnG8h3UnNFI)** · nb · 2026-04-19
 
 **Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ See tick_queue_approved entry 'infra-sweep-mode' in session_state.json.
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-19-karpathy-700-experiments` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [Karpathy's Agent Ran 700 Experiments While He Slept. It's Coming For You.](https://www.youtube.com/watch?v=xnG8h3UnNFI) |
 | Published | 2026-04-19 |
 | Ingested upstream | 2026-04-19 |

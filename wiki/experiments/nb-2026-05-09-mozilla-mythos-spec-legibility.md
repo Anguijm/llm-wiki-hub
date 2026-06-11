@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[271 Vulnerabilities: What Mozilla's AI Found Changes Everything](https://www.youtube.com/watch?v=W79FW7iUkro)** · NateBJones · 2026-05-09
+Source: **[271 Vulnerabilities: What Mozilla's AI Found Changes Everything](https://www.youtube.com/watch?v=W79FW7iUkro)** · nb · 2026-05-09
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: spec-legibility research spike; valuable but lower priority
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-05-09-mozilla-mythos-spec-legibility` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [271 Vulnerabilities: What Mozilla's AI Found Changes Everything](https://www.youtube.com/watch?v=W79FW7iUkro) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

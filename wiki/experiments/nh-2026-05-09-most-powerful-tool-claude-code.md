@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[This is The Most Powerful Tool to Give to Claude Code](https://www.youtube.com/watch?v=YHk45NEpspE)** · NateHerk · 2026-05-09
+Source: **[This is The Most Powerful Tool to Give to Claude Code](https://www.youtube.com/watch?v=YHk45NEpspE)** · nh · 2026-05-09
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Discarded 2026-05-10: marketing-style recap of Claude Code's strengths; nothing 
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-05-09-most-powerful-tool-claude-code` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [This is The Most Powerful Tool to Give to Claude Code](https://www.youtube.com/watch?v=YHk45NEpspE) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

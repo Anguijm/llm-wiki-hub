@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[A New Kind of Marketplace](https://www.youtube.com/watch?v=q9e2e5Y8Q0k)** · MLOps · 2026-04-20
+Source: **[A New Kind of Marketplace](https://www.youtube.com/watch?v=q9e2e5Y8Q0k)** · mlops · 2026-04-20
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Suggests decomposing the YOLO loop into independently addressable steps that cou
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-20-new-kind-of-marketplace` |
-| Channel | MLOps |
+| Channel | mlops |
 | Video | [A New Kind of Marketplace](https://www.youtube.com/watch?v=q9e2e5Y8Q0k) |
 | Published | 2026-04-20 |
 | Ingested upstream | 2026-04-20 |

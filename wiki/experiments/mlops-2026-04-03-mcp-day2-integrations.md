@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[MCP Dev Summit [Day 2] ft AWS, Docker, & Datadog]()** · @MLOps · 2026-04-02
+Source: **[MCP Dev Summit [Day 2] ft AWS, Docker, & Datadog]()** · mlops · 2026-04-02
 
 **Status:** `deferred` · **Effort:** `high`
 
@@ -53,7 +53,7 @@ Deferred 2026-04-07: high effort, requires Docker + Datadog credentials, current
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-03-mcp-day2-integrations` |
-| Channel | @MLOps |
+| Channel | mlops |
 | Published | 2026-04-02 |
 | Ingested upstream | 2026-04-03 |
 | Source | [yolo-projects/experiments.json](https://github.com/Anguijm/yolo-projects/blob/main/experiments.json) |

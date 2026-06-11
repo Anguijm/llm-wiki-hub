@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[A Polymarket Bot Made $438,000 In 30 Days. Your Industry Is Next. Here's What To Do About It.](https://www.youtube.com/watch?v=BiqG3it0gY0)** · NateBJones · 2026-04-07
+Source: **[A Polymarket Bot Made $438,000 In 30 Days. Your Industry Is Next. Here's What To Do About It.](https://www.youtube.com/watch?v=BiqG3it0gY0)** · nb · 2026-04-07
 
 **Status:** `deferred` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Deferred 2026-04-08: interesting but not currently actionable. The Polymarket ca
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-07-polymarket-bot-disruption-audit` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [A Polymarket Bot Made $438,000 In 30 Days. Your Industry Is Next. Here's What To Do About It.](https://www.youtube.com/watch?v=BiqG3it0gY0) |
 | Published | 2026-04-07 |
 | Ingested upstream | 2026-04-07 |

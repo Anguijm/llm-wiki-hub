@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[I Tried 100+ Claude Code Skills. These 6 Are The Best](https://www.youtube.com/watch?v=eRS3CmvrOvA)** · @NateHerk · 2026-05-03
+Source: **[I Tried 100+ Claude Code Skills. These 6 Are The Best](https://www.youtube.com/watch?v=eRS3CmvrOvA)** · nh · 2026-05-03
 
 **Status:** `backlog` · **Effort:** `low`
 
@@ -33,7 +33,7 @@ Addresses the most common failure mode in rapid agentic dev loops—rushed code 
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-05-03-superpowers-plan-first-skill` |
-| Channel | @NateHerk |
+| Channel | nh |
 | Video | [I Tried 100+ Claude Code Skills. These 6 Are The Best](https://www.youtube.com/watch?v=eRS3CmvrOvA) |
 | Published | 2026-05-03 |
 | Ingested upstream | 2026-05-03 |

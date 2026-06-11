@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](https://www.youtube.com/watch?v=D-Ww1wLIp60)** · @NateBJones · 2026-04-04
+Source: **[Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](https://www.youtube.com/watch?v=D-Ww1wLIp60)** · nb · 2026-04-04
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Added 5 recipe presets to harness-cli: devtool, bugfix, feature, refactor, api. 
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-04-agent-recipe-presets` |
-| Channel | @NateBJones |
+| Channel | nb |
 | Video | [Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](https://www.youtube.com/watch?v=D-Ww1wLIp60) |
 | Published | 2026-04-04 |
 | Ingested upstream | 2026-04-05 |

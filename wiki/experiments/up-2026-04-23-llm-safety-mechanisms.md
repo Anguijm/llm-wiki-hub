@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Akash Mukherje - Are Your LLM's Safety Mechanisms Intact? | [un]prompted 2026](https://www.youtube.com/watch?v=S2Gv1leaIcE)** · [un]prompted · 2026-04-23
+Source: **[Akash Mukherje - Are Your LLM's Safety Mechanisms Intact? | [un]prompted 2026](https://www.youtube.com/watch?v=S2Gv1leaIcE)** · up · 2026-04-23
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ The YOLO loop's iterative prompt and chain modifications are exactly the vector 
 | Field | Value |
 |---|---|
 | Experiment ID | `up-2026-04-23-llm-safety-mechanisms` |
-| Channel | [un]prompted |
+| Channel | up |
 | Video | [Akash Mukherje - Are Your LLM's Safety Mechanisms Intact? | [un]prompted 2026](https://www.youtube.com/watch?v=S2Gv1leaIcE) |
 | Published | 2026-04-23 |
 | Ingested upstream | 2026-04-23 |

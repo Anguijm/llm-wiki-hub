@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[This One Plugin Just 10x'd Claude Code](https://www.youtube.com/watch?v=4XqVR6xI6Kw)** · NateHerk · 2026-04-12
+Source: **[This One Plugin Just 10x'd Claude Code](https://www.youtube.com/watch?v=4XqVR6xI6Kw)** · nh · 2026-04-12
 
 **Status:** `deferred` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Deferred 2026-04-13: video title is clickbait ('10x') with no experiment ID for 
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-12-claude-code-plugin-10x` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [This One Plugin Just 10x'd Claude Code](https://www.youtube.com/watch?v=4XqVR6xI6Kw) |
 | Published | 2026-04-12 |
 | Ingested upstream | 2026-04-12 |

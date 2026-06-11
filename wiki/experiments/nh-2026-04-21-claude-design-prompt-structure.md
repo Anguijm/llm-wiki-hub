@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude Design Builds Beautiful 3D Websites Instantly (full course)](https://www.youtube.com/watch?v=TcFeSjwTo7g)** · Nate Herk · 2026-04-21
+Source: **[Claude Design Builds Beautiful 3D Websites Instantly (full course)](https://www.youtube.com/watch?v=TcFeSjwTo7g)** · nh · 2026-04-21
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Reusable design prompt template could land as a learnings.md entry later. Not a 
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-21-claude-design-prompt-structure` |
-| Channel | Nate Herk |
+| Channel | nh |
 | Video | [Claude Design Builds Beautiful 3D Websites Instantly (full course)](https://www.youtube.com/watch?v=TcFeSjwTo7g) |
 | Published | 2026-04-21 |
 | Ingested upstream | 2026-04-21 |

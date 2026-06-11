@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](https://www.youtube.com/watch?v=5ztI_dbj6ek)** · @NateBJones · 2026-04-02
+Source: **[Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](https://www.youtube.com/watch?v=5ztI_dbj6ek)** · nb · 2026-04-02
 
 **Status:** `done` · **Verdict:** `discard` · **Effort:** `low`
 
@@ -41,7 +41,7 @@ Parked, architecture already provides this.
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-02-session-isolation-per-task` |
-| Channel | @NateBJones |
+| Channel | nb |
 | Video | [Your Claude Limit Burns In 90 Minutes Because Of One ChatGPT Habit.](https://www.youtube.com/watch?v=5ztI_dbj6ek) |
 | Published | 2026-04-02 |
 | Ingested upstream | 2026-04-02 |

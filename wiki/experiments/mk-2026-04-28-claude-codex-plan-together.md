@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[You Can Make Claude + Codex Plan Together. Here's How.](https://www.youtube.com/watch?v=RChO5deJ_fE)** · Mark_Kashef · 2026-04-28
+Source: **[You Can Make Claude + Codex Plan Together. Here's How.](https://www.youtube.com/watch?v=RChO5deJ_fE)** · mk · 2026-04-28
 
 **Status:** `in_progress` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Directly applicable to the planning and implementation phases of the YOLO loop; 
 | Field | Value |
 |---|---|
 | Experiment ID | `mk-2026-04-28-claude-codex-plan-together` |
-| Channel | Mark_Kashef |
+| Channel | mk |
 | Video | [You Can Make Claude + Codex Plan Together. Here's How.](https://www.youtube.com/watch?v=RChO5deJ_fE) |
 | Published | 2026-04-28 |
 | Ingested upstream | 2026-04-28 |

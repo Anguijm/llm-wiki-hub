@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About](https://www.youtube.com/watch?v=9aIYhjeYxzM)** · NateBJones · 2026-04-28
+Source: **[GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About](https://www.youtube.com/watch?v=9aIYhjeYxzM)** · nb · 2026-04-28
 
 **Status:** `in_progress` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Directly informs model selection at each node in the YOLO loop; a routing layer 
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-28-gpt55-vs-claude-vs-gemini-real-difference` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [GPT-5.5 vs Claude vs Gemini: The Real Difference Nobody's Talking About](https://www.youtube.com/watch?v=9aIYhjeYxzM) |
 | Published | 2026-04-28 |
 | Ingested upstream | 2026-04-28 |

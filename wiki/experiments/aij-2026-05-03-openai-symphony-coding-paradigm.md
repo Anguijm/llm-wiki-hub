@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[New AI coding paradigm - OpenAI Symphony](https://www.youtube.com/watch?v=M_AmPWmkpwA)** · AIJasonZ · 2026-05-03
+Source: **[New AI coding paradigm - OpenAI Symphony](https://www.youtube.com/watch?v=M_AmPWmkpwA)** · aij · 2026-05-03
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Discarded 2026-05-10: pure OpenAI commentary/announcement recap; no testable hyp
 | Field | Value |
 |---|---|
 | Experiment ID | `aij-2026-05-03-openai-symphony-coding-paradigm` |
-| Channel | AIJasonZ |
+| Channel | aij |
 | Video | [New AI coding paradigm - OpenAI Symphony](https://www.youtube.com/watch?v=M_AmPWmkpwA) |
 | Published | 2026-05-03 |
 | Ingested upstream | 2026-05-03 |

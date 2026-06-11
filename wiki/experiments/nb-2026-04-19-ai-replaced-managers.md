@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Dorsey Says AI Replaced 4,000 Managers.](https://www.youtube.com/watch?v=fm6mYqFAM5c)** · NateBJones · 2026-04-19
+Source: **[Dorsey Says AI Replaced 4,000 Managers.](https://www.youtube.com/watch?v=fm6mYqFAM5c)** · nb · 2026-04-19
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Too abstract for tick-sized work. "Replace coordination layer with AI orchestrat
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-19-ai-replaced-managers` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [Dorsey Says AI Replaced 4,000 Managers.](https://www.youtube.com/watch?v=fm6mYqFAM5c) |
 | Published | 2026-04-19 |
 | Ingested upstream | 2026-04-19 |

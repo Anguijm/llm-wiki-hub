@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude Code + Paperclip Just Destroyed OpenClaw](https://www.youtube.com/@NateHerk)** · @NateHerk · 2026-03-31
+Source: **[Claude Code + Paperclip Just Destroyed OpenClaw](https://www.youtube.com/@NateHerk)** · nh · 2026-03-31
 
 **Status:** `done` · **Verdict:** `discard` · **Effort:** `medium`
 
@@ -41,7 +41,7 @@ Parked pending specialist experiment outcome.
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-03-31-paperclip-agent-org` |
-| Channel | @NateHerk |
+| Channel | nh |
 | Video | [Claude Code + Paperclip Just Destroyed OpenClaw](https://www.youtube.com/@NateHerk) |
 | Published | 2026-03-31 |
 | Ingested upstream | 2026-04-01 |

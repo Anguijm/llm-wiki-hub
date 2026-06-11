@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Your Agent Produces at 100x. Your Org Reviews at 3x.](https://www.youtube.com/watch?v=kVPVmz0qJvY)** · @NateBJones · 2026-04-05
+Source: **[Your Agent Produces at 100x. Your Org Reviews at 3x.](https://www.youtube.com/watch?v=kVPVmz0qJvY)** · nb · 2026-04-05
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Built verify_build.py — 7 independent checks (dir exists, HTML valid, JS synta
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-05-independent-observability` |
-| Channel | @NateBJones |
+| Channel | nb |
 | Video | [Your Agent Produces at 100x. Your Org Reviews at 3x.](https://www.youtube.com/watch?v=kVPVmz0qJvY) |
 | Published | 2026-04-05 |
 | Ingested upstream | 2026-04-06 |

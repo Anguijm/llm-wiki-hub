@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Choosing the Right Model is Hard. Maintaining Accuracy is Harder.](https://www.youtube.com/watch?v=HVqyWXa1SJ4)** · @MLOps · 2026-04-01
+Source: **[Choosing the Right Model is Hard. Maintaining Accuracy is Harder.](https://www.youtube.com/watch?v=HVqyWXa1SJ4)** · mlops · 2026-04-01
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -41,7 +41,7 @@ Complements mlops-2026-04-01-coding-agent-evals which focuses on past bugs as ev
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-01-continuous-model-eval` |
-| Channel | @MLOps |
+| Channel | mlops |
 | Video | [Choosing the Right Model is Hard. Maintaining Accuracy is Harder.](https://www.youtube.com/watch?v=HVqyWXa1SJ4) |
 | Published | 2026-04-01 |
 | Ingested upstream | 2026-04-02 |

@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Overwhelmed By AI? Just Copy My Tech Stack](https://www.youtube.com/watch?v=35WuZxbAY68)** · NateHerk · 2026-05-09
+Source: **[Overwhelmed By AI? Just Copy My Tech Stack](https://www.youtube.com/watch?v=35WuZxbAY68)** · nh · 2026-05-09
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Discarded 2026-05-10: 'copy this tech stack' listicle; no testable hypothesis sp
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-05-09-ai-tech-stack-copy` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [Overwhelmed By AI? Just Copy My Tech Stack](https://www.youtube.com/watch?v=35WuZxbAY68) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

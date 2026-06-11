@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Voice AI: when is the "Her" moment? — Neil Zeghidour, Gradium AI](https://www.youtube.com/watch?v=P_RI1kCkRbo)** · aiDotEngineer · 2026-05-10
+Source: **[Voice AI: when is the "Her" moment? — Neil Zeghidour, Gradium AI](https://www.youtube.com/watch?v=P_RI1kCkRbo)** · aie · 2026-05-10
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: TTS-cluster; same reasoning as tts-models-like-llms. Park t
 | Field | Value |
 |---|---|
 | Experiment ID | `aie-2026-05-10-on-device-tts-cost-reduction` |
-| Channel | aiDotEngineer |
+| Channel | aie |
 | Video | [Voice AI: when is the "Her" moment? — Neil Zeghidour, Gradium AI](https://www.youtube.com/watch?v=P_RI1kCkRbo) |
 | Published | 2026-05-10 |
 | Ingested upstream | 2026-05-10 |

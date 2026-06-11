@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Decomposing the Agent Orchestration System: Lessons Learned](https://www.youtube.com/watch?v=H9fsxdK-NeQ)** · @MLOps · 2026-03-31
+Source: **[Decomposing the Agent Orchestration System: Lessons Learned](https://www.youtube.com/watch?v=H9fsxdK-NeQ)** · mlops · 2026-03-31
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -41,7 +41,7 @@ Concept reinforced by mlops-2026-03-17-durable-execution-agents (done/adopt). Th
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-03-31-agent-debug-logging` |
-| Channel | @MLOps |
+| Channel | mlops |
 | Video | [Decomposing the Agent Orchestration System: Lessons Learned](https://www.youtube.com/watch?v=H9fsxdK-NeQ) |
 | Published | 2026-03-31 |
 | Ingested upstream | 2026-04-02 |

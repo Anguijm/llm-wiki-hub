@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Your Prompts Didn't Change. Opus 4.7 Did.](https://www.youtube.com/watch?v=tJB_8mfRgCo)** · NateBJones · 2026-04-22
+Source: **[Your Prompts Didn't Change. Opus 4.7 Did.](https://www.youtube.com/watch?v=tJB_8mfRgCo)** · nb · 2026-04-22
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ The YOLO loop uses Claude as a core reasoning engine; if Opus 4.7 changed how it
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-22-opus-47-prompt-behavior-shift` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [Your Prompts Didn't Change. Opus 4.7 Did.](https://www.youtube.com/watch?v=tJB_8mfRgCo) |
 | Published | 2026-04-22 |
 | Ingested upstream | 2026-04-22 |

@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Your AI Is 50x Faster. You're Getting 2x. You're Fixing the Wrong Thing.](https://www.youtube.com/watch?v=XlfumXPPrLY)** · NateBJones · 2026-04-16
+Source: **[Your AI Is 50x Faster. You're Getting 2x. You're Fixing the Wrong Thing.](https://www.youtube.com/watch?v=XlfumXPPrLY)** · nb · 2026-04-16
 
 **Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ See tick_queue_approved entry 'infra-loop-timing' in session_state.json.
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-16-fix-bottleneck-not-ai-speed` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [Your AI Is 50x Faster. You're Getting 2x. You're Fixing the Wrong Thing.](https://www.youtube.com/watch?v=XlfumXPPrLY) |
 | Published | 2026-04-16 |
 | Ingested upstream | 2026-04-16 |

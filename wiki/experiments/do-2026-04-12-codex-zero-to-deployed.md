@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[CODEX FULL COURSE: From Zero to Deployed App (2026)](https://www.youtube.com/watch?v=hoCWD1aI60Y)** · DavidOndrej · 2026-04-12
+Source: **[CODEX FULL COURSE: From Zero to Deployed App (2026)](https://www.youtube.com/watch?v=hoCWD1aI60Y)** · do · 2026-04-12
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Discarded 2026-04-12: OpenAI Codex end-to-end deployment is a competitor tool de
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-04-12-codex-zero-to-deployed` |
-| Channel | DavidOndrej |
+| Channel | do |
 | Video | [CODEX FULL COURSE: From Zero to Deployed App (2026)](https://www.youtube.com/watch?v=hoCWD1aI60Y) |
 | Published | 2026-04-12 |
 | Ingested upstream | 2026-04-12 |

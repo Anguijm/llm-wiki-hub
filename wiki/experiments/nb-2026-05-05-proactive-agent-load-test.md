@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Consumer AI Has a Problem Nobody's Naming.](https://www.youtube.com/watch?v=Z0HizICooiw)** · NateBJones · 2026-05-05
+Source: **[Consumer AI Has a Problem Nobody's Naming.](https://www.youtube.com/watch?v=Z0HizICooiw)** · nb · 2026-05-05
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: load-testing only earns its slot after we have a deployed a
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-05-05-proactive-agent-load-test` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [Consumer AI Has a Problem Nobody's Naming.](https://www.youtube.com/watch?v=Z0HizICooiw) |
 | Published | 2026-05-05 |
 | Ingested upstream | 2026-05-05 |

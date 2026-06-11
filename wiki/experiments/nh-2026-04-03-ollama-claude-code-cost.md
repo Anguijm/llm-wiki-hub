@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Ollama + Claude Code = 99% CHEAPER]()** · @NateHerk · 2026-04-02
+Source: **[Ollama + Claude Code = 99% CHEAPER]()** · nh · 2026-04-02
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
@@ -53,7 +53,7 @@ Discarded 2026-04-07: same local-model policy decision as #42. NO on local routi
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-03-ollama-claude-code-cost` |
-| Channel | @NateHerk |
+| Channel | nh |
 | Published | 2026-04-02 |
 | Ingested upstream | 2026-04-03 |
 | Source | [yolo-projects/experiments.json](https://github.com/Anguijm/yolo-projects/blob/main/experiments.json) |

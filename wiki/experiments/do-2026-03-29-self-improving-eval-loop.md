@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[This 100% self-improving AI Agent is insane… just watch](https://www.youtube.com/watch?v=EHlqRx0r4BI)** · @DavidOndrej · 2026-03-29
+Source: **[This 100% self-improving AI Agent is insane… just watch](https://www.youtube.com/watch?v=EHlqRx0r4BI)** · do · 2026-03-29
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -41,7 +41,7 @@ Agent Zero is open-source; Hermes is the evaluation model used for self-scoring.
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-03-29-self-improving-eval-loop` |
-| Channel | @DavidOndrej |
+| Channel | do |
 | Video | [This 100% self-improving AI Agent is insane… just watch](https://www.youtube.com/watch?v=EHlqRx0r4BI) |
 | Published | 2026-03-29 |
 | Ingested upstream | 2026-04-02 |

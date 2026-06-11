@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[A Markdown File Just Replaced Your Most Expensive Design Meeting (Google Stitch)](https://www.youtube.com/watch?v=CDClFY-R0dI)** · @NateBJones · 2026-03-28
+Source: **[A Markdown File Just Replaced Your Most Expensive Design Meeting (Google Stitch)](https://www.youtube.com/watch?v=CDClFY-R0dI)** · nb · 2026-03-28
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -53,7 +53,7 @@ Created design.md with full color palette, typography scale, component patterns,
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-03-28-design-md-agent-readable` |
-| Channel | @NateBJones |
+| Channel | nb |
 | Video | [A Markdown File Just Replaced Your Most Expensive Design Meeting (Google Stitch)](https://www.youtube.com/watch?v=CDClFY-R0dI) |
 | Published | 2026-03-28 |
 | Ingested upstream | 2026-03-29 |

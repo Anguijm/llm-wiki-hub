@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[OpenAI Just Gave Every Team A Free Employee. Here's The Catch.](https://www.youtube.com/watch?v=QrvVkm-8Jx4)** · NateBJones · 2026-04-27
+Source: **[OpenAI Just Gave Every Team A Free Employee. Here's The Catch.](https://www.youtube.com/watch?v=QrvVkm-8Jx4)** · nb · 2026-04-27
 
 **Status:** `in_progress` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Directly maps to the dispatch layer of the YOLO loop — if an agent can hold st
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-27-openai-free-employee-catch` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [OpenAI Just Gave Every Team A Free Employee. Here's The Catch.](https://www.youtube.com/watch?v=QrvVkm-8Jx4) |
 | Published | 2026-04-27 |
 | Ingested upstream | 2026-04-27 |

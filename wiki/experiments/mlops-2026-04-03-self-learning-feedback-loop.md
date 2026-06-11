@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[How to Fix Your Agent's Amnesia: Lessons from Building a Self-learning Agent]()** · @MLOps · 2026-04-02
+Source: **[How to Fix Your Agent's Amnesia: Lessons from Building a Self-learning Agent]()** · mlops · 2026-04-02
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -57,7 +57,7 @@ Title-only inference. Companion to self-learning-agent-memory — this is the wr
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-03-self-learning-feedback-loop` |
-| Channel | @MLOps |
+| Channel | mlops |
 | Published | 2026-04-02 |
 | Ingested upstream | 2026-04-03 |
 | Source | [yolo-projects/experiments.json](https://github.com/Anguijm/yolo-projects/blob/main/experiments.json) |

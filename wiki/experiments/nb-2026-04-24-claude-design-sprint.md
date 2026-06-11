@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude Design Does In 30 Minutes What Your Team Does In A Sprint](https://www.youtube.com/watch?v=KlPxWaY91rE)** · NateBJones · 2026-04-24
+Source: **[Claude Design Does In 30 Minutes What Your Team Does In A Sprint](https://www.youtube.com/watch?v=KlPxWaY91rE)** · nb · 2026-04-24
 
 **Status:** `deferred` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: design-sprint format is interesting for the flagship produc
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-24-claude-design-sprint` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [Claude Design Does In 30 Minutes What Your Team Does In A Sprint](https://www.youtube.com/watch?v=KlPxWaY91rE) |
 | Published | 2026-04-24 |
 | Ingested upstream | 2026-04-24 |

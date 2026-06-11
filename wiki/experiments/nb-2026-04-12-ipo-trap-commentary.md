@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[The $3 Trillion IPO Trap Nobody's Talking About](https://www.youtube.com/watch?v=9N7qXkmntlU)** · NateBJones · 2026-04-12
+Source: **[The $3 Trillion IPO Trap Nobody's Talking About](https://www.youtube.com/watch?v=9N7qXkmntlU)** · nb · 2026-04-12
 
 **Status:** `skipped`
 
@@ -25,7 +25,7 @@ Video appears to be financial market commentary about an IPO. No technical or pr
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-12-ipo-trap-commentary` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [The $3 Trillion IPO Trap Nobody's Talking About](https://www.youtube.com/watch?v=9N7qXkmntlU) |
 | Published | 2026-04-12 |
 | Ingested upstream | 2026-04-12 |

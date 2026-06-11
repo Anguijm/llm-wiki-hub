@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Lessons from 25 Trillion Tokens — Scaling AI-Assisted Development at Kilo](https://www.youtube.com/watch?v=tG1CSRaJhKQ)** · @MLOps · 2026-03-27
+Source: **[Lessons from 25 Trillion Tokens — Scaling AI-Assisted Development at Kilo](https://www.youtube.com/watch?v=tG1CSRaJhKQ)** · mlops · 2026-03-27
 
 **Status:** `done` · **Verdict:** `discard` · **Effort:** `low`
 
@@ -56,7 +56,7 @@ Parked, not discarded permanently. Revisit if we ever need to dial back autonomy
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-03-27-trust-ladder-adoption` |
-| Channel | @MLOps |
+| Channel | mlops |
 | Video | [Lessons from 25 Trillion Tokens — Scaling AI-Assisted Development at Kilo](https://www.youtube.com/watch?v=tG1CSRaJhKQ) |
 | Published | 2026-03-27 |
 | Ingested upstream | 2026-03-30 |

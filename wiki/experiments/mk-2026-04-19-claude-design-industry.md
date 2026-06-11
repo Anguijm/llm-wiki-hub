@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude Design Just Shook Up the Design Industry](https://www.youtube.com/watch?v=TJRsTwi1McI)** · Mark_Kashef · 2026-04-19
+Source: **[Claude Design Just Shook Up the Design Industry](https://www.youtube.com/watch?v=TJRsTwi1McI)** · mk · 2026-04-19
 
 **Status:** `deferred` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Overlaps with nh-2026-04-19-claude-design-unstoppable and nh-2026-04-21-claude-d
 | Field | Value |
 |---|---|
 | Experiment ID | `mk-2026-04-19-claude-design-industry` |
-| Channel | Mark_Kashef |
+| Channel | mk |
 | Video | [Claude Design Just Shook Up the Design Industry](https://www.youtube.com/watch?v=TJRsTwi1McI) |
 | Published | 2026-04-19 |
 | Ingested upstream | 2026-04-19 |

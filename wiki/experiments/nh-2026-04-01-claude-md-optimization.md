@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[All of Claude Code Just Leaked — How to Become a Top 1% User](https://www.youtube.com/watch?v=tXtCK66fPj8)** · @NateHerk · 2026-04-01
+Source: **[All of Claude Code Just Leaked — How to Become a Top 1% User](https://www.youtube.com/watch?v=tXtCK66fPj8)** · nh · 2026-04-01
 
 **Status:** `done` · **Verdict:** `discard` · **Effort:** `low`
 
@@ -56,7 +56,7 @@ Parked, not permanently discarded.
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-01-claude-md-optimization` |
-| Channel | @NateHerk |
+| Channel | nh |
 | Video | [All of Claude Code Just Leaked — How to Become a Top 1% User](https://www.youtube.com/watch?v=tXtCK66fPj8) |
 | Published | 2026-04-01 |
 | Ingested upstream | 2026-04-01 |

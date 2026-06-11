@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[You're Wasting 40% Of Your AI Time On Something Fixable](https://www.youtube.com/watch?v=647pSnX5H_Y)** · NateBJones · 2026-05-09
+Source: **[You're Wasting 40% Of Your AI Time On Something Fixable](https://www.youtube.com/watch?v=647pSnX5H_Y)** · nb · 2026-05-09
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: theoretical taxonomy. Useful framing but no build attached.
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-05-09-prompt-skill-plugin-mental-model` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [You're Wasting 40% Of Your AI Time On Something Fixable](https://www.youtube.com/watch?v=647pSnX5H_Y) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

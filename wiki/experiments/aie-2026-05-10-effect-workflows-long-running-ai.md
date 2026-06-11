@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Vibe Engineering Effect Apps — Michael Arnaldi, Effectful](https://www.youtube.com/watch?v=Wmp2Tku2PrI)** · aiDotEngineer · 2026-05-10
+Source: **[Vibe Engineering Effect Apps — Michael Arnaldi, Effectful](https://www.youtube.com/watch?v=Wmp2Tku2PrI)** · aie · 2026-05-10
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: Effect TS framework; revisit only if we adopt TypeScript fo
 | Field | Value |
 |---|---|
 | Experiment ID | `aie-2026-05-10-effect-workflows-long-running-ai` |
-| Channel | aiDotEngineer |
+| Channel | aie |
 | Video | [Vibe Engineering Effect Apps — Michael Arnaldi, Effectful](https://www.youtube.com/watch?v=Wmp2Tku2PrI) |
 | Published | 2026-05-10 |
 | Ingested upstream | 2026-05-10 |

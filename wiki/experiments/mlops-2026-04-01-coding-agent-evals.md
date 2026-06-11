@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Stop Shipping on Vibes — How to Build Real Evals for Coding Agents](https://www.youtube.com/watch?v=VbX24V_JFQI)** · @MLOps · 2026-03-31
+Source: **[Stop Shipping on Vibes — How to Build Real Evals for Coding Agents](https://www.youtube.com/watch?v=VbX24V_JFQI)** · mlops · 2026-03-31
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -52,7 +52,7 @@ Built eval_bugs.json (26 patterns) + eval_bugs.py runner. Mined from 2700+ lines
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-01-coding-agent-evals` |
-| Channel | @MLOps |
+| Channel | mlops |
 | Video | [Stop Shipping on Vibes — How to Build Real Evals for Coding Agents](https://www.youtube.com/watch?v=VbX24V_JFQI) |
 | Published | 2026-03-31 |
 | Ingested upstream | 2026-04-01 |

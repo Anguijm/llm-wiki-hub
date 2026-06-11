@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[You're Wasting 40% Of Your AI Time On Something Fixable](https://www.youtube.com/watch?v=647pSnX5H_Y)** · NateBJones · 2026-05-09
+Source: **[You're Wasting 40% Of Your AI Time On Something Fixable](https://www.youtube.com/watch?v=647pSnX5H_Y)** · nb · 2026-05-09
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Scaffolded in experiments/deterministic-script-verification/ (PR #10): verify.py
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-05-09-deterministic-script-verification` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [You're Wasting 40% Of Your AI Time On Something Fixable](https://www.youtube.com/watch?v=647pSnX5H_Y) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

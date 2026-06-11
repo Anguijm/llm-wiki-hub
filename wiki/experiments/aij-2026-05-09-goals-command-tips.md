@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[I used /goals command wrong... Here are all tips & mistakes](https://www.youtube.com/watch?v=rIs802-bXDY)** · AIJasonZ · 2026-05-09
+Source: **[I used /goals command wrong... Here are all tips & mistakes](https://www.youtube.com/watch?v=rIs802-bXDY)** · aij · 2026-05-09
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Discarded 2026-05-10: tips-and-tricks listicle; no hypothesis we'd run as a tick
 | Field | Value |
 |---|---|
 | Experiment ID | `aij-2026-05-09-goals-command-tips` |
-| Channel | AIJasonZ |
+| Channel | aij |
 | Video | [I used /goals command wrong... Here are all tips & mistakes](https://www.youtube.com/watch?v=rIs802-bXDY) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

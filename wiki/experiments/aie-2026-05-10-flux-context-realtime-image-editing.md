@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs](https://www.youtube.com/watch?v=x8Yb4RidLgM)** · aiDotEngineer · 2026-05-10
+Source: **[FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs](https://www.youtube.com/watch?v=x8Yb4RidLgM)** · aie · 2026-05-10
 
 **Status:** `deferred` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: image-editing cluster. Park with the other image-tooling de
 | Field | Value |
 |---|---|
 | Experiment ID | `aie-2026-05-10-flux-context-realtime-image-editing` |
-| Channel | aiDotEngineer |
+| Channel | aie |
 | Video | [FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs](https://www.youtube.com/watch?v=x8Yb4RidLgM) |
 | Published | 2026-05-10 |
 | Ingested upstream | 2026-05-10 |

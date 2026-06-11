@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude Just Solved Session Limits](https://www.youtube.com/watch?v=3QclAjmu5Tw)** · NateHerk · 2026-05-09
+Source: **[Claude Just Solved Session Limits](https://www.youtube.com/watch?v=3QclAjmu5Tw)** · nh · 2026-05-09
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Discarded 2026-05-10: duplicate of nh-2026-04-20-claude-session-limit which is a
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-05-09-claude-session-limits-solution` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [Claude Just Solved Session Limits](https://www.youtube.com/watch?v=3QclAjmu5Tw) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

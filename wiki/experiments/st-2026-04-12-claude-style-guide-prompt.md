@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[How I Taught Claude To Edit My YouTube Videos](https://www.youtube.com/watch?v=wmIO2rs-AIs)** · ShawTalebi · 2026-04-12
+Source: **[How I Taught Claude To Edit My YouTube Videos](https://www.youtube.com/watch?v=wmIO2rs-AIs)** · st · 2026-04-12
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Adopted 2026-04-13 as already-implemented: the YOLO loop already encodes style c
 | Field | Value |
 |---|---|
 | Experiment ID | `st-2026-04-12-claude-style-guide-prompt` |
-| Channel | ShawTalebi |
+| Channel | st |
 | Video | [How I Taught Claude To Edit My YouTube Videos](https://www.youtube.com/watch?v=wmIO2rs-AIs) |
 | Published | 2026-04-12 |
 | Ingested upstream | 2026-04-12 |

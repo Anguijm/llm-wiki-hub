@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude Video Editing Just Became Unrecognizable](https://www.youtube.com/watch?v=Aw3BkmhYu4I)** · @NateHerk · 2026-04-23
+Source: **[Claude Video Editing Just Became Unrecognizable](https://www.youtube.com/watch?v=Aw3BkmhYu4I)** · nh · 2026-04-23
 
 **Status:** `deferred` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Tests the boundary of the YOLO loop's agentic reach into creative/media tooling 
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-23-claude-video-editing` |
-| Channel | @NateHerk |
+| Channel | nh |
 | Video | [Claude Video Editing Just Became Unrecognizable](https://www.youtube.com/watch?v=Aw3BkmhYu4I) |
 | Published | 2026-04-23 |
 | Ingested upstream | 2026-04-23 |

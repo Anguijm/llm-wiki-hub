@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Why AI Agents Shouldn't Replace Your Fraud Models](https://www.youtube.com/watch?v=HaWk8kAD8ZU)** · MLOps · 2026-05-09
+Source: **[Why AI Agents Shouldn't Replace Your Fraud Models](https://www.youtube.com/watch?v=HaWk8kAD8ZU)** · mlops · 2026-05-09
 
 **Status:** `deferred` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: ML-training topic, not our scope (we don't train models). P
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-05-09-fraud-models-vs-agents` |
-| Channel | MLOps |
+| Channel | mlops |
 | Video | [Why AI Agents Shouldn't Replace Your Fraud Models](https://www.youtube.com/watch?v=HaWk8kAD8ZU) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

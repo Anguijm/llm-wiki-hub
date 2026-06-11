@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[I Tested Claude's New Managed Agents... What You Need To Know](https://www.youtube.com/watch?v=27Y44JYXZJ8)** · NateHerk · 2026-04-09
+Source: **[I Tested Claude's New Managed Agents... What You Need To Know](https://www.youtube.com/watch?v=27Y44JYXZJ8)** · nh · 2026-04-09
 
 **Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Adopted 2026-04-12: medium-effort orchestration benchmark. Claude Managed Agents
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-09-claude-managed-agents` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [I Tested Claude's New Managed Agents... What You Need To Know](https://www.youtube.com/watch?v=27Y44JYXZJ8) |
 | Published | 2026-04-09 |
 | Ingested upstream | 2026-04-09 |

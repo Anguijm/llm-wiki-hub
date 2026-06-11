@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Your AI Agent Is Locked To One Model. OpenClaw Just Killed That.](https://www.youtube.com/watch?v=85Q9htV2CBE)** · NateBJones · 2026-05-09
+Source: **[Your AI Agent Is Locked To One Model. OpenClaw Just Killed That.](https://www.youtube.com/watch?v=85Q9htV2CBE)** · nb · 2026-05-09
 
 **Status:** `deferred` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: swappable-model-memory pattern is interesting but the harne
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-05-09-openclaw-swappable-model-memory` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [Your AI Agent Is Locked To One Model. OpenClaw Just Killed That.](https://www.youtube.com/watch?v=85Q9htV2CBE) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

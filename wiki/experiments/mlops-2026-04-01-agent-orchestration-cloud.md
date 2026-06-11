@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[2026 The Year of Agent Orchestration](https://www.youtube.com/watch?v=eT1F2BAZJ64)** · @MLOps · 2026-03-31
+Source: **[2026 The Year of Agent Orchestration](https://www.youtube.com/watch?v=eT1F2BAZJ64)** · mlops · 2026-03-31
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -52,7 +52,7 @@ We already use subagents for Tick builds. Formalizing parallel execution for ind
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-01-agent-orchestration-cloud` |
-| Channel | @MLOps |
+| Channel | mlops |
 | Video | [2026 The Year of Agent Orchestration](https://www.youtube.com/watch?v=eT1F2BAZJ64) |
 | Published | 2026-03-31 |
 | Ingested upstream | 2026-04-01 |

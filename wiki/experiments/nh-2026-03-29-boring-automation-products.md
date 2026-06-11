@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[5 ‘Boring’ AI Workflows that Businesses Actually Want (And Pay For)](https://www.youtube.com/@NateHerk)** · @NateHerk · 2026-03-29
+Source: **[5 ‘Boring’ AI Workflows that Businesses Actually Want (And Pay For)](https://www.youtube.com/@NateHerk)** · nh · 2026-03-29
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -37,7 +37,7 @@ Added 4-question boring-but-high-ROI filter to cron prompt. Filter: Would a busi
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-03-29-boring-automation-products` |
-| Channel | @NateHerk |
+| Channel | nh |
 | Video | [5 ‘Boring’ AI Workflows that Businesses Actually Want (And Pay For)](https://www.youtube.com/@NateHerk) |
 | Published | 2026-03-29 |
 | Ingested upstream | 2026-04-01 |

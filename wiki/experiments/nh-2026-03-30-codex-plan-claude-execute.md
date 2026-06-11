@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Codex Just 10x’d Claude Code Projects](https://www.youtube.com/@NateHerk)** · @NateHerk · 2026-03-30
+Source: **[Codex Just 10x’d Claude Code Projects](https://www.youtube.com/@NateHerk)** · nh · 2026-03-30
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -41,7 +41,7 @@ Partially overlaps with mlops-2026-03-27-specialized-agent-team (abstract specia
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-03-30-codex-plan-claude-execute` |
-| Channel | @NateHerk |
+| Channel | nh |
 | Video | [Codex Just 10x’d Claude Code Projects](https://www.youtube.com/@NateHerk) |
 | Published | 2026-03-30 |
 | Ingested upstream | 2026-04-01 |

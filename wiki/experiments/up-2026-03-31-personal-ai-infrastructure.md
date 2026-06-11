@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Anatomy of an Agentic Personal AI Infrastructure](https://www.youtube.com/watch?v=l9CPmPk2R-M)** · [un]prompted · 2026-03-31
+Source: **[Anatomy of an Agentic Personal AI Infrastructure](https://www.youtube.com/watch?v=l9CPmPk2R-M)** · up · 2026-03-31
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -53,7 +53,7 @@ Currently the YOLO loop uses one Gemini review pass focused on bugs. Adding pers
 | Field | Value |
 |---|---|
 | Experiment ID | `up-2026-03-31-personal-ai-infrastructure` |
-| Channel | [un]prompted |
+| Channel | up |
 | Video | [Anatomy of an Agentic Personal AI Infrastructure](https://www.youtube.com/watch?v=l9CPmPk2R-M) |
 | Published | 2026-03-31 |
 | Ingested upstream | 2026-03-31 |

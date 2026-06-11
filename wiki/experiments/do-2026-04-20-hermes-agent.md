@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Hermes Agent is insane… 100,000+ github stars](https://www.youtube.com/watch?v=4Sln_6K2z8c)** · DavidOndrej · 2026-04-20
+Source: **[Hermes Agent is insane… 100,000+ github stars](https://www.youtube.com/watch?v=4Sln_6K2z8c)** · do · 2026-04-20
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Replacing our existing orchestration architecture is high-risk low-value now. Re
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-04-20-hermes-agent` |
-| Channel | DavidOndrej |
+| Channel | do |
 | Video | [Hermes Agent is insane… 100,000+ github stars](https://www.youtube.com/watch?v=4Sln_6K2z8c) |
 | Published | 2026-04-20 |
 | Ingested upstream | 2026-04-20 |

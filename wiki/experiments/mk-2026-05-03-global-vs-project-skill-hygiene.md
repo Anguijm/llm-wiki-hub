@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[This Claude Code Setup Runs My Entire Business](https://www.youtube.com/watch?v=7aQbN543Mec)** · @Mark_Kashef · 2026-05-03
+Source: **[This Claude Code Setup Runs My Entire Business](https://www.youtube.com/watch?v=7aQbN543Mec)** · mk · 2026-05-03
 
 **Status:** `backlog` · **Effort:** `low`
 
@@ -33,7 +33,7 @@ Low-effort forcing function that prevents skill sprawl and context noise as the 
 | Field | Value |
 |---|---|
 | Experiment ID | `mk-2026-05-03-global-vs-project-skill-hygiene` |
-| Channel | @Mark_Kashef |
+| Channel | mk |
 | Video | [This Claude Code Setup Runs My Entire Business](https://www.youtube.com/watch?v=7aQbN543Mec) |
 | Published | 2026-05-03 |
 | Ingested upstream | 2026-05-03 |

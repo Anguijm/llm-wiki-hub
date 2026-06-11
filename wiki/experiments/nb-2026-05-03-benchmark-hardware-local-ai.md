@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[RTX 5090, Mac Studio, or DGX Spark? I tried all three.](https://www.youtube.com/watch?v=iUSdS-6uwr4)** · NateBJones · 2026-05-03
+Source: **[RTX 5090, Mac Studio, or DGX Spark? I tried all three.](https://www.youtube.com/watch?v=iUSdS-6uwr4)** · nb · 2026-05-03
 
 **Status:** `deferred` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Choosing local inference hardware directly affects iteration speed in the YOLO l
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-05-03-benchmark-hardware-local-ai` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [RTX 5090, Mac Studio, or DGX Spark? I tried all three.](https://www.youtube.com/watch?v=iUSdS-6uwr4) |
 | Published | 2026-05-03 |
 | Ingested upstream | 2026-05-03 |

@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.](https://www.youtube.com/watch?v=4KAF72BTyCE)** · NateBJones · 2026-04-17
+Source: **[Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.](https://www.youtube.com/watch?v=4KAF72BTyCE)** · nb · 2026-04-17
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Overlaps with build_memory.py + infra-memory-feedback in progress. Revisit as a 
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-17-memory-control-layer` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [Anthropic And OpenAI Are Fighting Over Your Memory. You're Going To Lose.](https://www.youtube.com/watch?v=4KAF72BTyCE) |
 | Published | 2026-04-17 |
 | Ingested upstream | 2026-04-17 |

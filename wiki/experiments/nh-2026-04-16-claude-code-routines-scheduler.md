@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude Code Just Dropped Routines. 24/7 Agents.](https://www.youtube.com/watch?v=ehg4fhydTgs)** · NateHerk · 2026-04-16
+Source: **[Claude Code Just Dropped Routines. 24/7 Agents.](https://www.youtube.com/watch?v=ehg4fhydTgs)** · nh · 2026-04-16
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Duplicates what GitHub Actions already gives us for scheduling. Low differentiat
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-16-claude-code-routines-scheduler` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [Claude Code Just Dropped Routines. 24/7 Agents.](https://www.youtube.com/watch?v=ehg4fhydTgs) |
 | Published | 2026-04-16 |
 | Ingested upstream | 2026-04-16 |

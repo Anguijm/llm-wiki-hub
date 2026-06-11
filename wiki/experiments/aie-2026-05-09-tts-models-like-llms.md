@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Why TTS Models Now Look Like LLMs — Samuel Humeau, Mistral](https://www.youtube.com/watch?v=3jGAU2sbAyY)** · aiDotEngineer · 2026-05-09
+Source: **[Why TTS Models Now Look Like LLMs — Samuel Humeau, Mistral](https://www.youtube.com/watch?v=3jGAU2sbAyY)** · aie · 2026-05-09
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: TTS-landscape survey. We have one TTS need (audio summaries
 | Field | Value |
 |---|---|
 | Experiment ID | `aie-2026-05-09-tts-models-like-llms` |
-| Channel | aiDotEngineer |
+| Channel | aie |
 | Video | [Why TTS Models Now Look Like LLMs — Samuel Humeau, Mistral](https://www.youtube.com/watch?v=3jGAU2sbAyY) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

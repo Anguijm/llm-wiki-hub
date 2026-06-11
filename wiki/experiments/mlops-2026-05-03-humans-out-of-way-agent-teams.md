@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Getting Humans Out of the Way: How to Work with Teams of Agents](https://www.youtube.com/watch?v=ie1M8p-SVfM)** · MLOps · 2026-05-03
+Source: **[Getting Humans Out of the Way: How to Work with Teams of Agents](https://www.youtube.com/watch?v=ie1M8p-SVfM)** · mlops · 2026-05-03
 
 **Status:** `deferred` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Directly addresses YOLO loop autonomy: if we can reduce mid-loop human interrupt
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-05-03-humans-out-of-way-agent-teams` |
-| Channel | MLOps |
+| Channel | mlops |
 | Video | [Getting Humans Out of the Way: How to Work with Teams of Agents](https://www.youtube.com/watch?v=ie1M8p-SVfM) |
 | Published | 2026-05-03 |
 | Ingested upstream | 2026-05-03 |

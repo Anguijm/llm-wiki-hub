@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Agentic Search for Context Engineering — Leonie Monigatti, Elastic](https://www.youtube.com/watch?v=ynJyIKwjonM)** · aiDotEngineer · 2026-05-09
+Source: **[Agentic Search for Context Engineering — Leonie Monigatti, Elastic](https://www.youtube.com/watch?v=ynJyIKwjonM)** · aie · 2026-05-09
 
 **Status:** `deferred` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: context-engineering deep dive. Overlaps with the lessons-co
 | Field | Value |
 |---|---|
 | Experiment ID | `aie-2026-05-09-agentic-search-context-engineering` |
-| Channel | aiDotEngineer |
+| Channel | aie |
 | Video | [Agentic Search for Context Engineering — Leonie Monigatti, Elastic](https://www.youtube.com/watch?v=ynJyIKwjonM) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

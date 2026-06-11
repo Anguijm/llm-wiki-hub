@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.](https://www.youtube.com/watch?v=ro5jpbi5uYc)** · NateBJones · 2026-04-08
+Source: **[I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.](https://www.youtube.com/watch?v=ro5jpbi5uYc)** · nb · 2026-04-08
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Deferred 2026-04-09: leaked source code is ethically/legally problematic as a co
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-08-analyze-leaked-code-patterns` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [I Analyzed 512,000 Lines of Leaked Code. It Shows What's Coming for Your AI Tools.](https://www.youtube.com/watch?v=ro5jpbi5uYc) |
 | Published | 2026-04-08 |
 | Ingested upstream | 2026-04-08 |

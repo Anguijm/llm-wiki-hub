@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Lessons from 25 Trillion Tokens — Scaling AI-Assisted Development at Kilo](https://www.youtube.com/watch?v=tG1CSRaJhKQ)** · @MLOps · 2026-03-27
+Source: **[Lessons from 25 Trillion Tokens — Scaling AI-Assisted Development at Kilo](https://www.youtube.com/watch?v=tG1CSRaJhKQ)** · mlops · 2026-03-27
 
 **Status:** `done` · **Verdict:** `discard` · **Effort:** `medium`
 
@@ -56,7 +56,7 @@ The 3-phase pipeline within a single agent captures most of the value. Separate 
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-03-27-specialized-agent-team` |
-| Channel | @MLOps |
+| Channel | mlops |
 | Video | [Lessons from 25 Trillion Tokens — Scaling AI-Assisted Development at Kilo](https://www.youtube.com/watch?v=tG1CSRaJhKQ) |
 | Published | 2026-03-27 |
 | Ingested upstream | 2026-03-30 |

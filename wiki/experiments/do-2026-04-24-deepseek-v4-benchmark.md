@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[DeepSeek V4 just shocked the AI industry…](https://www.youtube.com/watch?v=UVObNdNmzzw)** · DavidOndrej · 2026-04-24
+Source: **[DeepSeek V4 just shocked the AI industry…](https://www.youtube.com/watch?v=UVObNdNmzzw)** · do · 2026-04-24
 
 **Status:** `deferred` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: model benchmarking earns no slot while cost is not a constr
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-04-24-deepseek-v4-benchmark` |
-| Channel | DavidOndrej |
+| Channel | do |
 | Video | [DeepSeek V4 just shocked the AI industry…](https://www.youtube.com/watch?v=UVObNdNmzzw) |
 | Published | 2026-04-24 |
 | Ingested upstream | 2026-04-24 |

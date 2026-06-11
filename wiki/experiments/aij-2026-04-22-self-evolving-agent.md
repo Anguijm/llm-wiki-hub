@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[This Agent Self-Evolves (Fully explained)](https://www.youtube.com/watch?v=2zhchG0r6iI)** · AIJasonZ · 2026-04-22
+Source: **[This Agent Self-Evolves (Fully explained)](https://www.youtube.com/watch?v=2zhchG0r6iI)** · aij · 2026-04-22
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ This is a direct architectural extension of the YOLO loop: rather than manually 
 | Field | Value |
 |---|---|
 | Experiment ID | `aij-2026-04-22-self-evolving-agent` |
-| Channel | AIJasonZ |
+| Channel | aij |
 | Video | [This Agent Self-Evolves (Fully explained)](https://www.youtube.com/watch?v=2zhchG0r6iI) |
 | Published | 2026-04-22 |
 | Ingested upstream | 2026-04-22 |

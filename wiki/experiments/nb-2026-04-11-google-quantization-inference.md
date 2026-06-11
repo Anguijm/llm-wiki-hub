@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Google's New Quantization is a Game Changer](https://www.youtube.com/watch?v=erV_8yrGMA8)** · NateBJones · 2026-04-11
+Source: **[Google's New Quantization is a Game Changer](https://www.youtube.com/watch?v=erV_8yrGMA8)** · nb · 2026-04-11
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Deferred 2026-04-12: local-model adjacent. Only useful if the local-model policy
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-11-google-quantization-inference` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [Google's New Quantization is a Game Changer](https://www.youtube.com/watch?v=erV_8yrGMA8) |
 | Published | 2026-04-11 |
 | Ingested upstream | 2026-04-11 |

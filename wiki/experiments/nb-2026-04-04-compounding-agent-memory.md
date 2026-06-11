@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](https://www.youtube.com/watch?v=D-Ww1wLIp60)** · @NateBJones · 2026-04-04
+Source: **[Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](https://www.youtube.com/watch?v=D-Ww1wLIp60)** · nb · 2026-04-04
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Built build_memory.py — SQLite + FTS5 store. Imported 1916 learnings from 263 
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-04-compounding-agent-memory` |
-| Channel | @NateBJones |
+| Channel | nb |
 | Video | [Wall Street Just Bet $285 Billion on AI Agents. The Best One Barely Works.](https://www.youtube.com/watch?v=D-Ww1wLIp60) |
 | Published | 2026-04-04 |
 | Ingested upstream | 2026-04-05 |

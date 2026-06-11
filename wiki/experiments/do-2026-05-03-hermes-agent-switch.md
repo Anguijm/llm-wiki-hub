@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Everyone is switching to Hermes Agent… you should too.](https://www.youtube.com/watch?v=1nDiiXfMUK4)** · DavidOndrej · 2026-05-03
+Source: **[Everyone is switching to Hermes Agent… you should too.](https://www.youtube.com/watch?v=1nDiiXfMUK4)** · do · 2026-05-03
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Could replace or augment the orchestration layer in our YOLO loop; worth benchma
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-05-03-hermes-agent-switch` |
-| Channel | DavidOndrej |
+| Channel | do |
 | Video | [Everyone is switching to Hermes Agent… you should too.](https://www.youtube.com/watch?v=1nDiiXfMUK4) |
 | Published | 2026-05-03 |
 | Ingested upstream | 2026-05-03 |

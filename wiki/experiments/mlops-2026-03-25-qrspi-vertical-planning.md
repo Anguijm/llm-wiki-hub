@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy](https://www.youtube.com/watch?v=YwZR6tc7qYg)** · @MLOps · 2026-03-25
+Source: **[Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy](https://www.youtube.com/watch?v=YwZR6tc7qYg)** · mlops · 2026-03-25
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -52,7 +52,7 @@ Built env-diff with structure outline first (types, signatures, DOM IDs). Zero r
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-03-25-qrspi-vertical-planning` |
-| Channel | @MLOps |
+| Channel | mlops |
 | Video | [Everything We Got Wrong About Research-Plan-Implement - Dexter Horthy](https://www.youtube.com/watch?v=YwZR6tc7qYg) |
 | Published | 2026-03-25 |
 | Ingested upstream | 2026-03-30 |

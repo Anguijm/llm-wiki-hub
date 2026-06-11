@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude + Swift + Rork = insane mobile apps](https://www.youtube.com/watch?v=rQY-yB-Gob4)** · DavidOndrej · 2026-04-13
+Source: **[Claude + Swift + Rork = insane mobile apps](https://www.youtube.com/watch?v=rQY-yB-Gob4)** · do · 2026-04-13
 
 **Status:** `deferred` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Mobile not in current portfolio scope; Rork is external service. Revisit if mobi
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-04-13-claude-swift-rork-mobile` |
-| Channel | DavidOndrej |
+| Channel | do |
 | Video | [Claude + Swift + Rork = insane mobile apps](https://www.youtube.com/watch?v=rQY-yB-Gob4) |
 | Published | 2026-04-13 |
 | Ingested upstream | 2026-04-13 |

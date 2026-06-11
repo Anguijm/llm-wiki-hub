@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Ship Agents  A Virtual Conference Track 2](https://www.youtube.com/watch?v=nKDKhbPcFcs)** · MLOps · 2026-04-10
+Source: **[Ship Agents  A Virtual Conference Track 2](https://www.youtube.com/watch?v=nKDKhbPcFcs)** · mlops · 2026-04-10
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Deferred 2026-04-12: potentially useful agent deployment patterns but too broad 
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-10-ship-agents-track2` |
-| Channel | MLOps |
+| Channel | mlops |
 | Video | [Ship Agents  A Virtual Conference Track 2](https://www.youtube.com/watch?v=nKDKhbPcFcs) |
 | Published | 2026-04-10 |
 | Ingested upstream | 2026-04-10 |

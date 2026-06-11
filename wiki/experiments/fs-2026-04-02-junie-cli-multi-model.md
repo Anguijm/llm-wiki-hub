@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[He just crawled through hell to fix the browser...](https://www.youtube.com/watch?v=vd14EElCRvs)** · @Fireship · 2026-04-02
+Source: **[He just crawled through hell to fix the browser...](https://www.youtube.com/watch?v=vd14EElCRvs)** · fs · 2026-04-02
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Implemented in harness-cli. Per-angle model_overrides in harness.yml. Backward c
 | Field | Value |
 |---|---|
 | Experiment ID | `fs-2026-04-02-junie-cli-multi-model` |
-| Channel | @Fireship |
+| Channel | fs |
 | Video | [He just crawled through hell to fix the browser...](https://www.youtube.com/watch?v=vd14EElCRvs) |
 | Published | 2026-04-02 |
 | Ingested upstream | 2026-04-03 |

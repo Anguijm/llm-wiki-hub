@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Stop AI Agents From SQL Injecting Your Database](https://www.youtube.com/watch?v=jDxAtxGv3fI)** · MLOps · 2026-05-09
+Source: **[Stop AI Agents From SQL Injecting Your Database](https://www.youtube.com/watch?v=jDxAtxGv3fI)** · mlops · 2026-05-09
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: security-flavored topic worth flagging in the security angl
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-05-09-sql-injection-ai-agents` |
-| Channel | MLOps |
+| Channel | mlops |
 | Video | [Stop AI Agents From SQL Injecting Your Database](https://www.youtube.com/watch?v=jDxAtxGv3fI) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

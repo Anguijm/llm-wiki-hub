@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Andrej Karpathy Just 10x'd Everyone's Claude Code](https://www.youtube.com/watch?v=sboNwYmH3AY)** · @NateHerk · 2026-04-05
+Source: **[Andrej Karpathy Just 10x'd Everyone's Claude Code](https://www.youtube.com/watch?v=sboNwYmH3AY)** · nh · 2026-04-05
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Built _hot.md hot cache (33 lines) + update_hot_cache.py auto-generator. Cron re
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-05-karpathy-llm-wiki-hot-cache` |
-| Channel | @NateHerk |
+| Channel | nh |
 | Video | [Andrej Karpathy Just 10x'd Everyone's Claude Code](https://www.youtube.com/watch?v=sboNwYmH3AY) |
 | Published | 2026-04-05 |
 | Ingested upstream | 2026-04-06 |

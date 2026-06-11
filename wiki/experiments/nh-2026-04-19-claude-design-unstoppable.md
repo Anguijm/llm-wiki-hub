@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude Design Just Became Unstoppable](https://www.youtube.com/watch?v=gAoZ95kqG7w)** · NateHerk · 2026-04-19
+Source: **[Claude Design Just Became Unstoppable](https://www.youtube.com/watch?v=gAoZ95kqG7w)** · nh · 2026-04-19
 
 **Status:** `deferred` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Generic "Claude iterates UI" prompting — vague deliverable. Useful as a prompt
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-19-claude-design-unstoppable` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [Claude Design Just Became Unstoppable](https://www.youtube.com/watch?v=gAoZ95kqG7w) |
 | Published | 2026-04-19 |
 | Ingested upstream | 2026-04-19 |

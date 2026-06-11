@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[How We Cut LLM Latency 70% With TensorRT in Production](https://www.youtube.com/watch?v=wTrv1hMQbVg)** · MLOps · 2026-04-20
+Source: **[How We Cut LLM Latency 70% With TensorRT in Production](https://www.youtube.com/watch?v=wTrv1hMQbVg)** · mlops · 2026-04-20
 
 **Status:** `deferred` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Hardware-blocked. TensorRT-LLM requires dedicated GPU infrastructure we do not h
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-20-tensorrt-llm-latency` |
-| Channel | MLOps |
+| Channel | mlops |
 | Video | [How We Cut LLM Latency 70% With TensorRT in Production](https://www.youtube.com/watch?v=wTrv1hMQbVg) |
 | Published | 2026-04-20 |
 | Ingested upstream | 2026-04-20 |

@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.]()** · @NateBJones · 2026-04-02
+Source: **[I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.]()** · nb · 2026-04-02
 
 **Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -53,7 +53,7 @@ Adopted 2026-04-07: formalize structural guardrails (cost caps, output validatio
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-03-agent-guardrails-leak` |
-| Channel | @NateBJones |
+| Channel | nb |
 | Published | 2026-04-02 |
 | Ingested upstream | 2026-04-03 |
 | Source | [yolo-projects/experiments.json](https://github.com/Anguijm/yolo-projects/blob/main/experiments.json) |

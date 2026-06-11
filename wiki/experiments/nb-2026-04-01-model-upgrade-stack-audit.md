@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Anthropic Just Built a Model That Breaks Everything (Claude Mythos Is Nigh)](https://natesnewsletter.substack.com/p/anthropic-just-built-a-model-that)** · @NateBJones · 2026-04-01
+Source: **[Anthropic Just Built a Model That Breaks Everything (Claude Mythos Is Nigh)](https://natesnewsletter.substack.com/p/anthropic-just-built-a-model-that)** · nb · 2026-04-01
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -52,7 +52,7 @@ Created model-upgrade-audit.md — 4-layer checklist (prompts, retrieval, verifi
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-01-model-upgrade-stack-audit` |
-| Channel | @NateBJones |
+| Channel | nb |
 | Video | [Anthropic Just Built a Model That Breaks Everything (Claude Mythos Is Nigh)](https://natesnewsletter.substack.com/p/anthropic-just-built-a-model-that) |
 | Published | 2026-04-01 |
 | Ingested upstream | 2026-04-02 |

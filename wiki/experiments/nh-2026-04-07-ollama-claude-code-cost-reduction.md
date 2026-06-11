@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Ollama + Claude Code = 99% CHEAPER](https://www.youtube.com/watch?v=O2k_qwZA8HU)** · NateHerk · 2026-04-07
+Source: **[Ollama + Claude Code = 99% CHEAPER](https://www.youtube.com/watch?v=O2k_qwZA8HU)** · nh · 2026-04-07
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Discarded 2026-04-08 as REPEAT of nh-2026-04-03-ollama-claude-code-cost (discard
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-07-ollama-claude-code-cost-reduction` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [Ollama + Claude Code = 99% CHEAPER](https://www.youtube.com/watch?v=O2k_qwZA8HU) |
 | Published | 2026-04-07 |
 | Ingested upstream | 2026-04-07 |

@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Give Your Chat Agent a Voice — Luke Harries, ElevenLabs](https://www.youtube.com/watch?v=DCZZ3AJKzuc)** · aiDotEngineer · 2026-05-09
+Source: **[Give Your Chat Agent a Voice — Luke Harries, ElevenLabs](https://www.youtube.com/watch?v=DCZZ3AJKzuc)** · aie · 2026-05-09
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Discarded 2026-05-10: covered by nh-2026-05-04-voice-agent-claude-code-elevenlab
 | Field | Value |
 |---|---|
 | Experiment ID | `aie-2026-05-09-elevenlabs-chat-agent-voice` |
-| Channel | aiDotEngineer |
+| Channel | aie |
 | Video | [Give Your Chat Agent a Voice — Luke Harries, ElevenLabs](https://www.youtube.com/watch?v=DCZZ3AJKzuc) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

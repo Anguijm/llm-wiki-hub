@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Build Your Agentic OS Better Than The 99%](https://www.youtube.com/watch?v=-WCNwxz3uoM)** · Mark_Kashef · 2026-05-09
+Source: **[Build Your Agentic OS Better Than The 99%](https://www.youtube.com/watch?v=-WCNwxz3uoM)** · mk · 2026-05-09
 
 **Status:** `deferred` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: 'agentic OS' is a mega-system pitch; the concrete multi-age
 | Field | Value |
 |---|---|
 | Experiment ID | `mk-2026-05-09-agentic-os-build` |
-| Channel | Mark_Kashef |
+| Channel | mk |
 | Video | [Build Your Agentic OS Better Than The 99%](https://www.youtube.com/watch?v=-WCNwxz3uoM) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

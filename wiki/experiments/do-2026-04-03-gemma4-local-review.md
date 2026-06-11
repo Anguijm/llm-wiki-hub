@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Gemma 4 is insane… best open-source model ever?!]()** · @DavidOndrej · 2026-04-02
+Source: **[Gemma 4 is insane… best open-source model ever?!]()** · do · 2026-04-02
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
@@ -53,7 +53,7 @@ Discarded 2026-04-07: local-model policy decision = NO. John confirmed cost is n
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-04-03-gemma4-local-review` |
-| Channel | @DavidOndrej |
+| Channel | do |
 | Published | 2026-04-02 |
 | Ingested upstream | 2026-04-03 |
 | Source | [yolo-projects/experiments.json](https://github.com/Anguijm/yolo-projects/blob/main/experiments.json) |

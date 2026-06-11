@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Every Claude Code Memory Pattern Explained](https://www.youtube.com/watch?v=OMkdlwZxSt8)** · Mark_Kashef · 2026-04-22
+Source: **[Every Claude Code Memory Pattern Explained](https://www.youtube.com/watch?v=OMkdlwZxSt8)** · nb · 2026-04-22
 
 **Status:** `backlog` · **Effort:** `medium`
 
@@ -33,7 +33,7 @@ The YOLO loop relies on context management for multi-step coding tasks; adopting
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-22-claude-code-memory-patterns` |
-| Channel | Mark_Kashef |
+| Channel | nb |
 | Video | [Every Claude Code Memory Pattern Explained](https://www.youtube.com/watch?v=OMkdlwZxSt8) |
 | Published | 2026-04-22 |
 | Ingested upstream | 2026-04-22 |

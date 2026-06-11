@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Google's New AI Just Broke My Brain (TurboQuant)](https://www.youtube.com/watch?v=7YVrb3-ABYE)** · @TwoMinutePapers · 2026-04-01
+Source: **[Google's New AI Just Broke My Brain (TurboQuant)](https://www.youtube.com/watch?v=7YVrb3-ABYE)** · tmp · 2026-04-01
 
 **Status:** `done` · **Verdict:** `discard` · **Effort:** `medium`
 
@@ -56,7 +56,7 @@ Parked. Interesting but needs different hardware than RTX 3070 Mobile.
 | Field | Value |
 |---|---|
 | Experiment ID | `tmp-2026-04-01-quantized-local-inference` |
-| Channel | @TwoMinutePapers |
+| Channel | tmp |
 | Video | [Google's New AI Just Broke My Brain (TurboQuant)](https://www.youtube.com/watch?v=7YVrb3-ABYE) |
 | Published | 2026-04-01 |
 | Ingested upstream | 2026-04-02 |

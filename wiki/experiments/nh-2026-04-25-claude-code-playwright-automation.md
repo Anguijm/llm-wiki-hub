@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude Code + Playwright Automates Literally Anything](https://www.youtube.com/watch?v=J-6pnl5DQg8)** · NateHerk · 2026-04-25
+Source: **[Claude Code + Playwright Automates Literally Anything](https://www.youtube.com/watch?v=J-6pnl5DQg8)** · nh · 2026-04-25
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ High-value integration: adds an automated verification layer to the YOLO loop so
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-25-claude-code-playwright-automation` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [Claude Code + Playwright Automates Literally Anything](https://www.youtube.com/watch?v=J-6pnl5DQg8) |
 | Published | 2026-04-25 |
 | Ingested upstream | 2026-04-25 |

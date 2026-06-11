@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[OpenAI Image 2 is Nuts. Here are 10 Ways to Use it.](https://www.youtube.com/watch?v=GY-kAiZGLOw)** · NateHerk · 2026-04-22
+Source: **[OpenAI Image 2 is Nuts. Here are 10 Ways to Use it.](https://www.youtube.com/watch?v=GY-kAiZGLOw)** · nh · 2026-04-22
 
 **Status:** `deferred` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: image-generation use cases are off the current loop. Park u
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-22-openai-image2-use-cases` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [OpenAI Image 2 is Nuts. Here are 10 Ways to Use it.](https://www.youtube.com/watch?v=GY-kAiZGLOw) |
 | Published | 2026-04-22 |
 | Ingested upstream | 2026-04-22 |

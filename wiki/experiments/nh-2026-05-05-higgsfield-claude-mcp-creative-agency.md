@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Higgsfield Just Turned Claude Into a Creative Agency](https://www.youtube.com/watch?v=xn6Z5PYyAIE)** · NateHerk · 2026-05-05
+Source: **[Higgsfield Just Turned Claude Into a Creative Agency](https://www.youtube.com/watch?v=xn6Z5PYyAIE)** · nh · 2026-05-05
 
 **Status:** `backlog` · **Effort:** `medium`
 
@@ -37,7 +37,7 @@ Nate noted that video text rendering (e.g. album metadata on covers) is still un
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-05-05-higgsfield-claude-mcp-creative-agency` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [Higgsfield Just Turned Claude Into a Creative Agency](https://www.youtube.com/watch?v=xn6Z5PYyAIE) |
 | Published | 2026-05-05 |
 | Ingested upstream | 2026-05-05 |

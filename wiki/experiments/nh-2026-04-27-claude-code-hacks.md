@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[32 Claude Code Hacks in 16 Mins](https://www.youtube.com/watch?v=jqoFP9QapXI)** · NateHerk · 2026-04-27
+Source: **[32 Claude Code Hacks in 16 Mins](https://www.youtube.com/watch?v=jqoFP9QapXI)** · nh · 2026-04-27
 
 **Status:** `in_progress` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Directly improves the prompt layer of the YOLO loop. A well-tuned CLAUDE.md acts
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-27-claude-code-hacks` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [32 Claude Code Hacks in 16 Mins](https://www.youtube.com/watch?v=jqoFP9QapXI) |
 | Published | 2026-04-27 |
 | Ingested upstream | 2026-04-27 |

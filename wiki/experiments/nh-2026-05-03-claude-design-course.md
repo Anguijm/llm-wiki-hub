@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude Design 2 HOUR COURSE (Beginner to Pro)](https://www.youtube.com/watch?v=ovabeVoWrA0)** · NateHerk · 2026-05-03
+Source: **[Claude Design 2 HOUR COURSE (Beginner to Pro)](https://www.youtube.com/watch?v=ovabeVoWrA0)** · nh · 2026-05-03
 
 **Status:** `backlog` · **Effort:** `medium`
 
@@ -33,7 +33,7 @@ Directly applicable to tuning the system prompts and turn structure inside our Y
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-05-03-claude-design-course` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [Claude Design 2 HOUR COURSE (Beginner to Pro)](https://www.youtube.com/watch?v=ovabeVoWrA0) |
 | Published | 2026-05-03 |
 | Ingested upstream | 2026-05-03 |

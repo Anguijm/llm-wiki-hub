@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[I Turned Claude Opus 4.7 Into a 24/7 Trader](https://www.youtube.com/watch?v=6MC1XqZSltw)** · NateHerk · 2026-04-19
+Source: **[I Turned Claude Opus 4.7 Into a 24/7 Trader](https://www.youtube.com/watch?v=6MC1XqZSltw)** · nh · 2026-04-19
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Financial trading is outside YOLO portfolio scope (dev tools, utilities, and age
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-19-claude-24-7-trader` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [I Turned Claude Opus 4.7 Into a 24/7 Trader](https://www.youtube.com/watch?v=6MC1XqZSltw) |
 | Published | 2026-04-19 |
 | Ingested upstream | 2026-04-19 |

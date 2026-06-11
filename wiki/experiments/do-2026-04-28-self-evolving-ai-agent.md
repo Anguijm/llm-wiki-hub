@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[This AI Agent can actually self-evolve… just watch](https://www.youtube.com/watch?v=F3ZzNgf-R7Y)** · DavidOndrej · 2026-04-28
+Source: **[This AI Agent can actually self-evolve… just watch](https://www.youtube.com/watch?v=F3ZzNgf-R7Y)** · do · 2026-04-28
 
 **Status:** `in_progress` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Maps directly to the reflection and self-repair phase of the YOLO loop; could re
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-04-28-self-evolving-ai-agent` |
-| Channel | DavidOndrej |
+| Channel | do |
 | Video | [This AI Agent can actually self-evolve… just watch](https://www.youtube.com/watch?v=F3ZzNgf-R7Y) |
 | Published | 2026-04-28 |
 | Ingested upstream | 2026-04-28 |

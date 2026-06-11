@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude Just Told Us to Stop Using Their Best Model](https://www.youtube.com/watch?v=1EPsUXSManU)** · NateHerk · 2026-04-10
+Source: **[Claude Just Told Us to Stop Using Their Best Model](https://www.youtube.com/watch?v=1EPsUXSManU)** · nh · 2026-04-10
 
 **Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Adopted 2026-04-12: low-effort cost-quality benchmark. Directly complements mode
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-10-claude-stop-using-best-model` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [Claude Just Told Us to Stop Using Their Best Model](https://www.youtube.com/watch?v=1EPsUXSManU) |
 | Published | 2026-04-10 |
 | Ingested upstream | 2026-04-10 |

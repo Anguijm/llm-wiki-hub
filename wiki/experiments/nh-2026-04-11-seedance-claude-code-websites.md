@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Seedance 2.0 + Claude Code Creates $10k Websites in Minutes](https://www.youtube.com/watch?v=NvxiSG34mPU)** · NateHerk · 2026-04-11
+Source: **[Seedance 2.0 + Claude Code Creates $10k Websites in Minutes](https://www.youtube.com/watch?v=NvxiSG34mPU)** · nh · 2026-04-11
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Deferred 2026-04-12: creative but tangential. Seedance video → website asset p
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-11-seedance-claude-code-websites` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [Seedance 2.0 + Claude Code Creates $10k Websites in Minutes](https://www.youtube.com/watch?v=NvxiSG34mPU) |
 | Published | 2026-04-11 |
 | Ingested upstream | 2026-04-11 |

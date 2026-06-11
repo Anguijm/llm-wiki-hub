@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Building Realistic Voice Agents Has Never Been Easier](https://www.youtube.com/watch?v=-cdexJWN8YA)** · NateHerk · 2026-05-04
+Source: **[Building Realistic Voice Agents Has Never Been Easier](https://www.youtube.com/watch?v=-cdexJWN8YA)** · nh · 2026-05-04
 
 **Status:** `backlog` · **Effort:** `medium`
 
@@ -33,7 +33,7 @@ Maps to the YOLO loop's tool-building and interface layer — specifically, usin
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-05-04-voice-agent-claude-code-elevenlabs` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [Building Realistic Voice Agents Has Never Been Easier](https://www.youtube.com/watch?v=-cdexJWN8YA) |
 | Published | 2026-05-04 |
 | Ingested upstream | 2026-05-04 |

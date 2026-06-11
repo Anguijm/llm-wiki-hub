@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](https://www.youtube.com/watch?v=0vdlwOK_Qdk)** · NateBJones · 2026-04-14
+Source: **[3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](https://www.youtube.com/watch?v=0vdlwOK_Qdk)** · nb · 2026-04-14
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Model-release impact tracker needs a long-running service. Could reframe as a on
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-14-track-model-drops-against-product-viability` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [3 Model Drops. $15M/Day in Burn. One Product Dead. Nobody Connected Them.](https://www.youtube.com/watch?v=0vdlwOK_Qdk) |
 | Published | 2026-04-14 |
 | Ingested upstream | 2026-04-14 |

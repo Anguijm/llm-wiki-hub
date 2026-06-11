@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Planning In Claude Code Just Got a Huge Upgrade](https://www.youtube.com/watch?v=T4fXb3sbJIo)** · NateHerk · 2026-04-07
+Source: **[Planning In Claude Code Just Got a Huge Upgrade](https://www.youtube.com/watch?v=T4fXb3sbJIo)** · nh · 2026-04-07
 
 **Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Adopted 2026-04-08: most directly applicable of the 6. Wire into PLAN gate as "u
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-07-claude-code-planning-mode` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [Planning In Claude Code Just Got a Huge Upgrade](https://www.youtube.com/watch?v=T4fXb3sbJIo) |
 | Published | 2026-04-07 |
 | Ingested upstream | 2026-04-07 |

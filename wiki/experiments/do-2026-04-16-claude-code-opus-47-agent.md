@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude Code + Opus 4.7 = Ultimate Coding Agent](https://www.youtube.com/watch?v=Tv3lIkbdAGc)** · DavidOndrej · 2026-04-16
+Source: **[Claude Code + Opus 4.7 = Ultimate Coding Agent](https://www.youtube.com/watch?v=Tv3lIkbdAGc)** · do · 2026-04-16
 
 **Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ See tick_queue_approved entry "eval-opus-47-backbone" in session_state.json.
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-04-16-claude-code-opus-47-agent` |
-| Channel | DavidOndrej |
+| Channel | do |
 | Video | [Claude Code + Opus 4.7 = Ultimate Coding Agent](https://www.youtube.com/watch?v=Tv3lIkbdAGc) |
 | Published | 2026-04-16 |
 | Ingested upstream | 2026-04-16 |

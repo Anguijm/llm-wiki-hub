@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[I Watched 3 Companies Lay Off Their Managers. All 3 Hit the Same Wall.](https://www.youtube.com/watch?v=zhXgkQ3nYeE)** · NateBJones · 2026-04-12
+Source: **[I Watched 3 Companies Lay Off Their Managers. All 3 Hit the Same Wall.](https://www.youtube.com/watch?v=zhXgkQ3nYeE)** · nb · 2026-04-12
 
 **Status:** `skipped` · **Effort:** `low`
 
@@ -37,7 +37,7 @@ Skipped per extraction rules: no actionable idea for an AI dev system.
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-12-manager-layoff-wall` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [I Watched 3 Companies Lay Off Their Managers. All 3 Hit the Same Wall.](https://www.youtube.com/watch?v=zhXgkQ3nYeE) |
 | Published | 2026-04-12 |
 | Ingested upstream | 2026-04-12 |

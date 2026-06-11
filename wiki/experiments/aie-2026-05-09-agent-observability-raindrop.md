@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Everything You Need To Know About Agent Observability — Danny Gollapalli and Ben Hylak, Raindrop](https://www.youtube.com/watch?v=-aM2EDTiaMs)** · aiDotEngineer · 2026-05-09
+Source: **[Everything You Need To Know About Agent Observability — Danny Gollapalli and Ben Hylak, Raindrop](https://www.youtube.com/watch?v=-aM2EDTiaMs)** · aie · 2026-05-09
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Discarded 2026-05-10: vendor pitch for Raindrop. We don't run agents in producti
 | Field | Value |
 |---|---|
 | Experiment ID | `aie-2026-05-09-agent-observability-raindrop` |
-| Channel | aiDotEngineer |
+| Channel | aie |
 | Video | [Everything You Need To Know About Agent Observability — Danny Gollapalli and Ben Hylak, Raindrop](https://www.youtube.com/watch?v=-aM2EDTiaMs) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

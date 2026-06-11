@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Why Agents are Driving Software Development to the Cloud](https://www.youtube.com/watch?v=uT-jEi9Ledw)** · MLOps · 2026-04-27
+Source: **[Why Agents are Driving Software Development to the Cloud](https://www.youtube.com/watch?v=uT-jEi9Ledw)** · mlops · 2026-04-27
 
 **Status:** `in_progress` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Directly challenges the assumption that the YOLO loop runs locally. If agent exe
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-27-agents-software-dev-cloud` |
-| Channel | MLOps |
+| Channel | mlops |
 | Video | [Why Agents are Driving Software Development to the Cloud](https://www.youtube.com/watch?v=uT-jEi9Ledw) |
 | Published | 2026-04-27 |
 | Ingested upstream | 2026-04-27 |

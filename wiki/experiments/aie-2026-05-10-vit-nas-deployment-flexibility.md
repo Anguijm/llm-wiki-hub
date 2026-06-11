@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[How Transformers Finally Ate Vision – Isaac Robinson, Roboflow](https://www.youtube.com/watch?v=VhfAVA3BG2I)** · aiDotEngineer · 2026-05-10
+Source: **[How Transformers Finally Ate Vision – Isaac Robinson, Roboflow](https://www.youtube.com/watch?v=VhfAVA3BG2I)** · aie · 2026-05-10
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Discarded 2026-05-10: ViT/NAS deployment flexibility is computer-vision-deployme
 | Field | Value |
 |---|---|
 | Experiment ID | `aie-2026-05-10-vit-nas-deployment-flexibility` |
-| Channel | aiDotEngineer |
+| Channel | aie |
 | Video | [How Transformers Finally Ate Vision – Isaac Robinson, Roboflow](https://www.youtube.com/watch?v=VhfAVA3BG2I) |
 | Published | 2026-05-10 |
 | Ingested upstream | 2026-05-10 |

@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[The Modern Software Engineer](https://www.youtube.com/watch?v=jOe4fJSc2IE)** · MLOps · 2026-04-20
+Source: **[The Modern Software Engineer](https://www.youtube.com/watch?v=jOe4fJSc2IE)** · mlops · 2026-04-20
 
 **Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ See tick_queue_approved entry 'adopt-ai-human-gate-spec' in session_state.json.
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-20-modern-software-engineer` |
-| Channel | MLOps |
+| Channel | mlops |
 | Video | [The Modern Software Engineer](https://www.youtube.com/watch?v=jOe4fJSc2IE) |
 | Published | 2026-04-20 |
 | Ingested upstream | 2026-04-20 |

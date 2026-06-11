@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.](https://www.youtube.com/watch?v=dxq7WtWxi44)** · NateBJones · 2026-04-22
+Source: **[Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.](https://www.youtube.com/watch?v=dxq7WtWxi44)** · nb · 2026-04-22
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Directly relevant to how the YOLO loop sources context and knowledge; choosing t
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-22-wiki-vs-openbrain-reliability` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.](https://www.youtube.com/watch?v=dxq7WtWxi44) |
 | Published | 2026-04-22 |
 | Ingested upstream | 2026-04-22 |

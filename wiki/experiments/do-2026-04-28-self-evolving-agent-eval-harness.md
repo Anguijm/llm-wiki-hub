@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[This AI Agent can actually self-evolve… just watch](https://www.youtube.com/watch?v=F3ZzNgf-R7Y)** · DavidOndrej · 2026-04-28
+Source: **[This AI Agent can actually self-evolve… just watch](https://www.youtube.com/watch?v=F3ZzNgf-R7Y)** · do · 2026-04-28
 
 **Status:** `in_progress` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ The eval harness is a foundational component for any automated improvement cycle
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-04-28-self-evolving-agent-eval-harness` |
-| Channel | DavidOndrej |
+| Channel | do |
 | Video | [This AI Agent can actually self-evolve… just watch](https://www.youtube.com/watch?v=F3ZzNgf-R7Y) |
 | Published | 2026-04-28 |
 | Ingested upstream | 2026-04-28 |

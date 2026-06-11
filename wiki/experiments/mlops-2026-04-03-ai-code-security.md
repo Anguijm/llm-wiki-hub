@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Practical Security for AI-generated Code]()** · @MLOps · 2026-04-02
+Source: **[Practical Security for AI-generated Code]()** · mlops · 2026-04-02
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -57,7 +57,7 @@ Title-only inference. Complements existing Gemini code review with security-spec
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-03-ai-code-security` |
-| Channel | @MLOps |
+| Channel | mlops |
 | Published | 2026-04-02 |
 | Ingested upstream | 2026-04-03 |
 | Source | [yolo-projects/experiments.json](https://github.com/Anguijm/yolo-projects/blob/main/experiments.json) |

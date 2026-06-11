@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Master 97% of Codex in 1 Hour (full course)](https://www.youtube.com/watch?v=3TdD8Qv5Tk8)** · NateHerk · 2026-05-09
+Source: **[Master 97% of Codex in 1 Hour (full course)](https://www.youtube.com/watch?v=3TdD8Qv5Tk8)** · nh · 2026-05-09
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Discarded 2026-05-10: tutorial/course recap; not an experiment.
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-05-09-codex-full-course` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [Master 97% of Codex in 1 Hour (full course)](https://www.youtube.com/watch?v=3TdD8Qv5Tk8) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

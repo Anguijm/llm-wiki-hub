@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](https://www.youtube.com/watch?v=dQK_pTXrGDk)** · NateBJones · 2026-04-29
+Source: **[Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](https://www.youtube.com/watch?v=dQK_pTXrGDk)** · nb · 2026-04-29
 
 **Status:** `deferred` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: same cluster as agent-crm-browser-replacement. Park togethe
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-29-agent-crm-write-back` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [Salesforce Killed The Browser. Every Agent Runs Your CRM Now.](https://www.youtube.com/watch?v=dQK_pTXrGDk) |
 | Published | 2026-04-29 |
 | Ingested upstream | 2026-04-29 |

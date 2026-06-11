@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[100 Hours Testing Claude Code vs Antigravity (honest results)](https://www.youtube.com/watch?v=99VHENEKA9o)** · NateHerk · 2026-04-13
+Source: **[100 Hours Testing Claude Code vs Antigravity (honest results)](https://www.youtube.com/watch?v=99VHENEKA9o)** · nh · 2026-04-13
 
 **Status:** `deferred` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Directly relevant to tool selection at the core of the YOLO loop. Nate's methodo
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-13-claude-code-vs-antigravity-benchmark` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [100 Hours Testing Claude Code vs Antigravity (honest results)](https://www.youtube.com/watch?v=99VHENEKA9o) |
 | Published | 2026-04-13 |
 | Ingested upstream | 2026-04-13 |

@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[I Gave OpenClaw $10,000 to Trade Stocks](https://www.youtube.com/watch?v=eu8UJtuIi-E)** · NateHerk · 2026-04-09
+Source: **[I Gave OpenClaw $10,000 to Trade Stocks](https://www.youtube.com/watch?v=eu8UJtuIi-E)** · nh · 2026-04-09
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Discarded 2026-04-12: live-capital agentic trading is completely out of scope fo
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-09-openclaw-trading-agent` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [I Gave OpenClaw $10,000 to Trade Stocks](https://www.youtube.com/watch?v=eu8UJtuIi-E) |
 | Published | 2026-04-09 |
 | Ingested upstream | 2026-04-09 |

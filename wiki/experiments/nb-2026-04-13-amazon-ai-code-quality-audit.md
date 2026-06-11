@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything.](https://www.youtube.com/watch?v=E1idsrv79tI)** · NateBJones · 2026-04-13
+Source: **[I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything.](https://www.youtube.com/watch?v=E1idsrv79tI)** · nb · 2026-04-13
 
 **Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ See tick_queue_approved entry 'infra-ai-code-audit-lenses' in session_state.json
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-13-amazon-ai-code-quality-audit` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [I Looked At Amazon After They Fired 16,000 Engineers. Their AI Broke Everything.](https://www.youtube.com/watch?v=E1idsrv79tI) |
 | Published | 2026-04-13 |
 | Ingested upstream | 2026-04-13 |

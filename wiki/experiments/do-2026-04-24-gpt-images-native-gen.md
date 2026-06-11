@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[OpenAI just destroyed all AI image tools… GPT Images 2.0](https://www.youtube.com/watch?v=XdQq90Ug8eY)** · DavidOndrej · 2026-04-24
+Source: **[OpenAI just destroyed all AI image tools… GPT Images 2.0](https://www.youtube.com/watch?v=XdQq90Ug8eY)** · do · 2026-04-24
 
 **Status:** `deferred` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: native image gen tied to the same image-tooling cluster as 
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-04-24-gpt-images-native-gen` |
-| Channel | DavidOndrej |
+| Channel | do |
 | Video | [OpenAI just destroyed all AI image tools… GPT Images 2.0](https://www.youtube.com/watch?v=XdQq90Ug8eY) |
 | Published | 2026-04-24 |
 | Ingested upstream | 2026-04-24 |

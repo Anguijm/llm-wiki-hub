@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[ChatGPT Images Just Replaced Three People on Your Team.](https://www.youtube.com/watch?v=brBPsPPyuQM)** · NateBJones · 2026-04-25
+Source: **[ChatGPT Images Just Replaced Three People on Your Team.](https://www.youtube.com/watch?v=brBPsPPyuQM)** · nb · 2026-04-25
 
 **Status:** `deferred` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: image-tooling cluster. Park.
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-25-chatgpt-images-replace-team` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [ChatGPT Images Just Replaced Three People on Your Team.](https://www.youtube.com/watch?v=brBPsPPyuQM) |
 | Published | 2026-04-25 |
 | Ingested upstream | 2026-04-25 |

@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Beyond SWE-Bench Pro - Where do Agents go from Here?]()** · @MLOps · 2026-04-02
+Source: **[Beyond SWE-Bench Pro - Where do Agents go from Here?]()** · mlops · 2026-04-02
 
 **Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -53,7 +53,7 @@ Adopted 2026-04-07: extends current test_project.py + eval_bugs.py + security_sc
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-03-beyond-swebench-evals` |
-| Channel | @MLOps |
+| Channel | mlops |
 | Published | 2026-04-02 |
 | Ingested upstream | 2026-04-03 |
 | Source | [yolo-projects/experiments.json](https://github.com/Anguijm/yolo-projects/blob/main/experiments.json) |

@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[This 100% minimal AI Agent can do anything… just watch](https://www.youtube.com/watch?v=9KYfx_GzY1o)** · DavidOndrej · 2026-04-07
+Source: **[This 100% minimal AI Agent can do anything… just watch](https://www.youtube.com/watch?v=9KYfx_GzY1o)** · do · 2026-04-07
 
 **Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Adopted 2026-04-08: run as a bifurcation comparison study. Build the bare-metal 
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-04-07-minimal-agent-pattern` |
-| Channel | DavidOndrej |
+| Channel | do |
 | Video | [This 100% minimal AI Agent can do anything… just watch](https://www.youtube.com/watch?v=9KYfx_GzY1o) |
 | Published | 2026-04-07 |
 | Ingested upstream | 2026-04-07 |

@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[How to Never Hit Your Claude Session Limit Again](https://www.youtube.com/watch?v=_qZvORxGqI0)** · NateHerk · 2026-04-20
+Source: **[How to Never Hit Your Claude Session Limit Again](https://www.youtube.com/watch?v=_qZvORxGqI0)** · nh · 2026-04-20
 
 **Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ See tick_queue_approved entry 'adopt-session-checkpointing' in session_state.jso
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-20-claude-session-limit` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [How to Never Hit Your Claude Session Limit Again](https://www.youtube.com/watch?v=_qZvORxGqI0) |
 | Published | 2026-04-20 |
 | Ingested upstream | 2026-04-20 |

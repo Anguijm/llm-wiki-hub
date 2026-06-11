@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Anthropic Just Gave You 3 Tools That Work While You're Gone](https://www.youtube.com/watch?v=3e7gmNPr5Vo)** · @NateBJones · 2026-03-29
+Source: **[Anthropic Just Gave You 3 Tools That Work While You're Gone](https://www.youtube.com/watch?v=3e7gmNPr5Vo)** · nb · 2026-03-29
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -51,7 +51,7 @@ The Phase 2 refinement and Phase 3 cull processes already embody close-the-loops
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-03-29-close-the-loops` |
-| Channel | @NateBJones |
+| Channel | nb |
 | Video | [Anthropic Just Gave You 3 Tools That Work While You're Gone](https://www.youtube.com/watch?v=3e7gmNPr5Vo) |
 | Published | 2026-03-29 |
 | Ingested upstream | 2026-03-29 |

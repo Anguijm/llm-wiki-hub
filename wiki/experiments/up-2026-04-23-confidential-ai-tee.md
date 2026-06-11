@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Raghu Yeluri - The Advent of Confidential AI | [un]prompted 2026](https://www.youtube.com/watch?v=uvpXwLBF1mM)** · [un]prompted · 2026-04-23
+Source: **[Raghu Yeluri - The Advent of Confidential AI | [un]prompted 2026](https://www.youtube.com/watch?v=uvpXwLBF1mM)** · up · 2026-04-23
 
 **Status:** `deferred` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Relevant if the YOLO loop is extended to enterprise or regulated-data contexts �
 | Field | Value |
 |---|---|
 | Experiment ID | `up-2026-04-23-confidential-ai-tee` |
-| Channel | [un]prompted |
+| Channel | up |
 | Video | [Raghu Yeluri - The Advent of Confidential AI | [un]prompted 2026](https://www.youtube.com/watch?v=uvpXwLBF1mM) |
 | Published | 2026-04-23 |
 | Ingested upstream | 2026-04-23 |

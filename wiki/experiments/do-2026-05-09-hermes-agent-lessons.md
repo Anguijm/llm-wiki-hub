@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[100 hours of Hermes Agent lessons in 46 minutes](https://www.youtube.com/watch?v=G47mnkGkYwQ)** · DavidOndrej · 2026-05-09
+Source: **[100 hours of Hermes Agent lessons in 46 minutes](https://www.youtube.com/watch?v=G47mnkGkYwQ)** · do · 2026-05-09
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Discarded 2026-05-10: generic 'agent lessons' recap with no concrete experiment 
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-05-09-hermes-agent-lessons` |
-| Channel | DavidOndrej |
+| Channel | do |
 | Video | [100 hours of Hermes Agent lessons in 46 minutes](https://www.youtube.com/watch?v=G47mnkGkYwQ) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

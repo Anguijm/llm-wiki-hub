@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Vibe Engineering Effect Apps — Michael Arnaldi, Effectful](https://www.youtube.com/watch?v=Wmp2Tku2PrI)** · aiDotEngineer · 2026-05-10
+Source: **[Vibe Engineering Effect Apps — Michael Arnaldi, Effectful](https://www.youtube.com/watch?v=Wmp2Tku2PrI)** · aie · 2026-05-10
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -42,7 +42,7 @@ Speaker used ~1.5 hours to build a working typed API from scratch with zero prio
 | Field | Value |
 |---|---|
 | Experiment ID | `aie-2026-05-10-effect-clone-repo-agent-context` |
-| Channel | aiDotEngineer |
+| Channel | aie |
 | Video | [Vibe Engineering Effect Apps — Michael Arnaldi, Effectful](https://www.youtube.com/watch?v=Wmp2Tku2PrI) |
 | Published | 2026-05-10 |
 | Ingested upstream | 2026-05-10 |

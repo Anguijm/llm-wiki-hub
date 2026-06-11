@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[You're Building AI Agents on Layers That Won't Exist in 18 Months. (What this Means for You)](https://www.youtube.com/watch?v=7HP1jFJ9W1c)** · NateBJones · 2026-04-07
+Source: **[You're Building AI Agents on Layers That Won't Exist in 18 Months. (What this Means for You)](https://www.youtube.com/watch?v=7HP1jFJ9W1c)** · nb · 2026-04-07
 
 **Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Adopted 2026-04-08 as a ONE-TIME deliverable, not ongoing infrastructure. Produc
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-07-ephemeral-layers-stack-audit` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [You're Building AI Agents on Layers That Won't Exist in 18 Months. (What this Means for You)](https://www.youtube.com/watch?v=7HP1jFJ9W1c) |
 | Published | 2026-04-07 |
 | Ingested upstream | 2026-04-07 |

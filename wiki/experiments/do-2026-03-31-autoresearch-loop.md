@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[The only AutoResearch tutorial you will ever need](https://www.youtube.com/watch?v=uBWuKh1nZ2Y)** · @DavidOndrej · 2026-03-31
+Source: **[The only AutoResearch tutorial you will ever need](https://www.youtube.com/watch?v=uBWuKh1nZ2Y)** · do · 2026-03-31
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -52,7 +52,7 @@ color-mix built with autoresearch loop: metric=Gemini bug count, target=0. Itera
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-03-31-autoresearch-loop` |
-| Channel | @DavidOndrej |
+| Channel | do |
 | Video | [The only AutoResearch tutorial you will ever need](https://www.youtube.com/watch?v=uBWuKh1nZ2Y) |
 | Published | 2026-03-31 |
 | Ingested upstream | 2026-03-31 |

@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[How I Taught Claude To Edit My YouTube Videos](https://www.youtube.com/watch?v=wmIO2rs-AIs)** · ShawTalebi · 2026-04-12
+Source: **[How I Taught Claude To Edit My YouTube Videos](https://www.youtube.com/watch?v=wmIO2rs-AIs)** · st · 2026-04-12
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Discarded 2026-04-13: video editing pipeline is out of scope for the YOLO dev lo
 | Field | Value |
 |---|---|
 | Experiment ID | `st-2026-04-12-claude-video-editing` |
-| Channel | ShawTalebi |
+| Channel | st |
 | Video | [How I Taught Claude To Edit My YouTube Videos](https://www.youtube.com/watch?v=wmIO2rs-AIs) |
 | Published | 2026-04-12 |
 | Ingested upstream | 2026-04-12 |

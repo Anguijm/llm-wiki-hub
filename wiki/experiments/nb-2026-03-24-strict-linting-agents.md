@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For](https://www.youtube.com/watch?v=7AO4w4Y_L24)** · @NateBJones · 2026-03-24
+Source: **[Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For](https://www.youtube.com/watch?v=7AO4w4Y_L24)** · nb · 2026-03-24
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -53,7 +53,7 @@ Created .eslintrc.json with 14 rules. Baseline scan: 68/70 survivors pass clean 
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-03-24-strict-linting-agents` |
-| Channel | @NateBJones |
+| Channel | nb |
 | Video | [Nvidia Just Open-Sourced What OpenAI Wants You to Pay Consultants For](https://www.youtube.com/watch?v=7AO4w4Y_L24) |
 | Published | 2026-03-24 |
 | Ingested upstream | 2026-03-29 |

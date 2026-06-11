@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[RIP OpenClaw… this 100% private AI Agent is insane](https://www.youtube.com/@DavidOndrej)** · @DavidOndrej · 2026-03-27
+Source: **[RIP OpenClaw… this 100% private AI Agent is insane](https://www.youtube.com/@DavidOndrej)** · do · 2026-03-27
 
 **Status:** `done` · **Verdict:** `discard` · **Effort:** `high`
 
@@ -41,7 +41,7 @@ Park until 48GB+ VRAM hardware. Revisit as hybrid router architecture.
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-03-27-private-local-agent` |
-| Channel | @DavidOndrej |
+| Channel | do |
 | Video | [RIP OpenClaw… this 100% private AI Agent is insane](https://www.youtube.com/@DavidOndrej) |
 | Published | 2026-03-27 |
 | Ingested upstream | 2026-04-01 |

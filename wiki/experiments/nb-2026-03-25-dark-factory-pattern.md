@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Tobi Lutke Made a 20-Year-Old Codebase 53% Faster Overnight](https://www.youtube.com/watch?v=YpPcDHc3e9U)** · @NateBJones · 2026-03-25
+Source: **[Tobi Lutke Made a 20-Year-Old Codebase 53% Faster Overnight](https://www.youtube.com/watch?v=YpPcDHc3e9U)** · nb · 2026-03-25
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -53,7 +53,7 @@ Added Dark Factory Retry Loop section to program.md: test→fix→retest cycle w
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-03-25-dark-factory-pattern` |
-| Channel | @NateBJones |
+| Channel | nb |
 | Video | [Tobi Lutke Made a 20-Year-Old Codebase 53% Faster Overnight](https://www.youtube.com/watch?v=YpPcDHc3e9U) |
 | Published | 2026-03-25 |
 | Ingested upstream | 2026-03-29 |

@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Edit Anything with Codex, Here's How](https://www.youtube.com/watch?v=oyWSdPYeQwQ)** · DavidOndrej · 2026-05-09
+Source: **[Edit Anything with Codex, Here's How](https://www.youtube.com/watch?v=oyWSdPYeQwQ)** · do · 2026-05-09
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: codex tooling demo overlaps with our existing Claude Code w
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-05-09-codex-edit-anything` |
-| Channel | DavidOndrej |
+| Channel | do |
 | Video | [Edit Anything with Codex, Here's How](https://www.youtube.com/watch?v=oyWSdPYeQwQ) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

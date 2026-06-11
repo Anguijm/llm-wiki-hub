@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[You Can Run Claude AND Codex Together. Here's How.](https://www.youtube.com/watch?v=Fu5KIG2Jm1g)** · @Mark_Kashef · 2026-04-26
+Source: **[You Can Run Claude AND Codex Together. Here's How.](https://www.youtube.com/watch?v=Fu5KIG2Jm1g)** · mk · 2026-04-26
 
 **Status:** `in_progress` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Directly extends the YOLO loop by enabling multi-agent parallelism at the task l
 | Field | Value |
 |---|---|
 | Experiment ID | `mk-2026-04-26-run-claude-codex-together` |
-| Channel | @Mark_Kashef |
+| Channel | mk |
 | Video | [You Can Run Claude AND Codex Together. Here's How.](https://www.youtube.com/watch?v=Fu5KIG2Jm1g) |
 | Published | 2026-04-26 |
 | Ingested upstream | 2026-04-26 |

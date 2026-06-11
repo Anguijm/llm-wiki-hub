@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude Mythos might actually be AGI… wtf](https://www.youtube.com/watch?v=ZruZhMdFdl8)** · DavidOndrej · 2026-04-08
+Source: **[Claude Mythos might actually be AGI… wtf](https://www.youtube.com/watch?v=ZruZhMdFdl8)** · do · 2026-04-08
 
 **Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Adopted 2026-04-09: low-effort model-swap benchmark. Reframed from 'Claude Mytho
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-04-08-claude-mythos-agentic-eval` |
-| Channel | DavidOndrej |
+| Channel | do |
 | Video | [Claude Mythos might actually be AGI… wtf](https://www.youtube.com/watch?v=ZruZhMdFdl8) |
 | Published | 2026-04-08 |
 | Ingested upstream | 2026-04-08 |

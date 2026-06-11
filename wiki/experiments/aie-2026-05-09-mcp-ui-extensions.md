@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[MCP UI: Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps](https://www.youtube.com/watch?v=o-zkvb0iFDQ)** · aiDotEngineer · 2026-05-09
+Source: **[MCP UI: Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps](https://www.youtube.com/watch?v=o-zkvb0iFDQ)** · aie · 2026-05-09
 
 **Status:** `deferred` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: MCP UI extensions only earn their slot when we have an MCP 
 | Field | Value |
 |---|---|
 | Experiment ID | `aie-2026-05-09-mcp-ui-extensions` |
-| Channel | aiDotEngineer |
+| Channel | aie |
 | Video | [MCP UI: Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps](https://www.youtube.com/watch?v=o-zkvb0iFDQ) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

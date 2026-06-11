@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Durable Execution and Modern Distributed Systems](https://www.youtube.com/watch?v=umdiwQbkwlY)** · @MLOps · 2026-03-17
+Source: **[Durable Execution and Modern Distributed Systems](https://www.youtube.com/watch?v=umdiwQbkwlY)** · mlops · 2026-03-17
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `high`
 
@@ -54,7 +54,7 @@ Implemented session_state.json + update_session_state.py. Not Temporal-style hea
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-03-17-durable-execution-agents` |
-| Channel | @MLOps |
+| Channel | mlops |
 | Video | [Durable Execution and Modern Distributed Systems](https://www.youtube.com/watch?v=umdiwQbkwlY) |
 | Published | 2026-03-17 |
 | Ingested upstream | 2026-03-29 |

@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Building AI Agents That Survive Production](https://www.youtube.com/watch?v=swO5svhBhQ4)** · MLOps · 2026-05-09
+Source: **[Building AI Agents That Survive Production](https://www.youtube.com/watch?v=swO5svhBhQ4)** · mlops · 2026-05-09
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Audited in experiments/agents-survive-production/ (PR #10): tick_tock.yml scored
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-05-09-agents-survive-production` |
-| Channel | MLOps |
+| Channel | mlops |
 | Video | [Building AI Agents That Survive Production](https://www.youtube.com/watch?v=swO5svhBhQ4) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

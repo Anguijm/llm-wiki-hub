@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude Cowork Explained in 29 Minutes (for non-coders)](https://www.youtube.com/watch?v=u_8NdSf2VV4)** · @ShawTalebi · 2026-05-03
+Source: **[Claude Cowork Explained in 29 Minutes (for non-coders)](https://www.youtube.com/watch?v=u_8NdSf2VV4)** · st · 2026-05-03
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: connector/skills demo is interesting but the concrete skill
 | Field | Value |
 |---|---|
 | Experiment ID | `st-2026-05-03-cowork-connectors-skills-setup` |
-| Channel | @ShawTalebi |
+| Channel | st |
 | Video | [Claude Cowork Explained in 29 Minutes (for non-coders)](https://www.youtube.com/watch?v=u_8NdSf2VV4) |
 | Published | 2026-05-03 |
 | Ingested upstream | 2026-05-03 |

@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[The Multi-Agent Architecture That Actually Ships — Luke Alvoeiro, Factory](https://www.youtube.com/watch?v=ow1we5PzK-o)** · aiDotEngineer · 2026-05-09
+Source: **[The Multi-Agent Architecture That Actually Ships — Luke Alvoeiro, Factory](https://www.youtube.com/watch?v=ow1we5PzK-o)** · aie · 2026-05-09
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Discarded 2026-05-10: vague 'multi-agent factory' framing. The concrete multi-ag
 | Field | Value |
 |---|---|
 | Experiment ID | `aie-2026-05-09-multi-agent-architecture-factory` |
-| Channel | aiDotEngineer |
+| Channel | aie |
 | Video | [The Multi-Agent Architecture That Actually Ships — Luke Alvoeiro, Factory](https://www.youtube.com/watch?v=ow1we5PzK-o) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |

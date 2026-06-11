@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.]()** · @NateBJones · 2026-04-02
+Source: **[I Broke Down Anthropic's $2.5 Billion Leak. Your Agent Is Missing 12 Critical Pieces.]()** · nb · 2026-04-02
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -57,7 +57,7 @@ Title-only inference. Need to watch video or find summary for the actual 12 piec
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-03-agent-architecture-12-pieces` |
-| Channel | @NateBJones |
+| Channel | nb |
 | Published | 2026-04-02 |
 | Ingested upstream | 2026-04-03 |
 | Source | [yolo-projects/experiments.json](https://github.com/Anguijm/yolo-projects/blob/main/experiments.json) |

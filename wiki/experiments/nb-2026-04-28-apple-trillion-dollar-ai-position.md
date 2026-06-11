@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Apple Just Positioned Itself for the Next Trillion Dollars](https://www.youtube.com/watch?v=RaAFquzj5B8)** · NateBJones · 2026-04-28
+Source: **[Apple Just Positioned Itself for the Next Trillion Dollars](https://www.youtube.com/watch?v=RaAFquzj5B8)** · nb · 2026-04-28
 
 **Status:** `skipped` · **Effort:** `low`
 
@@ -37,7 +37,7 @@ Skipped per ingestion rules: no actionable experiment present.
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-28-apple-trillion-dollar-ai-position` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [Apple Just Positioned Itself for the Next Trillion Dollars](https://www.youtube.com/watch?v=RaAFquzj5B8) |
 | Published | 2026-04-28 |
 | Ingested upstream | 2026-04-28 |

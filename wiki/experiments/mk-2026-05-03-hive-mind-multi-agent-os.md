@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[This Claude Code Setup Runs My Entire Business](https://www.youtube.com/watch?v=7aQbN543Mec)** · @Mark_Kashef · 2026-05-03
+Source: **[This Claude Code Setup Runs My Entire Business](https://www.youtube.com/watch?v=7aQbN543Mec)** · mk · 2026-05-03
 
 **Status:** `backlog` · **Effort:** `high`
 
@@ -33,7 +33,7 @@ Represents the most complete implementation of a persistent agentic dev+ops loop
 | Field | Value |
 |---|---|
 | Experiment ID | `mk-2026-05-03-hive-mind-multi-agent-os` |
-| Channel | @Mark_Kashef |
+| Channel | mk |
 | Video | [This Claude Code Setup Runs My Entire Business](https://www.youtube.com/watch?v=7aQbN543Mec) |
 | Published | 2026-05-03 |
 | Ingested upstream | 2026-05-03 |

@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[OpenXData Conference](https://www.youtube.com/watch?v=YInxWv_4N7w)** · MLOps · 2026-04-24
+Source: **[OpenXData Conference](https://www.youtube.com/watch?v=YInxWv_4N7w)** · mlops · 2026-04-24
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -39,7 +39,7 @@ Conference format — may need to review specific talk timestamps for more granu
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-24-openxdata-conference` |
-| Channel | MLOps |
+| Channel | mlops |
 | Video | [OpenXData Conference](https://www.youtube.com/watch?v=YInxWv_4N7w) |
 | Published | 2026-04-24 |
 | Ingested upstream | 2026-04-24 |

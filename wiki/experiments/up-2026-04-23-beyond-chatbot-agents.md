@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Peter Smith & RK Sharma - Beyond the Chatbot | [un]prompted 2026](https://www.youtube.com/watch?v=zn2u-V5DriA)** · [un]prompted · 2026-04-23
+Source: **[Peter Smith & RK Sharma - Beyond the Chatbot | [un]prompted 2026](https://www.youtube.com/watch?v=zn2u-V5DriA)** · up · 2026-04-23
 
 **Status:** `deferred` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Directly addresses a known YOLO loop limitation — state is currently ephemeral
 | Field | Value |
 |---|---|
 | Experiment ID | `up-2026-04-23-beyond-chatbot-agents` |
-| Channel | [un]prompted |
+| Channel | up |
 | Video | [Peter Smith & RK Sharma - Beyond the Chatbot | [un]prompted 2026](https://www.youtube.com/watch?v=zn2u-V5DriA) |
 | Published | 2026-04-23 |
 | Ingested upstream | 2026-04-23 |

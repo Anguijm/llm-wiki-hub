@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude Just Destroyed Every Video Editing Tool](https://www.youtube.com/watch?v=ZNbgOhxhzXg)** · NateHerk · 2026-04-19
+Source: **[Claude Just Destroyed Every Video Editing Tool](https://www.youtube.com/watch?v=ZNbgOhxhzXg)** · nh · 2026-04-19
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Video editing outside current portfolio scope (same category as the HeyGen pipel
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-19-claude-video-editing` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [Claude Just Destroyed Every Video Editing Tool](https://www.youtube.com/watch?v=ZNbgOhxhzXg) |
 | Published | 2026-04-19 |
 | Ingested upstream | 2026-04-19 |

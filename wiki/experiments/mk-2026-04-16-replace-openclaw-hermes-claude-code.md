@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[I Replaced OpenClaw and Hermes With This Claude Code Setup](https://www.youtube.com/watch?v=rVzGu5OYYS0)** · Mark_Kashef · 2026-04-16
+Source: **[I Replaced OpenClaw and Hermes With This Claude Code Setup](https://www.youtube.com/watch?v=rVzGu5OYYS0)** · mk · 2026-04-16
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Overlaps with do-2026-04-20-hermes-agent and misframes our stack — we are alre
 | Field | Value |
 |---|---|
 | Experiment ID | `mk-2026-04-16-replace-openclaw-hermes-claude-code` |
-| Channel | Mark_Kashef |
+| Channel | mk |
 | Video | [I Replaced OpenClaw and Hermes With This Claude Code Setup](https://www.youtube.com/watch?v=rVzGu5OYYS0) |
 | Published | 2026-04-16 |
 | Ingested upstream | 2026-04-16 |

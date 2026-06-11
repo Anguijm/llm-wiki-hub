@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Stripe, Visa, Mastercard, Microsoft, Meta. All Building The Same Thing.](https://www.youtube.com/watch?v=XGvDbeoSN3E)** · NateBJones · 2026-05-04
+Source: **[Stripe, Visa, Mastercard, Microsoft, Meta. All Building The Same Thing.](https://www.youtube.com/watch?v=XGvDbeoSN3E)** · nb · 2026-05-04
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: agentic-commerce angle is far from the current YOLO loop. P
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-05-04-agentic-commerce-buyer-agent-readiness` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [Stripe, Visa, Mastercard, Microsoft, Meta. All Building The Same Thing.](https://www.youtube.com/watch?v=XGvDbeoSN3E) |
 | Published | 2026-05-04 |
 | Ingested upstream | 2026-05-04 |

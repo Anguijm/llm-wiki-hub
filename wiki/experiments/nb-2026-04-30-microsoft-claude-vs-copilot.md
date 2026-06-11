@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.](https://www.youtube.com/watch?v=JvCtGjrn_N0)** · NateBJones · 2026-04-30
+Source: **[Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.](https://www.youtube.com/watch?v=JvCtGjrn_N0)** · nb · 2026-04-30
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Directly applicable to the YOLO loop's model-selection layer. We can run paralle
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-30-microsoft-claude-vs-copilot` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [Microsoft Is Testing Claude Against Its Own Copilot. Here's Why.](https://www.youtube.com/watch?v=JvCtGjrn_N0) |
 | Published | 2026-04-30 |
 | Ingested upstream | 2026-04-30 |

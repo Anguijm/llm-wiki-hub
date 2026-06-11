@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[AI's 'Thin Ice' Moment: Is Your Job Already Gone?](https://www.youtube.com/watch?v=rYqt6mMlv7o)** · NateBJones · 2026-05-04
+Source: **[AI's 'Thin Ice' Moment: Is Your Job Already Gone?](https://www.youtube.com/watch?v=rYqt6mMlv7o)** · nb · 2026-05-04
 
 **Status:** `deferred` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: meta-strategic 'audit your jobs' framing; useful as a think
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-05-04-job-audit-four-buckets` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [AI's 'Thin Ice' Moment: Is Your Job Already Gone?](https://www.youtube.com/watch?v=rYqt6mMlv7o) |
 | Published | 2026-05-04 |
 | Ingested upstream | 2026-05-04 |

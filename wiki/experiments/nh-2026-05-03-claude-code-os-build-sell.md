@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Build & Sell Claude Code Operating Systems (2+ Hour Course)](https://www.youtube.com/watch?v=bCljOfCH8Ms)** · NateHerk · 2026-05-03
+Source: **[Build & Sell Claude Code Operating Systems (2+ Hour Course)](https://www.youtube.com/watch?v=bCljOfCH8Ms)** · nh · 2026-05-03
 
 **Status:** `deferred` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Deferred 2026-05-10: business-model speculation rather than a testable experimen
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-05-03-claude-code-os-build-sell` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [Build & Sell Claude Code Operating Systems (2+ Hour Course)](https://www.youtube.com/watch?v=bCljOfCH8Ms) |
 | Published | 2026-05-03 |
 | Ingested upstream | 2026-05-03 |

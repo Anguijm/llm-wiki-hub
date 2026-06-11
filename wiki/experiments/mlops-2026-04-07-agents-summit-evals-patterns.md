@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[AI Agents Summit Seattle](https://www.youtube.com/watch?v=bha7cnTh534)** · MLOps · 2026-04-07
+Source: **[AI Agents Summit Seattle](https://www.youtube.com/watch?v=bha7cnTh534)** · mlops · 2026-04-07
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Discarded 2026-04-08 as duplicate of mlops-2026-04-03-beyond-swebench-evals (alr
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-07-agents-summit-evals-patterns` |
-| Channel | MLOps |
+| Channel | mlops |
 | Video | [AI Agents Summit Seattle](https://www.youtube.com/watch?v=bha7cnTh534) |
 | Published | 2026-04-07 |
 | Ingested upstream | 2026-04-07 |

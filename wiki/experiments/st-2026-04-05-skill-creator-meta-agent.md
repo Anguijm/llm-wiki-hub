@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[How to Automate Anything with Claude (4-Step Framework)](https://www.youtube.com/watch?v=FSOvLgS4xvc)** · @ShawTalebi · 2026-04-05
+Source: **[How to Automate Anything with Claude (4-Step Framework)](https://www.youtube.com/watch?v=FSOvLgS4xvc)** · st · 2026-04-05
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Built harness learn command (490 lines). Scans completed plans, extracts pattern
 | Field | Value |
 |---|---|
 | Experiment ID | `st-2026-04-05-skill-creator-meta-agent` |
-| Channel | @ShawTalebi |
+| Channel | st |
 | Video | [How to Automate Anything with Claude (4-Step Framework)](https://www.youtube.com/watch?v=FSOvLgS4xvc) |
 | Published | 2026-04-05 |
 | Ingested upstream | 2026-04-06 |

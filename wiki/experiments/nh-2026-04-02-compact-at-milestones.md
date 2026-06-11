@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[18 Claude Code Token Hacks in 18 Minutes](https://www.youtube.com/watch?v=49V-5Ock8LU)** · @NateHerk · 2026-04-02
+Source: **[18 Claude Code Token Hacks in 18 Minutes](https://www.youtube.com/watch?v=49V-5Ock8LU)** · nh · 2026-04-02
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -41,7 +41,7 @@ Extends nb-2026-03-24-context-compression (adopted) with specific /compact workf
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-02-compact-at-milestones` |
-| Channel | @NateHerk |
+| Channel | nh |
 | Video | [18 Claude Code Token Hacks in 18 Minutes](https://www.youtube.com/watch?v=49V-5Ock8LU) |
 | Published | 2026-04-02 |
 | Ingested upstream | 2026-04-02 |

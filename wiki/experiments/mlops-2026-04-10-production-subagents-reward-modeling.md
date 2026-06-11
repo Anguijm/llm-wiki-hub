@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Production Sub-agents for LLM Post Training](https://www.youtube.com/watch?v=kPC4YOkIxVo)** · MLOps · 2026-04-10
+Source: **[Production Sub-agents for LLM Post Training](https://www.youtube.com/watch?v=kPC4YOkIxVo)** · mlops · 2026-04-10
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Discarded 2026-04-12: RLHF/DPO reward signal generation is out of scope. No fine
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-10-production-subagents-reward-modeling` |
-| Channel | MLOps |
+| Channel | mlops |
 | Video | [Production Sub-agents for LLM Post Training](https://www.youtube.com/watch?v=kPC4YOkIxVo) |
 | Published | 2026-04-10 |
 | Ingested upstream | 2026-04-10 |

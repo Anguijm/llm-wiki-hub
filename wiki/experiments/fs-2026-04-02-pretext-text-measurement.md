@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[He just crawled through hell to fix the browser...](https://www.youtube.com/watch?v=vd14EElCRvs)** · @Fireship · 2026-04-02
+Source: **[He just crawled through hell to fix the browser...](https://www.youtube.com/watch?v=vd14EElCRvs)** · fs · 2026-04-02
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Validated: 30KB IIFE bundle passes YOLO inline constraint. layout() at 0.0002ms.
 | Field | Value |
 |---|---|
 | Experiment ID | `fs-2026-04-02-pretext-text-measurement` |
-| Channel | @Fireship |
+| Channel | fs |
 | Video | [He just crawled through hell to fix the browser...](https://www.youtube.com/watch?v=vd14EElCRvs) |
 | Published | 2026-04-02 |
 | Ingested upstream | 2026-04-03 |

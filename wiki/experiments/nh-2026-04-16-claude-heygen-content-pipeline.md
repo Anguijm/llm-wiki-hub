@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude + HeyGen Just Changed Content Creation Forever](https://www.youtube.com/watch?v=EbJu9T30nfI)** · NateHerk · 2026-04-16
+Source: **[Claude + HeyGen Just Changed Content Creation Forever](https://www.youtube.com/watch?v=EbJu9T30nfI)** · nh · 2026-04-16
 
 **Status:** `deferred` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Requires HeyGen API key + video generation trust model we have not established. 
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-16-claude-heygen-content-pipeline` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [Claude + HeyGen Just Changed Content Creation Forever](https://www.youtube.com/watch?v=EbJu9T30nfI) |
 | Published | 2026-04-16 |
 | Ingested upstream | 2026-04-16 |

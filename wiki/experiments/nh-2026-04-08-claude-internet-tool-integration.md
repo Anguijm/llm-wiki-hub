@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude's New AI Just Changed the Internet Forever](https://www.youtube.com/watch?v=DG1wRgEpdO4)** · NateHerk · 2026-04-08
+Source: **[Claude's New AI Just Changed the Internet Forever](https://www.youtube.com/watch?v=DG1wRgEpdO4)** · nh · 2026-04-08
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Discarded 2026-04-09: redundant with existing capabilities. Claude Code already 
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-08-claude-internet-tool-integration` |
-| Channel | NateHerk |
+| Channel | nh |
 | Video | [Claude's New AI Just Changed the Internet Forever](https://www.youtube.com/watch?v=DG1wRgEpdO4) |
 | Published | 2026-04-08 |
 | Ingested upstream | 2026-04-08 |

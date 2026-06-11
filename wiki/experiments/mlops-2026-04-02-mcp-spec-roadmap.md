@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[MCP Dev Summit [Day 1] ft. Anthropic, Hugging Face, Open AI & Microsoft](https://www.youtube.com/watch?v=RgPEFizsmNg)** · @MLOps · 2026-04-02
+Source: **[MCP Dev Summit [Day 1] ft. Anthropic, Hugging Face, Open AI & Microsoft](https://www.youtube.com/watch?v=RgPEFizsmNg)** · mlops · 2026-04-02
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -41,7 +41,7 @@ Summit also covered: Hugging Face MCP integrations, OpenAI and Microsoft MCP ado
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-02-mcp-spec-roadmap` |
-| Channel | @MLOps |
+| Channel | mlops |
 | Video | [MCP Dev Summit [Day 1] ft. Anthropic, Hugging Face, Open AI & Microsoft](https://www.youtube.com/watch?v=RgPEFizsmNg) |
 | Published | 2026-04-02 |
 | Ingested upstream | 2026-04-02 |

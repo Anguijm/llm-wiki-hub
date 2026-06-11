@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Fixing GPU Starvation in Large-Scale Distributed Training](https://www.youtube.com/watch?v=1WFffCGhm7U)** · MLOps · 2026-04-10
+Source: **[Fixing GPU Starvation in Large-Scale Distributed Training](https://www.youtube.com/watch?v=1WFffCGhm7U)** · mlops · 2026-04-10
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ Discarded 2026-04-12: YOLO loop does not do distributed GPU training. No infrast
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-10-gpu-starvation-distributed-training` |
-| Channel | MLOps |
+| Channel | mlops |
 | Video | [Fixing GPU Starvation in Large-Scale Distributed Training](https://www.youtube.com/watch?v=1WFffCGhm7U) |
 | Published | 2026-04-10 |
 | Ingested upstream | 2026-04-10 |

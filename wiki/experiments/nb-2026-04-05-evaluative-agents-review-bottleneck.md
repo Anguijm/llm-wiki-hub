@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Your Agent Produces at 100x. Your Org Reviews at 3x.](https://www.youtube.com/watch?v=kVPVmz0qJvY)** · @NateBJones · 2026-04-05
+Source: **[Your Agent Produces at 100x. Your Org Reviews at 3x.](https://www.youtube.com/watch?v=kVPVmz0qJvY)** · nb · 2026-04-05
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Added PRE-FILTER gate to cron: test_project.py + eval_bugs.py + security_scan.py
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-05-evaluative-agents-review-bottleneck` |
-| Channel | @NateBJones |
+| Channel | nb |
 | Video | [Your Agent Produces at 100x. Your Org Reviews at 3x.](https://www.youtube.com/watch?v=kVPVmz0qJvY) |
 | Published | 2026-04-05 |
 | Ingested upstream | 2026-04-06 |

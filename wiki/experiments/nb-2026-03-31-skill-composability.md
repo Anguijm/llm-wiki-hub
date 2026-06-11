@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](https://www.youtube.com/watch?v=0cVuMHaYEHE)** · @NateBJones · 2026-03-31
+Source: **[Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](https://www.youtube.com/watch?v=0cVuMHaYEHE)** · nb · 2026-03-31
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -53,7 +53,7 @@ Each skill defines explicit Input (what files to read) and Output (what to produ
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-03-31-skill-composability` |
-| Channel | @NateBJones |
+| Channel | nb |
 | Video | [Anthropic, OpenAI, and Microsoft Just Agreed on One File Format. It Changes Everything.](https://www.youtube.com/watch?v=0cVuMHaYEHE) |
 | Published | 2026-03-31 |
 | Ingested upstream | 2026-03-31 |

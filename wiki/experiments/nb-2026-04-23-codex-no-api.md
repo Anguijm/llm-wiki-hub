@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Your Apps Don't Need an API Anymore. Codex Just Proved It.](https://www.youtube.com/watch?v=2d9ZmA-4QzU)** · @NateBJones · 2026-04-23
+Source: **[Your Apps Don't Need an API Anymore. Codex Just Proved It.](https://www.youtube.com/watch?v=2d9ZmA-4QzU)** · nb · 2026-04-23
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Directly applicable to the YOLO loop's scaffolding layer — could replace or si
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-23-codex-no-api` |
-| Channel | @NateBJones |
+| Channel | nb |
 | Video | [Your Apps Don't Need an API Anymore. Codex Just Proved It.](https://www.youtube.com/watch?v=2d9ZmA-4QzU) |
 | Published | 2026-04-23 |
 | Ingested upstream | 2026-04-23 |

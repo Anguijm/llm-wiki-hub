@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[The Real Problem With AI Agents Nobody's Talking About](https://www.youtube.com/watch?v=2PWJu6uAaoU)** · NateBJones · 2026-04-16
+Source: **[The Real Problem With AI Agents Nobody's Talking About](https://www.youtube.com/watch?v=2PWJu6uAaoU)** · nb · 2026-04-16
 
 **Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ See tick_queue_approved entry 'infra-failure-mode-audit' in session_state.json.
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-04-16-agent-failure-mode-audit` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [The Real Problem With AI Agents Nobody's Talking About](https://www.youtube.com/watch?v=2PWJu6uAaoU) |
 | Published | 2026-04-16 |
 | Ingested upstream | 2026-04-16 |

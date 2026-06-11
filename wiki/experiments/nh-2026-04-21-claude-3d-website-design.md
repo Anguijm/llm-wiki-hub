@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Claude Design Builds Beautiful 3D Websites Instantly (full course)](https://www.youtube.com/watch?v=TcFeSjwTo7g)** · Nate Herk · 2026-04-21
+Source: **[Claude Design Builds Beautiful 3D Websites Instantly (full course)](https://www.youtube.com/watch?v=TcFeSjwTo7g)** · nh · 2026-04-21
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
@@ -38,7 +38,7 @@ Per feedback_utility_focus: UTILITY is king — no visual toys, build things peo
 | Field | Value |
 |---|---|
 | Experiment ID | `nh-2026-04-21-claude-3d-website-design` |
-| Channel | Nate Herk |
+| Channel | nh |
 | Video | [Claude Design Builds Beautiful 3D Websites Instantly (full course)](https://www.youtube.com/watch?v=TcFeSjwTo7g) |
 | Published | 2026-04-21 |
 | Ingested upstream | 2026-04-21 |

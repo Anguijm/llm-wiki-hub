@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[It's 2026, and We're Still Talking Evals](https://www.youtube.com/watch?v=9EjWR3QpJYk)** · MLOps · 2026-04-22
+Source: **[It's 2026, and We're Still Talking Evals](https://www.youtube.com/watch?v=9EjWR3QpJYk)** · mlops · 2026-04-22
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ The YOLO loop currently has no formalized eval step; adding even a thin harness 
 | Field | Value |
 |---|---|
 | Experiment ID | `mlops-2026-04-22-evals-still-matter-2026` |
-| Channel | MLOps |
+| Channel | mlops |
 | Video | [It's 2026, and We're Still Talking Evals](https://www.youtube.com/watch?v=9EjWR3QpJYk) |
 | Published | 2026-04-22 |
 | Ingested upstream | 2026-04-22 |

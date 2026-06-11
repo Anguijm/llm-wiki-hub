@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](https://www.youtube.com/watch?v=FDkvRl1RlT0)** · NateBJones · 2026-05-02
+Source: **[Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](https://www.youtube.com/watch?v=FDkvRl1RlT0)** · nb · 2026-05-02
 
 **Status:** `skipped`
 
@@ -25,7 +25,7 @@ Video is speculative M&A analysis. No technical or workflow experiment can be de
 | Field | Value |
 |---|---|
 | Experiment ID | `nb-2026-05-02-anthropic-atlassian-acquisition` |
-| Channel | NateBJones |
+| Channel | nb |
 | Video | [Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense.](https://www.youtube.com/watch?v=FDkvRl1RlT0) |
 | Published | 2026-05-02 |
 | Ingested upstream | 2026-05-02 |

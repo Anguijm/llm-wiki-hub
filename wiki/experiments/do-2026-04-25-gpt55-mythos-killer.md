@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[OpenAI just shipped the Mythos killer (GPT 5.5)](https://www.youtube.com/watch?v=T_xyhjfFCdY)** · DavidOndrej · 2026-04-25
+Source: **[OpenAI just shipped the Mythos killer (GPT 5.5)](https://www.youtube.com/watch?v=T_xyhjfFCdY)** · do · 2026-04-25
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Directly affects model selection for the core inference step of the loop. Worth 
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-04-25-gpt55-mythos-killer` |
-| Channel | DavidOndrej |
+| Channel | do |
 | Video | [OpenAI just shipped the Mythos killer (GPT 5.5)](https://www.youtube.com/watch?v=T_xyhjfFCdY) |
 | Published | 2026-04-25 |
 | Ingested upstream | 2026-04-25 |

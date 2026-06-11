@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Pi Agent, the self-modifying agent behind OpenClaw](https://www.youtube.com/watch?v=sqtX2OmgOF0)** · DavidOndrej · 2026-05-03
+Source: **[Pi Agent, the self-modifying agent behind OpenClaw](https://www.youtube.com/watch?v=sqtX2OmgOF0)** · do · 2026-05-03
 
 **Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
@@ -38,7 +38,7 @@ A self-modifying agent could allow the YOLO loop itself to evolve its own prompt
 | Field | Value |
 |---|---|
 | Experiment ID | `do-2026-05-03-pi-agent-self-modifying` |
-| Channel | DavidOndrej |
+| Channel | do |
 | Video | [Pi Agent, the self-modifying agent behind OpenClaw](https://www.youtube.com/watch?v=sqtX2OmgOF0) |
 | Published | 2026-05-03 |
 | Ingested upstream | 2026-05-03 |

@@ -2,7 +2,7 @@
 
 > Back to [[experiments-index]]
 
-Source: **[Playground in Prod: Optimising Agents in Production Environments — Samuel Colvin, Pydantic](https://www.youtube.com/watch?v=A48uhxfxbsM)** · aiDotEngineer · 2026-05-09
+Source: **[Playground in Prod: Optimising Agents in Production Environments — Samuel Colvin, Pydantic](https://www.youtube.com/watch?v=A48uhxfxbsM)** · aie · 2026-05-09
 
 **Status:** `done` · **Verdict:** `adopt` · **Effort:** `medium`
 
@@ -38,7 +38,7 @@ Scaffolded in experiments/pydantic-agents-production-optimisation/ (PR #10): ver
 | Field | Value |
 |---|---|
 | Experiment ID | `aie-2026-05-09-pydantic-agents-production-optimisation` |
-| Channel | aiDotEngineer |
+| Channel | aie |
 | Video | [Playground in Prod: Optimising Agents in Production Environments — Samuel Colvin, Pydantic](https://www.youtube.com/watch?v=A48uhxfxbsM) |
 | Published | 2026-05-09 |
 | Ingested upstream | 2026-05-09 |
