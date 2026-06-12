@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**235 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**241 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 64 |
+| `backlog` | 70 |
 | `deferred` | 56 |
 | `done` | 48 |
 | `discarded` | 36 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 134 |
+| `(none)` | 140 |
 | `adopt` | 55 |
 | `discard` | 46 |
 
@@ -32,11 +32,11 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @nb | 59 |
-| @nh | 52 |
+| @nb | 61 |
+| @nh | 54 |
 | @mlops | 38 |
 | @aie | 30 |
-| @do | 23 |
+| @do | 25 |
 | @mk | 14 |
 | @st | 7 |
 | @up | 5 |
@@ -52,6 +52,12 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-06-12 | [[experiments/nh-2026-06-12-head-of-ai-non-technical-path|Validate a Non-Technical AI Adoption Lead Role With Hands-On Claude Code Builds]] | @nh | `-` |
+| 2026-06-12 | [[experiments/nh-2026-06-12-claude-fable-one-prompt-video|Drive a Multi-Tool Media Pipeline From a Single /goal Prompt Using Claude Code]] | @nh | `-` |
+| 2026-06-12 | [[experiments/nb-2026-06-12-codex-permission-boundary-safety|Enforce Least-Privilege Boundaries on Codex Agent Sessions]] | @nb | `-` |
+| 2026-06-12 | [[experiments/nb-2026-06-12-codex-chief-of-staff-loop|Structure Codex Tasks With Goal-Source-Standard-Permission-Proof Loops]] | @nb | `-` |
+| 2026-06-12 | [[experiments/do-2026-06-12-pi-agent-skills-reuse|Build Pi Agent Skills as Reusable Prompt Modules for Repeated Workflows]] | @do | `-` |
+| 2026-06-12 | [[experiments/do-2026-06-12-pi-agent-minimal-harness|Swap Opinionated Agent Framework for Pi Agent's Minimal Harness]] | @do | `-` |
 | 2026-06-11 | [[experiments/up-2026-06-11-salesforce-agentic-soc-ai-constitution|Write an AI constitution document to codify agent behavior rules, primitives, and trust-earning criteria]] | @up | `-` |
 | 2026-06-11 | [[experiments/st-2026-06-11-reusable-skills-business-automation|Build reusable Claude skill files for recurring business workflows]] | @st | `-` |
 | 2026-06-11 | [[experiments/st-2026-06-11-four-step-skill-building-framework|Use a four-step calendar-audit-to-skill pipeline to systematically delegate recurring tasks]] | @st | `-` |

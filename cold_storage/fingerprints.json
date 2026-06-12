@@ -304,6 +304,16 @@
     "slug": "do-2026-06-11-minimax-m3-hermes-agent-cost-reduction",
     "synced_at": "2026-06-11T23:21:26.906682+00:00"
   },
+  "phase4:do-2026-06-12-pi-agent-minimal-harness": {
+    "hash": "16f7caf73a79f7a57b3382841e794c2ef6c6d9513dd2420125b1e872e303f360",
+    "slug": "do-2026-06-12-pi-agent-minimal-harness",
+    "synced_at": "2026-06-12T23:16:31.931210+00:00"
+  },
+  "phase4:do-2026-06-12-pi-agent-skills-reuse": {
+    "hash": "5da97af73d4aae5329ed0e2c385dac3aa89687b87ced3af714c5b99ca83c0e81",
+    "slug": "do-2026-06-12-pi-agent-skills-reuse",
+    "synced_at": "2026-06-12T23:16:31.931550+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -879,6 +889,16 @@
     "slug": "nb-2026-06-11-token-burn-dashboard",
     "synced_at": "2026-06-11T23:21:26.903573+00:00"
   },
+  "phase4:nb-2026-06-12-codex-chief-of-staff-loop": {
+    "hash": "934e06be225295f629e3e48e176a056225c1178f3fabc44d1eea760e7657bd6e",
+    "slug": "nb-2026-06-12-codex-chief-of-staff-loop",
+    "synced_at": "2026-06-12T23:16:31.930510+00:00"
+  },
+  "phase4:nb-2026-06-12-codex-permission-boundary-safety": {
+    "hash": "b5d0a2c32de7e1b5c89e4d7f1d9d875bc654f46989433f9112de4275e14f2a98",
+    "slug": "nb-2026-06-12-codex-permission-boundary-safety",
+    "synced_at": "2026-06-12T23:16:31.930848+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -1148,6 +1168,16 @@
     "hash": "7c1ce776418e40c4b404236ac09559d39198f0bd48abb085ebdf1b9073d1b22a",
     "slug": "nh-2026-06-11-subagent-persona-parallel-review",
     "synced_at": "2026-06-11T23:21:26.908921+00:00"
+  },
+  "phase4:nh-2026-06-12-claude-fable-one-prompt-video": {
+    "hash": "0976d49cb112463b65d688f4819dbcf537da13c951ccaa383efe85465c506d74",
+    "slug": "nh-2026-06-12-claude-fable-one-prompt-video",
+    "synced_at": "2026-06-12T23:16:31.931861+00:00"
+  },
+  "phase4:nh-2026-06-12-head-of-ai-non-technical-path": {
+    "hash": "d74558ba56760660d0863d63113eefc2236087e14e5db04f292e59c24b6985c0",
+    "slug": "nh-2026-06-12-head-of-ai-non-technical-path",
+    "synced_at": "2026-06-12T23:16:31.932195+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
