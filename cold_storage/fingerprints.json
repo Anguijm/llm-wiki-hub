@@ -314,6 +314,11 @@
     "slug": "do-2026-06-12-pi-agent-skills-reuse",
     "synced_at": "2026-06-12T23:16:31.931550+00:00"
   },
+  "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
+    "hash": "cbe52205d64a677464aab67d2ff748b3e0756e42d56e11b62a11cd19bca53999",
+    "slug": "eh-2026-06-13-interactive-geometry-watercolor-visualizer",
+    "synced_at": "2026-06-13T23:03:31.487661+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
     "slug": "fs-2026-04-02-junie-cli-multi-model",

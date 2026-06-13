@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**241 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**242 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 70 |
+| `backlog` | 71 |
 | `deferred` | 56 |
 | `done` | 48 |
 | `discarded` | 36 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 140 |
+| `(none)` | 141 |
 | `adopt` | 55 |
 | `discard` | 46 |
 
@@ -43,6 +43,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | @aij | 4 |
 | @fs | 2 |
 | @tmp | 1 |
+| @eh | 1 |
 
 ---
 
@@ -52,6 +53,7 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-06-13 | [[experiments/eh-2026-06-13-interactive-geometry-watercolor-visualizer|Build an AI-generated interactive geometry visualizer with watercolor-style rendering]] | @eh | `-` |
 | 2026-06-12 | [[experiments/nh-2026-06-12-head-of-ai-non-technical-path|Validate a Non-Technical AI Adoption Lead Role With Hands-On Claude Code Builds]] | @nh | `-` |
 | 2026-06-12 | [[experiments/nh-2026-06-12-claude-fable-one-prompt-video|Drive a Multi-Tool Media Pipeline From a Single /goal Prompt Using Claude Code]] | @nh | `-` |
 | 2026-06-12 | [[experiments/nb-2026-06-12-codex-permission-boundary-safety|Enforce Least-Privilege Boundaries on Codex Agent Sessions]] | @nb | `-` |
