@@ -399,6 +399,16 @@
     "slug": "mk-2026-06-11-slash-goal-agentic-os-maintenance",
     "synced_at": "2026-06-11T23:21:26.914972+00:00"
   },
+  "phase4:mk-2026-06-14-behavioral-diff-cross-model": {
+    "hash": "9ce75c3e23d5c707465320f691f696ea83543fe257585a6cd46a8520e31af703",
+    "slug": "mk-2026-06-14-behavioral-diff-cross-model",
+    "synced_at": "2026-06-14T23:08:42.223452+00:00"
+  },
+  "phase4:mk-2026-06-14-mine-jsonl-fable-playbook": {
+    "hash": "0d57b792502e7d931e5634027da2ce86d38a4bc30433884a23623869825a9ac7",
+    "slug": "mk-2026-06-14-mine-jsonl-fable-playbook",
+    "synced_at": "2026-06-14T23:08:42.223125+00:00"
+  },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
     "slug": "mlops-2026-03-17-durable-execution-agents",
@@ -903,6 +913,16 @@
     "hash": "b5d0a2c32de7e1b5c89e4d7f1d9d875bc654f46989433f9112de4275e14f2a98",
     "slug": "nb-2026-06-12-codex-permission-boundary-safety",
     "synced_at": "2026-06-12T23:16:31.930848+00:00"
+  },
+  "phase4:nb-2026-06-14-harness-ownership-audit": {
+    "hash": "a451f585f023945976aa3f9bf5da1021fd4151743095146fc58d762e1753aaca",
+    "slug": "nb-2026-06-14-harness-ownership-audit",
+    "synced_at": "2026-06-14T23:08:42.223742+00:00"
+  },
+  "phase4:nb-2026-06-14-model-dependency-resilience": {
+    "hash": "7503f2cbb1e55166d4500a95a6f8b5af6ae8cb2f67a04059437a38df9ba1260c",
+    "slug": "nb-2026-06-14-model-dependency-resilience",
+    "synced_at": "2026-06-14T23:08:42.224008+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",

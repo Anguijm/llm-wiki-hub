@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**242 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**246 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 71 |
+| `backlog` | 75 |
 | `deferred` | 56 |
 | `done` | 48 |
 | `discarded` | 36 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 141 |
+| `(none)` | 145 |
 | `adopt` | 55 |
 | `discard` | 46 |
 
@@ -32,12 +32,12 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @nb | 61 |
+| @nb | 63 |
 | @nh | 54 |
 | @mlops | 38 |
 | @aie | 30 |
 | @do | 25 |
-| @mk | 14 |
+| @mk | 16 |
 | @st | 7 |
 | @up | 5 |
 | @aij | 4 |
@@ -53,6 +53,10 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-06-14 | [[experiments/nb-2026-06-14-model-dependency-resilience|Build and warm-test a fallback model routing layer for critical workflows]] | @nb | `-` |
+| 2026-06-14 | [[experiments/nb-2026-06-14-harness-ownership-audit|Audit your AI workflows to identify harness ownership vs vendor dependency]] | @nb | `-` |
+| 2026-06-14 | [[experiments/mk-2026-06-14-mine-jsonl-fable-playbook|Mine Claude Code JSONL sessions to generate a model behavior playbook]] | @mk | `-` |
+| 2026-06-14 | [[experiments/mk-2026-06-14-behavioral-diff-cross-model|Automate cross-model behavioral diff to quantify agent capability gaps]] | @mk | `-` |
 | 2026-06-13 | [[experiments/eh-2026-06-13-interactive-geometry-watercolor-visualizer|Build an AI-generated interactive geometry visualizer with watercolor-style rendering]] | @eh | `-` |
 | 2026-06-12 | [[experiments/nh-2026-06-12-head-of-ai-non-technical-path|Validate a Non-Technical AI Adoption Lead Role With Hands-On Claude Code Builds]] | @nh | `-` |
 | 2026-06-12 | [[experiments/nh-2026-06-12-claude-fable-one-prompt-video|Drive a Multi-Tool Media Pipeline From a Single /goal Prompt Using Claude Code]] | @nh | `-` |
