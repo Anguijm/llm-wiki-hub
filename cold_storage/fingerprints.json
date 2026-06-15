@@ -159,6 +159,11 @@
     "slug": "aie-2026-06-11-webmcp-structured-site-tools",
     "synced_at": "2026-06-11T23:21:26.920817+00:00"
   },
+  "phase4:aie-2026-06-15-double-iframe-csp-mcp-apps": {
+    "hash": "095aa4cca7903161b2cd9b94d056faa07e99e2c29dfe91702ddd744396c6592a",
+    "slug": "aie-2026-06-15-double-iframe-csp-mcp-apps",
+    "synced_at": "2026-06-15T23:44:53.283579+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -313,6 +318,16 @@
     "hash": "5da97af73d4aae5329ed0e2c385dac3aa89687b87ced3af714c5b99ca83c0e81",
     "slug": "do-2026-06-12-pi-agent-skills-reuse",
     "synced_at": "2026-06-12T23:16:31.931550+00:00"
+  },
+  "phase4:do-2026-06-15-fable-ban-local-model-fallback": {
+    "hash": "f22df4e98ff8425722e18a561e7a18f48d4ecd395b471e0dca109279771e1900",
+    "slug": "do-2026-06-15-fable-ban-local-model-fallback",
+    "synced_at": "2026-06-15T23:44:53.282379+00:00"
+  },
+  "phase4:do-2026-06-15-hermes-apify-mcp-scraping": {
+    "hash": "1d5bd03c7f34282a56ea994567abb2864e1962d6902f2f6ea71ec05d7165c6e3",
+    "slug": "do-2026-06-15-hermes-apify-mcp-scraping",
+    "synced_at": "2026-06-15T23:44:53.282043+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "cbe52205d64a677464aab67d2ff748b3e0756e42d56e11b62a11cd19bca53999",
@@ -603,6 +618,16 @@
     "hash": "49f881be235bdd0ed27e64a174c45bb1d56744db55ba242f443381e2d1887cd9",
     "slug": "mlops-2026-06-11-rocket-ride-gpu-aggregation",
     "synced_at": "2026-06-11T23:21:26.904183+00:00"
+  },
+  "phase4:mlops-2026-06-15-context-engineering-coding-agents": {
+    "hash": "5e8009151ced2ec1917b0804512932c17a384cb95cc22b4d18b5e48d9aaa32af",
+    "slug": "mlops-2026-06-15-context-engineering-coding-agents",
+    "synced_at": "2026-06-15T23:44:53.283010+00:00"
+  },
+  "phase4:mlops-2026-06-15-multiplayer-ai-flocking": {
+    "hash": "a7a4454c212b2e5672903a25ba38f3ea099105fce9640907b5c7e39a52d4c55d",
+    "slug": "mlops-2026-06-15-multiplayer-ai-flocking",
+    "synced_at": "2026-06-15T23:44:53.283298+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",
@@ -1203,6 +1228,11 @@
     "hash": "d74558ba56760660d0863d63113eefc2236087e14e5db04f292e59c24b6985c0",
     "slug": "nh-2026-06-12-head-of-ai-non-technical-path",
     "synced_at": "2026-06-12T23:16:31.932195+00:00"
+  },
+  "phase4:nh-2026-06-15-ai-person-workflow-automation": {
+    "hash": "5c20063bb84819e1313ebc07aacaa1b35e30e73a7429ec075cc6eb24d8d65cc4",
+    "slug": "nh-2026-06-15-ai-person-workflow-automation",
+    "synced_at": "2026-06-15T23:44:53.282680+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

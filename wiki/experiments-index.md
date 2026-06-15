@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**246 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**252 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 75 |
+| `backlog` | 81 |
 | `deferred` | 56 |
 | `done` | 48 |
 | `discarded` | 36 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 145 |
+| `(none)` | 151 |
 | `adopt` | 55 |
 | `discard` | 46 |
 
@@ -33,10 +33,10 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Channel | Experiments |
 |---|---|
 | @nb | 63 |
-| @nh | 54 |
-| @mlops | 38 |
-| @aie | 30 |
-| @do | 25 |
+| @nh | 55 |
+| @mlops | 40 |
+| @aie | 31 |
+| @do | 27 |
 | @mk | 16 |
 | @st | 7 |
 | @up | 5 |
@@ -53,6 +53,12 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-06-15 | [[experiments/nh-2026-06-15-ai-person-workflow-automation|Automate one recurring weekly workflow end-to-end with Claude to establish measurable ROI baseline]] | @nh | `-` |
+| 2026-06-15 | [[experiments/mlops-2026-06-15-multiplayer-ai-flocking|Design multi-agent workflows using flocking algorithm principles (local separation, distant attraction, alignment)]] | @mlops | `-` |
+| 2026-06-15 | [[experiments/mlops-2026-06-15-context-engineering-coding-agents|Run a timed coding agent challenge on a real domain dataset to benchmark context engineering strategies]] | @mlops | `-` |
+| 2026-06-15 | [[experiments/do-2026-06-15-hermes-apify-mcp-scraping|Connect Hermes Agent to Apify MCP for unrestricted web scraping]] | @do | `-` |
+| 2026-06-15 | [[experiments/do-2026-06-15-fable-ban-local-model-fallback|Build a model-fallback routing layer to hedge against frontier model access bans]] | @do | `-` |
+| 2026-06-15 | [[experiments/aie-2026-06-15-double-iframe-csp-mcp-apps|Integrate a CSP inspector into MCP app development workflow to catch missing domain declarations before store submission]] | @aie | `-` |
 | 2026-06-14 | [[experiments/nb-2026-06-14-model-dependency-resilience|Build and warm-test a fallback model routing layer for critical workflows]] | @nb | `-` |
 | 2026-06-14 | [[experiments/nb-2026-06-14-harness-ownership-audit|Audit your AI workflows to identify harness ownership vs vendor dependency]] | @nb | `-` |
 | 2026-06-14 | [[experiments/mk-2026-06-14-mine-jsonl-fable-playbook|Mine Claude Code JSONL sessions to generate a model behavior playbook]] | @mk | `-` |
