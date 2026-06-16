@@ -164,6 +164,11 @@
     "slug": "aie-2026-06-15-double-iframe-csp-mcp-apps",
     "synced_at": "2026-06-15T23:44:53.283579+00:00"
   },
+  "phase4:aie-2026-06-16-diffusion-speedup-stack": {
+    "hash": "16f539124bfe53a0a06f294dd113b3f878e664e35fa0d87013e36e874b191404",
+    "slug": "aie-2026-06-16-diffusion-speedup-stack",
+    "synced_at": "2026-06-16T23:23:20.644356+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -333,6 +338,16 @@
     "hash": "cbe52205d64a677464aab67d2ff748b3e0756e42d56e11b62a11cd19bca53999",
     "slug": "eh-2026-06-13-interactive-geometry-watercolor-visualizer",
     "synced_at": "2026-06-13T23:03:31.487661+00:00"
+  },
+  "phase4:eh-2026-06-16-threejs-living-symmetry": {
+    "hash": "cb3c91de48fa9e970e41bbb2c6a164f6ef6df8266dc91efc91da36e8037a5226",
+    "slug": "eh-2026-06-16-threejs-living-symmetry",
+    "synced_at": "2026-06-16T23:23:20.644117+00:00"
+  },
+  "phase4:eh-2026-06-16-webgl-morphing-sculpture": {
+    "hash": "131917e42afce16e45325180a6f2448d6c29de3998970171b4a23e01f5437571",
+    "slug": "eh-2026-06-16-webgl-morphing-sculpture",
+    "synced_at": "2026-06-16T23:23:20.643863+00:00"
   },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
