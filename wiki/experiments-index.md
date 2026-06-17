@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**255 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**259 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 84 |
+| `backlog` | 88 |
 | `deferred` | 56 |
 | `done` | 48 |
 | `discarded` | 36 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 154 |
+| `(none)` | 158 |
 | `adopt` | 55 |
 | `discard` | 46 |
 
@@ -32,10 +32,10 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @nb | 63 |
-| @nh | 55 |
+| @nb | 65 |
+| @nh | 56 |
 | @mlops | 40 |
-| @aie | 32 |
+| @aie | 33 |
 | @do | 27 |
 | @mk | 16 |
 | @st | 7 |
@@ -53,6 +53,10 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-06-17 | [[experiments/nh-2026-06-17-five-level-second-brain|Map each knowledge folder to its minimum viable second-brain level]] | @nh | `-` |
+| 2026-06-17 | [[experiments/nb-2026-06-17-prune-agent-tools-harness|Audit and prune agent tool sets to improve reliability]] | @nb | `-` |
+| 2026-06-17 | [[experiments/nb-2026-06-17-harness-health-checklist|Implement a five-point harness health check for every production agent]] | @nb | `-` |
+| 2026-06-17 | [[experiments/aie-2026-06-17-mcp-real-web-access|Replace default LLM web fetch with a proxy-backed MCP scraping tool and compare hallucination rate]] | @aie | `-` |
 | 2026-06-16 | [[experiments/eh-2026-06-16-webgl-morphing-sculpture|Build a Continuously Morphing WebGL Generative Sculpture]] | @eh | `-` |
 | 2026-06-16 | [[experiments/eh-2026-06-16-threejs-living-symmetry|Implement a Procedural Symmetry Engine in Three.js]] | @eh | `-` |
 | 2026-06-16 | [[experiments/aie-2026-06-16-diffusion-speedup-stack|Stack Quantization + Caching + Distillation to Approach Real-Time Diffusion]] | @aie | `-` |

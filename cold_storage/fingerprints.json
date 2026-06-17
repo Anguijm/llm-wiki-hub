@@ -169,6 +169,11 @@
     "slug": "aie-2026-06-16-diffusion-speedup-stack",
     "synced_at": "2026-06-16T23:23:20.644356+00:00"
   },
+  "phase4:aie-2026-06-17-mcp-real-web-access": {
+    "hash": "59ad391c27be3a466d01e919632eeaaadf642e8725b378653d903545b1aba51f",
+    "slug": "aie-2026-06-17-mcp-real-web-access",
+    "synced_at": "2026-06-17T23:23:52.398057+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -964,6 +969,16 @@
     "slug": "nb-2026-06-14-model-dependency-resilience",
     "synced_at": "2026-06-14T23:08:42.224008+00:00"
   },
+  "phase4:nb-2026-06-17-harness-health-checklist": {
+    "hash": "756403f36b93a441a482ddea828a0398aac1daa1cdc0dd828741796d5c52de63",
+    "slug": "nb-2026-06-17-harness-health-checklist",
+    "synced_at": "2026-06-17T23:23:52.397397+00:00"
+  },
+  "phase4:nb-2026-06-17-prune-agent-tools-harness": {
+    "hash": "f592136d5eb6ffccafd1fc3a2b6ae0676fda2629fb60835bcdd97a0ca7a0a209",
+    "slug": "nb-2026-06-17-prune-agent-tools-harness",
+    "synced_at": "2026-06-17T23:23:52.397060+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -1248,6 +1263,11 @@
     "hash": "5c20063bb84819e1313ebc07aacaa1b35e30e73a7429ec075cc6eb24d8d65cc4",
     "slug": "nh-2026-06-15-ai-person-workflow-automation",
     "synced_at": "2026-06-15T23:44:53.282680+00:00"
+  },
+  "phase4:nh-2026-06-17-five-level-second-brain": {
+    "hash": "068bf0724830028b9fbdf582f81c652e022b4a76642349c0649063a7bc9a2ba7",
+    "slug": "nh-2026-06-17-five-level-second-brain",
+    "synced_at": "2026-06-17T23:23:52.397745+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
