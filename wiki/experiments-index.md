@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**259 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**267 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 88 |
+| `backlog` | 96 |
 | `deferred` | 56 |
 | `done` | 48 |
 | `discarded` | 36 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 158 |
+| `(none)` | 166 |
 | `adopt` | 55 |
 | `discard` | 46 |
 
@@ -33,14 +33,14 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Channel | Experiments |
 |---|---|
 | @nb | 65 |
-| @nh | 56 |
+| @nh | 58 |
 | @mlops | 40 |
-| @aie | 33 |
-| @do | 27 |
+| @aie | 35 |
+| @do | 29 |
 | @mk | 16 |
 | @st | 7 |
+| @aij | 6 |
 | @up | 5 |
-| @aij | 4 |
 | @eh | 3 |
 | @fs | 2 |
 | @tmp | 1 |
@@ -53,6 +53,14 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-06-18 | [[experiments/nh-2026-06-18-context-window-dumb-zone-mitigation|Instrument Claude Code Sessions to Detect and Interrupt the 'Dumb Zone']] | @nh | `-` |
+| 2026-06-18 | [[experiments/nh-2026-06-18-claude-code-director-mindset|Add 'Intent + Why' Preamble to Every Claude Code Task Spec]] | @nh | `-` |
+| 2026-06-18 | [[experiments/do-2026-06-18-strategic-vs-tactical-programming-ai|Redesign Codebase Architecture Explicitly for Agent Readability (AX)]] | @do | `-` |
+| 2026-06-18 | [[experiments/do-2026-06-18-blank-slate-agent-audit|Strip Agent Config to Zero and Rebuild Only What Is Missed]] | @do | `-` |
+| 2026-06-18 | [[experiments/aij-2026-06-18-loop-engineering-harness|Implement a Loop-Engineer Harness with Domain Contracts and Artifact Logging]] | @aij | `-` |
+| 2026-06-18 | [[experiments/aij-2026-06-18-agent-skill-context-management|Use Skills as Context-Efficient Capability Extensions Instead of Inline Prompts]] | @aij | `-` |
+| 2026-06-18 | [[experiments/aie-2026-06-18-structured-prompt-versioning|Enforce Structured Commit Messages for Prompt Changes with Failure-Reason Traceability]] | @aie | `-` |
+| 2026-06-18 | [[experiments/aie-2026-06-18-eval-first-production-ai|Define Business-Metric Evals and Growing Test Case Library Before Writing Agent Code]] | @aie | `-` |
 | 2026-06-17 | [[experiments/nh-2026-06-17-five-level-second-brain|Map each knowledge folder to its minimum viable second-brain level]] | @nh | `-` |
 | 2026-06-17 | [[experiments/nb-2026-06-17-prune-agent-tools-harness|Audit and prune agent tool sets to improve reliability]] | @nb | `-` |
 | 2026-06-17 | [[experiments/nb-2026-06-17-harness-health-checklist|Implement a five-point harness health check for every production agent]] | @nb | `-` |

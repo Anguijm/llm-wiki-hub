@@ -174,6 +174,16 @@
     "slug": "aie-2026-06-17-mcp-real-web-access",
     "synced_at": "2026-06-17T23:23:52.398057+00:00"
   },
+  "phase4:aie-2026-06-18-eval-first-production-ai": {
+    "hash": "810c6e033612d8ce1bb91e3b93eab68a76c141b8bfddefe09a79aee61dc66c16",
+    "slug": "aie-2026-06-18-eval-first-production-ai",
+    "synced_at": "2026-06-18T23:44:57.282308+00:00"
+  },
+  "phase4:aie-2026-06-18-structured-prompt-versioning": {
+    "hash": "6718e1c64c161b8469471bd3bab61f735ee12233a7fa4912126d2ffc813ba834",
+    "slug": "aie-2026-06-18-structured-prompt-versioning",
+    "synced_at": "2026-06-18T23:44:57.282628+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -198,6 +208,16 @@
     "hash": "742407fee0fdcee2759c18b6e95800be19fc86e95d770153fd963b268adca479",
     "slug": "aij-2026-06-11-closed-loop-self-improving-agent",
     "synced_at": "2026-06-11T23:21:26.912447+00:00"
+  },
+  "phase4:aij-2026-06-18-agent-skill-context-management": {
+    "hash": "6078fd8e2f8e67d786c4f6bbea3bf3ff95989a78f59a439460451dd9566a51ff",
+    "slug": "aij-2026-06-18-agent-skill-context-management",
+    "synced_at": "2026-06-18T23:44:57.281996+00:00"
+  },
+  "phase4:aij-2026-06-18-loop-engineering-harness": {
+    "hash": "9b445b847c1e47a4d8aa320fb322cbb96b78e33e9b924b6cde020195a28b644c",
+    "slug": "aij-2026-06-18-loop-engineering-harness",
+    "synced_at": "2026-06-18T23:44:57.281647+00:00"
   },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "0527033834fe3f49b58f4d9e2c508620ed78f8ba268bccaba81263b6ef3c4afa",
@@ -338,6 +358,16 @@
     "hash": "1d5bd03c7f34282a56ea994567abb2864e1962d6902f2f6ea71ec05d7165c6e3",
     "slug": "do-2026-06-15-hermes-apify-mcp-scraping",
     "synced_at": "2026-06-15T23:44:53.282043+00:00"
+  },
+  "phase4:do-2026-06-18-blank-slate-agent-audit": {
+    "hash": "b319d496a36069de400e55781e8635c7afd79d8f7078e2526027c438ae4ebfc6",
+    "slug": "do-2026-06-18-blank-slate-agent-audit",
+    "synced_at": "2026-06-18T23:44:57.280633+00:00"
+  },
+  "phase4:do-2026-06-18-strategic-vs-tactical-programming-ai": {
+    "hash": "970580848ab683bf4d919ba62cea3b0579f729a4e3d0472f609fee6e4877543d",
+    "slug": "do-2026-06-18-strategic-vs-tactical-programming-ai",
+    "synced_at": "2026-06-18T23:44:57.280236+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "cbe52205d64a677464aab67d2ff748b3e0756e42d56e11b62a11cd19bca53999",
@@ -1268,6 +1298,16 @@
     "hash": "068bf0724830028b9fbdf582f81c652e022b4a76642349c0649063a7bc9a2ba7",
     "slug": "nh-2026-06-17-five-level-second-brain",
     "synced_at": "2026-06-17T23:23:52.397745+00:00"
+  },
+  "phase4:nh-2026-06-18-claude-code-director-mindset": {
+    "hash": "6cac40aaa74008524e9899ffedc5378fdcc789c7871ea08324ac55fe582a8ab6",
+    "slug": "nh-2026-06-18-claude-code-director-mindset",
+    "synced_at": "2026-06-18T23:44:57.280994+00:00"
+  },
+  "phase4:nh-2026-06-18-context-window-dumb-zone-mitigation": {
+    "hash": "9e43ead045b5dec09b100e315f1565dbedfca7a5831ad8f9af42162b9ed475e8",
+    "slug": "nh-2026-06-18-context-window-dumb-zone-mitigation",
+    "synced_at": "2026-06-18T23:44:57.281323+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
