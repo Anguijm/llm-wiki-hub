@@ -679,6 +679,16 @@
     "slug": "mlops-2026-06-15-multiplayer-ai-flocking",
     "synced_at": "2026-06-15T23:44:53.283298+00:00"
   },
+  "phase4:mlops-2026-06-19-autonomy-spectrum-enterprise-agents": {
+    "hash": "68de4229375847197a3e47321fa1223070099a7de2510b6d5d81d60e4292d461",
+    "slug": "mlops-2026-06-19-autonomy-spectrum-enterprise-agents",
+    "synced_at": "2026-06-19T22:56:59.389568+00:00"
+  },
+  "phase4:mlops-2026-06-19-voice-agent-cascaded-hybrid-architecture": {
+    "hash": "6735857094d115b02a40fe1644a7787da0f618d5868372ef944d2f8aa1cbb69a",
+    "slug": "mlops-2026-06-19-voice-agent-cascaded-hybrid-architecture",
+    "synced_at": "2026-06-19T22:56:59.389887+00:00"
+  },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",
     "slug": "nb-2026-03-24-agent-readiness-checklist",
@@ -1009,6 +1019,11 @@
     "slug": "nb-2026-06-17-prune-agent-tools-harness",
     "synced_at": "2026-06-17T23:23:52.397060+00:00"
   },
+  "phase4:nb-2026-06-19-open-skills-portable-procedures": {
+    "hash": "699a38f19ed75ac138ceacd03ef48860f8d12066170b948af440068dc55e3dcb",
+    "slug": "nb-2026-06-19-open-skills-portable-procedures",
+    "synced_at": "2026-06-19T22:56:59.389249+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -1308,6 +1323,16 @@
     "hash": "9e43ead045b5dec09b100e315f1565dbedfca7a5831ad8f9af42162b9ed475e8",
     "slug": "nh-2026-06-18-context-window-dumb-zone-mitigation",
     "synced_at": "2026-06-18T23:44:57.281323+00:00"
+  },
+  "phase4:nh-2026-06-19-agent-loop-reason-act-observe": {
+    "hash": "c1d75ec38e9bd1041a65c974d183d32ee3934ee620ffb5301bc27b663dfe7498",
+    "slug": "nh-2026-06-19-agent-loop-reason-act-observe",
+    "synced_at": "2026-06-19T22:56:59.390170+00:00"
+  },
+  "phase4:nh-2026-06-19-glm52-claude-code-model-routing": {
+    "hash": "bb707140db6d4cc18b790b11b0ef1f4ec4df94713108d1dcbfa34cb10d5909ca",
+    "slug": "nh-2026-06-19-glm52-claude-code-model-routing",
+    "synced_at": "2026-06-19T22:56:59.390442+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

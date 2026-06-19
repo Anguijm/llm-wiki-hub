@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**267 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**272 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 96 |
+| `backlog` | 101 |
 | `deferred` | 56 |
 | `done` | 48 |
 | `discarded` | 36 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 166 |
+| `(none)` | 171 |
 | `adopt` | 55 |
 | `discard` | 46 |
 
@@ -32,9 +32,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @nb | 65 |
-| @nh | 58 |
-| @mlops | 40 |
+| @nb | 66 |
+| @nh | 60 |
+| @mlops | 42 |
 | @aie | 35 |
 | @do | 29 |
 | @mk | 16 |
@@ -53,6 +53,11 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-06-19 | [[experiments/nh-2026-06-19-glm52-claude-code-model-routing|Route Claude Code to open-source models via base URL override and per-directory settings.local.json]] | @nh | `-` |
+| 2026-06-19 | [[experiments/nh-2026-06-19-agent-loop-reason-act-observe|Build agent loops with explicit checkable goal, hard stop condition, and separate checker agent]] | @nh | `-` |
+| 2026-06-19 | [[experiments/nb-2026-06-19-open-skills-portable-procedures|Structure agent procedures as scoped markdown skills with verification contracts]] | @nb | `-` |
+| 2026-06-19 | [[experiments/mlops-2026-06-19-voice-agent-cascaded-hybrid-architecture|Use a foreground/background dual-model pattern for voice agents to balance latency and quality]] | @mlops | `-` |
+| 2026-06-19 | [[experiments/mlops-2026-06-19-autonomy-spectrum-enterprise-agents|Gate agent autonomy by reversibility and blast radius using a three-tier classification]] | @mlops | `-` |
 | 2026-06-18 | [[experiments/nh-2026-06-18-context-window-dumb-zone-mitigation|Instrument Claude Code Sessions to Detect and Interrupt the 'Dumb Zone']] | @nh | `-` |
 | 2026-06-18 | [[experiments/nh-2026-06-18-claude-code-director-mindset|Add 'Intent + Why' Preamble to Every Claude Code Task Spec]] | @nh | `-` |
 | 2026-06-18 | [[experiments/do-2026-06-18-strategic-vs-tactical-programming-ai|Redesign Codebase Architecture Explicitly for Agent Readability (AX)]] | @do | `-` |
