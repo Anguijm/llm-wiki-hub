@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**274 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**277 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 103 |
+| `backlog` | 106 |
 | `deferred` | 56 |
 | `done` | 48 |
 | `discarded` | 36 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 173 |
+| `(none)` | 176 |
 | `adopt` | 55 |
 | `discard` | 46 |
 
@@ -32,11 +32,11 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @nb | 68 |
+| @nb | 70 |
 | @nh | 60 |
 | @mlops | 42 |
 | @aie | 35 |
-| @do | 29 |
+| @do | 30 |
 | @mk | 16 |
 | @st | 7 |
 | @aij | 6 |
@@ -53,6 +53,9 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-06-21 | [[experiments/nb-2026-06-21-agent-owner-card|Create an Agent Owner Card for Every Production Agent]] | @nb | `-` |
+| 2026-06-21 | [[experiments/nb-2026-06-21-agent-diet-review-loop|Implement a Scheduled Diet Audit for Agent Context Sources]] | @nb | `-` |
+| 2026-06-21 | [[experiments/do-2026-06-21-obsidian-living-files-agent-context|Store Agent Context as Obsidian Markdown Vault for Living File Access]] | @do | `-` |
 | 2026-06-20 | [[experiments/nb-2026-06-20-voice-clone-consent-policy|Draft and enforce a pre-incident AI likeness and voice policy for team outputs]] | @nb | `-` |
 | 2026-06-20 | [[experiments/nb-2026-06-20-creator-trust-stack-disclosure|Implement a Creator Trust Stack metadata layer for AI-assisted outputs]] | @nb | `-` |
 | 2026-06-19 | [[experiments/nh-2026-06-19-glm52-claude-code-model-routing|Route Claude Code to open-source models via base URL override and per-directory settings.local.json]] | @nh | `-` |

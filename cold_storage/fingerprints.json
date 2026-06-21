@@ -369,6 +369,11 @@
     "slug": "do-2026-06-18-strategic-vs-tactical-programming-ai",
     "synced_at": "2026-06-18T23:44:57.280236+00:00"
   },
+  "phase4:do-2026-06-21-obsidian-living-files-agent-context": {
+    "hash": "8903cd7cfba9d7821ae6700c6977165e4ff5b4eec56118ffcff556c2086ce014",
+    "slug": "do-2026-06-21-obsidian-living-files-agent-context",
+    "synced_at": "2026-06-21T23:11:52.479873+00:00"
+  },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "cbe52205d64a677464aab67d2ff748b3e0756e42d56e11b62a11cd19bca53999",
     "slug": "eh-2026-06-13-interactive-geometry-watercolor-visualizer",
@@ -1033,6 +1038,16 @@
     "hash": "c34a4ca0665c92c18b9631bebb5d7a3292415b20d539f9de4b2e39259f7e9a3b",
     "slug": "nb-2026-06-20-voice-clone-consent-policy",
     "synced_at": "2026-06-20T23:07:54.334431+00:00"
+  },
+  "phase4:nb-2026-06-21-agent-diet-review-loop": {
+    "hash": "4e6f388be4503632ccbb4f1beaed59942ed41d3d40ba25dc7d4b8bca560dbc54",
+    "slug": "nb-2026-06-21-agent-diet-review-loop",
+    "synced_at": "2026-06-21T23:11:52.479540+00:00"
+  },
+  "phase4:nb-2026-06-21-agent-owner-card": {
+    "hash": "83a0da485e319670b2c0656a33f35237ff00a9af17fffb0d3f6d3298aa751e40",
+    "slug": "nb-2026-06-21-agent-owner-card",
+    "synced_at": "2026-06-21T23:11:52.479203+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
