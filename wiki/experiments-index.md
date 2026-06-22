@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**277 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**280 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 106 |
+| `backlog` | 109 |
 | `deferred` | 56 |
 | `done` | 48 |
 | `discarded` | 36 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 176 |
+| `(none)` | 179 |
 | `adopt` | 55 |
 | `discard` | 46 |
 
@@ -33,8 +33,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Channel | Experiments |
 |---|---|
 | @nb | 70 |
-| @nh | 60 |
-| @mlops | 42 |
+| @nh | 61 |
+| @mlops | 44 |
 | @aie | 35 |
 | @do | 30 |
 | @mk | 16 |
@@ -53,6 +53,9 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-06-22 | [[experiments/nh-2026-06-22-internal-ai-consultant-roadmap|Run a 4-step internal AI consultant playbook tied to measurable KPIs]] | @nh | `-` |
+| 2026-06-22 | [[experiments/mlops-2026-06-22-logs-only-observability|Replace metrics/traces with logs-only observability for agent pipelines]] | @mlops | `-` |
+| 2026-06-22 | [[experiments/mlops-2026-06-22-genetic-pareto-agent-trajectories|Apply genetic Pareto sampling across parallel agent trajectories]] | @mlops | `-` |
 | 2026-06-21 | [[experiments/nb-2026-06-21-agent-owner-card|Create an Agent Owner Card for Every Production Agent]] | @nb | `-` |
 | 2026-06-21 | [[experiments/nb-2026-06-21-agent-diet-review-loop|Implement a Scheduled Diet Audit for Agent Context Sources]] | @nb | `-` |
 | 2026-06-21 | [[experiments/do-2026-06-21-obsidian-living-files-agent-context|Store Agent Context as Obsidian Markdown Vault for Living File Access]] | @do | `-` |

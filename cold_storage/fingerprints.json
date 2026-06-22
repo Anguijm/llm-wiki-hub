@@ -694,6 +694,16 @@
     "slug": "mlops-2026-06-19-voice-agent-cascaded-hybrid-architecture",
     "synced_at": "2026-06-19T22:56:59.389887+00:00"
   },
+  "phase4:mlops-2026-06-22-genetic-pareto-agent-trajectories": {
+    "hash": "406b3a0af8246487f6d3c9f6bd1aa20b9eb4c8de2db0379f64b77c87919f1aee",
+    "slug": "mlops-2026-06-22-genetic-pareto-agent-trajectories",
+    "synced_at": "2026-06-22T23:19:17.916816+00:00"
+  },
+  "phase4:mlops-2026-06-22-logs-only-observability": {
+    "hash": "86598fb775438817eaf2717e0e31e2690173bf2f9bb366128941981ac2b1eecf",
+    "slug": "mlops-2026-06-22-logs-only-observability",
+    "synced_at": "2026-06-22T23:19:17.916446+00:00"
+  },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",
     "slug": "nb-2026-03-24-agent-readiness-checklist",
@@ -1358,6 +1368,11 @@
     "hash": "bb707140db6d4cc18b790b11b0ef1f4ec4df94713108d1dcbfa34cb10d5909ca",
     "slug": "nh-2026-06-19-glm52-claude-code-model-routing",
     "synced_at": "2026-06-19T22:56:59.390442+00:00"
+  },
+  "phase4:nh-2026-06-22-internal-ai-consultant-roadmap": {
+    "hash": "f1fdbfe9e090b45948cde62abf1315bd0161a73d57faeb2e4e209a9fd628b254",
+    "slug": "nh-2026-06-22-internal-ai-consultant-roadmap",
+    "synced_at": "2026-06-22T23:19:17.917134+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
