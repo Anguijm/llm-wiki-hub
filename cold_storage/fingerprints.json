@@ -1059,6 +1059,11 @@
     "slug": "nb-2026-06-21-agent-owner-card",
     "synced_at": "2026-06-21T23:11:52.479203+00:00"
   },
+  "phase4:nb-2026-06-23-big-task-delegation": {
+    "hash": "885926e56de1cadabe64fa75ec27ca62459b8fb4fcab7201f071df1884bb9e6a",
+    "slug": "nb-2026-06-23-big-task-delegation",
+    "synced_at": "2026-06-23T23:08:11.950926+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -1373,6 +1378,11 @@
     "hash": "f1fdbfe9e090b45948cde62abf1315bd0161a73d57faeb2e4e209a9fd628b254",
     "slug": "nh-2026-06-22-internal-ai-consultant-roadmap",
     "synced_at": "2026-06-22T23:19:17.917134+00:00"
+  },
+  "phase4:nh-2026-06-23-fugu-multi-model-orchestration": {
+    "hash": "7a79dd7a1b7ede4d1a13575ab837dbba9b168febaaa024f6655ef1515a108bc8",
+    "slug": "nh-2026-06-23-fugu-multi-model-orchestration",
+    "synced_at": "2026-06-23T23:08:11.951189+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
