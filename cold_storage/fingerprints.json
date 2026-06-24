@@ -219,6 +219,16 @@
     "slug": "aij-2026-06-18-loop-engineering-harness",
     "synced_at": "2026-06-18T23:44:57.281647+00:00"
   },
+  "phase4:aij-2026-06-24-crabbox-isolated-sandbox-testing": {
+    "hash": "ad3a8c54d610a7a9aee12e8419f2a22bb914e807a8a2edd03b3ec36d9633a84e",
+    "slug": "aij-2026-06-24-crabbox-isolated-sandbox-testing",
+    "synced_at": "2026-06-24T23:02:51.187057+00:00"
+  },
+  "phase4:aij-2026-06-24-playwright-ci-artifact-evidence-prs": {
+    "hash": "622f86b49c8b72d6a9922908dfb8e8377be2bd0c74a6969cb6cafe7119a3047c",
+    "slug": "aij-2026-06-24-playwright-ci-artifact-evidence-prs",
+    "synced_at": "2026-06-24T23:02:51.187287+00:00"
+  },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "0527033834fe3f49b58f4d9e2c508620ed78f8ba268bccaba81263b6ef3c4afa",
     "slug": "do-2026-03-27-private-local-agent",
@@ -1063,6 +1073,11 @@
     "hash": "885926e56de1cadabe64fa75ec27ca62459b8fb4fcab7201f071df1884bb9e6a",
     "slug": "nb-2026-06-23-big-task-delegation",
     "synced_at": "2026-06-23T23:08:11.950926+00:00"
+  },
+  "phase4:nb-2026-06-24-loop-of-loops-agent-architecture": {
+    "hash": "f514915c0b348f828c5b5a6c31f189a825f41721967717f2a9d640de04c13fdf",
+    "slug": "nb-2026-06-24-loop-of-loops-agent-architecture",
+    "synced_at": "2026-06-24T23:02:51.186801+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
