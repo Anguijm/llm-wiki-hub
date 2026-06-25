@@ -4,7 +4,7 @@
 
 Source: **[Every Level of a Claude Second Brain Explained](https://www.youtube.com/watch?v=DTCyvo6cC54)** · nh · 2026-06-17
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly relevant to structuring the YOLO loop's context layer. We can audit exi
 
 Nate also raises team adoption and change management as the harder problem once personal second brain is working. Slide deck linked in video description.
 
+Backlog triage 2026-06-24 (owner-preference model). Right-size retrieval per knowledge folder — memory/retrieval discipline.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-17 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

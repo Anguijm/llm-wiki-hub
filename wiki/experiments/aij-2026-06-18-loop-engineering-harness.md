@@ -4,7 +4,7 @@
 
 Source: **[After spent 30+ hrs building loops...](https://www.youtube.com/watch?v=W6x-hb44C0c)** · aij · 2026-06-18
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Jason described 'loop engineering' as the practice of designing systems that aut
 
 This is a direct architectural blueprint for extending YOLO loop from single-session to multi-session compound loops — particularly relevant for autonomous PR generation, issue triage, and doc generation that currently require manual invocation.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Domain contracts + typed artifact logging — matches the harness's contracts/logging/compounding loops.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-18 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

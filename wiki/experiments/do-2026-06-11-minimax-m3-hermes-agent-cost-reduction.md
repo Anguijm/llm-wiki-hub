@@ -4,7 +4,7 @@
 
 Source: **[Hermes Agent is crazy… 180,000+ github stars](https://www.youtube.com/watch?v=u6L9aedHqZc)** · do · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker benchmarked Minimax M3 against Opus 4.8 and GPT on SWE-pro, SVG Bench, a
 
 Cost-reduction experiment for our always-on agent infrastructure. If Minimax M3 performs adequately for our workloads, switching Hermes-style background agents from Opus to M3 could reduce monthly inference spend by an order of magnitude.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Cheaper non-Claude model for cost — consistent local/cheap-model NO.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

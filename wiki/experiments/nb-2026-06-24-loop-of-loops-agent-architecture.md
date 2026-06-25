@@ -4,7 +4,7 @@
 
 Source: **[I Stopped Prompting AI One Task At A Time. This Works Better.](https://www.youtube.com/watch?v=A4zMyjkL0Dc)** · nb · 2026-06-24
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Directly maps to the YOLO loop's need for agents that handle recurring dev tasks
 
 Nate teased a detailed build walkthrough in a follow-up video on Friday; that video should be tracked as a companion card once available.
 
+Backlog triage 2026-06-24 (owner-preference model). Named loops sharing context + handoff — loop-engineering / self-improving-loop family already adopted.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

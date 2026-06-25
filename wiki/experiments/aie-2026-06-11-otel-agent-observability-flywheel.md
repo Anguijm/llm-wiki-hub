@@ -4,7 +4,7 @@
 
 Source: **[LLM Observability, Evaluation, Experimentation Platform — Dat Ngo, Arize](https://www.youtube.com/watch?v=JsCCrBF7F1g)** · aie · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Dat Ngo from Arize described their observability-eval-experimentation flywheel. 
 
 Directly maps to our YOLO loop's eval and experimentation phase. Adding OTel auto-instrumentation is low-effort and unlocks the full trace→dataset→experiment pipeline. Phoenix OSS removes any cost barrier for initial setup.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). OTel traces -> eval dataset — observability + eval flywheel; extends build_log/verify.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

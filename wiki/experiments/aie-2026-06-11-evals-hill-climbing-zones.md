@@ -4,7 +4,7 @@
 
 Source: **[Evals Are Broken, Use Them Anyway — Ara Khan, Cline](https://www.youtube.com/watch?v=QuuIywMG4s8)** · aie · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Ara Khan from Cline gave a critique-and-guidance talk on eval methodology. He id
 
 Directly applicable to our eval loop. The three-zone framework gives us a concrete decision process for triaging eval score changes and avoiding both under-reaction (ignoring real bugs) and over-reaction (overfitting prompts to a specific benchmark).
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Eval hill-climbing w/ stop-before-overfit — sound eval methodology; matches golden-eval discipline.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

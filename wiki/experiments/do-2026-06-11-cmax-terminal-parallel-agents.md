@@ -4,7 +4,7 @@
 
 Source: **[This 100% open-source terminal is insane… just watch](https://www.youtube.com/watch?v=8jDXI4_rJOE)** · do · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker demonstrated CMAX, a native macOS Swift terminal built on libGhosty that
 
 Drop-in replacement for our terminal multiplexer. Low effort to evaluate: install CMAX, port our existing multi-agent grid layout, and measure whether jump-to-unread and per-pane zoom reduce friction in monitoring concurrent agent runs.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Specific terminal product for ergonomics — low value vendor tooling.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

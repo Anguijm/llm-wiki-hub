@@ -4,7 +4,7 @@
 
 Source: **[100 Hours Testing Claude Code vs ChatGPT Codex (honest results)](https://www.youtube.com/watch?v=RLjaUES9P8A)** · nh · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Introduces a two-tool routing strategy for the YOLO loop: Claude Code as the thi
 
 Codex included free in all ChatGPT plans. Claude Code requires paid plan. Both support YAML front-matter skill files. Migration: rename CLAUDE.md to agents.md, agent handles the rest. Review is dated mid-May 2026.
 
+Backlog triage 2026-06-24 (owner-preference model). Creative-vs-execution routing — reinforces the adopted Codex/Claude split.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

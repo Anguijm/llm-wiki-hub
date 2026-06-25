@@ -4,7 +4,7 @@
 
 Source: **[Logs Are All You Need: Rethinking Observability with AI Agents](https://www.youtube.com/watch?v=RSs0PDsULJM)** · mlops · 2026-06-22
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ The Sazabi founder argued that the traditional three pillars of observability (m
 
 Our YOLO loop runs agents in production and currently lacks structured observability. Switching to logs-only with an LLM query layer could replace ad-hoc debugging with a chat-driven root cause workflow, directly accelerating the fix cycle after agent failures.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Logs-only, LLM-queryable observability — matches the existing structured build_log approach.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-22 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

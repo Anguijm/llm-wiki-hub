@@ -4,7 +4,7 @@
 
 Source: **[Don't build more AI agents until you watch this](https://www.youtube.com/watch?v=BOXK2XFLA-E)** · nb · 2026-06-17
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Maps to a post-deploy review gate in the YOLO loop. Could be templated as a mark
 
 Nate explicitly notes that agents can break when models get *better*, not just worse—a counterintuitive maintenance failure mode worth testing against our own agents after model upgrades.
 
+Backlog triage 2026-06-24 (owner-preference model). Five-point harness health check — matches verify_build + status + audit habit.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-17 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

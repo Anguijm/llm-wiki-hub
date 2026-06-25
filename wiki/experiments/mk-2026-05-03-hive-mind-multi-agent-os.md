@@ -4,7 +4,7 @@
 
 Source: **[This Claude Code Setup Runs My Entire Business](https://www.youtube.com/watch?v=7aQbN543Mec)** · mk · 2026-05-03
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker built an 'AI operating system' on Claude Code consisting of: (1) a share
 
 Represents the most complete implementation of a persistent agentic dev+ops loop seen in the batch; the standup protocol and shared memory graph are directly applicable to coordinating multiple specialized agents within our own loop and auditing their activity across sessions.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Heavyweight multi-agent business OS — over-engineered; prior discards favor a single 3-phase agent over specialist swarms.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

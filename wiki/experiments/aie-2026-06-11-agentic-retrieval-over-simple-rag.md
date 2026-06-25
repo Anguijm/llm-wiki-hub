@@ -4,7 +4,7 @@
 
 Source: **[RAG is dead, right?? — Kuba Rogut, Turbopuffer](https://www.youtube.com/watch?v=UM6sFg_jdlE)** · aie · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Kuba Rogut from Turbopuffer argued that 'RAG is dead' discourse conflates simple
 
 If our YOLO loop agents currently use single-shot vector search to locate relevant code or docs, upgrading to an iterative retrieval tool set (search→read→reassess) could meaningfully improve task completion rates. The Merkle-tree incremental indexing pattern is also relevant for keeping codebase indexes fresh without full re-embedding on every run.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Iterative search/grep/regex retrieval — matches adopted structured memory retrieval (build_memory FTS).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

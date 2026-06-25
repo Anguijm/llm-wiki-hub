@@ -4,7 +4,7 @@
 
 Source: **[Opus 4.8 Just Dropped. Here's How To Actually Use It.](https://www.youtube.com/watch?v=q5lg3npxjAc)** · nh · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Effort level is a key loop parameter; finding the minimum effective effort for e
 
 Ultra code = x-high + dynamic workflows, most expensive. Opus 4.8 priced same as 4.7. Dynamic workflows are a new separate feature covered in dedicated video. Token dashboard repo available via School community.
 
+Backlog triage 2026-06-24 (owner-preference model). Find cheapest effective effort level — efficiency without leaving Claude; matches Haiku/Sonnet-vs-Opus benchmarking.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

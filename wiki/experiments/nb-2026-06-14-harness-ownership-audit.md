@@ -4,7 +4,7 @@
 
 Source: **[OpenAI Just Filed For Its IPO. The Real Story Isn't The Trillion Dollars.](https://www.youtube.com/watch?v=7RDK84LLL2U)** · nb · 2026-06-14
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Core strategic framing for our dev loop architecture: every YOLO loop component 
 
 Not a technical tutorial but frames a useful pre-mortem checklist: (1) can we swap models without breaking the workflow? (2) do we own the evals? (3) do we own the context? Actionable as an architecture review exercise.
 
+Backlog triage 2026-06-24 (owner-preference model). Harness-ownership mapping — a stated core value; matches dependency shelf-life classification.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-14 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

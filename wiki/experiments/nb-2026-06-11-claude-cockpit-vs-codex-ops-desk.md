@@ -4,7 +4,7 @@
 
 Source: **[Stop Picking Between Claude Code and Codex | Do This Instead](https://www.youtube.com/watch?v=R2-Y1Hjwx2U)** · nb · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker argued that Claude Code feels like a cockpit—close to the model, good 
 
 Directly affects how we assign tasks in our dev loop: fuzzy spec work and architecture reviews go to Claude Code sessions with a maintained context file, while parallelizable subtasks (linting, doc generation, test runs, research) get dispatched as Codex threads.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Claude-vs-Codex task routing — extends the adopted Codex-as-planner + Claude-as-executor pattern.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

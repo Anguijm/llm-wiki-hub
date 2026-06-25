@@ -4,7 +4,7 @@
 
 Source: **[How to Build Effective Claude Code Agents in 2026](https://www.youtube.com/watch?v=RzLV8sfFdMM)** · nh · 2026-06-18
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Cole Medine identified that despite advertised 1M token context windows, Claude 
 
 Our loop runs long agentic sessions; adding a token-count checkpoint that triggers compaction, summary handoff, or session restart before the dumb zone would directly improve output reliability on multi-step tasks.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Detect/interrupt context degradation — compaction/checkpoint discipline, already adopted.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-18 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

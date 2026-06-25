@@ -4,7 +4,7 @@
 
 Source: **[How to Build Effective Claude Code Agents in 2026](https://www.youtube.com/watch?v=RzLV8sfFdMM)** · nh · 2026-06-18
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Cole Medine (guest) described using Claude Code as a 'second brain' and treating
 
 We can immediately add a 'context and rationale' section to our standard task prompt template in the YOLO loop, requiring every agent invocation to include the business or technical reason for the change before any implementation instructions.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Intent+Why preamble per task — already a harness convention; reinforce.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-18 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

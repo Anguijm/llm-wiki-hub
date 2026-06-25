@@ -4,7 +4,7 @@
 
 Source: **[Logs Are All You Need: Rethinking Observability with AI Agents](https://www.youtube.com/watch?v=RSs0PDsULJM)** · mlops · 2026-06-22
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ The speakers briefly discussed applying the concept of genetic Pareto optimizati
 
 The YOLO loop currently runs single agent instances per task. Adding a parallel trajectory sampler with Pareto selection could serve as an automated eval harness that finds better solutions and feeds winning trajectories back as few-shot examples.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). 100 parallel runs + genetic selection — over-scale compute for a solo loop.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-22 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

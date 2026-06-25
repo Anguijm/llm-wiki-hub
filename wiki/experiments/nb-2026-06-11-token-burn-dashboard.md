@@ -4,7 +4,7 @@
 
 Source: **[My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](https://www.youtube.com/watch?v=l8BloTSLK6M)** · nb · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker used Codex to build a token-burn dashboard styled after GitHub contribut
 
 Provides observability into our own dev loop. If we instrument token consumption across Claude Code and Codex sessions we can see which experiment types drive the most agent utilization and correlate that with output quality or velocity.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Closes the cost-management gap flagged WEAK in the PAI audit; also a YOLO-buildable dashboard.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

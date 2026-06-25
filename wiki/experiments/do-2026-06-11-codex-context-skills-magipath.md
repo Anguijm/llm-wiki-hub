@@ -4,7 +4,7 @@
 
 Source: **[Watch this 100x developer use Codex… it's insane](https://www.youtube.com/watch?v=mMuuLocDkog)** · do · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Petro (founder of MagicPath, ex-Anthropic) demonstrated that he has not used Cla
 
 Tests whether our Codex sessions can match Claude Code for frontend work by improving context injection. Experiment: run identical frontend tasks in Codex with and without a design-persona skill and measure output quality.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Inject design.md + skills into Codex — extends the adopted agent-readable design system.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

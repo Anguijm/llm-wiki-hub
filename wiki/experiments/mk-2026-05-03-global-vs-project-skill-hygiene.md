@@ -4,7 +4,7 @@
 
 Source: **[This Claude Code Setup Runs My Entire Business](https://www.youtube.com/watch?v=7aQbN543Mec)** · mk · 2026-05-03
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker described his prerequisite hygiene step before building any advanced age
 
 Low-effort forcing function that prevents skill sprawl and context noise as the YOLO loop's skill library grows; doing this audit now avoids expensive refactoring later when more agents are added.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Skill scope hygiene; cheap, supports the skills-as-recipes architecture.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Self Driving Products: Product Signals to Pull Requests — Joshua Snyder, PostHog](https://www.youtube.com/watch?v=zMiSRliEzv4)** · aie · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Josh Snyder from PostHog described their in-development 'self-driving product' p
 
 The signal-grouping and actionability-gating patterns are directly applicable to our YOLO loop's issue triage step. The lesson about not gating on token cost during experimentation, then optimizing hot paths after patterns emerge, is a concrete process improvement for how we build new loop stages.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Product-telemetry -> auto-PR pipeline — needs product signals the loop doesn't have; high effort.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

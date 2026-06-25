@@ -4,7 +4,7 @@
 
 Source: **[Only 1 in 1,600 People Use Codex. Here's How to Catch Up.](https://www.youtube.com/watch?v=xqGCbEDbny8)** · nb · 2026-06-12
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly maps to our agent task-dispatch layer. The five-part loop structure can
 
 Nate also emphasizes converting repeated corrections into reusable Skills/memories in Codex. Worth pairing this experiment with a skill-extraction pass after every completed loop.
 
+Backlog triage 2026-06-24 (owner-preference model). Goal-Source-Standard-Permission-Proof loop — planning + proof-of-completion discipline.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-12 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

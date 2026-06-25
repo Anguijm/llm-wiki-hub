@@ -4,7 +4,7 @@
 
 Source: **[Forget Claude Code, try Pi Agent instead…](https://www.youtube.com/watch?v=jcUqsNpDDDk)** · do · 2026-06-12
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Skills are the Pi equivalent of our reusable prompt library. Adding a skills/ di
 
 Pairs with the Pi minimal harness experiment. Consider maintaining a shared skills/ directory in the monorepo as a first implementation step.
 
+Backlog triage 2026-06-24 (owner-preference model). Pi Agent-specific skills — vendor tie; skills already native.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-12 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

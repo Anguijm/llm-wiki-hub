@@ -4,7 +4,7 @@
 
 Source: **[The Latency Goldilocks Zone Explained](https://www.youtube.com/watch?v=dH-1INvvELo)** · mlops · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ iFood ILO team described that standard satisfaction metrics were misleading: use
 
 We can apply LLM-as-judge to our own agent interaction logs to evaluate whether agent outputs are actually useful vs. what simple thumbs-up/down feedback would suggest, improving our experiment evaluation quality.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). LLM-as-judge on logs — applicable to judging build/council logs; fits eval discipline.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

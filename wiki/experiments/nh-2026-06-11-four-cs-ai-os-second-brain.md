@@ -4,7 +4,7 @@
 
 Source: **[I Turned Claude Fable Into The Ultimate Second Brain](https://www.youtube.com/watch?v=8QQ_INxAhRs)** · nh · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker described his Herk OS v2 AI operating system built in Claude Code using 
 
 The four-Cs sequence is a concrete build-order for our own agent OS. We can audit our current setup against this framework: do we have static context? live connections? capabilities? automated cadence? Each gap is an experiment.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Context/Connections/Capabilities/Cadence framing aligns with the existing memory+MCP+skills+cron stack.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

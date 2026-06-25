@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**285 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**293 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,32 +12,32 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 114 |
+| `adopted` | 84 |
+| `discarded` | 83 |
 | `deferred` | 56 |
 | `done` | 48 |
-| `discarded` | 36 |
-| `adopted` | 17 |
 | `in_progress` | 10 |
+| `backlog` | 8 |
 | `skipped` | 4 |
 
 ## By verdict
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 184 |
-| `adopt` | 55 |
-| `discard` | 46 |
+| `adopt` | 122 |
+| `discard` | 93 |
+| `(none)` | 78 |
 
 ## By channel
 
 | Channel | Experiments |
 |---|---|
 | @nb | 72 |
-| @nh | 62 |
+| @nh | 64 |
 | @mlops | 44 |
-| @aie | 35 |
+| @aie | 40 |
 | @do | 30 |
-| @mk | 16 |
+| @mk | 17 |
 | @aij | 8 |
 | @st | 7 |
 | @up | 5 |
@@ -53,112 +53,120 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
-| 2026-06-24 | [[experiments/nb-2026-06-24-loop-of-loops-agent-architecture|Implement a Loop-of-Loops Agent Control Pattern]] | @nb | `-` |
-| 2026-06-24 | [[experiments/aij-2026-06-24-playwright-ci-artifact-evidence-prs|Require Agents to Attach Playwright Video Evidence to Every PR]] | @aij | `-` |
-| 2026-06-24 | [[experiments/aij-2026-06-24-crabbox-isolated-sandbox-testing|Use CrabBox to Give Each Parallel Agent Its Own Cloud Dev Sandbox]] | @aij | `-` |
-| 2026-06-23 | [[experiments/nh-2026-06-23-fugu-multi-model-orchestration|Benchmark Single-Model vs. Orchestrated Multi-Model API on Identical Task Suite]] | @nh | `-` |
-| 2026-06-23 | [[experiments/nb-2026-06-23-big-task-delegation|Hand Off a Whole Consulting-Scale Task to a Frontier Model]] | @nb | `-` |
-| 2026-06-22 | [[experiments/nh-2026-06-22-internal-ai-consultant-roadmap|Run a 4-step internal AI consultant playbook tied to measurable KPIs]] | @nh | `-` |
-| 2026-06-22 | [[experiments/mlops-2026-06-22-logs-only-observability|Replace metrics/traces with logs-only observability for agent pipelines]] | @mlops | `-` |
-| 2026-06-22 | [[experiments/mlops-2026-06-22-genetic-pareto-agent-trajectories|Apply genetic Pareto sampling across parallel agent trajectories]] | @mlops | `-` |
-| 2026-06-21 | [[experiments/nb-2026-06-21-agent-owner-card|Create an Agent Owner Card for Every Production Agent]] | @nb | `-` |
-| 2026-06-21 | [[experiments/nb-2026-06-21-agent-diet-review-loop|Implement a Scheduled Diet Audit for Agent Context Sources]] | @nb | `-` |
-| 2026-06-21 | [[experiments/do-2026-06-21-obsidian-living-files-agent-context|Store Agent Context as Obsidian Markdown Vault for Living File Access]] | @do | `-` |
-| 2026-06-20 | [[experiments/nb-2026-06-20-voice-clone-consent-policy|Draft and enforce a pre-incident AI likeness and voice policy for team outputs]] | @nb | `-` |
-| 2026-06-20 | [[experiments/nb-2026-06-20-creator-trust-stack-disclosure|Implement a Creator Trust Stack metadata layer for AI-assisted outputs]] | @nb | `-` |
-| 2026-06-19 | [[experiments/nh-2026-06-19-glm52-claude-code-model-routing|Route Claude Code to open-source models via base URL override and per-directory settings.local.json]] | @nh | `-` |
-| 2026-06-19 | [[experiments/nh-2026-06-19-agent-loop-reason-act-observe|Build agent loops with explicit checkable goal, hard stop condition, and separate checker agent]] | @nh | `-` |
-| 2026-06-19 | [[experiments/nb-2026-06-19-open-skills-portable-procedures|Structure agent procedures as scoped markdown skills with verification contracts]] | @nb | `-` |
-| 2026-06-19 | [[experiments/mlops-2026-06-19-voice-agent-cascaded-hybrid-architecture|Use a foreground/background dual-model pattern for voice agents to balance latency and quality]] | @mlops | `-` |
-| 2026-06-19 | [[experiments/mlops-2026-06-19-autonomy-spectrum-enterprise-agents|Gate agent autonomy by reversibility and blast radius using a three-tier classification]] | @mlops | `-` |
-| 2026-06-18 | [[experiments/nh-2026-06-18-context-window-dumb-zone-mitigation|Instrument Claude Code Sessions to Detect and Interrupt the 'Dumb Zone']] | @nh | `-` |
-| 2026-06-18 | [[experiments/nh-2026-06-18-claude-code-director-mindset|Add 'Intent + Why' Preamble to Every Claude Code Task Spec]] | @nh | `-` |
-| 2026-06-18 | [[experiments/do-2026-06-18-strategic-vs-tactical-programming-ai|Redesign Codebase Architecture Explicitly for Agent Readability (AX)]] | @do | `-` |
-| 2026-06-18 | [[experiments/do-2026-06-18-blank-slate-agent-audit|Strip Agent Config to Zero and Rebuild Only What Is Missed]] | @do | `-` |
-| 2026-06-18 | [[experiments/aij-2026-06-18-loop-engineering-harness|Implement a Loop-Engineer Harness with Domain Contracts and Artifact Logging]] | @aij | `-` |
-| 2026-06-18 | [[experiments/aij-2026-06-18-agent-skill-context-management|Use Skills as Context-Efficient Capability Extensions Instead of Inline Prompts]] | @aij | `-` |
-| 2026-06-18 | [[experiments/aie-2026-06-18-structured-prompt-versioning|Enforce Structured Commit Messages for Prompt Changes with Failure-Reason Traceability]] | @aie | `-` |
-| 2026-06-18 | [[experiments/aie-2026-06-18-eval-first-production-ai|Define Business-Metric Evals and Growing Test Case Library Before Writing Agent Code]] | @aie | `-` |
-| 2026-06-17 | [[experiments/nh-2026-06-17-five-level-second-brain|Map each knowledge folder to its minimum viable second-brain level]] | @nh | `-` |
-| 2026-06-17 | [[experiments/nb-2026-06-17-prune-agent-tools-harness|Audit and prune agent tool sets to improve reliability]] | @nb | `-` |
-| 2026-06-17 | [[experiments/nb-2026-06-17-harness-health-checklist|Implement a five-point harness health check for every production agent]] | @nb | `-` |
-| 2026-06-17 | [[experiments/aie-2026-06-17-mcp-real-web-access|Replace default LLM web fetch with a proxy-backed MCP scraping tool and compare hallucination rate]] | @aie | `-` |
-| 2026-06-16 | [[experiments/eh-2026-06-16-webgl-morphing-sculpture|Build a Continuously Morphing WebGL Generative Sculpture]] | @eh | `-` |
-| 2026-06-16 | [[experiments/eh-2026-06-16-threejs-living-symmetry|Implement a Procedural Symmetry Engine in Three.js]] | @eh | `-` |
-| 2026-06-16 | [[experiments/aie-2026-06-16-diffusion-speedup-stack|Stack Quantization + Caching + Distillation to Approach Real-Time Diffusion]] | @aie | `-` |
-| 2026-06-15 | [[experiments/nh-2026-06-15-ai-person-workflow-automation|Automate one recurring weekly workflow end-to-end with Claude to establish measurable ROI baseline]] | @nh | `-` |
-| 2026-06-15 | [[experiments/mlops-2026-06-15-multiplayer-ai-flocking|Design multi-agent workflows using flocking algorithm principles (local separation, distant attraction, alignment)]] | @mlops | `-` |
-| 2026-06-15 | [[experiments/mlops-2026-06-15-context-engineering-coding-agents|Run a timed coding agent challenge on a real domain dataset to benchmark context engineering strategies]] | @mlops | `-` |
-| 2026-06-15 | [[experiments/do-2026-06-15-hermes-apify-mcp-scraping|Connect Hermes Agent to Apify MCP for unrestricted web scraping]] | @do | `-` |
-| 2026-06-15 | [[experiments/do-2026-06-15-fable-ban-local-model-fallback|Build a model-fallback routing layer to hedge against frontier model access bans]] | @do | `-` |
-| 2026-06-15 | [[experiments/aie-2026-06-15-double-iframe-csp-mcp-apps|Integrate a CSP inspector into MCP app development workflow to catch missing domain declarations before store submission]] | @aie | `-` |
-| 2026-06-14 | [[experiments/nb-2026-06-14-model-dependency-resilience|Build and warm-test a fallback model routing layer for critical workflows]] | @nb | `-` |
-| 2026-06-14 | [[experiments/nb-2026-06-14-harness-ownership-audit|Audit your AI workflows to identify harness ownership vs vendor dependency]] | @nb | `-` |
-| 2026-06-14 | [[experiments/mk-2026-06-14-mine-jsonl-fable-playbook|Mine Claude Code JSONL sessions to generate a model behavior playbook]] | @mk | `-` |
-| 2026-06-14 | [[experiments/mk-2026-06-14-behavioral-diff-cross-model|Automate cross-model behavioral diff to quantify agent capability gaps]] | @mk | `-` |
-| 2026-06-13 | [[experiments/eh-2026-06-13-interactive-geometry-watercolor-visualizer|Build an AI-generated interactive geometry visualizer with watercolor-style rendering]] | @eh | `-` |
-| 2026-06-12 | [[experiments/nh-2026-06-12-head-of-ai-non-technical-path|Validate a Non-Technical AI Adoption Lead Role With Hands-On Claude Code Builds]] | @nh | `-` |
-| 2026-06-12 | [[experiments/nh-2026-06-12-claude-fable-one-prompt-video|Drive a Multi-Tool Media Pipeline From a Single /goal Prompt Using Claude Code]] | @nh | `-` |
-| 2026-06-12 | [[experiments/nb-2026-06-12-codex-permission-boundary-safety|Enforce Least-Privilege Boundaries on Codex Agent Sessions]] | @nb | `-` |
-| 2026-06-12 | [[experiments/nb-2026-06-12-codex-chief-of-staff-loop|Structure Codex Tasks With Goal-Source-Standard-Permission-Proof Loops]] | @nb | `-` |
-| 2026-06-12 | [[experiments/do-2026-06-12-pi-agent-skills-reuse|Build Pi Agent Skills as Reusable Prompt Modules for Repeated Workflows]] | @do | `-` |
-| 2026-06-12 | [[experiments/do-2026-06-12-pi-agent-minimal-harness|Swap Opinionated Agent Framework for Pi Agent's Minimal Harness]] | @do | `-` |
-| 2026-06-11 | [[experiments/up-2026-06-11-salesforce-agentic-soc-ai-constitution|Write an AI constitution document to codify agent behavior rules, primitives, and trust-earning criteria]] | @up | `-` |
-| 2026-06-11 | [[experiments/st-2026-06-11-reusable-skills-business-automation|Build reusable Claude skill files for recurring business workflows]] | @st | `-` |
-| 2026-06-11 | [[experiments/st-2026-06-11-four-step-skill-building-framework|Use a four-step calendar-audit-to-skill pipeline to systematically delegate recurring tasks]] | @st | `-` |
-| 2026-06-11 | [[experiments/st-2026-06-11-ai-foundations-business-mental-model|Frame agent delegation as intern-coaching to improve prompt quality]] | @st | `-` |
-| 2026-06-11 | [[experiments/nh-2026-06-11-subagent-persona-parallel-review|Spin up parallel persona sub-agents to stress-test outputs from multiple stakeholder viewpoints]] | @nh | `-` |
-| 2026-06-11 | [[experiments/nh-2026-06-11-skills-as-reusable-recipes|Build a personal skill library as markdown recipes to replace repetitive prompts with slash commands]] | @nh | `-` |
-| 2026-06-11 | [[experiments/nh-2026-06-11-scoped-api-keys-permission-layer|Implement scoped API keys per integration to enforce a read-only permission layer for Claude Code connections]] | @nh | `-` |
-| 2026-06-11 | [[experiments/nh-2026-06-11-prompt-caching-session-preservation|Preserve prompt cache by avoiding model switches and idle gaps over 1 hour to cut token costs 10x]] | @nh | `-` |
-| 2026-06-11 | [[experiments/nh-2026-06-11-opus48-effort-levels-token-efficiency|Map personal pain points from Opus 4.7 to Opus 4.8 effort levels to find the cheapest effective setting]] | @nh | `-` |
-| 2026-06-11 | [[experiments/nh-2026-06-11-grill-me-context-extraction|Use a 'Grill Me' interrogation skill to extract tacit knowledge into reusable context docs before building]] | @nh | `-` |
-| 2026-06-11 | [[experiments/nh-2026-06-11-four-cs-ai-os-second-brain|Structure a Claude Code second brain using the four-Cs framework: Context, Connections, Capabilities, Cadence]] | @nh | `-` |
-| 2026-06-11 | [[experiments/nh-2026-06-11-fable5-model-tier-awareness|Audit workflows for Fable 5 upgrade window before June 22 paywall]] | @nh | `-` |
-| 2026-06-11 | [[experiments/nh-2026-06-11-dynamic-workflows-parallel-jobs|Run a dynamic workflow to audit all skills in parallel with cheap scoring agents feeding one synthesis agent]] | @nh | `-` |
-| 2026-06-11 | [[experiments/nh-2026-06-11-custom-subagent-markdown-files|Build reusable custom sub-agent files with YAML front-matter for repeatable specialist tasks]] | @nh | `-` |
-| 2026-06-11 | [[experiments/nh-2026-06-11-claudecode-vs-codex-task-routing|Route tasks between Claude Code and Codex based on creative vs execution phase to improve output quality]] | @nh | `-` |
-| 2026-06-11 | [[experiments/nh-2026-06-11-aios-four-cs-framework|Structure an AI operating system around the Four Cs: Context, Connections, Capabilities, Cadence]] | @nh | `-` |
-| 2026-06-11 | [[experiments/nb-2026-06-11-token-burn-dashboard|Build a personal token-burn dashboard to surface AI usage habits and expand imagination]] | @nb | `-` |
-| 2026-06-11 | [[experiments/nb-2026-06-11-slash-workflows-multi-agent-personal-productiv|Use /workflows (slash-workflows) to spawn multi-agent sub-task decomposition for complex research]] | @nb | `-` |
-| 2026-06-11 | [[experiments/nb-2026-06-11-claude-md-context-file|Maintain a claude.md standing-context file to prevent context drift across sessions]] | @nb | `-` |
-| 2026-06-11 | [[experiments/nb-2026-06-11-claude-cockpit-vs-codex-ops-desk|Map tasks to Claude (steering) vs Codex (dispatching) based on fuzziness]] | @nb | `-` |
-| 2026-06-11 | [[experiments/mlops-2026-06-11-rocket-ride-gpu-aggregation|Use shared-inference model server to cut LLM inference costs via GPU aggregation]] | @mlops | `-` |
-| 2026-06-11 | [[experiments/mlops-2026-06-11-planning-doc-to-prevent-spaghetti-code|Front-load a full planning document to Claude before coding to prevent spaghetti code across sessions]] | @mlops | `-` |
-| 2026-06-11 | [[experiments/mlops-2026-06-11-meta-multiagent-short-video-perceiver|Decompose content-understanding pipelines into specialized perceiver + attribution + decision agents with caching between stages]] | @mlops | `-` |
-| 2026-06-11 | [[experiments/mlops-2026-06-11-ifood-latency-goldilocks-recommender|Use LLM-as-judge on conversation logs to understand true user satisfaction beyond explicit ratings]] | @mlops | `-` |
-| 2026-06-11 | [[experiments/mlops-2026-06-11-despegar-sofia-orchestration-layer|Keep an explicit orchestration layer (Chappie) above domain agents to prevent tool-routing failures as agent count grows]] | @mlops | `-` |
-| 2026-06-11 | [[experiments/mlops-2026-06-11-despegar-federated-agent-development|Let domain teams own and iterate their own agent flows on top of a central scaffold]] | @mlops | `-` |
-| 2026-06-11 | [[experiments/mlops-2026-06-11-agentic-soc-multi-agent-hunt|Build a human-in-the-loop multi-agent pipeline using existing SOAR integrations rather than replacing them]] | @mlops | `-` |
-| 2026-06-11 | [[experiments/mk-2026-06-11-slash-goal-agentic-os-maintenance|Use /goal with a rubric file to continuously self-optimize the agentic OS skill and rule set]] | @mk | `-` |
-| 2026-06-11 | [[experiments/mk-2026-06-11-skill-quality-eight-tips|Audit skill library with eight quality heuristics and the Claude Code guide agent to eliminate dead weight]] | @mk | `-` |
-| 2026-06-11 | [[experiments/mk-2026-06-11-six-dynamic-workflow-patterns|Apply the six Claude Code dynamic workflow patterns to match task structure to agent topology]] | @mk | `-` |
-| 2026-06-11 | [[experiments/mk-2026-06-11-polyskill-cross-provider-adapter|Build a PolySkill universal adapter to convert skills bidirectionally between Claude Code and Codex]] | @mk | `-` |
-| 2026-06-11 | [[experiments/mk-2026-06-11-fable5-tiered-effort-workflow|Route tasks across model tiers by complexity to minimize token burn]] | @mk | `-` |
-| 2026-06-11 | [[experiments/mk-2026-06-11-dynamic-workflows-due-diligence|Use the 'build a workflow' keyword trigger to auto-generate multi-agent harnesses for large document analysis]] | @mk | `-` |
-| 2026-06-11 | [[experiments/mk-2026-06-11-dynamic-workflow-personal-model-migration|Mine local JSONL conversation history with a fan-out workflow to generate personalized model-upgrade guidance]] | @mk | `-` |
-| 2026-06-11 | [[experiments/do-2026-06-11-minimax-m3-hermes-agent-cost-reduction|Power Hermes Agent with Minimax M3 to enable 24/7 always-on agentic loops at 10-20x lower cost than Opus]] | @do | `-` |
-| 2026-06-11 | [[experiments/do-2026-06-11-fable-cursor-agent-view-workflow|Run Claude Fable (Mythos 5) exclusively through Cursor agent view to avoid safeguard false-positives and leverage auto-fallback]] | @do | `-` |
-| 2026-06-11 | [[experiments/do-2026-06-11-codex-context-skills-magipath|Inject structured design context and skills into Codex to improve frontend output quality]] | @do | `-` |
-| 2026-06-11 | [[experiments/do-2026-06-11-cmax-terminal-parallel-agents|Use CMAX terminal for managing parallel CLI agents with per-pane zoom, workspaces, and jump-to-unread notifications]] | @do | `-` |
-| 2026-06-11 | [[experiments/aij-2026-06-11-closed-loop-self-improving-agent|Implement a closed-loop agent with cron jobs, a temporal memory log, and auto-skill-proposal to create self-improving workflows]] | @aij | `-` |
-| 2026-06-11 | [[experiments/aie-2026-06-11-webmcp-structured-site-tools|Expose site capabilities as Web MCP tools to replace brittle DOM-scraping agent flows]] | @aie | `-` |
-| 2026-06-11 | [[experiments/aie-2026-06-11-studio-nl-business-queries|Build an internal NL-to-SQL agent with persistent widget output for business queries]] | @aie | `-` |
-| 2026-06-11 | [[experiments/aie-2026-06-11-small-model-tool-use-rl-training|Fine-tune a small model on tool-use discipline with RL to match large-model performance on structured tasks]] | @aie | `-` |
-| 2026-06-11 | [[experiments/aie-2026-06-11-self-healing-scraper-pipeline-mcp|Use Bright Data MCP + LLM agent to auto-generate, execute, and self-heal web scrapers instead of calling LLM per page]] | @aie | `-` |
-| 2026-06-11 | [[experiments/aie-2026-06-11-runpod-serverless-llm-endpoint|Deploy a HuggingFace open-source LLM as a RunPod serverless endpoint from a preconfigured Hub listing in under 5 minutes]] | @aie | `-` |
-| 2026-06-11 | [[experiments/aie-2026-06-11-runpod-flash-sdk-local-gpu-iteration|Use RunPod Flash SDK decorator to deploy GPU inference functions from local dev environment without Docker build cycles]] | @aie | `-` |
-| 2026-06-11 | [[experiments/aie-2026-06-11-posthog-signal-to-pr-pipeline|Build a signal-ingestion-to-PR pipeline that converts product observability events into auto-generated code fixes]] | @aie | `-` |
-| 2026-06-11 | [[experiments/aie-2026-06-11-otel-agent-observability-flywheel|Instrument agent traces with OpenTelemetry auto-instrumentation then drive prompt/model experiments from the resulting dataset]] | @aie | `-` |
-| 2026-06-11 | [[experiments/aie-2026-06-11-mcp-apps-rich-ui-in-chat|Return sandboxed interactive HTML iframes from MCP tool calls to replace text-only agent responses with rich UI]] | @aie | `-` |
-| 2026-06-11 | [[experiments/aie-2026-06-11-long-context-ulysses-upipe|Stack DeepSpeed Ulysses + gradient checkpointing + U-Pipe chunked-head recompute for long-context fine-tuning]] | @aie | `-` |
-| 2026-06-11 | [[experiments/aie-2026-06-11-gemma4-open-model-local-agentic|Replace a cloud-API agent step with a locally-hosted Gemma 4 31B model for data-sensitive sub-tasks]] | @aie | `-` |
-| 2026-06-11 | [[experiments/aie-2026-06-11-gemini-audio-rich-transcription|Use Gemini Flash audio API to extract structured metadata (speakers, timestamps, language, emotion) from meeting recordings in a single API call]] | @aie | `-` |
-| 2026-06-11 | [[experiments/aie-2026-06-11-evals-hill-climbing-zones|Implement a three-zone hill-climbing eval loop: fix obvious harness bugs, apply model-family-specific prompt tuning, then stop before overfitting]] | @aie | `-` |
-| 2026-06-11 | [[experiments/aie-2026-06-11-eval-as-compute-primitive|Use Cloudflare Durable Objects as stateful, addressable compute units for long-running AI agents]] | @aie | `-` |
-| 2026-06-11 | [[experiments/aie-2026-06-11-context-optimization-strategies|Replace full-codebase context dumps with ranked hierarchical summaries and knowledge graphs for agentic code review]] | @aie | `-` |
-| 2026-06-11 | [[experiments/aie-2026-06-11-async-agent-verification-loop|Give agents MCP access to the target environment so they can self-verify before surfacing results]] | @aie | `-` |
-| 2026-06-11 | [[experiments/aie-2026-06-11-agentic-retrieval-over-simple-rag|Replace single-shot vector search with iterative agentic retrieval (search→read→assess→repeat) for agent context gathering]] | @aie | `-` |
+| 2026-06-25 | [[experiments/nh-2026-06-25-claude-code-sycophancy-roast-council|Add a multi-persona 'Roast Council' prompt to stress-test ideas before building]] | @nh | `-` |
+| 2026-06-25 | [[experiments/nh-2026-06-25-claude-code-subagent-parallel-goal|Use /goal + parallel sub-agents to produce a full launch plan in under an hour]] | @nh | `-` |
+| 2026-06-25 | [[experiments/mk-2026-06-25-claude-code-aws-bedrock-enterprise-stack|Deploy a multi-agent Claude platform inside AWS Bedrock with SOC2/HIPAA guardrails and kill switches]] | @mk | `-` |
+| 2026-06-25 | [[experiments/aie-2026-06-25-recursive-coding-agents-rlm|Apply Recursive Language Model (RLM) patterns to coding agents for reliable, large-scale refactors]] | @aie | `-` |
+| 2026-06-25 | [[experiments/aie-2026-06-25-production-evals-agentic-systems|Replace benchmark-only evals with a continuous production telemetry eval loop for agentic workflows]] | @aie | `-` |
+| 2026-06-25 | [[experiments/aie-2026-06-25-miranda-hypothesis-persona-eval-humanist-loop|Add domain-expert-in-the-loop evaluation to any persona/character agent to detect anachronistic compositing]] | @aie | `-` |
+| 2026-06-25 | [[experiments/aie-2026-06-25-log-as-agent-identity|Redesign agent session storage as an append-only event log to enable resumable, portable agents]] | @aie | `-` |
+| 2026-06-25 | [[experiments/aie-2026-06-25-build-systems-not-code-agent-design|Apply classical software engineering disciplines (decomposition, SoC, idempotency, threat modeling) explicitly when designing agents]] | @aie | `-` |
+| 2026-06-24 | [[experiments/nb-2026-06-24-loop-of-loops-agent-architecture|Implement a Loop-of-Loops Agent Control Pattern]] | @nb | `adopt` |
+| 2026-06-24 | [[experiments/aij-2026-06-24-playwright-ci-artifact-evidence-prs|Require Agents to Attach Playwright Video Evidence to Every PR]] | @aij | `adopt` |
+| 2026-06-24 | [[experiments/aij-2026-06-24-crabbox-isolated-sandbox-testing|Use CrabBox to Give Each Parallel Agent Its Own Cloud Dev Sandbox]] | @aij | `discard` |
+| 2026-06-23 | [[experiments/nh-2026-06-23-fugu-multi-model-orchestration|Benchmark Single-Model vs. Orchestrated Multi-Model API on Identical Task Suite]] | @nh | `adopt` |
+| 2026-06-23 | [[experiments/nb-2026-06-23-big-task-delegation|Hand Off a Whole Consulting-Scale Task to a Frontier Model]] | @nb | `adopt` |
+| 2026-06-22 | [[experiments/nh-2026-06-22-internal-ai-consultant-roadmap|Run a 4-step internal AI consultant playbook tied to measurable KPIs]] | @nh | `discard` |
+| 2026-06-22 | [[experiments/mlops-2026-06-22-logs-only-observability|Replace metrics/traces with logs-only observability for agent pipelines]] | @mlops | `adopt` |
+| 2026-06-22 | [[experiments/mlops-2026-06-22-genetic-pareto-agent-trajectories|Apply genetic Pareto sampling across parallel agent trajectories]] | @mlops | `discard` |
+| 2026-06-21 | [[experiments/nb-2026-06-21-agent-owner-card|Create an Agent Owner Card for Every Production Agent]] | @nb | `adopt` |
+| 2026-06-21 | [[experiments/nb-2026-06-21-agent-diet-review-loop|Implement a Scheduled Diet Audit for Agent Context Sources]] | @nb | `adopt` |
+| 2026-06-21 | [[experiments/do-2026-06-21-obsidian-living-files-agent-context|Store Agent Context as Obsidian Markdown Vault for Living File Access]] | @do | `discard` |
+| 2026-06-20 | [[experiments/nb-2026-06-20-voice-clone-consent-policy|Draft and enforce a pre-incident AI likeness and voice policy for team outputs]] | @nb | `discard` |
+| 2026-06-20 | [[experiments/nb-2026-06-20-creator-trust-stack-disclosure|Implement a Creator Trust Stack metadata layer for AI-assisted outputs]] | @nb | `discard` |
+| 2026-06-19 | [[experiments/nh-2026-06-19-glm52-claude-code-model-routing|Route Claude Code to open-source models via base URL override and per-directory settings.local.json]] | @nh | `discard` |
+| 2026-06-19 | [[experiments/nh-2026-06-19-agent-loop-reason-act-observe|Build agent loops with explicit checkable goal, hard stop condition, and separate checker agent]] | @nh | `adopt` |
+| 2026-06-19 | [[experiments/nb-2026-06-19-open-skills-portable-procedures|Structure agent procedures as scoped markdown skills with verification contracts]] | @nb | `adopt` |
+| 2026-06-19 | [[experiments/mlops-2026-06-19-voice-agent-cascaded-hybrid-architecture|Use a foreground/background dual-model pattern for voice agents to balance latency and quality]] | @mlops | `discard` |
+| 2026-06-19 | [[experiments/mlops-2026-06-19-autonomy-spectrum-enterprise-agents|Gate agent autonomy by reversibility and blast radius using a three-tier classification]] | @mlops | `adopt` |
+| 2026-06-18 | [[experiments/nh-2026-06-18-context-window-dumb-zone-mitigation|Instrument Claude Code Sessions to Detect and Interrupt the 'Dumb Zone']] | @nh | `adopt` |
+| 2026-06-18 | [[experiments/nh-2026-06-18-claude-code-director-mindset|Add 'Intent + Why' Preamble to Every Claude Code Task Spec]] | @nh | `adopt` |
+| 2026-06-18 | [[experiments/do-2026-06-18-strategic-vs-tactical-programming-ai|Redesign Codebase Architecture Explicitly for Agent Readability (AX)]] | @do | `adopt` |
+| 2026-06-18 | [[experiments/do-2026-06-18-blank-slate-agent-audit|Strip Agent Config to Zero and Rebuild Only What Is Missed]] | @do | `adopt` |
+| 2026-06-18 | [[experiments/aij-2026-06-18-loop-engineering-harness|Implement a Loop-Engineer Harness with Domain Contracts and Artifact Logging]] | @aij | `adopt` |
+| 2026-06-18 | [[experiments/aij-2026-06-18-agent-skill-context-management|Use Skills as Context-Efficient Capability Extensions Instead of Inline Prompts]] | @aij | `adopt` |
+| 2026-06-18 | [[experiments/aie-2026-06-18-structured-prompt-versioning|Enforce Structured Commit Messages for Prompt Changes with Failure-Reason Traceability]] | @aie | `adopt` |
+| 2026-06-18 | [[experiments/aie-2026-06-18-eval-first-production-ai|Define Business-Metric Evals and Growing Test Case Library Before Writing Agent Code]] | @aie | `adopt` |
+| 2026-06-17 | [[experiments/nh-2026-06-17-five-level-second-brain|Map each knowledge folder to its minimum viable second-brain level]] | @nh | `adopt` |
+| 2026-06-17 | [[experiments/nb-2026-06-17-prune-agent-tools-harness|Audit and prune agent tool sets to improve reliability]] | @nb | `adopt` |
+| 2026-06-17 | [[experiments/nb-2026-06-17-harness-health-checklist|Implement a five-point harness health check for every production agent]] | @nb | `adopt` |
+| 2026-06-17 | [[experiments/aie-2026-06-17-mcp-real-web-access|Replace default LLM web fetch with a proxy-backed MCP scraping tool and compare hallucination rate]] | @aie | `discard` |
+| 2026-06-16 | [[experiments/eh-2026-06-16-webgl-morphing-sculpture|Build a Continuously Morphing WebGL Generative Sculpture]] | @eh | `adopt` |
+| 2026-06-16 | [[experiments/eh-2026-06-16-threejs-living-symmetry|Implement a Procedural Symmetry Engine in Three.js]] | @eh | `adopt` |
+| 2026-06-16 | [[experiments/aie-2026-06-16-diffusion-speedup-stack|Stack Quantization + Caching + Distillation to Approach Real-Time Diffusion]] | @aie | `discard` |
+| 2026-06-15 | [[experiments/nh-2026-06-15-ai-person-workflow-automation|Automate one recurring weekly workflow end-to-end with Claude to establish measurable ROI baseline]] | @nh | `adopt` |
+| 2026-06-15 | [[experiments/mlops-2026-06-15-multiplayer-ai-flocking|Design multi-agent workflows using flocking algorithm principles (local separation, distant attraction, alignment)]] | @mlops | `discard` |
+| 2026-06-15 | [[experiments/mlops-2026-06-15-context-engineering-coding-agents|Run a timed coding agent challenge on a real domain dataset to benchmark context engineering strategies]] | @mlops | `adopt` |
+| 2026-06-15 | [[experiments/do-2026-06-15-hermes-apify-mcp-scraping|Connect Hermes Agent to Apify MCP for unrestricted web scraping]] | @do | `discard` |
+| 2026-06-15 | [[experiments/do-2026-06-15-fable-ban-local-model-fallback|Build a model-fallback routing layer to hedge against frontier model access bans]] | @do | `discard` |
+| 2026-06-15 | [[experiments/aie-2026-06-15-double-iframe-csp-mcp-apps|Integrate a CSP inspector into MCP app development workflow to catch missing domain declarations before store submission]] | @aie | `discard` |
+| 2026-06-14 | [[experiments/nb-2026-06-14-model-dependency-resilience|Build and warm-test a fallback model routing layer for critical workflows]] | @nb | `adopt` |
+| 2026-06-14 | [[experiments/nb-2026-06-14-harness-ownership-audit|Audit your AI workflows to identify harness ownership vs vendor dependency]] | @nb | `adopt` |
+| 2026-06-14 | [[experiments/mk-2026-06-14-mine-jsonl-fable-playbook|Mine Claude Code JSONL sessions to generate a model behavior playbook]] | @mk | `adopt` |
+| 2026-06-14 | [[experiments/mk-2026-06-14-behavioral-diff-cross-model|Automate cross-model behavioral diff to quantify agent capability gaps]] | @mk | `adopt` |
+| 2026-06-13 | [[experiments/eh-2026-06-13-interactive-geometry-watercolor-visualizer|Build an AI-generated interactive geometry visualizer with watercolor-style rendering]] | @eh | `adopt` |
+| 2026-06-12 | [[experiments/nh-2026-06-12-head-of-ai-non-technical-path|Validate a Non-Technical AI Adoption Lead Role With Hands-On Claude Code Builds]] | @nh | `discard` |
+| 2026-06-12 | [[experiments/nh-2026-06-12-claude-fable-one-prompt-video|Drive a Multi-Tool Media Pipeline From a Single /goal Prompt Using Claude Code]] | @nh | `discard` |
+| 2026-06-12 | [[experiments/nb-2026-06-12-codex-permission-boundary-safety|Enforce Least-Privilege Boundaries on Codex Agent Sessions]] | @nb | `adopt` |
+| 2026-06-12 | [[experiments/nb-2026-06-12-codex-chief-of-staff-loop|Structure Codex Tasks With Goal-Source-Standard-Permission-Proof Loops]] | @nb | `adopt` |
+| 2026-06-12 | [[experiments/do-2026-06-12-pi-agent-skills-reuse|Build Pi Agent Skills as Reusable Prompt Modules for Repeated Workflows]] | @do | `discard` |
+| 2026-06-12 | [[experiments/do-2026-06-12-pi-agent-minimal-harness|Swap Opinionated Agent Framework for Pi Agent's Minimal Harness]] | @do | `discard` |
+| 2026-06-11 | [[experiments/up-2026-06-11-salesforce-agentic-soc-ai-constitution|Write an AI constitution document to codify agent behavior rules, primitives, and trust-earning criteria]] | @up | `adopt` |
+| 2026-06-11 | [[experiments/st-2026-06-11-reusable-skills-business-automation|Build reusable Claude skill files for recurring business workflows]] | @st | `discard` |
+| 2026-06-11 | [[experiments/st-2026-06-11-four-step-skill-building-framework|Use a four-step calendar-audit-to-skill pipeline to systematically delegate recurring tasks]] | @st | `discard` |
+| 2026-06-11 | [[experiments/st-2026-06-11-ai-foundations-business-mental-model|Frame agent delegation as intern-coaching to improve prompt quality]] | @st | `discard` |
+| 2026-06-11 | [[experiments/nh-2026-06-11-subagent-persona-parallel-review|Spin up parallel persona sub-agents to stress-test outputs from multiple stakeholder viewpoints]] | @nh | `adopt` |
+| 2026-06-11 | [[experiments/nh-2026-06-11-skills-as-reusable-recipes|Build a personal skill library as markdown recipes to replace repetitive prompts with slash commands]] | @nh | `adopt` |
+| 2026-06-11 | [[experiments/nh-2026-06-11-scoped-api-keys-permission-layer|Implement scoped API keys per integration to enforce a read-only permission layer for Claude Code connections]] | @nh | `adopt` |
+| 2026-06-11 | [[experiments/nh-2026-06-11-prompt-caching-session-preservation|Preserve prompt cache by avoiding model switches and idle gaps over 1 hour to cut token costs 10x]] | @nh | `adopt` |
+| 2026-06-11 | [[experiments/nh-2026-06-11-opus48-effort-levels-token-efficiency|Map personal pain points from Opus 4.7 to Opus 4.8 effort levels to find the cheapest effective setting]] | @nh | `adopt` |
+| 2026-06-11 | [[experiments/nh-2026-06-11-grill-me-context-extraction|Use a 'Grill Me' interrogation skill to extract tacit knowledge into reusable context docs before building]] | @nh | `adopt` |
+| 2026-06-11 | [[experiments/nh-2026-06-11-four-cs-ai-os-second-brain|Structure a Claude Code second brain using the four-Cs framework: Context, Connections, Capabilities, Cadence]] | @nh | `adopt` |
+| 2026-06-11 | [[experiments/nh-2026-06-11-fable5-model-tier-awareness|Audit workflows for Fable 5 upgrade window before June 22 paywall]] | @nh | `discard` |
+| 2026-06-11 | [[experiments/nh-2026-06-11-dynamic-workflows-parallel-jobs|Run a dynamic workflow to audit all skills in parallel with cheap scoring agents feeding one synthesis agent]] | @nh | `adopt` |
+| 2026-06-11 | [[experiments/nh-2026-06-11-custom-subagent-markdown-files|Build reusable custom sub-agent files with YAML front-matter for repeatable specialist tasks]] | @nh | `adopt` |
+| 2026-06-11 | [[experiments/nh-2026-06-11-claudecode-vs-codex-task-routing|Route tasks between Claude Code and Codex based on creative vs execution phase to improve output quality]] | @nh | `adopt` |
+| 2026-06-11 | [[experiments/nh-2026-06-11-aios-four-cs-framework|Structure an AI operating system around the Four Cs: Context, Connections, Capabilities, Cadence]] | @nh | `discard` |
+| 2026-06-11 | [[experiments/nb-2026-06-11-token-burn-dashboard|Build a personal token-burn dashboard to surface AI usage habits and expand imagination]] | @nb | `adopt` |
+| 2026-06-11 | [[experiments/nb-2026-06-11-slash-workflows-multi-agent-personal-productiv|Use /workflows (slash-workflows) to spawn multi-agent sub-task decomposition for complex research]] | @nb | `adopt` |
+| 2026-06-11 | [[experiments/nb-2026-06-11-claude-md-context-file|Maintain a claude.md standing-context file to prevent context drift across sessions]] | @nb | `adopt` |
+| 2026-06-11 | [[experiments/nb-2026-06-11-claude-cockpit-vs-codex-ops-desk|Map tasks to Claude (steering) vs Codex (dispatching) based on fuzziness]] | @nb | `adopt` |
+| 2026-06-11 | [[experiments/mlops-2026-06-11-rocket-ride-gpu-aggregation|Use shared-inference model server to cut LLM inference costs via GPU aggregation]] | @mlops | `discard` |
+| 2026-06-11 | [[experiments/mlops-2026-06-11-planning-doc-to-prevent-spaghetti-code|Front-load a full planning document to Claude before coding to prevent spaghetti code across sessions]] | @mlops | `adopt` |
+| 2026-06-11 | [[experiments/mlops-2026-06-11-meta-multiagent-short-video-perceiver|Decompose content-understanding pipelines into specialized perceiver + attribution + decision agents with caching between stages]] | @mlops | `discard` |
+| 2026-06-11 | [[experiments/mlops-2026-06-11-ifood-latency-goldilocks-recommender|Use LLM-as-judge on conversation logs to understand true user satisfaction beyond explicit ratings]] | @mlops | `adopt` |
+| 2026-06-11 | [[experiments/mlops-2026-06-11-despegar-sofia-orchestration-layer|Keep an explicit orchestration layer (Chappie) above domain agents to prevent tool-routing failures as agent count grows]] | @mlops | `discard` |
+| 2026-06-11 | [[experiments/mlops-2026-06-11-despegar-federated-agent-development|Let domain teams own and iterate their own agent flows on top of a central scaffold]] | @mlops | `discard` |
+| 2026-06-11 | [[experiments/mlops-2026-06-11-agentic-soc-multi-agent-hunt|Build a human-in-the-loop multi-agent pipeline using existing SOAR integrations rather than replacing them]] | @mlops | `discard` |
+| 2026-06-11 | [[experiments/mk-2026-06-11-slash-goal-agentic-os-maintenance|Use /goal with a rubric file to continuously self-optimize the agentic OS skill and rule set]] | @mk | `adopt` |
+| 2026-06-11 | [[experiments/mk-2026-06-11-skill-quality-eight-tips|Audit skill library with eight quality heuristics and the Claude Code guide agent to eliminate dead weight]] | @mk | `adopt` |
+| 2026-06-11 | [[experiments/mk-2026-06-11-six-dynamic-workflow-patterns|Apply the six Claude Code dynamic workflow patterns to match task structure to agent topology]] | @mk | `adopt` |
+| 2026-06-11 | [[experiments/mk-2026-06-11-polyskill-cross-provider-adapter|Build a PolySkill universal adapter to convert skills bidirectionally between Claude Code and Codex]] | @mk | `adopt` |
+| 2026-06-11 | [[experiments/mk-2026-06-11-fable5-tiered-effort-workflow|Route tasks across model tiers by complexity to minimize token burn]] | @mk | `adopt` |
+| 2026-06-11 | [[experiments/mk-2026-06-11-dynamic-workflows-due-diligence|Use the 'build a workflow' keyword trigger to auto-generate multi-agent harnesses for large document analysis]] | @mk | `discard` |
+| 2026-06-11 | [[experiments/mk-2026-06-11-dynamic-workflow-personal-model-migration|Mine local JSONL conversation history with a fan-out workflow to generate personalized model-upgrade guidance]] | @mk | `adopt` |
+| 2026-06-11 | [[experiments/do-2026-06-11-minimax-m3-hermes-agent-cost-reduction|Power Hermes Agent with Minimax M3 to enable 24/7 always-on agentic loops at 10-20x lower cost than Opus]] | @do | `discard` |
+| 2026-06-11 | [[experiments/do-2026-06-11-fable-cursor-agent-view-workflow|Run Claude Fable (Mythos 5) exclusively through Cursor agent view to avoid safeguard false-positives and leverage auto-fallback]] | @do | `discard` |
+| 2026-06-11 | [[experiments/do-2026-06-11-codex-context-skills-magipath|Inject structured design context and skills into Codex to improve frontend output quality]] | @do | `adopt` |
+| 2026-06-11 | [[experiments/do-2026-06-11-cmax-terminal-parallel-agents|Use CMAX terminal for managing parallel CLI agents with per-pane zoom, workspaces, and jump-to-unread notifications]] | @do | `discard` |
+| 2026-06-11 | [[experiments/aij-2026-06-11-closed-loop-self-improving-agent|Implement a closed-loop agent with cron jobs, a temporal memory log, and auto-skill-proposal to create self-improving workflows]] | @aij | `adopt` |
+| 2026-06-11 | [[experiments/aie-2026-06-11-webmcp-structured-site-tools|Expose site capabilities as Web MCP tools to replace brittle DOM-scraping agent flows]] | @aie | `discard` |
+| 2026-06-11 | [[experiments/aie-2026-06-11-studio-nl-business-queries|Build an internal NL-to-SQL agent with persistent widget output for business queries]] | @aie | `discard` |
+| 2026-06-11 | [[experiments/aie-2026-06-11-small-model-tool-use-rl-training|Fine-tune a small model on tool-use discipline with RL to match large-model performance on structured tasks]] | @aie | `discard` |
+| 2026-06-11 | [[experiments/aie-2026-06-11-self-healing-scraper-pipeline-mcp|Use Bright Data MCP + LLM agent to auto-generate, execute, and self-heal web scrapers instead of calling LLM per page]] | @aie | `discard` |
+| 2026-06-11 | [[experiments/aie-2026-06-11-runpod-serverless-llm-endpoint|Deploy a HuggingFace open-source LLM as a RunPod serverless endpoint from a preconfigured Hub listing in under 5 minutes]] | @aie | `discard` |
+| 2026-06-11 | [[experiments/aie-2026-06-11-runpod-flash-sdk-local-gpu-iteration|Use RunPod Flash SDK decorator to deploy GPU inference functions from local dev environment without Docker build cycles]] | @aie | `discard` |
+| 2026-06-11 | [[experiments/aie-2026-06-11-posthog-signal-to-pr-pipeline|Build a signal-ingestion-to-PR pipeline that converts product observability events into auto-generated code fixes]] | @aie | `discard` |
+| 2026-06-11 | [[experiments/aie-2026-06-11-otel-agent-observability-flywheel|Instrument agent traces with OpenTelemetry auto-instrumentation then drive prompt/model experiments from the resulting dataset]] | @aie | `adopt` |
+| 2026-06-11 | [[experiments/aie-2026-06-11-mcp-apps-rich-ui-in-chat|Return sandboxed interactive HTML iframes from MCP tool calls to replace text-only agent responses with rich UI]] | @aie | `discard` |
+| 2026-06-11 | [[experiments/aie-2026-06-11-long-context-ulysses-upipe|Stack DeepSpeed Ulysses + gradient checkpointing + U-Pipe chunked-head recompute for long-context fine-tuning]] | @aie | `discard` |
+| 2026-06-11 | [[experiments/aie-2026-06-11-gemma4-open-model-local-agentic|Replace a cloud-API agent step with a locally-hosted Gemma 4 31B model for data-sensitive sub-tasks]] | @aie | `discard` |
+| 2026-06-11 | [[experiments/aie-2026-06-11-gemini-audio-rich-transcription|Use Gemini Flash audio API to extract structured metadata (speakers, timestamps, language, emotion) from meeting recordings in a single API call]] | @aie | `discard` |
+| 2026-06-11 | [[experiments/aie-2026-06-11-evals-hill-climbing-zones|Implement a three-zone hill-climbing eval loop: fix obvious harness bugs, apply model-family-specific prompt tuning, then stop before overfitting]] | @aie | `adopt` |
+| 2026-06-11 | [[experiments/aie-2026-06-11-eval-as-compute-primitive|Use Cloudflare Durable Objects as stateful, addressable compute units for long-running AI agents]] | @aie | `discard` |
+| 2026-06-11 | [[experiments/aie-2026-06-11-context-optimization-strategies|Replace full-codebase context dumps with ranked hierarchical summaries and knowledge graphs for agentic code review]] | @aie | `adopt` |
+| 2026-06-11 | [[experiments/aie-2026-06-11-async-agent-verification-loop|Give agents MCP access to the target environment so they can self-verify before surfacing results]] | @aie | `adopt` |
+| 2026-06-11 | [[experiments/aie-2026-06-11-agentic-retrieval-over-simple-rag|Replace single-shot vector search with iterative agentic retrieval (search→read→assess→repeat) for agent context gathering]] | @aie | `adopt` |
 | 2026-05-10 | [[experiments/aie-2026-05-10-vit-nas-deployment-flexibility|Use neural architecture search on a pretrained ViT backbone to generate a family of deployment-flexible vision models]] | @aie | `discard` |
 | 2026-05-10 | [[experiments/aie-2026-05-10-semantic-vad-streaming-pipeline|Add semantic VAD to streaming STT→LLM→TTS pipeline to reduce perceived latency]] | @aie | `-` |
 | 2026-05-10 | [[experiments/aie-2026-05-10-on-device-tts-cost-reduction|Replace cloud TTS with on-device CPU model to eliminate API costs]] | @aie | `-` |
@@ -188,20 +196,20 @@ Ordered by published date, most recent first.
 | 2026-05-09 | [[experiments/aie-2026-05-09-elevenlabs-chat-agent-voice|Integrate ElevenLabs voice layer into a chat agent for real-time voice interaction]] | @aie | `discard` |
 | 2026-05-09 | [[experiments/aie-2026-05-09-agentic-search-context-engineering|Replace static RAG retrieval with agentic search for dynamic context assembly]] | @aie | `-` |
 | 2026-05-09 | [[experiments/aie-2026-05-09-agent-observability-raindrop|Add structured trace logging to agent runs for post-hoc debugging]] | @aie | `discard` |
-| 2026-05-05 | [[experiments/nh-2026-05-05-higgsfield-claude-mcp-creative-agency|Connect Higgsfield MCP to Claude and Drive Full Brand Asset Generation from a Single Prompt]] | @nh | `-` |
+| 2026-05-05 | [[experiments/nh-2026-05-05-higgsfield-claude-mcp-creative-agency|Connect Higgsfield MCP to Claude and Drive Full Brand Asset Generation from a Single Prompt]] | @nh | `discard` |
 | 2026-05-05 | [[experiments/nb-2026-05-05-proactive-agent-load-test|Run 3-4 Agents in Parallel for a Month to Measure Proactivity Progress]] | @nb | `-` |
-| 2026-05-04 | [[experiments/nh-2026-05-04-voice-agent-claude-code-elevenlabs|Build a Knowledge-Grounded Voice Agent via Claude Code and ElevenLabs in a Single Session]] | @nh | `-` |
+| 2026-05-04 | [[experiments/nh-2026-05-04-voice-agent-claude-code-elevenlabs|Build a Knowledge-Grounded Voice Agent via Claude Code and ElevenLabs in a Single Session]] | @nh | `discard` |
 | 2026-05-04 | [[experiments/nb-2026-05-04-job-audit-four-buckets|Run a Four-Bucket Work Audit to Identify AI-Vulnerable Task Categories]] | @nb | `-` |
 | 2026-05-04 | [[experiments/nb-2026-05-04-agentic-commerce-buyer-agent-readiness|Audit a Service or Tool for AI Agent Callability and Structured-Data Readiness]] | @nb | `-` |
 | 2026-05-03 | [[experiments/st-2026-05-03-cowork-connectors-skills-setup|Configure Claude CoWork with project-scoped skills and scheduled tasks to replace recurring manual workflows]] | @st | `-` |
-| 2026-05-03 | [[experiments/nh-2026-05-03-superpowers-plan-first-skill|Add Superpowers skill to enforce plan-then-test coding discipline in Claude Code]] | @nh | `-` |
-| 2026-05-03 | [[experiments/nh-2026-05-03-claude-design-course|Apply structured Claude prompt design patterns to YOLO loop system prompts]] | @nh | `-` |
-| 2026-05-03 | [[experiments/nh-2026-05-03-claude-code-skill-creator|Install Skill Creator globally to bootstrap all Claude Code skills via plain-English prompts]] | @nh | `-` |
+| 2026-05-03 | [[experiments/nh-2026-05-03-superpowers-plan-first-skill|Add Superpowers skill to enforce plan-then-test coding discipline in Claude Code]] | @nh | `adopt` |
+| 2026-05-03 | [[experiments/nh-2026-05-03-claude-design-course|Apply structured Claude prompt design patterns to YOLO loop system prompts]] | @nh | `adopt` |
+| 2026-05-03 | [[experiments/nh-2026-05-03-claude-code-skill-creator|Install Skill Creator globally to bootstrap all Claude Code skills via plain-English prompts]] | @nh | `adopt` |
 | 2026-05-03 | [[experiments/nh-2026-05-03-claude-code-os-build-sell|Build a reusable Claude Code OS template with pre-wired tools, memory, and task scaffolding]] | @nh | `-` |
 | 2026-05-03 | [[experiments/nb-2026-05-03-benchmark-hardware-local-ai|Benchmark Local AI Hardware Options for Dev Loop Inference]] | @nb | `-` |
 | 2026-05-03 | [[experiments/mlops-2026-05-03-humans-out-of-way-agent-teams|Design a multi-agent pipeline that minimizes human checkpoints]] | @mlops | `-` |
-| 2026-05-03 | [[experiments/mk-2026-05-03-hive-mind-multi-agent-os|Build a multi-agent hive-mind with shared memory database and Telegram interface over Claude Code]] | @mk | `-` |
-| 2026-05-03 | [[experiments/mk-2026-05-03-global-vs-project-skill-hygiene|Audit and promote skills to global vs. project scope as a prerequisite to multi-agent reliability]] | @mk | `-` |
+| 2026-05-03 | [[experiments/mk-2026-05-03-hive-mind-multi-agent-os|Build a multi-agent hive-mind with shared memory database and Telegram interface over Claude Code]] | @mk | `discard` |
+| 2026-05-03 | [[experiments/mk-2026-05-03-global-vs-project-skill-hygiene|Audit and promote skills to global vs. project scope as a prerequisite to multi-agent reliability]] | @mk | `adopt` |
 | 2026-05-03 | [[experiments/do-2026-05-03-pi-agent-self-modifying|Implement a Self-Modifying Agent That Rewrites Its Own Prompts or Tools]] | @do | `discard` |
 | 2026-05-03 | [[experiments/do-2026-05-03-hermes-agent-switch|Swap current agent framework for Hermes Agent and benchmark task completion]] | @do | `discard` |
 | 2026-05-03 | [[experiments/aij-2026-05-03-openai-symphony-coding-paradigm|Prototype a Symphony-style multi-model coding orchestration layer]] | @aij | `discard` |
@@ -236,7 +244,7 @@ Ordered by published date, most recent first.
 | 2026-04-22 | [[experiments/nh-2026-04-22-openai-image2-use-cases|Integrate OpenAI Image 2 as a UI Mockup Generator in the Dev Loop]] | @nh | `-` |
 | 2026-04-22 | [[experiments/nb-2026-04-22-wiki-vs-openbrain-reliability|Stress-Test Knowledge Retrieval Under Load Conditions]] | @nb | `-` |
 | 2026-04-22 | [[experiments/nb-2026-04-22-opus-47-prompt-behavior-shift|Audit Existing Prompts Against Opus 4.7 Behavioral Changes]] | @nb | `discard` |
-| 2026-04-22 | [[experiments/nb-2026-04-22-claude-code-memory-patterns|Implement Structured CLAUDE.md Memory Layering for the YOLO Loop]] | @nb | `-` |
+| 2026-04-22 | [[experiments/nb-2026-04-22-claude-code-memory-patterns|Implement Structured CLAUDE.md Memory Layering for the YOLO Loop]] | @nb | `adopt` |
 | 2026-04-22 | [[experiments/mlops-2026-04-22-evals-still-matter-2026|Implement a Minimal Persistent Eval Harness for the YOLO Loop]] | @mlops | `discard` |
 | 2026-04-22 | [[experiments/aij-2026-04-22-self-evolving-agent|Add a Self-Reflection Step That Rewrites the Agent's Own System Prompt]] | @aij | `discard` |
 | 2026-04-21 | [[experiments/nh-2026-04-21-claude-design-prompt-structure|Develop a reusable design-intent prompt template for Claude UI generation]] | @nh | `-` |

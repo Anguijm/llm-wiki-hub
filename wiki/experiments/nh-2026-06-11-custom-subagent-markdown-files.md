@@ -4,7 +4,7 @@
 
 Source: **[How to Build Claude Subagents Better Than 99% of People](https://www.youtube.com/watch?v=e18sdZLwP7o)** · nh · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Standardises specialist agents (e.g. code reviewer, test writer, doc generator) 
 
 YAML front-matter is mandatory. Global personal agents go in ~/. Project agents go in <repo>/.claude/agents/. Dynamic workflows store as JS in .claude/workflows/.
 
+Backlog triage 2026-06-24 (owner-preference model). Reusable sub-agent files w/ YAML front-matter — the skills/recipes pattern; on-stack.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

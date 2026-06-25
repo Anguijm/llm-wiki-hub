@@ -4,7 +4,7 @@
 
 Source: **[Why Eval++ Is the Next Great Compute Primitive — Sunil Pai & Matt Carey, Cloudflare](https://www.youtube.com/watch?v=SKDJo2CopRs)** · aie · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Matt Carey and Sunil Pai from Cloudflare described their agents.cloudflare.com p
 
 If we deploy agents that need to run background tasks, maintain per-session state, or support resumable multi-turn interactions, Durable Objects offer a simpler architecture than managing external state stores. Worth prototyping for our agent loop persistence layer.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Cloudflare Durable Objects for stateful agents — file-based session_state suffices; off-stack infra.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

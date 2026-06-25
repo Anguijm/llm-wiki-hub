@@ -4,7 +4,7 @@
 
 Source: **[You Might Not Need 50 Diffusion Steps — Ziv Ilan, Nvidia](https://www.youtube.com/watch?v=gHs5ZiY80PM)** · aie · 2026-06-16
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Directly applicable if the dev loop includes image or video diffusion inference 
 
 Transcript was high quality. Start with dynamic PTQ via TRT-LLM visual-gen repo as lowest-effort first step. Distillation requires meaningful compute (Hoppers minimum) and domain-specific data for specialized outputs like protein generation.
 
+Backlog triage 2026-06-24 (owner-preference model). GPU diffusion-model optimization — off-focus.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-16 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

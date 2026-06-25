@@ -4,7 +4,7 @@
 
 Source: **[Only 1 in 1,600 People Use Codex. Here's How to Catch Up.](https://www.youtube.com/watch?v=xqGCbEDbny8)** · nb · 2026-06-12
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Applies directly to our YOLO loop's agent permission model. We can encode these 
 
 The .env secret hygiene point is immediately actionable as a repo-level policy. The receipts/proof habit pairs well with the goal-loop experiment above.
 
+Backlog triage 2026-06-24 (owner-preference model). Least-privilege agent sessions — guardrail/security match.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-12 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

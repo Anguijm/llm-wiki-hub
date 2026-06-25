@@ -4,7 +4,7 @@
 
 Source: **[Sovereign Escape Velocity: Ownership w Open Models — Gus Martins, & Ian Ballantyne, Google DeepMind](https://www.youtube.com/watch?v=SS-A8sE7hkw)** · aie · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Gus Martins and Ian Ballantyne from Google DeepMind presented the Gemma 4 model 
 
 Relevant for any YOLO loop step that currently sends sensitive codebase or customer data to a cloud API. Swapping in a local Gemma 4 31B for those steps via an OpenAI-compatible wrapper is a low-code change that could improve data security and cost.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Local Gemma 4 for sub-tasks — consistent local-model NO (cf. prior Gemma/Ollama discards).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

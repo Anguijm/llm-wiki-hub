@@ -4,7 +4,7 @@
 
 Source: **[Claude Code Dynamic Workflows Clearly Explained](https://www.youtube.com/watch?v=jZgcWCzxh1I)** · nh · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Provides a repeatable, cheap way to self-audit the skill library that powers the
 
 Decision ladder: quick task→ask Claude; repeatable→skill; messy side task→sub-agent; small crew that talks→agent team; objective-criteria loop→/goal; giant parallel job→dynamic workflow. Ultra code = x-high + workflows, very expensive. Store workflows in <project>/.claude/workflows/ not global dir.
 
+Backlog triage 2026-06-24 (owner-preference model). Fan-out scorers -> synthesis — council/parallel-agent + golden-eval family.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

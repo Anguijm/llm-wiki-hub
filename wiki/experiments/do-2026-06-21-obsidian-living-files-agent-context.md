@@ -4,7 +4,7 @@
 
 Source: **[Hermes Agent + Obsidian = The Ultimate Second Brain](https://www.youtube.com/watch?v=Q0HTefP9DFU)** · do · 2026-06-21
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ David connected Hermes agent to an Obsidian vault containing business info, goal
 
 Our YOLO loop could benefit from a structured markdown vault as the canonical context store for agents. Instead of re-feeding context each session, agents read from and write to versioned markdown files — research outputs, experiment notes, agent configs — making each run's outputs persistent and reusable in future runs.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Obsidian+VPS vault — redundant with the in-repo markdown context (learnings/_hot/skills) already used.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-21 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

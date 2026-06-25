@@ -4,7 +4,7 @@
 
 Source: **[GLM 5.2 in Claude Code is Blowing My Mind](https://www.youtube.com/watch?v=2OD14-0cot4)** · nh · 2026-06-19
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Directly actionable: the YOLO loop can implement model routing by task complexit
 
 Nate promised to paste the exact env var snippet in the video description. Key vars: ANTHROPIC_BASE_URL, ANTHROPIC_API_KEY (set to Z API key), and default model overrides all to GLM 5.2. Also mentions open-source/local model direction as future content.
 
+Backlog triage 2026-06-24 (owner-preference model). Route Claude Code to GLM 5.2 for cheapness — consistent local/open-model NO.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-19 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

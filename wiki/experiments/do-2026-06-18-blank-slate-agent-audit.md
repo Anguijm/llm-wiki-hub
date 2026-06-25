@@ -4,7 +4,7 @@
 
 Source: **[Matt Pocock's Agentic Engineering Workflow (just copy him)](https://www.youtube.com/watch?v=nQwJVHCtDDY)** · do · 2026-06-18
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Matt Pocock's top actionable recommendation was to delete every skill, plugin, M
 
 Our loop likely has accumulated config debt. This experiment gives us a fast, low-cost way to audit what is actually load-bearing in our agent setup versus what is noise, directly improving token efficiency and output consistency.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Strip-to-zero config audit — context-bloat hygiene; cheap experiment.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-18 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Peter Smith & RK Sharma - Beyond the Chatbot (including demo) | [un]prompted 2026](https://www.youtube.com/watch?v=XKKFje5IkGs)** · up · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Salesforce SOC team described an AI constitution as a document capturing the rul
 
 We can draft an analogous AI constitution for our dev loop: define which actions require human approval, what constitutes an irreversible action, and what audit logging we require. Treat it as a living document updated as agents earn trust.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). AI constitution (rules, irreversible-action gates, audit logging) — matches adopted guardrails + security work.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

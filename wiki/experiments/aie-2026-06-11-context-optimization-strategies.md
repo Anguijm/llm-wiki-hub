@@ -4,7 +4,7 @@
 
 Source: **[Why More Context Makes Your Agent Dumber and What to Do About It — Nupur Sharma, Qodo](https://www.youtube.com/watch?v=EcqMYoIV57A)** · aie · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Nupur Sharma from Qodo described observing a 'U-curve' attention pattern in LLMs
 
 Core to our dev loop: any agent that reads our codebase suffers this U-curve problem. Testing hierarchical summaries as a retrieval layer before agent context injection is a concrete near-term experiment.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Ranked hierarchical summaries for code review — context-compression family (hot-cache/build_memory).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

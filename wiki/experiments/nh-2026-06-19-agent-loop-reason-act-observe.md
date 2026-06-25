@@ -4,7 +4,7 @@
 
 Source: **[Finally. Agent Loops Clearly Explained.](https://www.youtube.com/watch?v=EuzYhzB0vbI)** · nh · 2026-06-19
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ This is a direct blueprint for the YOLO loop's core architecture: the reason-act
 
 Nate's distinction between cadence-triggered vs event-triggered loops vs continuous 24/7 loops is useful for deciding loop scheduling strategy in YOLO loop.
 
+Backlog triage 2026-06-24 (owner-preference model). Checkable goal + hard stop + separate verifier agent — council/verify + loop discipline.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-19 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

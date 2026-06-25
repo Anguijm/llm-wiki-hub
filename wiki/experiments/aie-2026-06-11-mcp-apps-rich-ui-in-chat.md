@@ -4,7 +4,7 @@
 
 Source: **[Building Interactive UIs in VS Code with MCP Apps — Marlene Mhangami & Liam Hampton, GitHub](https://www.youtube.com/watch?v=_xIwFcnHqp4)** · aie · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Marlene Mhangami and Liam Hampton from Microsoft/GitHub explained and demoed MCP
 
 If we build internal MCP servers for our dev loop (e.g. eval dashboards, trace viewers, diff explorers), returning interactive HTML via MCP apps would let developers inspect results without leaving the chat context—tightening the feedback loop.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). MCP-host iframe rendering — niche VS Code feature, not core to the build loop.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[The End of Unrestricted AI: Why Claude Fable 5 Was Just Forced Offline](https://www.youtube.com/watch?v=b3jlsjOIOzs)** · nb · 2026-06-14
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly relevant to YOLO loop resilience: we should have routing logic that can
 
 Complements the mk-2026-06-14-behavioral-diff card: the diff output tells us what degrades on fallback; this card is about building the routing infrastructure to execute the fallback.
 
+Backlog triage 2026-06-24 (owner-preference model). Warm-tested fallback routing for resilience (not cost) — prudent, matches dependency-replaceability work.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-14 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

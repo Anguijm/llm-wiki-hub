@@ -4,7 +4,7 @@
 
 Source: **[The agent-ready web: Simplify user actions with WebMCP — Tara Agyemang, Google](https://www.youtube.com/watch?v=ghJmWQCIHRM)** · aie · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Google Chrome DevRel demoed Web MCP, a proposed web standard that lets developer
 
 If our dev loop involves agents driving web UIs or internal dashboards, replacing screenshot/DOM scraping with declared MCP tools would make those steps faster, cheaper, and more reliable.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Web-automation MCP infra — off-focus.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

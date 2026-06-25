@@ -4,7 +4,7 @@
 
 Source: **[Crown Sanctum: A Living Symmetry Machine in Three.js](https://www.youtube.com/watch?v=FSVwm-5h14o)** · eh · 2026-06-16
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ A symmetry machine pattern is reusable as a generative visualization layer for a
 
 Transcript was near-empty ('[music] >> Mhm.'). Card inferred from title. Confirm symmetry technique (instanced meshes, rotation groups, shader-based mirroring) on review.
 
+Backlog triage 2026-06-24 (owner-preference model). YOLO-buildable generative-art piece; portfolio fit.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-16 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

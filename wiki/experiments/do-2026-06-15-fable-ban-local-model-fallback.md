@@ -4,7 +4,7 @@
 
 Source: **[Fable 5 is never coming back, here's why](https://www.youtube.com/watch?v=qlx40oVrXTY)** · do · 2026-06-15
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ YOLO loop reliability depends on consistent model access. A provider-agnostic ro
 
 Commentary-heavy but contains one concrete actionable: multi-provider fallback routing. Speaker also notes GPT-4.5 currently best for coding, Opus better for general use — useful for routing heuristics.
 
+Backlog triage 2026-06-24 (owner-preference model). Open-source/local fallback hedging — overlaps the adopted resilience card and leans into the local-model NO.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

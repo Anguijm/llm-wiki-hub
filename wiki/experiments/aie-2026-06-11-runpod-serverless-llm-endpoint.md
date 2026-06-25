@@ -4,7 +4,7 @@
 
 Source: **[Under 5 minutes to a deployed LLM endpoint — Audry Hsu, RunPod](https://www.youtube.com/watch?v=ILdE7FaAjVA)** · aie · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Audrey Hsu from RunPod gave a live demo deploying an LLM endpoint via the RunPod
 
 Useful when we need a cheap, fast-to-spin-up inference endpoint for open-source models during experiments—avoids committing to dedicated GPU costs. The serverless billing model fits burst evaluation workloads in our loop.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Deploy an open LLM endpoint — infra off-focus.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

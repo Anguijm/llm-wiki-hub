@@ -4,7 +4,7 @@
 
 Source: **[Don't use Fable 5 in Claude… do this instead](https://www.youtube.com/watch?v=BxR-r4F4Pbw)** · do · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker tested Claude Fable (described as Claude Mythos 5 with cyber guardrails)
 
 Directly actionable: if we are running Fable-class models in our loop, Cursor agent view is the recommended harness. Test whether the auto-fallback materially reduces workflow interruptions vs. API usage.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Cursor-specific tooling swap — not the owned harness.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

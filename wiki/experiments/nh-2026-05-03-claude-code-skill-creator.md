@@ -4,7 +4,7 @@
 
 Source: **[I Tried 100+ Claude Code Skills. These 6 Are The Best](https://www.youtube.com/watch?v=eRS3CmvrOvA)** · nh · 2026-05-03
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker installed the official Anthropic Skill Creator plugin globally (/plugin 
 
 Directly accelerates the skill-authoring step of the dev loop; a global Skill Creator means any new automation idea can be prototyped in minutes without context-switching to write raw markdown.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Skill tooling — mirrors the adopted skill-creator meta-agent (harness learn); Anthropic-native, low effort.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

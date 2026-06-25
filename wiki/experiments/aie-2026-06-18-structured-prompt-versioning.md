@@ -4,7 +4,7 @@
 
 Source: **[The Production AI Playbook: Deploying Agents at Enterprise Scale — Sandipan Bhaumik, Databricks](https://www.youtube.com/watch?v=ObTPqBGsEbA)** · aie · 2026-06-18
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Sandipan identified prompt versioning governance as a commonly missed production
 
 We can immediately add a prompt-change commit template to our repo that enforces failure-reason documentation. This is low effort to implement and high value for debugging when loop behavior degrades after a prompt update.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Structured commit messages w/ failure-reason traceability — matches build_log + learnings traceability.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-18 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

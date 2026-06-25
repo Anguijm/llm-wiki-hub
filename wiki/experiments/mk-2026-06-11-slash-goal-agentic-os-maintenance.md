@@ -4,7 +4,7 @@
 
 Source: **[How to Use /goal to Build a Self-Improving OS](https://www.youtube.com/watch?v=5xrjO38WUYY)** · mk · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Mark demonstrated five /goal use cases for agentic OS maintenance. Clean: pointe
 
 Directly applicable for keeping the YOLO loop's own skill library lean and current. The /loop + /goal combination for background maintenance is especially relevant for long-running projects where skill bloat accumulates silently and degrades agent performance.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Self-optimizing skill/rule maintenance — matches the self-improving loop + skill audits.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

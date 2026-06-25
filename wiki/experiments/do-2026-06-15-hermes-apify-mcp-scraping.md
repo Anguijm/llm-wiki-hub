@@ -4,7 +4,7 @@
 
 Source: **[This MCP makes Hermes Agent 10x more powerful](https://www.youtube.com/watch?v=V80QfRa7t_c)** · do · 2026-06-15
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly extends any agent in the YOLO loop with external data acquisition. The 
 
 Apify is the sponsor. Video includes free bundle link with MCP config, prompts, and SQL scripts. LinkedIn scraping actor specifically chosen for lower ban risk — no login or cookies needed.
 
+Backlog triage 2026-06-24 (owner-preference model). Gray-area social scraping via Hermes/Apify — off-focus.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

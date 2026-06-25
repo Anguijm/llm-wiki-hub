@@ -4,7 +4,7 @@
 
 Source: **[Why MCP and ChatGPT Apps Use Double Iframes — Frédéric Barthelet, Alpic](https://www.youtube.com/watch?v=c-2eEv2ou7Y)** · aie · 2026-06-15
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Any YOLO loop that builds or tests MCP apps with UI views needs this. The CSP in
 
 Skybridge is open source — scan QR or find on GitHub. Speaker noted OpenAI recently added a developer mode that removes CSP in dev (so you only discover missing domains in prod) — Skybridge CSP inspector solves this gap. Talk also covers end-to-end type safety between MCP server and app widgets, polyfills for host-specific APIs.
 
+Backlog triage 2026-06-24 (owner-preference model). CSP inspector for MCP app-store submission — workflow the loop doesn't run.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

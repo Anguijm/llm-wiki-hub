@@ -4,7 +4,7 @@
 
 Source: **[You Can't Tell If I'm Real Anymore. And That's Now YouTube's Problem Too.](https://www.youtube.com/watch?v=lWbtvC0Hn18)** · nb · 2026-06-20
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Our dev loop increasingly uses voice interfaces, agent personas, and synthetic n
 
 Low effort because the deliverable is a policy document, not a technical build. Could be combined with the trust-stack metadata card into a single governance sprint. Nate's checklist (approve, use, log, label, prohibit) provides a ready-made outline.
 
+Backlog triage 2026-06-24 (owner-preference model). Voice/likeness cloning policy — off-domain.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-20 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Claude Fable 5 Made This Entire Video By Itself.](https://www.youtube.com/watch?v=ONmaDdOBGig)** · nh · 2026-06-12
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ This is a stress test of the YOLO loop's maximum autonomy mode. The chunked-audi
 
 Nate notes the workflow is now skill-encodable and likely replicable with Sonnet after the first successful run. The 40% plan consumption in 1 hour is a meaningful cost signal for budgeting autonomous runs. Verification via screenshot frame-sampling is the most immediately reusable sub-pattern.
 
+Backlog triage 2026-06-24 (owner-preference model). Media-generation pipeline — off-domain, high effort.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-12 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

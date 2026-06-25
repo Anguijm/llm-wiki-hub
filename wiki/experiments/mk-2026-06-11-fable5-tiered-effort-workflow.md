@@ -4,7 +4,7 @@
 
 Source: **[Don't Use Claude Fable 5 Until You See This](https://www.youtube.com/watch?v=113P6SBWAm8)** · mk · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker analyzed Claude Fable 5's system prompt versus Opus 4.8, noted that Fabl
 
 Directly applicable to our agentic dev loop: we can gate expensive model calls to planning and verification phases while routing code generation and bulk edits to cheaper models, reducing token costs in continuous agent runs.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Tier routing across Fable/Opus/Sonnet — on-Claude-family cost/quality balance, not local-model cost-cutting.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

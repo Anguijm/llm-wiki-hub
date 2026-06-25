@@ -4,7 +4,7 @@
 
 Source: **[From MCP to Scale: Pipelines That Build Themselves — Rafael Levi, Bright Data](https://www.youtube.com/watch?v=zTZ0qunQXnM)** · aie · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Rafael Levi from Bright Data demonstrated using Claude Code with their MCP serve
 
 Relevant when our agent loop needs to ingest web data at scale (e.g. benchmarking competitor outputs, monitoring data sources). The self-healing pattern maps directly to resilient data-collection agents in our pipeline.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Web-scraper pipeline — not needed; Phase 4 uses RSS + transcript APIs.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

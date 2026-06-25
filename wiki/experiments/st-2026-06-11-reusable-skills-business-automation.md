@@ -4,7 +4,7 @@
 
 Source: **[The 8 Claude Skills Running My Business](https://www.youtube.com/watch?v=deJBemBwmcc)** · st · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Shaw described eight Claude skills he uses to run a solo business: a business st
 
 Directly applicable: we can create skill files for our own recurring dev-loop tasks (issue triage, PR description writing, test summarization, deployment checks) so agents execute correctly on first invocation without re-prompting.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Business workflows (email/CRM/proposals) — off the YOLO domain.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

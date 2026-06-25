@@ -4,7 +4,7 @@
 
 Source: **[The Claude Update Everyone Missed (Dynamic Workflows)](https://www.youtube.com/watch?v=-tLlZqrXpo8)** · mk · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Mark demonstrated generating a due diligence report on 70+ documents (contracts,
 
 The keyword-triggered harness generation is immediately usable in our loop for large codebase security reviews, dependency audits, or multi-file refactoring tasks where single-context approaches degrade. The prompt pattern is concrete and copyable.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Large-document due-diligence use case — off-domain; the workflow-pattern insight is already captured by the six-patterns card.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

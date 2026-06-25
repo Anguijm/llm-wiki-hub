@@ -4,7 +4,7 @@
 
 Source: **[This WebGL Sculpture Never Holds One Shape](https://www.youtube.com/watch?v=rhWqyz9qLUA)** · eh · 2026-06-16
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Demonstrates real-time generative rendering as a feedback loop artifact; relevan
 
 Transcript was essentially empty ('Heat.'). Card inferred from title. Verify actual technique (noise fields, SDF blending, vertex animation) when video is reviewed.
 
+Backlog triage 2026-06-24 (owner-preference model). YOLO-buildable generative-art piece; portfolio fit.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-16 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

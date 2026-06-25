@@ -4,7 +4,7 @@
 
 Source: **[Context Engineering for Coding Agents](https://www.youtube.com/watch?v=jXtnhyro-QE)** · mlops · 2026-06-15
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Directly tests context engineering decisions (what goes in context, memory archi
 
 Transcript is from a live event; full talk content truncated at 50k chars. Speaker promised to share memory system implementation and all team results post-event — worth following up. Domain was industrial PDF extraction (oil/grease engineering drawings).
 
+Backlog triage 2026-06-24 (owner-preference model). Head-to-head context-engineering benchmark — eval/benchmark discipline.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

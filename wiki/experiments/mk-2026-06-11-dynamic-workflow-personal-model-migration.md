@@ -4,7 +4,7 @@
 
 Source: **[3 AMAZING Claude Code Dynamic Workflows (Opus 4.8)](https://www.youtube.com/watch?v=9_ExDZFlaNc)** · mk · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Mark built a three-use-case showcase of dynamic workflows with Opus 4.8. Use cas
 
 The JSONL mining pattern is directly applicable for auditing our own YOLO loop session history to identify inefficiencies, repeated failure patterns, or underused skills. The adversarial verification pattern is valuable for any code-review or spec-validation step in the loop.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Mine JSONL for upgrade guidance — model-upgrade audit + memory-mining family.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

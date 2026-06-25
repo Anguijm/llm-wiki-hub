@@ -4,7 +4,7 @@
 
 Source: **[GPU Cloud Deployment Without Leaving Your IDE — Audry Hsu, RunPod](https://www.youtube.com/watch?v=zDGHt0LB-dA)** · aie · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Audrey Hsu from RunPod presented Flash, their Python SDK for GPU cloud developme
 
 Relevant if our YOLO loop includes GPU-dependent steps (model inference, fine-tuning, embedding generation). Flash's decorator pattern could dramatically speed up iteration on those steps by eliminating infrastructure boilerplate and enabling local-first development with cloud GPU execution.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). GPU inference dev tooling — off-focus.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

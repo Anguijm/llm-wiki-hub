@@ -4,7 +4,7 @@
 
 Source: **[So You Learned Claude, Now What?](https://www.youtube.com/watch?v=-zL_trhnQaI)** · nh · 2026-06-22
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ The speaker laid out a four-step roadmap for employed professionals to monetize 
 
 The audit step maps directly to YOLO loop instrumentation: identifying which part of our dev loop has the highest latency or error rate and targeting it first with an agent-based fix, then documenting the before/after delta as internal proof.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Org AI-consultant/career playbook — off-domain.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-22 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

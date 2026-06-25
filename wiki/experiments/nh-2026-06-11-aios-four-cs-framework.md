@@ -4,7 +4,7 @@
 
 Source: **[I Turned Claude Opus 4.8 Into My Entire AI Operating System](https://www.youtube.com/watch?v=0WDkwMxj13s)** · nh · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ The AIOS is the outer shell that the YOLO loop runs inside; the Four Cs framewor
 
 Free GitHub repo available via School community. Key insight: a dashboard is optional and often distracting — productivity = moving the needle on northstar metrics, not visual polish. Opus 4.8 feels more like 4.6 (good) vs 4.7's attitude/honesty issues.
 
+Backlog triage 2026-06-24 (owner-preference model). Duplicate of the adopted four-Cs second-brain card; this is the high-effort over-scoped 'AI OS' variant.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

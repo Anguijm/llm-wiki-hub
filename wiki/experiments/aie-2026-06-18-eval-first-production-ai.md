@@ -4,7 +4,7 @@
 
 Source: **[The Production AI Playbook: Deploying Agents at Enterprise Scale — Sandipan Bhaumik, Databricks](https://www.youtube.com/watch?v=ObTPqBGsEbA)** · aie · 2026-06-18
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Sandipan Bhaumik (Databricks technical lead) presented a five-pillar production 
 
 Our YOLO loop currently lacks a structured eval layer. Implementing even a minimal golden dataset and automated comparison pipeline would give us the feedback signal needed to safely iterate on prompts and catch regressions before they reach production.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Define evals + growing test library before code — eval-first discipline (golden eval).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-18 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

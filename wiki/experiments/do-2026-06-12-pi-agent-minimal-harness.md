@@ -4,7 +4,7 @@
 
 Source: **[Forget Claude Code, try Pi Agent instead…](https://www.youtube.com/watch?v=jcUqsNpDDDk)** · do · 2026-06-12
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ We can benchmark Pi Agent as a drop-in alternative execution layer inside the YO
 
 Pi's anti-MCP stance (wrapping MCP servers as CLI tools via mcp-bridge or pi-mcp-adapter) is an interesting architectural constraint to evaluate. The /share gist feature is immediately useful for sharing agent sessions with the team.
 
+Backlog triage 2026-06-24 (owner-preference model). Swap to a third-party minimal harness — against harness-ownership; build-our-own minimal loop was the adopted version.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-12 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

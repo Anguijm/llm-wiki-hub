@@ -4,7 +4,7 @@
 
 Source: **[Most Teams Skip This Critical AI Agent Skill in 2026](https://www.youtube.com/watch?v=rh_PcL26zls)** · nb · 2026-06-21
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Nate argued that the critical missing skill for teams in 2026 is agent ownership
 
 Directly applicable to our dev loop: any agent we run in the YOLO loop (code inspection, PR review, backlog prep) should have an owner card. This gives us a lightweight governance layer before we scale to multiple agents and prevents silent drift in agent behavior.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Owner card per agent (job/sources/permissions/failure-modes) — accountability; harness-health match.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-21 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

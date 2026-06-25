@@ -4,7 +4,7 @@
 
 Source: **[Give Me 10 Mins and I'll Save You Millions of Claude Tokens](https://www.youtube.com/watch?v=6cEQEba0i2A)** · nh · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Cache management is a hidden multiplier on loop efficiency: a single accidental 
 
 Critical: 'model opus plan' setting breaks cache on every plan/execute toggle — net effect on session limit needs measuring. CLAUDE.md edits safe mid-session because they don't apply until session restart. Token dashboard is open-source GitHub repo, available via School community. Cache create = 1x cost, cache read = 0.1x cost.
 
+Backlog triage 2026-06-24 (owner-preference model). Prompt-cache preservation — on-stack token efficiency, same discipline as the harness cache window.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

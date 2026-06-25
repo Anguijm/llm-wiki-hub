@@ -4,7 +4,7 @@
 
 Source: **[OpenClaw Creator's new secret project...](https://www.youtube.com/watch?v=1HkqTlXbQmQ)** · aij · 2026-06-24
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ The YOLO loop currently merges agent PRs based on static diff review; requiring 
 
 This is a lower-effort entry point than the full CrabBox setup and can be implemented incrementally on the existing single-agent workflow before scaling to parallel agents.
 
+Backlog triage 2026-06-24 (owner-preference model). Playwright video/screenshot evidence on PRs — proof/verification discipline (never-trust-self-report); Playwright is preinstalled.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

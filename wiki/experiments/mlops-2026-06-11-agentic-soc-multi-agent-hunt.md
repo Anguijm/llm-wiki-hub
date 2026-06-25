@@ -4,7 +4,7 @@
 
 Source: **[Architecting Modern AI Systems: Platforms, Agents, and Integration](https://www.youtube.com/watch?v=kDAlW3vRQzI)** · mlops · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Salesforce security team described their agentic SOC built on top of an existing
 
 Pattern of wrapping existing tooling rather than replacing it is directly applicable: we can wrap our existing CI/CD, test runners, and deployment scripts with agent reasoning layers rather than rebuilding pipelines from scratch.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Enterprise SOC/SOAR security-ops pipeline — off-domain.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

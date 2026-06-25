@@ -4,7 +4,7 @@
 
 Source: **[I Turned Claude Fable Into The Ultimate Second Brain](https://www.youtube.com/watch?v=8QQ_INxAhRs)** · nh · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker described using scoped API keys as a practical permission layer for live
 
 Immediately applicable to any live API connection we add to our dev loop. Before connecting Claude Code to any service (GitHub, Notion, CI/CD), issue a scoped read-only key and document the permission boundary in our claude.md.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Least-privilege scoped keys — security/guardrail match; low effort.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

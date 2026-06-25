@@ -4,7 +4,7 @@
 
 Source: **[How to build proactive agents & self-improving company (Fully explained)](https://www.youtube.com/watch?v=ikH1--DSzMs)** · aij · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ This is a meta-loop on top of the YOLO loop: the agent learns from each YOLO cyc
 
 Open-source tools mentioned: loopony (company-in-the-loop memory), printing press (agent-native CLI builder), jub brain (entity-based memory for personal assistant use). Memory layer structure: temporal log (what agent did) + strategy doc (latest hypothesis). Cron jobs are the trigger mechanism. Skill proposals are extracted during the daily/weekly cron run and must be approved or auto-applied.
 
+Backlog triage 2026-06-24 (owner-preference model). Cron + temporal memory + auto-skill-proposal — this IS the YOLO loop; reinforces reflect/memory/skill-gen.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

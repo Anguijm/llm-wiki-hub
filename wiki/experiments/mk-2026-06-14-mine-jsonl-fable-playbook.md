@@ -4,7 +4,7 @@
 
 Source: **[Make ANY Model Think Like Fable in Minutes](https://www.youtube.com/watch?v=B95cu7seTm8)** · mk · 2026-06-14
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly improves the agent execution layer of our dev loop: injecting a behavio
 
 Speaker offers their own synthesized playbook as a download. HuggingFace dataset of open-sourced Fable 5 sessions also cited for teams with little Fable history. Hook injection vs CLAUDE.md are two integration paths to test.
 
+Backlog triage 2026-06-24 (owner-preference model). Mine JSONL -> behavior playbook — memory-mining + model-upgrade family.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-14 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

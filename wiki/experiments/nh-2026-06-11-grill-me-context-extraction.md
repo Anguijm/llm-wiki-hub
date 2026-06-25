@@ -4,7 +4,7 @@
 
 Source: **[The Skill That 10x'd My Claude Code Projects](https://www.youtube.com/watch?v=c0kaKxM2pHg)** · nh · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Sharpens the axe before the YOLO loop starts: richer upfront context means fewer
 
 Skill available in Nate's free School community. Key addition over original: automatic checkpointing after every question prevents context-window amnesia on long sessions. Output: /brainstorms/<topic>.md with Q&A log + key decisions + open flags.
 
+Backlog triage 2026-06-24 (owner-preference model). Context-extraction interview skill; cheap, feeds planning/brainstorm.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

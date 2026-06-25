@@ -4,7 +4,7 @@
 
 Source: **[Most Teams Skip This Critical AI Agent Skill in 2026](https://www.youtube.com/watch?v=rh_PcL26zls)** · nb · 2026-06-21
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Nate described the concept of an agent's 'diet' — the documents, tickets, tran
 
 Our YOLO loop agents consume context from repo files, docs, and prior outputs. Setting up a periodic diet audit cadence (e.g., weekly check of system prompts and attached files for staleness) maps directly to keeping our coding and review agents accurate and trustworthy.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Scheduled staleness review of context sources — context hygiene + cadence; mirrors learnings-staleness concern.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-21 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

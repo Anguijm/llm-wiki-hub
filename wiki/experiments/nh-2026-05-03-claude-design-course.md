@@ -4,7 +4,7 @@
 
 Source: **[Claude Design 2 HOUR COURSE (Beginner to Pro)](https://www.youtube.com/watch?v=ovabeVoWrA0)** · nh · 2026-05-03
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Nate delivered a beginner-to-pro course on designing prompts and interactions sp
 
 Directly applicable to tuning the system prompts and turn structure inside our YOLO loop. Even small prompt design improvements compound across thousands of loop iterations.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Prompt-design discipline for loop system prompts; same family as the adopted style-guide/system-prompt work.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

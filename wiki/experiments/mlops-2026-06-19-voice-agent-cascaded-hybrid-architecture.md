@@ -4,7 +4,7 @@
 
 Source: **[Voice Agent Use Cases](https://www.youtube.com/watch?v=no_gxL40NC8)** · mlops · 2026-06-19
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ The foreground/background model routing pattern is relevant if the YOLO loop eve
 
 SOP-as-agent-spec interface pattern (non-technical authors defining agent behavior via documents) is also independently interesting for prompt engineering workflows.
 
+Backlog triage 2026-06-24 (owner-preference model). Voice-agent architecture — off-domain.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-19 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

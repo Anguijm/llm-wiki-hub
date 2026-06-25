@@ -4,7 +4,7 @@
 
 Source: **[Why Can't Anyone Answer Questions About the Business? — Garrett Galow, WorkOS](https://www.youtube.com/watch?v=iUWwcG-C8OU)** · aie · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ WorkOS built an internal tool called Studio using LangGraph with Claude Opus, co
 
 Pattern for making our dev loop's data layer queryable by agents: separating LLM-generated code from LLM-at-runtime is a reliability pattern we can apply when agents need repeatable data access in the loop.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Enterprise NL-to-SQL business tool — off-domain, high effort.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

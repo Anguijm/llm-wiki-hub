@@ -4,7 +4,7 @@
 
 Source: **[The Doing Got Cheap. Now What? | Claude Fable 5 Changes Work](https://www.youtube.com/watch?v=2w_vwQVvFmc)** · nb · 2026-06-23
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly challenges our default of breaking work into small AI subtasks. We shou
 
 Speaker also notes model still requires human review at the end and has weaknesses in visual design and handwritten image parsing. Cost at ~$50/M output tokens is a real constraint to factor into experiment scoping.
 
+Backlog triage 2026-06-24 (owner-preference model). Probe the frontier-model capacity ceiling with larger task scope — useful for sizing bigger ticks; benchmark family.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

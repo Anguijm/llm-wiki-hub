@@ -4,7 +4,7 @@
 
 Source: **[Road to 5 Million Tokens: Breaking Barriers in Long Context Training — Max Ryabinin, Together AI](https://www.youtube.com/watch?v=TUnPNY4E2fw)** · aie · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Max Ryabinin from Together AI described their 'Road to 5M sequence length' resea
 
 Directly relevant if we need to fine-tune models on long-context agent trajectories or multi-turn histories. Establishes a concrete layered recipe for pushing context limits during training without buying more hardware.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). 8xH100 long-context fine-tuning — far off-focus.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

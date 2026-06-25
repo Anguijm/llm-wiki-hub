@@ -4,7 +4,7 @@
 
 Source: **[Building MCP Before MCP Existed: Inside Despegar's Sofia Agent](https://www.youtube.com/watch?v=bowPBo0SNPQ)** · mlops · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Despegar described Sofia, a conversational travel agent with a brain called Chap
 
 Directly relevant to our multi-agent architecture decisions. The pattern of a routing orchestrator above specialized agents, with MCP for new external connections, is a concrete reference architecture we can validate.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Enterprise multi-agent orchestration scaling — single-agent preference; off-scale.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

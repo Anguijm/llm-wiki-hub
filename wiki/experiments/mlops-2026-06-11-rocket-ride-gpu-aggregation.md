@@ -4,7 +4,7 @@
 
 Source: **[AI Is Fast. AI Projects Are Slow. Let's Fix That.](https://www.youtube.com/watch?v=3xZ78HHdqAk)** · mlops · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Rocket Ride described a model server architecture that aggregates inference acro
 
 Relevant if we operate our own inference infrastructure. The batching and dynamic scaling pattern is applicable to any shared inference layer in our pipeline, reducing cost per experiment run.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Shared-GPU inference cost-cutting — enterprise infra; cost is not a constraint.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

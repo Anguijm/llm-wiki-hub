@@ -4,7 +4,7 @@
 
 Source: **[Whats Special About Meta's Multi-Agent Systems](https://www.youtube.com/watch?v=psC2-iEvXCg)** · mlops · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Meta AI architect described a multi-agent system for short-form video policy enf
 
 The perceiver-then-decide decomposition pattern and the skip-processing optimization are applicable to any multi-stage AI pipeline in our loop where we want to gate expensive model calls behind cheaper early-stage filters.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Enterprise multimodal content pipeline — off-domain, high effort.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

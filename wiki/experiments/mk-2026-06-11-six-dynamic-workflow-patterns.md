@@ -4,7 +4,7 @@
 
 Source: **[Master All 6 Claude Code Dynamic Workflows](https://www.youtube.com/watch?v=g9b9G8dcS8Y)** · mk · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Mark broke down an Anthropic engineering guide on Claude Code dynamic workflows 
 
 Directly applicable for complex YOLO loop tasks: code audits can use adversarial verification, research tasks can use fan-out, and iterative refactoring until tests pass can use loop-until-done. Knowing the six patterns lets us choose the right harness instead of defaulting to single-agent prompts.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Task-shape -> agent-topology patterns; reference for council/workflow orchestration.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

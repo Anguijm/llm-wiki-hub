@@ -4,7 +4,7 @@
 
 Source: **[Every Claude Code Memory Pattern Explained](https://www.youtube.com/watch?v=OMkdlwZxSt8)** · nb · 2026-04-22
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker systematically explained every memory pattern available in Claude Code i
 
 The YOLO loop relies on context management for multi-step coding tasks; adopting structured CLAUDE.md layering would give us finer control over what the agent knows at each stage and reduce the likelihood of stale context causing incorrect code generation.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Context/memory discipline on the Claude stack — extends the hot-cache + build_memory patterns already adopted.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-04-22 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Don't build more AI agents until you watch this](https://www.youtube.com/watch?v=BOXK2XFLA-E)** · nb · 2026-06-17
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Directly applicable to any agent in the YOLO loop that has accumulated tools ove
 
 Nate also recommends Stewart Brand's 'Maintenance of Everything' (Stripe Press) as a mental model for agent harness upkeep.
 
+Backlog triage 2026-06-24 (owner-preference model). Prune tools for reliability — harness discipline (mirrors tool-deferral); cheap.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-17 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

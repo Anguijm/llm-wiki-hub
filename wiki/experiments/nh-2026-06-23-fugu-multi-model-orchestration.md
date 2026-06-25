@@ -4,7 +4,7 @@
 
 Source: **[I Battle Tested Sakana Fugu's Fable Killer](https://www.youtube.com/watch?v=GpSqBjW6hR4)** · nh · 2026-06-23
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ We already manually route tasks between Claude Code and Codex. This experiment q
 
 Speaker used Fugu Ultra inside Claude Code via a markdown config file + API key. He is sharing that config in his free School community. Key metric to track if we run this: total wall-clock time, total cost, and pass/fail rate per task category. Fugu benchmark wins on paper come from benchmark-specific orchestration, not general task quality.
 
+Backlog triage 2026-06-24 (owner-preference model). Benchmark single vs orchestrated multi-model — benchmark discipline; tests (and likely confirms) single-model sufficiency.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

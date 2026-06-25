@@ -4,7 +4,7 @@
 
 Source: **[I Tested Every Claude Code Feature, These 12 Are the Best](https://www.youtube.com/watch?v=vfWTyEreOEc)** · nh · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Skills are the primary mechanism for encoding loop steps (plan, execute, review,
 
 Top 12 ranked features: #1 Skills, #2 Status line, #3 /context + /usage visibility, #4 Sub-agents, #5 Session handoff skill, #6 Hooks, #7 Git worktrees, #8 Dynamic workflows, #9 Deep research workflow, #10 MCP, #11 Web search/fetch, #12 CLAUDE.md. D-tier: themes, file uploads, fast mode, permissions.
 
+Backlog triage 2026-06-24 (owner-preference model). Direct match to adopted pre-wired recipes + skill files.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

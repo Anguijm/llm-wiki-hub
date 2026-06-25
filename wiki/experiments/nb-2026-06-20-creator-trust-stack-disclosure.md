@@ -4,7 +4,7 @@
 
 Source: **[You Can't Tell If I'm Real Anymore. And That's Now YouTube's Problem Too.](https://www.youtube.com/watch?v=lWbtvC0Hn18)** · nb · 2026-06-20
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ In our dev loop, every generated artifact (code, docs, summaries, voice output) 
 
 Nate explicitly ran a live voice clone demo labeled on-screen as synthetic, modeling the disclosure practice he advocates. The five questions he enumerates (voice synthetic? face synthetic? script synthetic? idea synthetic? human approved?) could map directly to a metadata schema field per artifact in our pipeline.
 
+Backlog triage 2026-06-24 (owner-preference model). AI-media provenance disclosure — the loop ships code, not published media; off-domain.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-20 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

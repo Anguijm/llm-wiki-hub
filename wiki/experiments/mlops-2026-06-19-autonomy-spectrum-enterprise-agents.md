@@ -4,7 +4,7 @@
 
 Source: **[Autonomous Agents at Work: From OpenClaw Hype to Enterprise Reality](https://www.youtube.com/watch?v=_p_xjaf7XFw)** · mlops · 2026-06-19
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ The three-tier classification and autonomy progression model can be applied to Y
 
 Speaker also emphasized that humans must own system architecture even when agents own code blocks. Relevant to YOLO loop design reviews.
 
+Backlog triage 2026-06-24 (owner-preference model). Gate autonomy by reversibility/blast-radius — mirrors the harness's hard-to-reverse-confirm doctrine + escalation.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-19 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

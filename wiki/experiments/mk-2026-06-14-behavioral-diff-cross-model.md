@@ -4,7 +4,7 @@
 
 Source: **[Make ANY Model Think Like Fable in Minutes](https://www.youtube.com/watch?v=B95cu7seTm8)** · mk · 2026-06-14
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Gives us an empirical method to evaluate model swap decisions in the YOLO loop: 
 
 Low effort because the scripting work can itself be delegated to Claude Code. Output is reusable across future model transitions, not just Fable vs Opus.
 
+Backlog triage 2026-06-24 (owner-preference model). Quantified cross-model behavioral diff — model-regression/eval discipline; cheap.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-14 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

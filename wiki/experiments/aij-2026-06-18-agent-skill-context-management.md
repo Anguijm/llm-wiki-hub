@@ -4,7 +4,7 @@
 
 Source: **[After spent 30+ hrs building loops...](https://www.youtube.com/watch?v=W6x-hb44C0c)** · aij · 2026-06-18
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Jason described the evolution from simple prompting to skill-based architecture 
 
 Our YOLO loop system prompt likely has inline instruction bloat. Refactoring into referenced skill files would reduce baseline context consumption on every invocation and enable more capability within the effective context budget.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Skills by pointer vs inline — context-efficient capability extension; skills + compression family.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-18 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

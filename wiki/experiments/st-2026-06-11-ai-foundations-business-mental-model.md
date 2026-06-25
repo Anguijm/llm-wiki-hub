@@ -4,7 +4,7 @@
 
 Source: **[AI Foundations for Business: A (non-technical) overview](https://www.youtube.com/watch?v=CCbcPJXBqgw)** · st · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Shaw presented a conceptual framework for business users explaining that LLMs ar
 
 Directly informs how we write prompts and structure task handoffs in the YOLO loop. Applying the intern-coaching frame means we should be providing business context upfront, iterating on a single case before automating, and matching model size/thinking budget to task complexity.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Vague business mindset framing, no concrete deliverable.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

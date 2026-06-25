@@ -4,7 +4,7 @@
 
 Source: **[Building MCP Before MCP Existed: Inside Despegar's Sofia Agent](https://www.youtube.com/watch?v=bowPBo0SNPQ)** · mlops · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Despegar organized Sofia development so a small central team builds the initial 
 
 Applicable when our team grows or when we want subject-matter experts to own specific agent capabilities. Defines the interface between a platform team (scaffold, orchestration, MCP) and feature teams (domain flows).
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Domain-team org structure — irrelevant to a solo loop.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[This Interactive Geometry Visualizer Feels Like Living Watercolor](https://www.youtube.com/watch?v=OFKqKJUX5mg)** · eh · 2026-06-13
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Tests the YOLO loop's ability to rapidly scaffold creative, visually rich front-
 
 No transcript available; inferred from title. Priority may depend on whether the video reveals specific prompting or code generation techniques worth replicating.
 
+Backlog triage 2026-06-24 (owner-preference model). YOLO-buildable single-file generative-art piece; fits the portfolio (WebGL art).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-13 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

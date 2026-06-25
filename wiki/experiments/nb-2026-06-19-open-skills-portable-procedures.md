@@ -4,7 +4,7 @@
 
 Source: **[Your AI Skills Are Trapped | Here's How to Own Them](https://www.youtube.com/watch?v=9PUaEj0pMYE)** · nb · 2026-06-19
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly applicable: the YOLO loop can load skill files per-task to eliminate re
 
 Open Skills repo URL shown on screen but not captured in transcript. Worth finding at launch URL. Key differentiator vs prompt libraries: every file has job+scope+trigger+boundary+proof standard.
 
+Backlog triage 2026-06-24 (owner-preference model). Scoped skills w/ verification contracts — skills + verification double match.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-19 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

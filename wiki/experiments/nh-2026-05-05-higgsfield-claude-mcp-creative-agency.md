@@ -4,7 +4,7 @@
 
 Source: **[Higgsfield Just Turned Claude Into a Creative Agency](https://www.youtube.com/watch?v=xn6Z5PYyAIE)** · nh · 2026-05-05
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Shows how to wrap an external creative-generation API as an MCP tool and let Cla
 
 Nate noted that video text rendering (e.g. album metadata on covers) is still unreliable — workaround is to use a plain logo/name overlay instead of detailed text. The routine scheduling feature in Claude Code is the key lever for the automation layer; he has a dedicated routines video linked in the description that covers gotchas.
 
+Backlog triage 2026-06-24 (owner-preference model). Brand-asset creative-agency pipeline — off-domain.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-05 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

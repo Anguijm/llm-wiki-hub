@@ -4,7 +4,7 @@
 
 Source: **[Learn These 6 AI Skills Now (Before AI Replaces You)](https://www.youtube.com/watch?v=3XIGcM7VICc)** · nh · 2026-06-15
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Establishes the discipline of measuring loop iteration time and output quality b
 
 Career/self-help framing but the core advice — pick one workflow, measure it, automate it, share results — is directly applicable to evaluating new tools in the loop. Free resource guide linked in description via School community.
 
+Backlog triage 2026-06-24 (owner-preference model). Fully automate one recurring workflow + measure ROI — Scheduled-Tasks + boring-but-high-ROI family.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

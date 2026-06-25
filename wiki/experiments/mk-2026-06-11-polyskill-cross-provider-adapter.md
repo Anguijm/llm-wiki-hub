@@ -4,7 +4,7 @@
 
 Source: **[How to INSTANTLY Run ANY Skill in Claude + Codex](https://www.youtube.com/watch?v=tjjX43FoAUg)** · mk · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Mark identified key structural differences between Claude Code and Codex skills:
 
 If our YOLO loop uses both Claude Code and Codex agents for different tasks, this adapter prevents skill fragmentation and lets us maintain a single source of truth for each workflow, reducing maintenance overhead as providers evolve.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Skill portability across Claude/Codex — supports the dual-tool routing already adopted.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

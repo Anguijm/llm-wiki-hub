@@ -4,7 +4,7 @@
 
 Source: **[Stop Making Models Bigger, Make Them Behave — Kobie Crawdord, Snorkel](https://www.youtube.com/watch?v=TNwJ1LMiENk)** · aie · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Kobie Crawford from Snorkel presented research done in partnership with UC Berke
 
 Informs model selection strategy in the YOLO loop: before upgrading to a larger model when an agent fails at a structured task, diagnose whether the failure is tool-use discipline. If so, a fine-tuned smaller model may be cheaper and faster. The rubric-based eval approach is immediately adoptable for diagnosing loop failures.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). RL fine-tuning of a small model — GPU-heavy, off-focus, wrong hardware.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

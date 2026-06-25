@@ -4,7 +4,7 @@
 
 Source: **[MCP, Agents & the $40M Bet on Multiplayer AI](https://www.youtube.com/watch?v=NsLPju6TZVc)** · mlops · 2026-06-15
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Provides a framework for designing the coordination layer when YOLO loop scales 
 
 Dust raised $40M (per title). Speaker also made a pragmatist argument for agentic search over RAG: as context windows grow, just give agents the same search tools humans use and pay the latency tax for simplicity. MCP/CLI as the convergence point for human+agent tool interfaces.
 
+Backlog triage 2026-06-24 (owner-preference model). Flocking-metaphor multi-agent coordination — abstract, no concrete deliverable; single-agent preference.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

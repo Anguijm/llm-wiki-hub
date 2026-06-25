@@ -4,7 +4,7 @@
 
 Source: **[How to Build Claude Subagents Better Than 99% of People](https://www.youtube.com/watch?v=e18sdZLwP7o)** · nh · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Enables automated multi-stakeholder review passes inside the YOLO loop without b
 
 Key rule: sub-agents only talk back to main session, not to each other. For inter-agent communication use agent teams. Dynamic workflows = x-high + parallel sub-agents via JS file; be careful of session limit burn.
 
+Backlog triage 2026-06-24 (owner-preference model). Parallel persona reviewers — the council multi-angle pattern, already adopted.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[From Transcription to Live Music: Gemini's Audio Stack — Thor Schaeff, Google DeepMind](https://www.youtube.com/watch?v=Bc6Ojl2XS1w)** · aie · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Thor Schaeff from Google DeepMind presented Gemini's audio stack. He demonstrate
 
 If our YOLO loop processes meeting transcripts, standup recordings, or voice memos for context, replacing a multi-step pipeline with a single Gemini audio API call that returns structured JSON (speakers, timestamps, emotions, translations) would simplify the pipeline and enrich the context available to downstream agents.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Alternate audio transcription — current Phase 4 transcript pipeline already works.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

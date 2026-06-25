@@ -4,7 +4,7 @@
 
 Source: **[Your Agent's Biggest Lie: "I Searched the Web" — Rafael Levi, Bright Data](https://www.youtube.com/watch?v=btxGmN8RvNU)** · aie · 2026-06-17
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Any YOLO loop agent that calls out to the web for research, pricing, or validati
 
 Rafael mentioned a complementary pattern: have the LLM build a parser script once, then run the script to scrape at scale—saves ~99% of tokens vs. LLM-parsed HTML. Free tier is 5000 requests/month. GitHub: github.com/brightdata.
 
+Backlog triage 2026-06-24 (owner-preference model). Proxy-backed scraping vs hallucination — web-infra off-focus.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-17 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

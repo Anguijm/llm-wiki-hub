@@ -4,7 +4,7 @@
 
 Source: **[I Tried 100+ Claude Code Skills. These 6 Are The Best](https://www.youtube.com/watch?v=eRS3CmvrOvA)** · nh · 2026-05-03
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker installed the Superpowers plugin which overrides Claude Code's default s
 
 Addresses the most common failure mode in rapid agentic dev loops—rushed code that passes surface inspection but breaks in production; adds a structured quality gate without requiring manual review steps.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Plan-then-test discipline — directly reinforces the adopted vertical-planning / self-critique gates.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

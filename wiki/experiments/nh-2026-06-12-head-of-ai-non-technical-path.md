@@ -4,7 +4,7 @@
 
 Source: **[From Zero to Head of AI in 1 Year (as a regular person)](https://www.youtube.com/watch?v=diY71x7GUjI)** · nh · 2026-06-12
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Relevant to how we staff and scope the YOLO loop's human-in-the-loop roles. The 
 
 Less a technical experiment and more an org/process signal. The utilization gap stat (85% skill, 25% use) is a useful benchmark for measuring our own internal adoption after deploying YOLO loop tooling.
 
+Backlog triage 2026-06-24 (owner-preference model). Career/role validation — not a technical experiment.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-12 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

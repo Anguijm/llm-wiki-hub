@@ -4,7 +4,7 @@
 
 Source: **[Building Realistic Voice Agents Has Never Been Easier](https://www.youtube.com/watch?v=-cdexJWN8YA)** · nh · 2026-05-04
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ The speaker used Claude Code to build a voice agent backed by all 400 of his You
 
 Maps to the YOLO loop's tool-building and interface layer — specifically, using Claude Code as the build agent to scaffold external API integrations (ElevenLabs, vector stores) from a high-level natural language spec. Demonstrates a pattern where the loop's agentic coder handles multi-step integration work including knowledge ingestion, prompt engineering, and frontend embedding without human-written boilerplate.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Voice-agent/media build — off the dev-tool/sim/art YOLO focus.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-05-04 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

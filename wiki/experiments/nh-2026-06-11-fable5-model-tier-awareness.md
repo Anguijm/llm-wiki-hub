@@ -4,7 +4,7 @@
 
 Source: **[Claude Mythos is Finally Here.](https://www.youtube.com/watch?v=dYrrEKXtttk)** · nh · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Directly impacts model selection in the dev loop; swapping the base model in Cla
 
 Time-sensitive: free access window closes June 22. Effort levels: ultra code = x-high + workflows. Mythos 5 remains restricted to Glasswing/US gov partners only.
 
+Backlog triage 2026-06-24 (owner-preference model). Time-boxed 'before June 22 paywall' — window has passed; stale.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

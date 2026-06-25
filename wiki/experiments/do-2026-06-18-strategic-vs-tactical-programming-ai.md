@@ -4,7 +4,7 @@
 
 Source: **[Matt Pocock's Agentic Engineering Workflow (just copy him)](https://www.youtube.com/watch?v=nQwJVHCtDDY)** · do · 2026-06-18
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Matt Pocock argued that AI has fully consumed 'tactical programming' (writing co
 
 Directly targets our dev loop's scaffolding layer — if our repo structure, module boundaries, and CLAUDE.md are optimized for AX, every agent invocation in the loop starts with better context, reducing correction iterations and token waste.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Agent-experience (AX) codebase design — extends agent-readable design.md / skill-file philosophy.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-18 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

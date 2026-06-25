@@ -4,7 +4,7 @@
 
 Source: **[AI Is Fast. AI Projects Are Slow. Let's Fix That.](https://www.youtube.com/watch?v=3xZ78HHdqAk)** · mlops · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Panel discussed that Claude is strong at implementing a specific plan but weak a
 
 Maps directly to our claude.md / AGENTS.md practice. This experiment suggests we should also include an explicit component inventory and style-guide section in that file and measure reduction in duplicated code artifacts.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Front-loaded planning doc — same lesson as adopted vertical-planning (env-diff zero-rework evidence).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

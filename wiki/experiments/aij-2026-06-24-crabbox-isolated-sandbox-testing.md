@@ -4,7 +4,7 @@
 
 Source: **[OpenClaw Creator's new secret project...](https://www.youtube.com/watch?v=1HkqTlXbQmQ)** · aij · 2026-06-24
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly solves the YOLO loop's parallelism bottleneck: when multiple agents are
 
 CrabBox is open source. Jason also mentions a 'crabbox setup skill' and 'set up codebase harness skill' available in his builder club. Daytona is mentioned as one supported provider with a 60-second default timeout requiring background process workaround.
 
+Backlog triage 2026-06-24 (owner-preference model). Per-agent cloud sandboxes (CrabBox) — git-worktree isolation already covers parallel-agent conflicts; vendor cloud infra/cost.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

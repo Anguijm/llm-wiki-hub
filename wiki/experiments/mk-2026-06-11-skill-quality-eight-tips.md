@@ -4,7 +4,7 @@
 
 Source: **[Why 90% of Your Claude Skills Are Dead Weight](https://www.youtube.com/watch?v=cgWZcFKx2lQ)** · mk · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Mark argued that most users accumulate dead-weight skills that (a) add 69–150 
 
 Immediately actionable for auditing existing YOLO loop skills. The wrong-primitive heuristic and description-budget check are especially high-value for reducing silent context degradation that makes agents seem 'dumb' over long sessions.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Skill-quality heuristics audit; cheap skill-hygiene.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

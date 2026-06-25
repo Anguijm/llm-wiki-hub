@@ -4,7 +4,7 @@
 
 Source: **[Stop Picking Between Claude Code and Codex | Do This Instead](https://www.youtube.com/watch?v=R2-Y1Hjwx2U)** · nb · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker described how serious Claude Code users keep a claude.md file as a stand
 
 A claude.md (or equivalent AGENTS.md / YOLO.md) is a foundational artifact in our loop. This experiment validates maintaining it actively and measuring whether session coherence and fewer correction loops result.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Standing-context file — already core practice (CLAUDE.md); confirm + tighten.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

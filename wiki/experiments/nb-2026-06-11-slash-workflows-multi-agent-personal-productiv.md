@@ -4,7 +4,7 @@
 
 Source: **[My Codex Ran 800 Million Tokens in A Day. The Real Story Isn't Cost.](https://www.youtube.com/watch?v=l8BloTSLK6M)** · nb · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker grabbed an open-source /workflows skill originally released with Opus 4.
 
 Directly applicable to our loop for any task that benefits from parallel research or multi-perspective analysis. Port the /workflows skill and measure quality delta vs single-agent runs on equivalent tasks.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Workflow-based sub-task decomposition; on-stack, matches parallel-agent + council adoption.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

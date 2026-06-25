@@ -4,7 +4,7 @@
 
 Source: **[How to Use Claude Better than 99% of Founder-CEOs](https://www.youtube.com/watch?v=0jX-TB7SAjY)** · st · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Shaw taught a framework he uses in 1-on-1 founder coaching sessions. Step 1: aud
 
 Provides a concrete process for bootstrapping new YOLO loop skills. Instead of writing skill files by hand, we can discover them organically through an initial exploratory session and then crystallize them, lowering the barrier to adding new automated steps.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Calendar/personal-productivity delegation — off-domain.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

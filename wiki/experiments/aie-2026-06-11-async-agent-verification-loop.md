@@ -4,7 +4,7 @@
 
 Source: **[How to Keep Shipping When You Walk Away from Your Desk — Zack Proser, WorkOS](https://www.youtube.com/watch?v=so9l_MwS2yg)** · aie · 2026-06-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Proser added an MCP connection to Slack for Claude Code so that after fixing a s
 
 Core pattern for our YOLO loop: attaching environment-side verification tools (test runner, log reader, channel poster) to the agent so the loop closes without human intervention and we wake up to done tickets rather than stalled agents.
 
+## Notes
+
+Backlog triage 2026-06-24 (owner-preference model). Agent self-verifies against the real env before surfacing — the never-trust-self-report / verify_build principle.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 
