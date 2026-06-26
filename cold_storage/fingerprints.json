@@ -209,6 +209,26 @@
     "slug": "aie-2026-06-25-recursive-coding-agents-rlm",
     "synced_at": "2026-06-25T23:17:21.325059+00:00"
   },
+  "phase4:aie-2026-06-26-effect-native-agent-loop": {
+    "hash": "acbd82852b6e2fea305b1ddc1b18b757155b8efdee1e82305fb10dfb8729ec01",
+    "slug": "aie-2026-06-26-effect-native-agent-loop",
+    "synced_at": "2026-06-26T23:05:30.573257+00:00"
+  },
+  "phase4:aie-2026-06-26-four-layer-prompt-stack": {
+    "hash": "d33e83509c27228e6d8853a88ff88a12c328651122ad7c7d47dc55c3fc9669a0",
+    "slug": "aie-2026-06-26-four-layer-prompt-stack",
+    "synced_at": "2026-06-26T23:05:30.572229+00:00"
+  },
+  "phase4:aie-2026-06-26-polygraph-cross-repo-agent-memory": {
+    "hash": "97cf01525c9437df10563accd7fd562329b8551e0595c508f0061dc74f01b2a2",
+    "slug": "aie-2026-06-26-polygraph-cross-repo-agent-memory",
+    "synced_at": "2026-06-26T23:05:30.573862+00:00"
+  },
+  "phase4:aie-2026-06-26-second-brain-ai-research-os": {
+    "hash": "cb6c82944ff902cf7bbd8a87d583954e254e3d91eaf2674a4d5f455a7d91c702",
+    "slug": "aie-2026-06-26-second-brain-ai-research-os",
+    "synced_at": "2026-06-26T23:05:30.572739+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -408,6 +428,16 @@
     "hash": "05659fa2289e2876b6ea11175476dfeb7371ca0e969b18873f2bd61df5950cab",
     "slug": "do-2026-06-21-obsidian-living-files-agent-context",
     "synced_at": "2026-06-25T23:17:21.320551+00:00"
+  },
+  "phase4:do-2026-06-26-private-inference-374m-tokens": {
+    "hash": "f5a45328551bd4b9e94dcea62f3e5366d0112dd3a83560a307c36a6d7388e0df",
+    "slug": "do-2026-06-26-private-inference-374m-tokens",
+    "synced_at": "2026-06-26T23:05:30.571724+00:00"
+  },
+  "phase4:do-2026-06-26-self-host-local-model-sovereignty": {
+    "hash": "897b83b6b791e465b7a70a9c0a1a5bcc8f00df7c9da62fc00a2f340ed78edc99",
+    "slug": "do-2026-06-26-self-host-local-model-sovereignty",
+    "synced_at": "2026-06-26T23:05:30.571177+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
@@ -1108,6 +1138,11 @@
     "hash": "da0ec70c4a1598d86b061f35de59768801139c459dce3921f97966193f5a95bf",
     "slug": "nb-2026-06-24-loop-of-loops-agent-architecture",
     "synced_at": "2026-06-25T23:17:21.322731+00:00"
+  },
+  "phase4:nb-2026-06-26-open-engine-multi-ai-queue": {
+    "hash": "81a728b8ddf539e64f74c94cbeb982f2bc9602bdfa601f2f45382174b6aa63aa",
+    "slug": "nb-2026-06-26-open-engine-multi-ai-queue",
+    "synced_at": "2026-06-26T23:05:30.570640+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",

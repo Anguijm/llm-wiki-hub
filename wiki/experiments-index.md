@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**293 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**300 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -16,8 +16,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | `discarded` | 83 |
 | `deferred` | 56 |
 | `done` | 48 |
+| `backlog` | 15 |
 | `in_progress` | 10 |
-| `backlog` | 8 |
 | `skipped` | 4 |
 
 ## By verdict
@@ -26,17 +26,17 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 |---|---|
 | `adopt` | 122 |
 | `discard` | 93 |
-| `(none)` | 78 |
+| `(none)` | 85 |
 
 ## By channel
 
 | Channel | Experiments |
 |---|---|
-| @nb | 72 |
+| @nb | 73 |
 | @nh | 64 |
 | @mlops | 44 |
-| @aie | 40 |
-| @do | 30 |
+| @aie | 44 |
+| @do | 32 |
 | @mk | 17 |
 | @aij | 8 |
 | @st | 7 |
@@ -53,6 +53,13 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-06-26 | [[experiments/nb-2026-06-26-open-engine-multi-ai-queue|Build a shared task queue so multiple AI agents hand off work with full context]] | @nb | `-` |
+| 2026-06-26 | [[experiments/do-2026-06-26-self-host-local-model-sovereignty|Set up a locally-hosted fallback model so the dev loop survives API access disruptions]] | @do | `-` |
+| 2026-06-26 | [[experiments/do-2026-06-26-private-inference-374m-tokens|Run private home inference at 374M tokens/month using compressed open-weight models for agentic workloads]] | @do | `-` |
+| 2026-06-26 | [[experiments/aie-2026-06-26-second-brain-ai-research-os|Build a wiki-generating memory layer between Obsidian/Readwise and coding agents to surface high-signal notes at task start]] | @aie | `-` |
+| 2026-06-26 | [[experiments/aie-2026-06-26-polygraph-cross-repo-agent-memory|Add a cross-repo session memory graph (Polygraph pattern) so agents reference past decisions without human re-explanation]] | @aie | `-` |
+| 2026-06-26 | [[experiments/aie-2026-06-26-four-layer-prompt-stack|Replace monolithic system prompts with a four-layer assembled prompt stack (identity → conditions → voice → veto)]] | @aie | `-` |
+| 2026-06-26 | [[experiments/aie-2026-06-26-effect-native-agent-loop|Replace LangGraph with a custom Effect-native agent loop for full observability and structured concurrency]] | @aie | `-` |
 | 2026-06-25 | [[experiments/nh-2026-06-25-claude-code-sycophancy-roast-council|Add a multi-persona 'Roast Council' prompt to stress-test ideas before building]] | @nh | `-` |
 | 2026-06-25 | [[experiments/nh-2026-06-25-claude-code-subagent-parallel-goal|Use /goal + parallel sub-agents to produce a full launch plan in under an hour]] | @nh | `-` |
 | 2026-06-25 | [[experiments/mk-2026-06-25-claude-code-aws-bedrock-enterprise-stack|Deploy a multi-agent Claude platform inside AWS Bedrock with SOC2/HIPAA guardrails and kill switches]] | @mk | `-` |
