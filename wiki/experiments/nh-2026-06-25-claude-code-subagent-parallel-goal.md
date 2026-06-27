@@ -4,7 +4,7 @@
 
 Source: **[I asked Claude Code to make me as much money as possible](https://www.youtube.com/watch?v=iTY8Q449YNQ)** · nh · 2026-06-25
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Nate used /goal to declare a complete go-to-market outcome, which caused Claude 
 
 Maps directly to our planning and sprint-kickoff phases: instead of sequentially prompting for each artifact, issue a single /goal and let sub-agents produce all planning documents in parallel, then review and execute.
 
+## Notes
+
+Backlog triage 2026-06-27 (owner-preference model). Parallel sub-agents to produce a marketing launch plan — off-domain deliverable; the technique is already covered by adopted dynamic-workflow items.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-25 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Build Systems, Not Code - Angie Jones, Agentic AI Foundation](https://www.youtube.com/watch?v=ZD9-4fW2HhM)** · aie · 2026-06-25
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Angie walked through designing a 'Relocation Scout' house-hunting agent as a con
 
 High relevance as a design checklist for any new agent we add to our loop: use her five disciplines as a pre-build review gate, especially the idempotency lint pass and the human-approval wall for irreversible actions.
 
+## Notes
+
+Backlog triage 2026-06-27 (owner-preference model). Classical SWE disciplines for agents (decomposition, SoC, termination states, threat modeling) — skills + guardrails + harness-health fit.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-25 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

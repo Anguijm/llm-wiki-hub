@@ -190,49 +190,49 @@
     "synced_at": "2026-06-25T23:17:21.316774+00:00"
   },
   "phase4:aie-2026-06-25-build-systems-not-code-agent-design": {
-    "hash": "b5517f462204822f5f2b0f59264e9b0bfe77be9eba78c4aba4e4c4ee97032991",
+    "hash": "ab422ad25c8ce89c784ab68f52028369b0ce9e532d322110bf60ffaf5c96e126",
     "slug": "aie-2026-06-25-build-systems-not-code-agent-design",
-    "synced_at": "2026-06-25T23:17:21.325708+00:00"
+    "synced_at": "2026-06-27T23:01:57.806081+00:00"
   },
   "phase4:aie-2026-06-25-log-as-agent-identity": {
-    "hash": "1df71c245b202c2497bd27976f09a3839fcecb4a72bb0998fa361f683e4241ac",
+    "hash": "f41dab0952bda9b73a9c46215f05fe256b3666fea654a857940257ecd17b4b7b",
     "slug": "aie-2026-06-25-log-as-agent-identity",
-    "synced_at": "2026-06-25T23:17:21.324753+00:00"
+    "synced_at": "2026-06-27T23:01:57.804992+00:00"
   },
   "phase4:aie-2026-06-25-miranda-hypothesis-persona-eval-humanist-loop": {
-    "hash": "5ae6f3512a33296b30e086933fb9b23cd9e76b239046ea8fe45466b78c65b841",
+    "hash": "164001ff6e7929805b1644600ae763dcb3ed08ef9930375fee04f987dc4bd55e",
     "slug": "aie-2026-06-25-miranda-hypothesis-persona-eval-humanist-loop",
-    "synced_at": "2026-06-25T23:17:21.326061+00:00"
+    "synced_at": "2026-06-27T23:01:57.806475+00:00"
   },
   "phase4:aie-2026-06-25-production-evals-agentic-systems": {
-    "hash": "71d636f13d5250bb2c3d4c6140e4e025eed797cfc109b0a0ad755733f64ac665",
+    "hash": "6301b65a4dc90e2bd69c6e5c61dd41102a5a91a3bf9fe21362e254a0be53b95d",
     "slug": "aie-2026-06-25-production-evals-agentic-systems",
-    "synced_at": "2026-06-25T23:17:21.325394+00:00"
+    "synced_at": "2026-06-27T23:01:57.805736+00:00"
   },
   "phase4:aie-2026-06-25-recursive-coding-agents-rlm": {
-    "hash": "42f54546de3acf391eb0a7ad5e453d6bba8e5a546d978804b719dbcfd831fe1d",
+    "hash": "a9714781aa39b6979eb6a98d935d73a3f146671f45f1fa4e06ec068a8beb7829",
     "slug": "aie-2026-06-25-recursive-coding-agents-rlm",
-    "synced_at": "2026-06-25T23:17:21.325059+00:00"
+    "synced_at": "2026-06-27T23:01:57.805371+00:00"
   },
   "phase4:aie-2026-06-26-effect-native-agent-loop": {
-    "hash": "acbd82852b6e2fea305b1ddc1b18b757155b8efdee1e82305fb10dfb8729ec01",
+    "hash": "77b03367661f1814695b1f1b633057663d75321f6e2f497f8c26e11620bc0dbb",
     "slug": "aie-2026-06-26-effect-native-agent-loop",
-    "synced_at": "2026-06-26T23:05:30.573257+00:00"
+    "synced_at": "2026-06-27T23:01:57.808745+00:00"
   },
   "phase4:aie-2026-06-26-four-layer-prompt-stack": {
-    "hash": "d33e83509c27228e6d8853a88ff88a12c328651122ad7c7d47dc55c3fc9669a0",
+    "hash": "e8f1d0d380b6e6ad986d03a60812b9d3c652ea783a2da014c7218ecf5ecd2967",
     "slug": "aie-2026-06-26-four-layer-prompt-stack",
-    "synced_at": "2026-06-26T23:05:30.572229+00:00"
+    "synced_at": "2026-06-27T23:01:57.808018+00:00"
   },
   "phase4:aie-2026-06-26-polygraph-cross-repo-agent-memory": {
-    "hash": "97cf01525c9437df10563accd7fd562329b8551e0595c508f0061dc74f01b2a2",
+    "hash": "f9ee4b2db81f68417c37366cb4c946dfd331d30191d12c53c4473f2255eae135",
     "slug": "aie-2026-06-26-polygraph-cross-repo-agent-memory",
-    "synced_at": "2026-06-26T23:05:30.573862+00:00"
+    "synced_at": "2026-06-27T23:01:57.809131+00:00"
   },
   "phase4:aie-2026-06-26-second-brain-ai-research-os": {
-    "hash": "cb6c82944ff902cf7bbd8a87d583954e254e3d91eaf2674a4d5f455a7d91c702",
+    "hash": "3491027fc58e246b3b083bed8fb522e37c4ac0a46b30b3ae5c79001bd0e59dc7",
     "slug": "aie-2026-06-26-second-brain-ai-research-os",
-    "synced_at": "2026-06-26T23:05:30.572739+00:00"
+    "synced_at": "2026-06-27T23:01:57.808395+00:00"
   },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
@@ -435,14 +435,14 @@
     "synced_at": "2026-06-25T23:17:21.320551+00:00"
   },
   "phase4:do-2026-06-26-private-inference-374m-tokens": {
-    "hash": "f5a45328551bd4b9e94dcea62f3e5366d0112dd3a83560a307c36a6d7388e0df",
+    "hash": "c66280cfc34d2d3a84a3c43e8526d5eb2d8fba948303374952ea462506a14d06",
     "slug": "do-2026-06-26-private-inference-374m-tokens",
-    "synced_at": "2026-06-26T23:05:30.571724+00:00"
+    "synced_at": "2026-06-27T23:01:57.807656+00:00"
   },
   "phase4:do-2026-06-26-self-host-local-model-sovereignty": {
-    "hash": "897b83b6b791e465b7a70a9c0a1a5bcc8f00df7c9da62fc00a2f340ed78edc99",
+    "hash": "3d4391be0141f9a2b9c19650521bd1031e5092b92fa9eab9c5fdc539e4e413d4",
     "slug": "do-2026-06-26-self-host-local-model-sovereignty",
-    "synced_at": "2026-06-26T23:05:30.571177+00:00"
+    "synced_at": "2026-06-27T23:01:57.807244+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
@@ -550,9 +550,9 @@
     "synced_at": "2026-06-25T23:17:21.307951+00:00"
   },
   "phase4:mk-2026-06-25-claude-code-aws-bedrock-enterprise-stack": {
-    "hash": "697fb6bdfa1a598d22485c888a089f703d8c353a93833d5a9aeff443244a1ca0",
+    "hash": "23402c380004650f9786660902a167eba309054f14179817bbc46c1181072055",
     "slug": "mk-2026-06-25-claude-code-aws-bedrock-enterprise-stack",
-    "synced_at": "2026-06-25T23:17:21.324441+00:00"
+    "synced_at": "2026-06-27T23:01:57.804611+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
@@ -1145,9 +1145,9 @@
     "synced_at": "2026-06-25T23:17:21.322731+00:00"
   },
   "phase4:nb-2026-06-26-open-engine-multi-ai-queue": {
-    "hash": "81a728b8ddf539e64f74c94cbeb982f2bc9602bdfa601f2f45382174b6aa63aa",
+    "hash": "e72e753ff1d13f0205bbb2d55def60d143a851f4ec678f194372de02a3cf856a",
     "slug": "nb-2026-06-26-open-engine-multi-ai-queue",
-    "synced_at": "2026-06-26T23:05:30.570640+00:00"
+    "synced_at": "2026-06-27T23:01:57.806854+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
@@ -1470,14 +1470,14 @@
     "synced_at": "2026-06-25T23:17:21.322333+00:00"
   },
   "phase4:nh-2026-06-25-claude-code-subagent-parallel-goal": {
-    "hash": "fd14ce827af02e7e4b179776aa12fd58ebd6828089fda40f301826c53fe045c6",
+    "hash": "b40bc811606656cf1ebe388e78d0f7bd2f8524958c4cc397897c5d5f0aeb8ad2",
     "slug": "nh-2026-06-25-claude-code-subagent-parallel-goal",
-    "synced_at": "2026-06-25T23:17:21.324103+00:00"
+    "synced_at": "2026-06-27T23:01:57.804213+00:00"
   },
   "phase4:nh-2026-06-25-claude-code-sycophancy-roast-council": {
-    "hash": "2ba6c5f3b20c90238c9c119247c73502911333cc1da0002a5a16573dff91fd1c",
+    "hash": "73ebecc7fcf499a3f04a0c61394945cb2ccdbf98e439aee9f19bf6e5452904b5",
     "slug": "nh-2026-06-25-claude-code-sycophancy-roast-council",
-    "synced_at": "2026-06-25T23:17:21.323784+00:00"
+    "synced_at": "2026-06-27T23:01:57.803771+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

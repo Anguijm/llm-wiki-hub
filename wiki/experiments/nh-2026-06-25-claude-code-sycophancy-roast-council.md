@@ -4,7 +4,7 @@
 
 Source: **[I asked Claude Code to make me as much money as possible](https://www.youtube.com/watch?v=iTY8Q449YNQ)** · nh · 2026-06-25
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Nate built a skill called 'roast' that pulls Claude out of agreement mode by ins
 
 Directly applicable as a pre-build gate in our loop: run the roast council against any new feature idea or architecture decision before writing code, preventing us from building well-executed wrong things.
 
+## Notes
+
+Backlog triage 2026-06-27 (owner-preference model). Adversarial multi-persona pre-build review — matches the council/adversarial-verify pattern; low effort.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-25 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

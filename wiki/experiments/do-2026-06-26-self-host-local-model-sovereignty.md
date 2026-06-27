@@ -4,7 +4,7 @@
 
 Source: **[GPT 5.6 is out… but not for you lol](https://www.youtube.com/watch?v=IloXWEYXen8)** · do · 2026-06-26
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ YOLO loop currently depends on Claude/OpenAI APIs. A local fallback model — ev
 
 Primarily commentary/opinion but contains the specific 3-step actionable prescription. Experiment scope: install Ollama + Qwen or GLM locally, wire it as a fallback provider in the loop config, measure quality delta vs frontier on representative loop tasks.
 
+Backlog triage 2026-06-27 (owner-preference model). Local fallback model (Qwen/Deepseek/GLM) — consistent local-model NO.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-26 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

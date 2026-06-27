@@ -4,7 +4,7 @@
 
 Source: **[Recursive Coding Agents - Raymond Weitekamp, OpenProse](https://www.youtube.com/watch?v=3hXJI2q0Jz8)** · aie · 2026-06-25
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ High relevance for our most complex tasks: large refactors, multi-file feature b
 
 Interactive slides at recursivecodingagents.com. OpenProse is the implementation vehicle.
 
+Backlog triage 2026-06-27 (owner-preference model). Recursive-LM symbolic refactor architecture — exotic, high effort, not aligned with single-file YOLO builds.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-25 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

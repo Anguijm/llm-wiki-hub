@@ -4,7 +4,7 @@
 
 Source: **[Turn 10,994 Notes Into Memory - Paul Iusztin, Decoding AI & Louis-François Bouchard, Towards AI](https://www.youtube.com/watch?v=ZRM_TfEZcIo)** · aie · 2026-06-26
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ YOLO loop agents start each session with blank context about past decisions, pri
 
 Code repo available. Course: Towards AI Agent Engineering (~60hrs). The 250 files/month growth rate suggests the ingestion pipeline needs to be incremental not batch. Overlaps conceptually with Polygraph session memory from the Nx talk — worth comparing approaches.
 
+Backlog triage 2026-06-27 (owner-preference model). External-notes (Obsidian/Readwise/Notion) ingestion layer — redundant with the in-repo markdown memory + existing llm-wiki-hub; high effort (cf. earlier Obsidian reject).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-26 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

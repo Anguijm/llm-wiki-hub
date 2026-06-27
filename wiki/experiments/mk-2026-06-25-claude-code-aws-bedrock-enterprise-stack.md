@@ -4,7 +4,7 @@
 
 Source: **[Claude Code + AWS Bedrock = Enterprise AI](https://www.youtube.com/watch?v=T17DYl_4Z-U)** · mk · 2026-06-25
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Relevant if our loop needs to serve enterprise or regulated clients: provides th
 
 Mark offers a free blueprint/slide deck + prompt guide via link in description. Premium membership gives access to the full repo.
 
+Backlog triage 2026-06-27 (owner-preference model). Enterprise AWS Bedrock multi-agent platform (SOC2/HIPAA/IAM) — off-domain cloud infra, high effort.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-25 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

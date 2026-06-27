@@ -4,7 +4,7 @@
 
 Source: **["I spent $50,000 self-hosting AI models. You should too." - 0xSero](https://www.youtube.com/watch?v=ImPESBftwr8)** · do · 2026-06-26
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ High token volume agentic loops (code review, multi-file editing, long context r
 
 Guest is @0xSero on Twitter, described as top voice on local/open-source models. Key claim: GLM series is best for agent work specifically. Worth benchmarking GLM-5.2 vs Claude on YOLO loop coding tasks before committing to hardware investment.
 
+Backlog triage 2026-06-27 (owner-preference model). Self-hosted home inference on compressed open weights — consistent local/self-host NO; wrong hardware.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-26 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

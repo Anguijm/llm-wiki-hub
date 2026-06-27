@@ -4,7 +4,7 @@
 
 Source: **[Agents in Production: How OpenGov Built and Scaled OG Assist - Gabe De Mesa, OpenGov](https://www.youtube.com/watch?v=4uFVSLgD2Q4)** · aie · 2026-06-26
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ The Effect-native loop pattern is directly applicable to YOLO loop implementatio
 
 Effect is a TypeScript library (effectful.ai). The rolling summary for long context is immediately adoptable without full Effect migration. Generative UI at runtime is an interesting pattern for YOLO loop status dashboards. They also use Claude + Cursor internally for developer velocity — same stack as YOLO loop.
 
+Backlog triage 2026-06-27 (owner-preference model). Replace LangGraph with an Effect-TS loop — off-stack framework; the bare-metal-minimal-loop principle is already adopted in-stack.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-26 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

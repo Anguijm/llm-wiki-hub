@@ -12,11 +12,10 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `adopted` | 84 |
-| `discarded` | 83 |
+| `discarded` | 92 |
+| `adopted` | 90 |
 | `deferred` | 56 |
 | `done` | 48 |
-| `backlog` | 15 |
 | `in_progress` | 10 |
 | `skipped` | 4 |
 
@@ -24,9 +23,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `adopt` | 122 |
-| `discard` | 93 |
-| `(none)` | 85 |
+| `adopt` | 128 |
+| `discard` | 102 |
+| `(none)` | 70 |
 
 ## By channel
 
@@ -53,21 +52,21 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
-| 2026-06-26 | [[experiments/nb-2026-06-26-open-engine-multi-ai-queue|Build a shared task queue so multiple AI agents hand off work with full context]] | @nb | `-` |
-| 2026-06-26 | [[experiments/do-2026-06-26-self-host-local-model-sovereignty|Set up a locally-hosted fallback model so the dev loop survives API access disruptions]] | @do | `-` |
-| 2026-06-26 | [[experiments/do-2026-06-26-private-inference-374m-tokens|Run private home inference at 374M tokens/month using compressed open-weight models for agentic workloads]] | @do | `-` |
-| 2026-06-26 | [[experiments/aie-2026-06-26-second-brain-ai-research-os|Build a wiki-generating memory layer between Obsidian/Readwise and coding agents to surface high-signal notes at task start]] | @aie | `-` |
-| 2026-06-26 | [[experiments/aie-2026-06-26-polygraph-cross-repo-agent-memory|Add a cross-repo session memory graph (Polygraph pattern) so agents reference past decisions without human re-explanation]] | @aie | `-` |
-| 2026-06-26 | [[experiments/aie-2026-06-26-four-layer-prompt-stack|Replace monolithic system prompts with a four-layer assembled prompt stack (identity → conditions → voice → veto)]] | @aie | `-` |
-| 2026-06-26 | [[experiments/aie-2026-06-26-effect-native-agent-loop|Replace LangGraph with a custom Effect-native agent loop for full observability and structured concurrency]] | @aie | `-` |
-| 2026-06-25 | [[experiments/nh-2026-06-25-claude-code-sycophancy-roast-council|Add a multi-persona 'Roast Council' prompt to stress-test ideas before building]] | @nh | `-` |
-| 2026-06-25 | [[experiments/nh-2026-06-25-claude-code-subagent-parallel-goal|Use /goal + parallel sub-agents to produce a full launch plan in under an hour]] | @nh | `-` |
-| 2026-06-25 | [[experiments/mk-2026-06-25-claude-code-aws-bedrock-enterprise-stack|Deploy a multi-agent Claude platform inside AWS Bedrock with SOC2/HIPAA guardrails and kill switches]] | @mk | `-` |
-| 2026-06-25 | [[experiments/aie-2026-06-25-recursive-coding-agents-rlm|Apply Recursive Language Model (RLM) patterns to coding agents for reliable, large-scale refactors]] | @aie | `-` |
-| 2026-06-25 | [[experiments/aie-2026-06-25-production-evals-agentic-systems|Replace benchmark-only evals with a continuous production telemetry eval loop for agentic workflows]] | @aie | `-` |
-| 2026-06-25 | [[experiments/aie-2026-06-25-miranda-hypothesis-persona-eval-humanist-loop|Add domain-expert-in-the-loop evaluation to any persona/character agent to detect anachronistic compositing]] | @aie | `-` |
-| 2026-06-25 | [[experiments/aie-2026-06-25-log-as-agent-identity|Redesign agent session storage as an append-only event log to enable resumable, portable agents]] | @aie | `-` |
-| 2026-06-25 | [[experiments/aie-2026-06-25-build-systems-not-code-agent-design|Apply classical software engineering disciplines (decomposition, SoC, idempotency, threat modeling) explicitly when designing agents]] | @aie | `-` |
+| 2026-06-26 | [[experiments/nb-2026-06-26-open-engine-multi-ai-queue|Build a shared task queue so multiple AI agents hand off work with full context]] | @nb | `discard` |
+| 2026-06-26 | [[experiments/do-2026-06-26-self-host-local-model-sovereignty|Set up a locally-hosted fallback model so the dev loop survives API access disruptions]] | @do | `discard` |
+| 2026-06-26 | [[experiments/do-2026-06-26-private-inference-374m-tokens|Run private home inference at 374M tokens/month using compressed open-weight models for agentic workloads]] | @do | `discard` |
+| 2026-06-26 | [[experiments/aie-2026-06-26-second-brain-ai-research-os|Build a wiki-generating memory layer between Obsidian/Readwise and coding agents to surface high-signal notes at task start]] | @aie | `discard` |
+| 2026-06-26 | [[experiments/aie-2026-06-26-polygraph-cross-repo-agent-memory|Add a cross-repo session memory graph (Polygraph pattern) so agents reference past decisions without human re-explanation]] | @aie | `adopt` |
+| 2026-06-26 | [[experiments/aie-2026-06-26-four-layer-prompt-stack|Replace monolithic system prompts with a four-layer assembled prompt stack (identity → conditions → voice → veto)]] | @aie | `adopt` |
+| 2026-06-26 | [[experiments/aie-2026-06-26-effect-native-agent-loop|Replace LangGraph with a custom Effect-native agent loop for full observability and structured concurrency]] | @aie | `discard` |
+| 2026-06-25 | [[experiments/nh-2026-06-25-claude-code-sycophancy-roast-council|Add a multi-persona 'Roast Council' prompt to stress-test ideas before building]] | @nh | `adopt` |
+| 2026-06-25 | [[experiments/nh-2026-06-25-claude-code-subagent-parallel-goal|Use /goal + parallel sub-agents to produce a full launch plan in under an hour]] | @nh | `discard` |
+| 2026-06-25 | [[experiments/mk-2026-06-25-claude-code-aws-bedrock-enterprise-stack|Deploy a multi-agent Claude platform inside AWS Bedrock with SOC2/HIPAA guardrails and kill switches]] | @mk | `discard` |
+| 2026-06-25 | [[experiments/aie-2026-06-25-recursive-coding-agents-rlm|Apply Recursive Language Model (RLM) patterns to coding agents for reliable, large-scale refactors]] | @aie | `discard` |
+| 2026-06-25 | [[experiments/aie-2026-06-25-production-evals-agentic-systems|Replace benchmark-only evals with a continuous production telemetry eval loop for agentic workflows]] | @aie | `adopt` |
+| 2026-06-25 | [[experiments/aie-2026-06-25-miranda-hypothesis-persona-eval-humanist-loop|Add domain-expert-in-the-loop evaluation to any persona/character agent to detect anachronistic compositing]] | @aie | `discard` |
+| 2026-06-25 | [[experiments/aie-2026-06-25-log-as-agent-identity|Redesign agent session storage as an append-only event log to enable resumable, portable agents]] | @aie | `adopt` |
+| 2026-06-25 | [[experiments/aie-2026-06-25-build-systems-not-code-agent-design|Apply classical software engineering disciplines (decomposition, SoC, idempotency, threat modeling) explicitly when designing agents]] | @aie | `adopt` |
 | 2026-06-24 | [[experiments/nb-2026-06-24-loop-of-loops-agent-architecture|Implement a Loop-of-Loops Agent Control Pattern]] | @nb | `adopt` |
 | 2026-06-24 | [[experiments/aij-2026-06-24-playwright-ci-artifact-evidence-prs|Require Agents to Attach Playwright Video Evidence to Every PR]] | @aij | `adopt` |
 | 2026-06-24 | [[experiments/aij-2026-06-24-crabbox-isolated-sandbox-testing|Use CrabBox to Give Each Parallel Agent Its Own Cloud Dev Sandbox]] | @aij | `discard` |

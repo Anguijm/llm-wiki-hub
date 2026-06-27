@@ -4,7 +4,7 @@
 
 Source: **[The Miranda Hypothesis: How Hamilton Poisoned Persona Evals - Jacob E. Thomas, Results Gen](https://www.youtube.com/watch?v=IJXjTLPzvAU)** · aie · 2026-06-25
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Applicable if our loop includes any persona, tutor, or historical simulation fea
 
 Paper with Rick Halpern and Shawn Martin forthcoming with pre-registered instrument, rubric, and sealed historian vignettes. Demo at Results Gen site.
 
+Backlog triage 2026-06-27 (owner-preference model). Domain-expert-in-loop eval for persona/character agents — off-domain; the loop doesn't build persona agents.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-25 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

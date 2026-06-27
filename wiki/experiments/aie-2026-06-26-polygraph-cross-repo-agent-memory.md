@@ -4,7 +4,7 @@
 
 Source: **[A Genius With Amnesia - Victor Savkin, Nx](https://www.youtube.com/watch?v=jVjt-2g8NMY)** · aie · 2026-06-26
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ The YOLO loop re-explains the same project context every session. Polygraph's se
 
 Available at try.polygraph.com. Works as a CLI wrapper around existing agents — low adoption friction. The cross-developer shared memory aspect is most novel for team YOLO loop usage. Conceptually overlaps with Paul Iusztin's AI Research OS but focused on code sessions not notes. Both point to the same unsolved problem.
 
+Backlog triage 2026-06-27 (owner-preference model). Cross-session/repo memory graph surfacing relevant past sessions — compounding-memory/hot-cache family; strong fit.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-26 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

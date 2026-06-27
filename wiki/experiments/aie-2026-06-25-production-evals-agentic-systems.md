@@ -4,7 +4,7 @@
 
 Source: **[Production Evals For Agentic AI Systems - Nishant Gupta, Meta Superintelligence Labs](https://www.youtube.com/watch?v=vljxQZfJ9wY)** · aie · 2026-06-25
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Nishant described the evaluation pyramid (benchmarks at the base, scenario-based
 
 Directly applicable: we should instrument our Claude Code agent runs with structured traces capturing tool call success/failure, task completion, and cost per session, then treat that telemetry as our primary eval signal rather than occasional manual review.
 
+## Notes
+
+Backlog triage 2026-06-27 (owner-preference model). Continuous telemetry eval loop (traces, tool/escalation/recovery rates) — eval+observability discipline; strong fit.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-25 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

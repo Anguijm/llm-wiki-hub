@@ -4,7 +4,7 @@
 
 Source: **[Stop Writing Tone Instructions. Layer Them. - Isadora Martin-Dye, Isadora & Co](https://www.youtube.com/watch?v=ij-AU9dpJjc)** · aie · 2026-06-26
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ YOLO loop system prompts are currently monolithic. The four-layer pattern would 
 
 Key insight: Layer 4 (veto) is systems engineering, not prompt engineering — deterministic not probabilistic. Her stated regret: veto should be a shared service, not wired individually into each surface. In a loop context this maps to a middleware gate on all agent outputs.
 
+Backlog triage 2026-06-27 (owner-preference model). Layered prompt architecture (identity/conditions/voice/veto) — prompt-design discipline + a deterministic post-gen veto; good fit.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-26 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

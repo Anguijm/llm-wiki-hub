@@ -4,7 +4,7 @@
 
 Source: **[The Log Is The Agent - Ishaan Sehgal, Omnara](https://www.youtube.com/watch?v=UPwGaM2MKHY)** · aie · 2026-06-25
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `adopted` · **Verdict:** `adopt` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly applicable to how we persist Claude Code sessions: switching from ephem
 
 Omnara open-source managed-agent platform launching at omnara.com/managed. Log ownership framing has significant implications for which provider we use long-term.
 
+Backlog triage 2026-06-27 (owner-preference model). Append-only event log as the durable agent artifact — durable-execution/session-checkpointing family already adopted.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-25 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 
