@@ -9,6 +9,11 @@
     "fetched_at": "2026-04-21T21:59:08.114218+00:00",
     "video_id": "kPC4YOkIxVo"
   },
+  "https://youtube.com/watch?v=nQwJVHCtDDY": {
+    "channel": "david-ondrej",
+    "fetched_at": "2026-06-27T22:15:56.162103+00:00",
+    "video_id": "nQwJVHCtDDY"
+  },
   "phase4:aie-2026-05-09-agent-observability-raindrop": {
     "hash": "548c377f80ec106751cf67883b46089daedcd4618ee97e84a703d86ad2a15662",
     "slug": "aie-2026-05-09-agent-observability-raindrop",
