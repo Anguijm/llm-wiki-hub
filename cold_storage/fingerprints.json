@@ -234,6 +234,86 @@
     "slug": "aie-2026-06-26-second-brain-ai-research-os",
     "synced_at": "2026-06-27T23:01:57.808395+00:00"
   },
+  "phase4:aie-2026-06-28-agent-rx-outcome-informed-retrieval": {
+    "hash": "2db69580ba2d057aa28585394aab1a15932cdb18ff4be94a9a0c734bd137b900",
+    "slug": "aie-2026-06-28-agent-rx-outcome-informed-retrieval",
+    "synced_at": "2026-06-28T23:01:24.775554+00:00"
+  },
+  "phase4:aie-2026-06-28-agents-building-agents-harness": {
+    "hash": "ab34cf4b95491a16a8472d2c80436bdaef90b0a181efa1ad88ae049a95d8db2f",
+    "slug": "aie-2026-06-28-agents-building-agents-harness",
+    "synced_at": "2026-06-28T23:01:24.776187+00:00"
+  },
+  "phase4:aie-2026-06-28-agents-building-agents-live-trace-clustering": {
+    "hash": "ba9c4e0521ff927827fcf8f16dd47860e69f2bb22cc52d90e17b52d98340d20b",
+    "slug": "aie-2026-06-28-agents-building-agents-live-trace-clustering",
+    "synced_at": "2026-06-28T23:01:24.776489+00:00"
+  },
+  "phase4:aie-2026-06-28-ai-system-design-framework": {
+    "hash": "3f764720a1cf72675592b5ee58947650d69fa46b67262913106f040c64879566",
+    "slug": "aie-2026-06-28-ai-system-design-framework",
+    "synced_at": "2026-06-28T23:01:24.773294+00:00"
+  },
+  "phase4:aie-2026-06-28-autonomous-engineering-org-maturity": {
+    "hash": "8386388a012e715b6a0ee35dccb764c6902abac49a61d34aea705f3422537c62",
+    "slug": "aie-2026-06-28-autonomous-engineering-org-maturity",
+    "synced_at": "2026-06-28T23:01:24.774260+00:00"
+  },
+  "phase4:aie-2026-06-28-browser-agent-compressed-dom": {
+    "hash": "25d8f7d51d56405f84563416df8447ed72539b2137d8c776ac2e35efe66acdd6",
+    "slug": "aie-2026-06-28-browser-agent-compressed-dom",
+    "synced_at": "2026-06-28T23:01:24.776821+00:00"
+  },
+  "phase4:aie-2026-06-28-docling-unstructured-document-processing": {
+    "hash": "089c067cfe08a2a86d6a244e15da5d2af0548e6d53a6dabfb253d11d4eeefb56",
+    "slug": "aie-2026-06-28-docling-unstructured-document-processing",
+    "synced_at": "2026-06-28T23:01:24.775891+00:00"
+  },
+  "phase4:aie-2026-06-28-extended-cache-augmented-generation": {
+    "hash": "3632bf5cded5472c75493da4e8c7c1073e8ec4652f039ac301411e5759f38427",
+    "slug": "aie-2026-06-28-extended-cache-augmented-generation",
+    "synced_at": "2026-06-28T23:01:24.773597+00:00"
+  },
+  "phase4:aie-2026-06-28-five-agent-token-optimisations": {
+    "hash": "d0bea9a339491d8610974e706d0adee35bb45370061972095663bfe0eee9ebde",
+    "slug": "aie-2026-06-28-five-agent-token-optimisations",
+    "synced_at": "2026-06-28T23:01:24.772339+00:00"
+  },
+  "phase4:aie-2026-06-28-html-for-agent-graphics": {
+    "hash": "ac081a9a0519cc90fd7b265200d38922a96eb87d3ac996b8e92d35d184acd453",
+    "slug": "aie-2026-06-28-html-for-agent-graphics",
+    "synced_at": "2026-06-28T23:01:24.774614+00:00"
+  },
+  "phase4:aie-2026-06-28-hybrid-rag-sql-rrf-telemetry": {
+    "hash": "fe3869cd64709606585ad2fada60d094f894dbcb4dd3aaab5eaf3a31d9676080",
+    "slug": "aie-2026-06-28-hybrid-rag-sql-rrf-telemetry",
+    "synced_at": "2026-06-28T23:01:24.772991+00:00"
+  },
+  "phase4:aie-2026-06-28-local-code-index-token-reduction": {
+    "hash": "822a9ee9dab95a474d54ad4d23e20be2d723936417366de045342b1fc083bde1",
+    "slug": "aie-2026-06-28-local-code-index-token-reduction",
+    "synced_at": "2026-06-28T23:01:24.772024+00:00"
+  },
+  "phase4:aie-2026-06-28-openclaw-physical-ai-terminal": {
+    "hash": "6a814ece60a24b6dd1eb75105632832ae7ed8d78d18c64c2c697104aa6a37e9a",
+    "slug": "aie-2026-06-28-openclaw-physical-ai-terminal",
+    "synced_at": "2026-06-28T23:01:24.772673+00:00"
+  },
+  "phase4:aie-2026-06-28-research-to-production-rpt": {
+    "hash": "6c6b0c4aa1e6f1c4159a7293119f932e831876c819dcc5b7eb993f1bb289c2c1",
+    "slug": "aie-2026-06-28-research-to-production-rpt",
+    "synced_at": "2026-06-28T23:01:24.773955+00:00"
+  },
+  "phase4:aie-2026-06-28-spec-driven-development": {
+    "hash": "35ec6651640c6b5af5329202d96b5670a7578f1e7113783ef73f82a0c6326044",
+    "slug": "aie-2026-06-28-spec-driven-development",
+    "synced_at": "2026-06-28T23:01:24.775255+00:00"
+  },
+  "phase4:aie-2026-06-28-turboquant-embedding-compression": {
+    "hash": "506f98ff3dfa9790845e36a60483981a1f09d13b81513110ffb610a6e20b2772",
+    "slug": "aie-2026-06-28-turboquant-embedding-compression",
+    "synced_at": "2026-06-28T23:01:24.774952+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1149,6 +1229,11 @@
     "slug": "nb-2026-06-26-open-engine-multi-ai-queue",
     "synced_at": "2026-06-27T23:01:57.806854+00:00"
   },
+  "phase4:nb-2026-06-28-glm52-harness-last-mile": {
+    "hash": "b5a82228d5f71696c0a5fa6ba875d80f66a6b80e7488ceb06b44f4167fc88464",
+    "slug": "nb-2026-06-28-glm52-harness-last-mile",
+    "synced_at": "2026-06-28T23:01:24.771324+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -1513,6 +1598,11 @@
     "hash": "639c1e52774b6fe6c0ff4191bec689ce64622cd645959e6772ebcc613288e866",
     "slug": "st-2026-06-11-reusable-skills-business-automation",
     "synced_at": "2026-06-25T23:17:21.295965+00:00"
+  },
+  "phase4:st-2026-06-28-agent-skills-reusable-instructions": {
+    "hash": "923e80bee6b43fdff7b75fc08615bc3316c7a8eef2c435b0a550c33c756f900a",
+    "slug": "st-2026-06-28-agent-skills-reusable-instructions",
+    "synced_at": "2026-06-28T23:01:24.771690+00:00"
   },
   "phase4:tmp-2026-04-01-quantized-local-inference": {
     "hash": "acff2ffb5b52096bc966a39fe8851f9a222cb9dcbcbb9a8420c2b33752962921",

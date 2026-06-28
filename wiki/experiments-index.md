@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**300 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**318 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -16,6 +16,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | `adopted` | 90 |
 | `deferred` | 56 |
 | `done` | 48 |
+| `backlog` | 18 |
 | `in_progress` | 10 |
 | `skipped` | 4 |
 
@@ -25,20 +26,20 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 |---|---|
 | `adopt` | 128 |
 | `discard` | 102 |
-| `(none)` | 70 |
+| `(none)` | 88 |
 
 ## By channel
 
 | Channel | Experiments |
 |---|---|
-| @nb | 73 |
+| @nb | 74 |
 | @nh | 64 |
+| @aie | 60 |
 | @mlops | 44 |
-| @aie | 44 |
 | @do | 32 |
 | @mk | 17 |
+| @st | 8 |
 | @aij | 8 |
-| @st | 7 |
 | @up | 5 |
 | @eh | 3 |
 | @fs | 2 |
@@ -52,6 +53,24 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-06-28 | [[experiments/st-2026-06-28-agent-skills-reusable-instructions|Build agent skill folders with progressive disclosure to eliminate repetitive context setup]] | @st | `-` |
+| 2026-06-28 | [[experiments/nb-2026-06-28-glm52-harness-last-mile|Audit task distribution to identify center-vs-edge work before model switching]] | @nb | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-turboquant-embedding-compression|Swap the retrieval layer in agent vector search to TurboQuant 3-4 bit embedding compression for 5x memory reduction]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-spec-driven-development|Implement spec-driven development with markdown requirements and design docs generated before any code is written]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-research-to-production-rpt|Require a Research Prototype Taxonomy document before any ML prototype enters the production mono-repo]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-openclaw-physical-ai-terminal|Build a dual-display ESP32 terminal as a dedicated offline AI interaction device]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-local-code-index-token-reduction|Insert a local hybrid-search code index between codebase and AI coding tools to cut input tokens]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-hybrid-rag-sql-rrf-telemetry|Pre-process documents into PostgreSQL with hybrid RRF search before LLM queries to avoid multimodal upload token tax]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-html-for-agent-graphics|Use HTML+CSS as the agent-native format for generating slide decks, documents, and visual artifacts instead of canvas-based tools]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-five-agent-token-optimisations|Apply five token-reduction techniques to agent loops: prompt caching, difficulty routing, tool-result offload, loop caps, and history trimming]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-extended-cache-augmented-generation|Distribute a rapidly-changing full-corpus across parallel CAG buckets with a supervisor model for global questions]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-docling-unstructured-document-processing|Use Docling for local, GPU-free conversion of PDFs and mixed documents to structured markdown before RAG ingestion]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-browser-agent-compressed-dom|Replace Full-DOM or Screenshot-Only Input with a Compressed Markdown Page Representation for Browser Agents]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-autonomous-engineering-org-maturity|Use a six-stage agent maturity model and AI champions program to accelerate org-wide adoption past stage 3]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-ai-system-design-framework|Apply a four-phase design framework (requirements → architecture → evaluation → optimisation) before writing any AI system code]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-agents-building-agents-live-trace-clustering|Cluster Live Agent Traces into Failure Reports and Auto-Fix with a Coding Agent]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-agents-building-agents-harness|Build a Golden Dataset + Eval Loop to Drive Agent Improvements]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-agent-rx-outcome-informed-retrieval|Add outcome-weighted utility scoring to agent retrieval so memory relevance improves from past run success/failure signals]] | @aie | `-` |
 | 2026-06-26 | [[experiments/nb-2026-06-26-open-engine-multi-ai-queue|Build a shared task queue so multiple AI agents hand off work with full context]] | @nb | `discard` |
 | 2026-06-26 | [[experiments/do-2026-06-26-self-host-local-model-sovereignty|Set up a locally-hosted fallback model so the dev loop survives API access disruptions]] | @do | `discard` |
 | 2026-06-26 | [[experiments/do-2026-06-26-private-inference-374m-tokens|Run private home inference at 374M tokens/month using compressed open-weight models for agentic workloads]] | @do | `discard` |
