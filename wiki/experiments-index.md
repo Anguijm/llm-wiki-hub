@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**318 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**330 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -16,7 +16,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | `adopted` | 90 |
 | `deferred` | 56 |
 | `done` | 48 |
-| `backlog` | 18 |
+| `backlog` | 30 |
 | `in_progress` | 10 |
 | `skipped` | 4 |
 
@@ -26,17 +26,17 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 |---|---|
 | `adopt` | 128 |
 | `discard` | 102 |
-| `(none)` | 88 |
+| `(none)` | 100 |
 
 ## By channel
 
 | Channel | Experiments |
 |---|---|
 | @nb | 74 |
-| @nh | 64 |
-| @aie | 60 |
+| @aie | 70 |
+| @nh | 65 |
 | @mlops | 44 |
-| @do | 32 |
+| @do | 33 |
 | @mk | 17 |
 | @st | 8 |
 | @aij | 8 |
@@ -53,6 +53,18 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-06-29 | [[experiments/nh-2026-06-29-storm-skill-multi-perspective-research|Implement Stanford STORM skill with five specialist personas and a verification pass]] | @nh | `-` |
+| 2026-06-29 | [[experiments/do-2026-06-29-hermes-mixture-of-agents|Configure Mixture-of-Agents preset in Hermes to surpass single-model quality]] | @do | `-` |
+| 2026-06-29 | [[experiments/aie-2026-06-29-voice-in-visuals-out-latency-architecture|Build a voice-in / visuals-out agent using a fast small model for real-time response with async handoff to a larger model]] | @aie | `-` |
+| 2026-06-29 | [[experiments/aie-2026-06-29-user-story-mapping-before-build|Require a user story map before any agent-assisted feature build to reduce wrong-thing velocity]] | @aie | `-` |
+| 2026-06-29 | [[experiments/aie-2026-06-29-slm-replace-llm-calls|Audit agent LLM calls and replace routine classification/summarization calls with on-device SLMs]] | @aie | `-` |
+| 2026-06-29 | [[experiments/aie-2026-06-29-skill-quality-checklist|Audit existing skills against a four-point checklist: trigger, structure, steering, pruning]] | @aie | `-` |
+| 2026-06-29 | [[experiments/aie-2026-06-29-simulation-driven-spec-for-distributed-agents|Use a deterministic simulation environment to let agents design distributed algorithms before implementing them]] | @aie | `-` |
+| 2026-06-29 | [[experiments/aie-2026-06-29-graph-based-cross-document-compliance|Replace document-level validation with graph-based cross-document entity correlation for anomaly detection]] | @aie | `-` |
+| 2026-06-29 | [[experiments/aie-2026-06-29-domain-specific-agent-hierarchy|Decompose a monolithic agent into a coordinator plus narrow domain-specific sub-agents with sandboxed file systems]] | @aie | `-` |
+| 2026-06-29 | [[experiments/aie-2026-06-29-deterministic-infra-agentic-control-plane|Add a policy validation gateway between agent proposal and tool execution to prevent runaway retry loops]] | @aie | `-` |
+| 2026-06-29 | [[experiments/aie-2026-06-29-agentic-engineer-spec-eval-loop|Implement an automated offline-online agent improvement loop: spec → build → eval → ship → diagnose → optimize]] | @aie | `-` |
+| 2026-06-29 | [[experiments/aie-2026-06-29-agent-replayability-boundary-tracing|Instrument agent nodes with boundary-level trace capture to enable replay-based debugging and stubbed regression tests]] | @aie | `-` |
 | 2026-06-28 | [[experiments/st-2026-06-28-agent-skills-reusable-instructions|Build agent skill folders with progressive disclosure to eliminate repetitive context setup]] | @st | `-` |
 | 2026-06-28 | [[experiments/nb-2026-06-28-glm52-harness-last-mile|Audit task distribution to identify center-vs-edge work before model switching]] | @nb | `-` |
 | 2026-06-28 | [[experiments/aie-2026-06-28-turboquant-embedding-compression|Swap the retrieval layer in agent vector search to TurboQuant 3-4 bit embedding compression for 5x memory reduction]] | @aie | `-` |

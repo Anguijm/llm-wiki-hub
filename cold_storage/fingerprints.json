@@ -314,6 +314,56 @@
     "slug": "aie-2026-06-28-turboquant-embedding-compression",
     "synced_at": "2026-06-28T23:01:24.774952+00:00"
   },
+  "phase4:aie-2026-06-29-agent-replayability-boundary-tracing": {
+    "hash": "5a7921ece58b10cc69ef4cbb01460eaf7c25396895834bcab1c4d70ff10132ad",
+    "slug": "aie-2026-06-29-agent-replayability-boundary-tracing",
+    "synced_at": "2026-06-29T22:57:05.458677+00:00"
+  },
+  "phase4:aie-2026-06-29-agentic-engineer-spec-eval-loop": {
+    "hash": "646d10c867b0c30bbf11423466ada823cc1a01e410b3137c1b6c212485af9130",
+    "slug": "aie-2026-06-29-agentic-engineer-spec-eval-loop",
+    "synced_at": "2026-06-29T22:57:05.458236+00:00"
+  },
+  "phase4:aie-2026-06-29-deterministic-infra-agentic-control-plane": {
+    "hash": "f5700590067084c5daed6e5bb9401a7a229be646b627ef7dc34dabacf6f3eb41",
+    "slug": "aie-2026-06-29-deterministic-infra-agentic-control-plane",
+    "synced_at": "2026-06-29T22:57:05.458007+00:00"
+  },
+  "phase4:aie-2026-06-29-domain-specific-agent-hierarchy": {
+    "hash": "886c7af700f4626c234f827df2666ad1f87ab196a27e3e516258bad05226f26a",
+    "slug": "aie-2026-06-29-domain-specific-agent-hierarchy",
+    "synced_at": "2026-06-29T22:57:05.457565+00:00"
+  },
+  "phase4:aie-2026-06-29-graph-based-cross-document-compliance": {
+    "hash": "2e9093fbeba7937d8d56e2535faf578785fbeee983a76768ac47dc2a862bc461",
+    "slug": "aie-2026-06-29-graph-based-cross-document-compliance",
+    "synced_at": "2026-06-29T22:57:05.459140+00:00"
+  },
+  "phase4:aie-2026-06-29-simulation-driven-spec-for-distributed-agents": {
+    "hash": "0215a09d7869f62a046ab27a93f7c1a2d4bfed9cd2f508a65b40bab7f7f65699",
+    "slug": "aie-2026-06-29-simulation-driven-spec-for-distributed-agents",
+    "synced_at": "2026-06-29T22:57:05.458447+00:00"
+  },
+  "phase4:aie-2026-06-29-skill-quality-checklist": {
+    "hash": "1d96772c6ba305d2ad7ad1773be5ab19a0d3bcc7e450e03d1d61b79a44260925",
+    "slug": "aie-2026-06-29-skill-quality-checklist",
+    "synced_at": "2026-06-29T22:57:05.457133+00:00"
+  },
+  "phase4:aie-2026-06-29-slm-replace-llm-calls": {
+    "hash": "3e81ab385f5cf79ea16d51275809baa59ffed55d82dd2ddf4291ba2ea0e15a83",
+    "slug": "aie-2026-06-29-slm-replace-llm-calls",
+    "synced_at": "2026-06-29T22:57:05.457344+00:00"
+  },
+  "phase4:aie-2026-06-29-user-story-mapping-before-build": {
+    "hash": "801cf17a5fd43c87673e5e74425bf9732e6892405144acab5a732d9c2be22ba0",
+    "slug": "aie-2026-06-29-user-story-mapping-before-build",
+    "synced_at": "2026-06-29T22:57:05.457794+00:00"
+  },
+  "phase4:aie-2026-06-29-voice-in-visuals-out-latency-architecture": {
+    "hash": "3bd174be7bbcd428caa494328f3fb67fb3f1dcb29b83db642c43af5f20dc81ac",
+    "slug": "aie-2026-06-29-voice-in-visuals-out-latency-architecture",
+    "synced_at": "2026-06-29T22:57:05.458924+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -523,6 +573,11 @@
     "hash": "3d4391be0141f9a2b9c19650521bd1031e5092b92fa9eab9c5fdc539e4e413d4",
     "slug": "do-2026-06-26-self-host-local-model-sovereignty",
     "synced_at": "2026-06-27T23:01:57.807244+00:00"
+  },
+  "phase4:do-2026-06-29-hermes-mixture-of-agents": {
+    "hash": "61651c8fe5354c4109fb9299468186d3f09cf4bc12d631c2c1de849657a8a785",
+    "slug": "do-2026-06-29-hermes-mixture-of-agents",
+    "synced_at": "2026-06-29T22:57:05.456629+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
@@ -1563,6 +1618,11 @@
     "hash": "73ebecc7fcf499a3f04a0c61394945cb2ccdbf98e439aee9f19bf6e5452904b5",
     "slug": "nh-2026-06-25-claude-code-sycophancy-roast-council",
     "synced_at": "2026-06-27T23:01:57.803771+00:00"
+  },
+  "phase4:nh-2026-06-29-storm-skill-multi-perspective-research": {
+    "hash": "0dd6fc9dd31d14c59dd0a5821542582bbc6b00242993cf2a1a6c41969c9593ce",
+    "slug": "nh-2026-06-29-storm-skill-multi-perspective-research",
+    "synced_at": "2026-06-29T22:57:05.456906+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
