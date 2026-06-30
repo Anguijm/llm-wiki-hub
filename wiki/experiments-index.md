@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**330 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**334 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -16,7 +16,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | `adopted` | 90 |
 | `deferred` | 56 |
 | `done` | 48 |
-| `backlog` | 30 |
+| `backlog` | 34 |
 | `in_progress` | 10 |
 | `skipped` | 4 |
 
@@ -25,21 +25,21 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Verdict | Count |
 |---|---|
 | `adopt` | 128 |
+| `(none)` | 104 |
 | `discard` | 102 |
-| `(none)` | 100 |
 
 ## By channel
 
 | Channel | Experiments |
 |---|---|
 | @nb | 74 |
-| @aie | 70 |
+| @aie | 71 |
 | @nh | 65 |
 | @mlops | 44 |
 | @do | 33 |
-| @mk | 17 |
+| @mk | 18 |
+| @aij | 10 |
 | @st | 8 |
-| @aij | 8 |
 | @up | 5 |
 | @eh | 3 |
 | @fs | 2 |
@@ -53,6 +53,10 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-06-30 | [[experiments/mk-2026-06-30-agentic-os-five-layers|Structure agent harnesses as five explicit layers with tracked rot-rates]] | @mk | `-` |
+| 2026-06-30 | [[experiments/aij-2026-06-30-pre-tool-use-hook-pattern|Use pre-tool-use hooks to silently augment default agent tool calls with richer context]] | @aij | `-` |
+| 2026-06-30 | [[experiments/aij-2026-06-30-codebase-memory-mcp-graph|Replace flat-file grep with codebase-memory MCP graph for agent context]] | @aij | `-` |
+| 2026-06-30 | [[experiments/aie-2026-06-30-rl-agent-etl-remediation|Apply a reinforcement-learning agent to auto-detect and remediate ETL pipeline failures]] | @aie | `-` |
 | 2026-06-29 | [[experiments/nh-2026-06-29-storm-skill-multi-perspective-research|Implement Stanford STORM skill with five specialist personas and a verification pass]] | @nh | `-` |
 | 2026-06-29 | [[experiments/do-2026-06-29-hermes-mixture-of-agents|Configure Mixture-of-Agents preset in Hermes to surpass single-model quality]] | @do | `-` |
 | 2026-06-29 | [[experiments/aie-2026-06-29-voice-in-visuals-out-latency-architecture|Build a voice-in / visuals-out agent using a fast small model for real-time response with async handoff to a larger model]] | @aie | `-` |

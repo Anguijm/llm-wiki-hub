@@ -364,6 +364,11 @@
     "slug": "aie-2026-06-29-voice-in-visuals-out-latency-architecture",
     "synced_at": "2026-06-29T22:57:05.458924+00:00"
   },
+  "phase4:aie-2026-06-30-rl-agent-etl-remediation": {
+    "hash": "d74ebe131f4431f956cbaa6679fe510b2e812eb7a60f6e0192a6ef251a20fc82",
+    "slug": "aie-2026-06-30-rl-agent-etl-remediation",
+    "synced_at": "2026-06-30T23:12:03.025118+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -408,6 +413,16 @@
     "hash": "f1797830bcc875d03ea1b0869cbb7a7923d90fc0d1157d833aa2e7222260ee3b",
     "slug": "aij-2026-06-24-playwright-ci-artifact-evidence-prs",
     "synced_at": "2026-06-25T23:17:21.323463+00:00"
+  },
+  "phase4:aij-2026-06-30-codebase-memory-mcp-graph": {
+    "hash": "d81a51c6686a3cd97698e7fad8fa2419f1b54e706ce19b3a854960f31afb0b28",
+    "slug": "aij-2026-06-30-codebase-memory-mcp-graph",
+    "synced_at": "2026-06-30T23:12:03.024084+00:00"
+  },
+  "phase4:aij-2026-06-30-pre-tool-use-hook-pattern": {
+    "hash": "a3561e760dd27b9ff12c93d1d76f4bce5ec783d3c0cc7cbeeae8a2c544f42bdb",
+    "slug": "aij-2026-06-30-pre-tool-use-hook-pattern",
+    "synced_at": "2026-06-30T23:12:03.024471+00:00"
   },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "0527033834fe3f49b58f4d9e2c508620ed78f8ba268bccaba81263b6ef3c4afa",
@@ -688,6 +703,11 @@
     "hash": "23402c380004650f9786660902a167eba309054f14179817bbc46c1181072055",
     "slug": "mk-2026-06-25-claude-code-aws-bedrock-enterprise-stack",
     "synced_at": "2026-06-27T23:01:57.804611+00:00"
+  },
+  "phase4:mk-2026-06-30-agentic-os-five-layers": {
+    "hash": "3564a3851f09e55928da29b202868743f8ae71ab9b57066a8c190fefcf094e51",
+    "slug": "mk-2026-06-30-agentic-os-five-layers",
+    "synced_at": "2026-06-30T23:12:03.024807+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
