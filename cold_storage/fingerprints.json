@@ -369,6 +369,11 @@
     "slug": "aie-2026-06-30-rl-agent-etl-remediation",
     "synced_at": "2026-06-30T23:12:03.025118+00:00"
   },
+  "phase4:aie-2026-07-01-software-factories-loop-stacking": {
+    "hash": "4e2e4128a924271bef695f831aee2812ed2c641114feaf1922acd2a2797276f3",
+    "slug": "aie-2026-07-01-software-factories-loop-stacking",
+    "synced_at": "2026-07-01T23:14:51.246550+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1309,6 +1314,11 @@
     "slug": "nb-2026-06-28-glm52-harness-last-mile",
     "synced_at": "2026-06-28T23:01:24.771324+00:00"
   },
+  "phase4:nb-2026-07-01-ai-memory-80pct-self-built": {
+    "hash": "41da5cfb2c7d32ec8f8d927b684bc7a31e55591e54f9c1def9864c013eb322d5",
+    "slug": "nb-2026-07-01-ai-memory-80pct-self-built",
+    "synced_at": "2026-07-01T23:14:51.246046+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -1643,6 +1653,11 @@
     "hash": "0dd6fc9dd31d14c59dd0a5821542582bbc6b00242993cf2a1a6c41969c9593ce",
     "slug": "nh-2026-06-29-storm-skill-multi-perspective-research",
     "synced_at": "2026-06-29T22:57:05.456906+00:00"
+  },
+  "phase4:nh-2026-07-01-fable5-prompting-six-habits": {
+    "hash": "a0992d3a8b0823776f7372aa25064f6e5a537e26b04fcd5164f184939f722d51",
+    "slug": "nh-2026-07-01-fable5-prompting-six-habits",
+    "synced_at": "2026-07-01T23:14:51.246327+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

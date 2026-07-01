@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**334 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**337 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -16,7 +16,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | `adopted` | 90 |
 | `deferred` | 56 |
 | `done` | 48 |
-| `backlog` | 34 |
+| `backlog` | 37 |
 | `in_progress` | 10 |
 | `skipped` | 4 |
 
@@ -25,16 +25,16 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Verdict | Count |
 |---|---|
 | `adopt` | 128 |
-| `(none)` | 104 |
+| `(none)` | 107 |
 | `discard` | 102 |
 
 ## By channel
 
 | Channel | Experiments |
 |---|---|
-| @nb | 74 |
-| @aie | 71 |
-| @nh | 65 |
+| @nb | 75 |
+| @aie | 72 |
+| @nh | 66 |
 | @mlops | 44 |
 | @do | 33 |
 | @mk | 18 |
@@ -53,6 +53,9 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-01 | [[experiments/nh-2026-07-01-fable5-prompting-six-habits|Apply Fable 5-specific prompting rules to system prompts and skill files]] | @nh | `-` |
+| 2026-07-01 | [[experiments/nb-2026-07-01-ai-memory-80pct-self-built|Bootstrap a personal AI memory stack by prompting an agent to build it]] | @nb | `-` |
+| 2026-07-01 | [[experiments/aie-2026-07-01-software-factories-loop-stacking|Implement a Slack/paging human-in-the-loop interrupt for long-running agent jobs]] | @aie | `-` |
 | 2026-06-30 | [[experiments/mk-2026-06-30-agentic-os-five-layers|Structure agent harnesses as five explicit layers with tracked rot-rates]] | @mk | `-` |
 | 2026-06-30 | [[experiments/aij-2026-06-30-pre-tool-use-hook-pattern|Use pre-tool-use hooks to silently augment default agent tool calls with richer context]] | @aij | `-` |
 | 2026-06-30 | [[experiments/aij-2026-06-30-codebase-memory-mcp-graph|Replace flat-file grep with codebase-memory MCP graph for agent context]] | @aij | `-` |
