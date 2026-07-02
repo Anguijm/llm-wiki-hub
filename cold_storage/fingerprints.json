@@ -374,6 +374,11 @@
     "slug": "aie-2026-07-01-software-factories-loop-stacking",
     "synced_at": "2026-07-01T23:14:51.246550+00:00"
   },
+  "phase4:aie-2026-07-02-ambient-ai-in-conversation": {
+    "hash": "39c07fbaa8e84dee362cf4a4d7c00a3e00982c1b312b7a1f8d40a493fe1ed7c6",
+    "slug": "aie-2026-07-02-ambient-ai-in-conversation",
+    "synced_at": "2026-07-02T23:06:02.606733+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -598,6 +603,16 @@
     "hash": "61651c8fe5354c4109fb9299468186d3f09cf4bc12d631c2c1de849657a8a785",
     "slug": "do-2026-06-29-hermes-mixture-of-agents",
     "synced_at": "2026-06-29T22:57:05.456629+00:00"
+  },
+  "phase4:do-2026-07-02-frontier-orchestrator-cheap-actors": {
+    "hash": "6c4995004e691beb9c817c9ec2ca435d9d1c1ea9e904b21124fdb97437680af0",
+    "slug": "do-2026-07-02-frontier-orchestrator-cheap-actors",
+    "synced_at": "2026-07-02T23:06:02.606096+00:00"
+  },
+  "phase4:do-2026-07-02-open-source-model-self-hosting-resilience": {
+    "hash": "2e7bc03698a78bd97dda939a557a2d45d0acf22504b5d0de732bd425768898f2",
+    "slug": "do-2026-07-02-open-source-model-self-hosting-resilience",
+    "synced_at": "2026-07-02T23:06:02.606413+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
@@ -1318,6 +1333,21 @@
     "hash": "41da5cfb2c7d32ec8f8d927b684bc7a31e55591e54f9c1def9864c013eb322d5",
     "slug": "nb-2026-07-01-ai-memory-80pct-self-built",
     "synced_at": "2026-07-01T23:14:51.246046+00:00"
+  },
+  "phase4:nb-2026-07-02-context-war-harness-strategy": {
+    "hash": "3c21986c299767d15c57f95dbb836b77af895a3e08cae431c217440114ffd081",
+    "slug": "nb-2026-07-02-context-war-harness-strategy",
+    "synced_at": "2026-07-02T23:06:02.605650+00:00"
+  },
+  "phase4:nb-2026-07-02-model-resilience-harness-ownership": {
+    "hash": "3e3f5a816ba6db76c38f26d6897e9ae65453ffa32869904e2b60aa83162d31ea",
+    "slug": "nb-2026-07-02-model-resilience-harness-ownership",
+    "synced_at": "2026-07-02T23:06:02.605233+00:00"
+  },
+  "phase4:nb-2026-07-02-task-complexity-model-routing": {
+    "hash": "1b3d0337cbd0c7a7ef3d28b018f06278e64030ab3ebc005fa4ca4a46aca72620",
+    "slug": "nb-2026-07-02-task-complexity-model-routing",
+    "synced_at": "2026-07-02T23:06:02.604865+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",

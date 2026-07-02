@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**337 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**343 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -16,7 +16,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | `adopted` | 90 |
 | `deferred` | 56 |
 | `done` | 48 |
-| `backlog` | 37 |
+| `backlog` | 43 |
 | `in_progress` | 10 |
 | `skipped` | 4 |
 
@@ -25,18 +25,18 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Verdict | Count |
 |---|---|
 | `adopt` | 128 |
-| `(none)` | 107 |
+| `(none)` | 113 |
 | `discard` | 102 |
 
 ## By channel
 
 | Channel | Experiments |
 |---|---|
-| @nb | 75 |
-| @aie | 72 |
+| @nb | 78 |
+| @aie | 73 |
 | @nh | 66 |
 | @mlops | 44 |
-| @do | 33 |
+| @do | 35 |
 | @mk | 18 |
 | @aij | 10 |
 | @st | 8 |
@@ -53,6 +53,12 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-02 | [[experiments/nb-2026-07-02-task-complexity-model-routing|Route tasks by complexity: cheap model for center-of-distribution work, frontier model for novel tasks]] | @nb | `-` |
+| 2026-07-02 | [[experiments/nb-2026-07-02-model-resilience-harness-ownership|Own the routing harness so any single model going offline causes zero downtime]] | @nb | `-` |
+| 2026-07-02 | [[experiments/nb-2026-07-02-context-war-harness-strategy|Reduce context-loading friction by pre-wiring relevant workspace context into agent sessions]] | @nb | `-` |
+| 2026-07-02 | [[experiments/do-2026-07-02-open-source-model-self-hosting-resilience|Self-host a large open-source model as the unbannable execution backbone for business-critical pipelines]] | @do | `-` |
+| 2026-07-02 | [[experiments/do-2026-07-02-frontier-orchestrator-cheap-actors|Use frontier model as orchestrator/planner and cheap open-source models as actor agents]] | @do | `-` |
+| 2026-07-02 | [[experiments/aie-2026-07-02-ambient-ai-in-conversation|Build an ambient AI participant that captures decisions from live conversation without explicit prompts]] | @aie | `-` |
 | 2026-07-01 | [[experiments/nh-2026-07-01-fable5-prompting-six-habits|Apply Fable 5-specific prompting rules to system prompts and skill files]] | @nh | `-` |
 | 2026-07-01 | [[experiments/nb-2026-07-01-ai-memory-80pct-self-built|Bootstrap a personal AI memory stack by prompting an agent to build it]] | @nb | `-` |
 | 2026-07-01 | [[experiments/aie-2026-07-01-software-factories-loop-stacking|Implement a Slack/paging human-in-the-loop interrupt for long-running agent jobs]] | @aie | `-` |
