@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**343 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**348 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -16,7 +16,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | `adopted` | 90 |
 | `deferred` | 56 |
 | `done` | 48 |
-| `backlog` | 43 |
+| `backlog` | 48 |
 | `in_progress` | 10 |
 | `skipped` | 4 |
 
@@ -25,16 +25,16 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Verdict | Count |
 |---|---|
 | `adopt` | 128 |
-| `(none)` | 113 |
+| `(none)` | 118 |
 | `discard` | 102 |
 
 ## By channel
 
 | Channel | Experiments |
 |---|---|
-| @nb | 78 |
-| @aie | 73 |
-| @nh | 66 |
+| @nb | 79 |
+| @aie | 75 |
+| @nh | 68 |
 | @mlops | 44 |
 | @do | 35 |
 | @mk | 18 |
@@ -53,6 +53,11 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-03 | [[experiments/nh-2026-07-03-llm-wiki-fable-youtube-transcripts|Ingest YouTube transcripts into a Claude Code-maintained LLM wiki with backlink graph]] | @nh | `-` |
+| 2026-07-03 | [[experiments/nh-2026-07-03-claude-code-row-skill-verification|Implement a ROW (Research → Outline → Write) skill file with mandatory verification step in Claude Code]] | @nh | `-` |
+| 2026-07-03 | [[experiments/nb-2026-07-03-paperwork-agent-skeleton|Build a reusable 9-step agent skeleton for high-trust paperwork processing]] | @nb | `-` |
+| 2026-07-03 | [[experiments/aie-2026-07-03-harness-engineering-dspy|Apply DSPy harness engineering to decouple task specification from model selection]] | @aie | `-` |
+| 2026-07-03 | [[experiments/aie-2026-07-03-fable-agentic-traces-model-selection|Log agentic traces to real-world benchmark data for evidence-based model selection]] | @aie | `-` |
 | 2026-07-02 | [[experiments/nb-2026-07-02-task-complexity-model-routing|Route tasks by complexity: cheap model for center-of-distribution work, frontier model for novel tasks]] | @nb | `-` |
 | 2026-07-02 | [[experiments/nb-2026-07-02-model-resilience-harness-ownership|Own the routing harness so any single model going offline causes zero downtime]] | @nb | `-` |
 | 2026-07-02 | [[experiments/nb-2026-07-02-context-war-harness-strategy|Reduce context-loading friction by pre-wiring relevant workspace context into agent sessions]] | @nb | `-` |

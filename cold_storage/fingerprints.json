@@ -379,6 +379,16 @@
     "slug": "aie-2026-07-02-ambient-ai-in-conversation",
     "synced_at": "2026-07-02T23:06:02.606733+00:00"
   },
+  "phase4:aie-2026-07-03-fable-agentic-traces-model-selection": {
+    "hash": "353f51a077fad11af2fa97be64ce4733c97917c6ccd7a9a1cd3263a9db720a0e",
+    "slug": "aie-2026-07-03-fable-agentic-traces-model-selection",
+    "synced_at": "2026-07-03T23:02:44.025538+00:00"
+  },
+  "phase4:aie-2026-07-03-harness-engineering-dspy": {
+    "hash": "436b88186ec6ccd675a082269d5ddf9cd52f8a7720773bb3db25ed24149eed22",
+    "slug": "aie-2026-07-03-harness-engineering-dspy",
+    "synced_at": "2026-07-03T23:02:44.025214+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1349,6 +1359,11 @@
     "slug": "nb-2026-07-02-task-complexity-model-routing",
     "synced_at": "2026-07-02T23:06:02.604865+00:00"
   },
+  "phase4:nb-2026-07-03-paperwork-agent-skeleton": {
+    "hash": "35b7a003506d9fbb47a24c6ae9a905f53e015fca3d84ef3adb42553a233a3fdd",
+    "slug": "nb-2026-07-03-paperwork-agent-skeleton",
+    "synced_at": "2026-07-03T23:02:44.024198+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -1688,6 +1703,16 @@
     "hash": "a0992d3a8b0823776f7372aa25064f6e5a537e26b04fcd5164f184939f722d51",
     "slug": "nh-2026-07-01-fable5-prompting-six-habits",
     "synced_at": "2026-07-01T23:14:51.246327+00:00"
+  },
+  "phase4:nh-2026-07-03-claude-code-row-skill-verification": {
+    "hash": "c61c10d702df40b08770cecc58b7f586dbcb045ebce9d00b7b52c40eaf90f0b9",
+    "slug": "nh-2026-07-03-claude-code-row-skill-verification",
+    "synced_at": "2026-07-03T23:02:44.024899+00:00"
+  },
+  "phase4:nh-2026-07-03-llm-wiki-fable-youtube-transcripts": {
+    "hash": "4145666f90a5b9c00bc0eadbdcaa7dfee36f8eae4c57b64eabd2b81bce746a6e",
+    "slug": "nh-2026-07-03-llm-wiki-fable-youtube-transcripts",
+    "synced_at": "2026-07-03T23:02:44.024553+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
