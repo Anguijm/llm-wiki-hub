@@ -1364,6 +1364,16 @@
     "slug": "nb-2026-07-03-paperwork-agent-skeleton",
     "synced_at": "2026-07-03T23:02:44.024198+00:00"
   },
+  "phase4:nb-2026-07-04-claude4-goal-harness-for-codegen": {
+    "hash": "2efef7ebc449d1e4bd56d0dc7ab7ed9ca361ac9db384248a5308e94b3ebe8726",
+    "slug": "nb-2026-07-04-claude4-goal-harness-for-codegen",
+    "synced_at": "2026-07-04T22:56:50.397486+00:00"
+  },
+  "phase4:nb-2026-07-04-claude4-short-prompt-hard-problems": {
+    "hash": "b886ec9d63aa9bd419228ac4fbb82aeecc5979569e3399b3e6cabb0f05aa99bc",
+    "slug": "nb-2026-07-04-claude4-short-prompt-hard-problems",
+    "synced_at": "2026-07-04T22:56:50.397217+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",

@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**348 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**350 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -15,8 +15,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
+| `backlog` | 50 |
 | `done` | 48 |
-| `backlog` | 48 |
 | `in_progress` | 10 |
 | `skipped` | 4 |
 
@@ -25,14 +25,14 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Verdict | Count |
 |---|---|
 | `adopt` | 128 |
-| `(none)` | 118 |
+| `(none)` | 120 |
 | `discard` | 102 |
 
 ## By channel
 
 | Channel | Experiments |
 |---|---|
-| @nb | 79 |
+| @nb | 81 |
 | @aie | 75 |
 | @nh | 68 |
 | @mlops | 44 |
@@ -53,6 +53,8 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-04 | [[experiments/nb-2026-07-04-claude4-short-prompt-hard-problems|Use short, high-context prompts on Claude 4 for hard open-ended problems]] | @nb | `-` |
+| 2026-07-04 | [[experiments/nb-2026-07-04-claude4-goal-harness-for-codegen|Use Claude 4 to design a goal harness that guides a downstream coding model]] | @nb | `-` |
 | 2026-07-03 | [[experiments/nh-2026-07-03-llm-wiki-fable-youtube-transcripts|Ingest YouTube transcripts into a Claude Code-maintained LLM wiki with backlink graph]] | @nh | `-` |
 | 2026-07-03 | [[experiments/nh-2026-07-03-claude-code-row-skill-verification|Implement a ROW (Research → Outline → Write) skill file with mandatory verification step in Claude Code]] | @nh | `-` |
 | 2026-07-03 | [[experiments/nb-2026-07-03-paperwork-agent-skeleton|Build a reusable 9-step agent skeleton for high-trust paperwork processing]] | @nb | `-` |
