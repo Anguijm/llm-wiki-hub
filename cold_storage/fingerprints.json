@@ -389,6 +389,26 @@
     "slug": "aie-2026-07-03-harness-engineering-dspy",
     "synced_at": "2026-07-03T23:02:44.025214+00:00"
   },
+  "phase4:aie-2026-07-05-continual-learning-replayable-envs": {
+    "hash": "6a9b2beb3d4b547a51b049f5f5ff06eeb32d5859815d54f4d65ece6f1beaa4bb",
+    "slug": "aie-2026-07-05-continual-learning-replayable-envs",
+    "synced_at": "2026-07-05T23:00:04.805800+00:00"
+  },
+  "phase4:aie-2026-07-05-mcp-store-distribution": {
+    "hash": "52f31b14e8ec42fefbbdf040543cfe47e516ce97d55d8aa1f543b3d02b081e24",
+    "slug": "aie-2026-07-05-mcp-store-distribution",
+    "synced_at": "2026-07-05T23:00:04.806109+00:00"
+  },
+  "phase4:aie-2026-07-05-post-launch-agent-observability": {
+    "hash": "3e86b4f4ca10748e9cd6242875c0943c9beda3432f64e5219647370feb0e678f",
+    "slug": "aie-2026-07-05-post-launch-agent-observability",
+    "synced_at": "2026-07-05T23:00:04.805437+00:00"
+  },
+  "phase4:aie-2026-07-05-wound-click-transform-pitch": {
+    "hash": "c9c2aff2a8b9ab60541557d556c04f426dba76e21abe443f9ab0c5da9f74af8f",
+    "slug": "aie-2026-07-05-wound-click-transform-pitch",
+    "synced_at": "2026-07-05T23:00:04.806419+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -738,6 +758,11 @@
     "hash": "3564a3851f09e55928da29b202868743f8ae71ab9b57066a8c190fefcf094e51",
     "slug": "mk-2026-06-30-agentic-os-five-layers",
     "synced_at": "2026-06-30T23:12:03.024807+00:00"
+  },
+  "phase4:mk-2026-07-05-wargame-plans-with-frontier": {
+    "hash": "24b8782dc8450f09facaa512b48c89af40f5d59183293118544886c5fd39b1f2",
+    "slug": "mk-2026-07-05-wargame-plans-with-frontier",
+    "synced_at": "2026-07-05T23:00:04.805115+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
@@ -1373,6 +1398,11 @@
     "hash": "b886ec9d63aa9bd419228ac4fbb82aeecc5979569e3399b3e6cabb0f05aa99bc",
     "slug": "nb-2026-07-04-claude4-short-prompt-hard-problems",
     "synced_at": "2026-07-04T22:56:50.397217+00:00"
+  },
+  "phase4:nb-2026-07-05-imagination-over-cheap-models": {
+    "hash": "e67be8b39d105bcacf72e1924dea27961bca26cd4dc2ea78f10d9cb1f8f072f2",
+    "slug": "nb-2026-07-05-imagination-over-cheap-models",
+    "synced_at": "2026-07-05T23:00:04.804756+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",

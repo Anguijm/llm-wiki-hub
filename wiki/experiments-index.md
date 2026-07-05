@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**350 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**356 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -15,7 +15,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
-| `backlog` | 50 |
+| `backlog` | 56 |
 | `done` | 48 |
 | `in_progress` | 10 |
 | `skipped` | 4 |
@@ -25,19 +25,19 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Verdict | Count |
 |---|---|
 | `adopt` | 128 |
-| `(none)` | 120 |
+| `(none)` | 126 |
 | `discard` | 102 |
 
 ## By channel
 
 | Channel | Experiments |
 |---|---|
-| @nb | 81 |
-| @aie | 75 |
+| @nb | 82 |
+| @aie | 79 |
 | @nh | 68 |
 | @mlops | 44 |
 | @do | 35 |
-| @mk | 18 |
+| @mk | 19 |
 | @aij | 10 |
 | @st | 8 |
 | @up | 5 |
@@ -53,6 +53,12 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-05 | [[experiments/nb-2026-07-05-imagination-over-cheap-models|Designate frontier-model budget for exploratory 'imagination' tasks]] | @nb | `-` |
+| 2026-07-05 | [[experiments/mk-2026-07-05-wargame-plans-with-frontier|Use frontier model to wargame agentic task plans before cheaper-model execution]] | @mk | `-` |
+| 2026-07-05 | [[experiments/aie-2026-07-05-wound-click-transform-pitch|Apply wound/click/transformation framework to AI tool documentation and onboarding copy]] | @aie | `-` |
+| 2026-07-05 | [[experiments/aie-2026-07-05-post-launch-agent-observability|Build a meta-harness that watches, scores, and auto-PRs fixes for production agent sessions]] | @aie | `-` |
+| 2026-07-05 | [[experiments/aie-2026-07-05-mcp-store-distribution|Publish an MCP app with UI widgets to Claude and ChatGPT stores for dynamic discovery]] | @aie | `-` |
+| 2026-07-05 | [[experiments/aie-2026-07-05-continual-learning-replayable-envs|Convert production failure logs into replayable learning environments before applying harness fixes]] | @aie | `-` |
 | 2026-07-04 | [[experiments/nb-2026-07-04-claude4-short-prompt-hard-problems|Use short, high-context prompts on Claude 4 for hard open-ended problems]] | @nb | `-` |
 | 2026-07-04 | [[experiments/nb-2026-07-04-claude4-goal-harness-for-codegen|Use Claude 4 to design a goal harness that guides a downstream coding model]] | @nb | `-` |
 | 2026-07-03 | [[experiments/nh-2026-07-03-llm-wiki-fable-youtube-transcripts|Ingest YouTube transcripts into a Claude Code-maintained LLM wiki with backlink graph]] | @nh | `-` |
