@@ -409,6 +409,16 @@
     "slug": "aie-2026-07-05-wound-click-transform-pitch",
     "synced_at": "2026-07-05T23:00:04.806419+00:00"
   },
+  "phase4:aie-2026-07-06-capability-overhang-audit": {
+    "hash": "fb5dd583d050536a83e235e10b5a0f5070b10c11094a3e949ef771170ced8a3f",
+    "slug": "aie-2026-07-06-capability-overhang-audit",
+    "synced_at": "2026-07-06T23:06:47.460411+00:00"
+  },
+  "phase4:aie-2026-07-06-shrink-system-prompt-fable": {
+    "hash": "246b0cd69ab132d3075e66c36e28fa4392d01381e93d7b0338c697703e2173e6",
+    "slug": "aie-2026-07-06-shrink-system-prompt-fable",
+    "synced_at": "2026-07-06T23:06:47.460071+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",

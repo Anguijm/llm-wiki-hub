@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**356 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**358 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -14,8 +14,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 |---|---|
 | `discarded` | 92 |
 | `adopted` | 90 |
+| `backlog` | 58 |
 | `deferred` | 56 |
-| `backlog` | 56 |
 | `done` | 48 |
 | `in_progress` | 10 |
 | `skipped` | 4 |
@@ -25,7 +25,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Verdict | Count |
 |---|---|
 | `adopt` | 128 |
-| `(none)` | 126 |
+| `(none)` | 128 |
 | `discard` | 102 |
 
 ## By channel
@@ -33,7 +33,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Channel | Experiments |
 |---|---|
 | @nb | 82 |
-| @aie | 79 |
+| @aie | 81 |
 | @nh | 68 |
 | @mlops | 44 |
 | @do | 35 |
@@ -53,6 +53,8 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-06 | [[experiments/aie-2026-07-06-shrink-system-prompt-fable|Shrink the system prompt for newer Claude models and remove constraining examples]] | @aie | `-` |
+| 2026-07-06 | [[experiments/aie-2026-07-06-capability-overhang-audit|Audit tasks the agent currently fails at by adding code-execution or tool access to expose capability overhang]] | @aie | `-` |
 | 2026-07-05 | [[experiments/nb-2026-07-05-imagination-over-cheap-models|Designate frontier-model budget for exploratory 'imagination' tasks]] | @nb | `-` |
 | 2026-07-05 | [[experiments/mk-2026-07-05-wargame-plans-with-frontier|Use frontier model to wargame agentic task plans before cheaper-model execution]] | @mk | `-` |
 | 2026-07-05 | [[experiments/aie-2026-07-05-wound-click-transform-pitch|Apply wound/click/transformation framework to AI tool documentation and onboarding copy]] | @aie | `-` |
