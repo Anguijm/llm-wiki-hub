@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**358 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**364 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -14,7 +14,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 |---|---|
 | `discarded` | 92 |
 | `adopted` | 90 |
-| `backlog` | 58 |
+| `backlog` | 64 |
 | `deferred` | 56 |
 | `done` | 48 |
 | `in_progress` | 10 |
@@ -24,19 +24,19 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
+| `(none)` | 134 |
 | `adopt` | 128 |
-| `(none)` | 128 |
 | `discard` | 102 |
 
 ## By channel
 
 | Channel | Experiments |
 |---|---|
+| @aie | 84 |
 | @nb | 82 |
-| @aie | 81 |
-| @nh | 68 |
+| @nh | 70 |
 | @mlops | 44 |
-| @do | 35 |
+| @do | 36 |
 | @mk | 19 |
 | @aij | 10 |
 | @st | 8 |
@@ -53,6 +53,12 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-07 | [[experiments/nh-2026-07-07-model-routing-table-agent-teams|Build an explicit model routing table for dynamic multi-agent workflows]] | @nh | `-` |
+| 2026-07-07 | [[experiments/nh-2026-07-07-fable-mode-system-prompt-opus|Inject a 'Fable-mode' system prompt into Opus to replicate Fable-5 reasoning patterns]] | @nh | `-` |
+| 2026-07-07 | [[experiments/do-2026-07-07-finetune-large-oss-models-cloud|Fine-tune a 1T-parameter OSS model via cloud GPU rental and deploy via API]] | @do | `-` |
+| 2026-07-07 | [[experiments/aie-2026-07-07-swe-marathon-long-horizon-eval|Add multi-channel anti-cheat verification to long-horizon agent evals to prevent reward hacking]] | @aie | `-` |
+| 2026-07-07 | [[experiments/aie-2026-07-07-radical-speed-month-vibe-coding-org|Run a time-boxed 'radical speed sprint' where non-engineers ship production code using AI tools]] | @aie | `-` |
+| 2026-07-07 | [[experiments/aie-2026-07-07-adaptive-per-user-software-pipeline|Prototype a live-session code adaptation layer that modifies UI behavior per user context without a build step]] | @aie | `-` |
 | 2026-07-06 | [[experiments/aie-2026-07-06-shrink-system-prompt-fable|Shrink the system prompt for newer Claude models and remove constraining examples]] | @aie | `-` |
 | 2026-07-06 | [[experiments/aie-2026-07-06-capability-overhang-audit|Audit tasks the agent currently fails at by adding code-execution or tool access to expose capability overhang]] | @aie | `-` |
 | 2026-07-05 | [[experiments/nb-2026-07-05-imagination-over-cheap-models|Designate frontier-model budget for exploratory 'imagination' tasks]] | @nb | `-` |
