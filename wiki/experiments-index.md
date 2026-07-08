@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**364 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**379 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -14,7 +14,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 |---|---|
 | `discarded` | 92 |
 | `adopted` | 90 |
-| `backlog` | 64 |
+| `backlog` | 79 |
 | `deferred` | 56 |
 | `done` | 48 |
 | `in_progress` | 10 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 134 |
+| `(none)` | 149 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,9 +32,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 84 |
-| @nb | 82 |
-| @nh | 70 |
+| @aie | 96 |
+| @nb | 84 |
+| @nh | 71 |
 | @mlops | 44 |
 | @do | 36 |
 | @mk | 19 |
@@ -53,6 +53,21 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-08 | [[experiments/nh-2026-07-08-single-goal-prompt-full-company|Use a file-based goal prompt with never-ask and multi-agent orchestration directives to build a full deliverable set autonomously]] | @nh | `-` |
+| 2026-07-08 | [[experiments/nb-2026-07-08-multi-agent-swarm-qa-catch|Use a cheap-model swarm with a frontier orchestrator to auto-catch and rework agent failures]] | @nb | `-` |
+| 2026-07-08 | [[experiments/nb-2026-07-08-agent-audition-tryout-task|Run a structured audition task before including a new model in a swarm]] | @nb | `-` |
+| 2026-07-08 | [[experiments/aie-2026-07-08-repl-tool-replaces-15-tools|Replace a large set of discrete agent tools with a single persistent-state REPL tool]] | @aie | `-` |
+| 2026-07-08 | [[experiments/aie-2026-07-08-markdown-cron-daily-planner-agent|Build a cron-driven agent that reads a markdown task file and generates a prioritized daily plan]] | @aie | `-` |
+| 2026-07-08 | [[experiments/aie-2026-07-08-key-art-anchor-game-generation|Anchor AI game generation to a single key art image to enforce visual and tonal coherence]] | @aie | `-` |
+| 2026-07-08 | [[experiments/aie-2026-07-08-hierarchical-agent-fleet-file-state|Externalize all agent state to disk files and use context reset instead of compaction to enable crash-resilient long-running agent fleets]] | @aie | `-` |
+| 2026-07-08 | [[experiments/aie-2026-07-08-harness-self-optimization|Add a self-optimization loop that rewrites agent prompts based on a measurable objective score]] | @aie | `-` |
+| 2026-07-08 | [[experiments/aie-2026-07-08-diff-sae-backdoor-detection|Detect backdoors in fine-tuned LLMs by training a sparse autoencoder on activation deltas between base and fine-tuned checkpoints]] | @aie | `-` |
+| 2026-07-08 | [[experiments/aie-2026-07-08-deterministic-verification-harness|Build a deterministic verification harness that fires via Claude hooks and retries on failure]] | @aie | `-` |
+| 2026-07-08 | [[experiments/aie-2026-07-08-chess-agent-tool-augmented-llm|Augment an LLM with domain-specific constraint tools to prevent hallucination in rule-bound domains]] | @aie | `-` |
+| 2026-07-08 | [[experiments/aie-2026-07-08-agent-search-query-training|Instruct agents to write retrieval queries as natural sentences rather than keyword strings]] | @aie | `-` |
+| 2026-07-08 | [[experiments/aie-2026-07-08-agent-feedback-loop-cli-tooling|Build a custom CLI tool that gives coding agents application-level feedback loops including screenshots, logs, and service restarts]] | @aie | `-` |
+| 2026-07-08 | [[experiments/aie-2026-07-08-adaptive-harness-emergence|Allow agent harness roles and tooling to emerge mid-run rather than being fully pre-defined]] | @aie | `-` |
+| 2026-07-08 | [[experiments/aie-2026-07-08-acp-compatible-agent-live|Add ACP (Agent Client Protocol) support to a custom coding agent so it can run inside any ACP-compatible editor]] | @aie | `-` |
 | 2026-07-07 | [[experiments/nh-2026-07-07-model-routing-table-agent-teams|Build an explicit model routing table for dynamic multi-agent workflows]] | @nh | `-` |
 | 2026-07-07 | [[experiments/nh-2026-07-07-fable-mode-system-prompt-opus|Inject a 'Fable-mode' system prompt into Opus to replicate Fable-5 reasoning patterns]] | @nh | `-` |
 | 2026-07-07 | [[experiments/do-2026-07-07-finetune-large-oss-models-cloud|Fine-tune a 1T-parameter OSS model via cloud GPU rental and deploy via API]] | @do | `-` |

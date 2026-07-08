@@ -434,6 +434,66 @@
     "slug": "aie-2026-07-07-swe-marathon-long-horizon-eval",
     "synced_at": "2026-07-07T23:00:44.383092+00:00"
   },
+  "phase4:aie-2026-07-08-acp-compatible-agent-live": {
+    "hash": "8b65dff743e683c3ed37b35b3553e9ae32bb3fefcabd4a734e992fcdbab07d44",
+    "slug": "aie-2026-07-08-acp-compatible-agent-live",
+    "synced_at": "2026-07-08T23:06:33.383401+00:00"
+  },
+  "phase4:aie-2026-07-08-adaptive-harness-emergence": {
+    "hash": "31e52acf883673c63d7dce06c4f19ddd672420b62ada1501ab3a0c632987a610",
+    "slug": "aie-2026-07-08-adaptive-harness-emergence",
+    "synced_at": "2026-07-08T23:06:33.385339+00:00"
+  },
+  "phase4:aie-2026-07-08-agent-feedback-loop-cli-tooling": {
+    "hash": "32893e1477603aa362616ad23fc6a9230351ce006ee226dd9b1cbc46339fa463",
+    "slug": "aie-2026-07-08-agent-feedback-loop-cli-tooling",
+    "synced_at": "2026-07-08T23:06:33.383093+00:00"
+  },
+  "phase4:aie-2026-07-08-agent-search-query-training": {
+    "hash": "8269064b2cce80f1ce7eacc98636a682f602f4c3e69d5079e2539444f55aee9c",
+    "slug": "aie-2026-07-08-agent-search-query-training",
+    "synced_at": "2026-07-08T23:06:33.385660+00:00"
+  },
+  "phase4:aie-2026-07-08-chess-agent-tool-augmented-llm": {
+    "hash": "9e0b31e31e53ed89ec9ef2700375d0b755f42cd1819443a0b7211a95bd40b2ce",
+    "slug": "aie-2026-07-08-chess-agent-tool-augmented-llm",
+    "synced_at": "2026-07-08T23:06:33.384382+00:00"
+  },
+  "phase4:aie-2026-07-08-deterministic-verification-harness": {
+    "hash": "323b1ca6b35ac18f4fdd48489d7cc944d0ee2e2ec644baf19f438667de9ce34a",
+    "slug": "aie-2026-07-08-deterministic-verification-harness",
+    "synced_at": "2026-07-08T23:06:33.384066+00:00"
+  },
+  "phase4:aie-2026-07-08-diff-sae-backdoor-detection": {
+    "hash": "29a92abed80e7fbc8d964a02e7eca26e14da1e0ddcdbc344f82cd6890eb4e9e8",
+    "slug": "aie-2026-07-08-diff-sae-backdoor-detection",
+    "synced_at": "2026-07-08T23:06:33.385015+00:00"
+  },
+  "phase4:aie-2026-07-08-harness-self-optimization": {
+    "hash": "0792c64786aaa0b08c7e0ed290e6ff8c3a05307b9eb559e5847e4a865235eb38",
+    "slug": "aie-2026-07-08-harness-self-optimization",
+    "synced_at": "2026-07-08T23:06:33.385994+00:00"
+  },
+  "phase4:aie-2026-07-08-hierarchical-agent-fleet-file-state": {
+    "hash": "d6ebb7cf017b3e5a865ea64fbe68eb5c891ac3a0d608ffb9833dabc32df6a63a",
+    "slug": "aie-2026-07-08-hierarchical-agent-fleet-file-state",
+    "synced_at": "2026-07-08T23:06:33.384683+00:00"
+  },
+  "phase4:aie-2026-07-08-key-art-anchor-game-generation": {
+    "hash": "27701d115bcd0be25b499f87829e1d85dbd5c055f1bb4a89da2785bb6e0b646e",
+    "slug": "aie-2026-07-08-key-art-anchor-game-generation",
+    "synced_at": "2026-07-08T23:06:33.382748+00:00"
+  },
+  "phase4:aie-2026-07-08-markdown-cron-daily-planner-agent": {
+    "hash": "19ffa60627633cc296f04bb352754a03a6ed70e5aa9a568671578a5467b8e6a6",
+    "slug": "aie-2026-07-08-markdown-cron-daily-planner-agent",
+    "synced_at": "2026-07-08T23:06:33.382436+00:00"
+  },
+  "phase4:aie-2026-07-08-repl-tool-replaces-15-tools": {
+    "hash": "d8d53d9590bd1687cee9fa44327bcc59f850524f9dd65aee58d3721210fca471",
+    "slug": "aie-2026-07-08-repl-tool-replaces-15-tools",
+    "synced_at": "2026-07-08T23:06:33.383698+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1434,6 +1494,16 @@
     "slug": "nb-2026-07-05-imagination-over-cheap-models",
     "synced_at": "2026-07-05T23:00:04.804756+00:00"
   },
+  "phase4:nb-2026-07-08-agent-audition-tryout-task": {
+    "hash": "e5e57aa9b1c8b40556475f802bbeae76faacfcf91382259556e0f16de735356a",
+    "slug": "nb-2026-07-08-agent-audition-tryout-task",
+    "synced_at": "2026-07-08T23:06:33.381757+00:00"
+  },
+  "phase4:nb-2026-07-08-multi-agent-swarm-qa-catch": {
+    "hash": "13a729398a96a407409223d7775c8ce979e202ee6348d65cda55273c55151d5d",
+    "slug": "nb-2026-07-08-multi-agent-swarm-qa-catch",
+    "synced_at": "2026-07-08T23:06:33.381423+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -1793,6 +1863,11 @@
     "hash": "a5f6d529b80f22f3c6320afcfb354355d226d72dea50115d4f936d82943a0377",
     "slug": "nh-2026-07-07-model-routing-table-agent-teams",
     "synced_at": "2026-07-07T23:00:44.382179+00:00"
+  },
+  "phase4:nh-2026-07-08-single-goal-prompt-full-company": {
+    "hash": "9d39a80fa7c734243a57295d4e607c888c8131b82e5ec628ec1bac9ed9bf72c6",
+    "slug": "nh-2026-07-08-single-goal-prompt-full-company",
+    "synced_at": "2026-07-08T23:06:33.382095+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
