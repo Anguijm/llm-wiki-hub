@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**379 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**385 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -14,7 +14,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 |---|---|
 | `discarded` | 92 |
 | `adopted` | 90 |
-| `backlog` | 79 |
+| `backlog` | 85 |
 | `deferred` | 56 |
 | `done` | 48 |
 | `in_progress` | 10 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 149 |
+| `(none)` | 155 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,11 +32,11 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 96 |
+| @aie | 99 |
 | @nb | 84 |
-| @nh | 71 |
+| @nh | 72 |
 | @mlops | 44 |
-| @do | 36 |
+| @do | 38 |
 | @mk | 19 |
 | @aij | 10 |
 | @st | 8 |
@@ -53,6 +53,12 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-09 | [[experiments/nh-2026-07-09-single-prompt-full-video-pipeline|Use a single vague prompt with delegation and verification instructions to drive a multi-tool agent pipeline]] | @nh | `-` |
+| 2026-07-09 | [[experiments/do-2026-07-09-stop-prompting-start-loops|Run one high-focus task plus many background agent tasks in parallel]] | @do | `-` |
+| 2026-07-09 | [[experiments/do-2026-07-09-embrace-slop-filter-signal|Generate 100 variants and apply judgment to select the best output]] | @do | `-` |
+| 2026-07-09 | [[experiments/aie-2026-07-09-personal-brand-as-distribution-moat|Use AI to amplify an authentic personal brand signal rather than generate generic marketing content]] | @aie | `-` |
+| 2026-07-09 | [[experiments/aie-2026-07-09-manager-agent-outer-loop|Promote a persistent manager agent to own the inner execution loop while the developer controls only the outer steering loop]] | @aie | `-` |
+| 2026-07-09 | [[experiments/aie-2026-07-09-forward-deployed-mvp-in-days|Embed directly with end users for 2-3 days per week and build MVPs on-site in days rather than sprints]] | @aie | `-` |
 | 2026-07-08 | [[experiments/nh-2026-07-08-single-goal-prompt-full-company|Use a file-based goal prompt with never-ask and multi-agent orchestration directives to build a full deliverable set autonomously]] | @nh | `-` |
 | 2026-07-08 | [[experiments/nb-2026-07-08-multi-agent-swarm-qa-catch|Use a cheap-model swarm with a frontier orchestrator to auto-catch and rework agent failures]] | @nb | `-` |
 | 2026-07-08 | [[experiments/nb-2026-07-08-agent-audition-tryout-task|Run a structured audition task before including a new model in a swarm]] | @nb | `-` |

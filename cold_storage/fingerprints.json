@@ -494,6 +494,21 @@
     "slug": "aie-2026-07-08-repl-tool-replaces-15-tools",
     "synced_at": "2026-07-08T23:06:33.383698+00:00"
   },
+  "phase4:aie-2026-07-09-forward-deployed-mvp-in-days": {
+    "hash": "f7dc65e191a15f2bc7001427a67540d1d4466a248249762eca44922efec2077f",
+    "slug": "aie-2026-07-09-forward-deployed-mvp-in-days",
+    "synced_at": "2026-07-09T23:10:32.283379+00:00"
+  },
+  "phase4:aie-2026-07-09-manager-agent-outer-loop": {
+    "hash": "76eac375e2b87d4566502d9bc7d18b2139c4e2eea96d708bb08f77a5b176d875",
+    "slug": "aie-2026-07-09-manager-agent-outer-loop",
+    "synced_at": "2026-07-09T23:10:32.283002+00:00"
+  },
+  "phase4:aie-2026-07-09-personal-brand-as-distribution-moat": {
+    "hash": "e476170714cbfd98054de93f46ac34779d5703a349ae0f8cbf60493c7c24988c",
+    "slug": "aie-2026-07-09-personal-brand-as-distribution-moat",
+    "synced_at": "2026-07-09T23:10:32.283702+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -733,6 +748,16 @@
     "hash": "d435f5fe86166850658c3045e591b6a25feac065ee13a86001dade3056509540",
     "slug": "do-2026-07-07-finetune-large-oss-models-cloud",
     "synced_at": "2026-07-07T23:00:44.381531+00:00"
+  },
+  "phase4:do-2026-07-09-embrace-slop-filter-signal": {
+    "hash": "187b594ce97d27cdfb1392ad28777e5661e81fc2f24f107dfc8a69ceae32a5fc",
+    "slug": "do-2026-07-09-embrace-slop-filter-signal",
+    "synced_at": "2026-07-09T23:10:32.282309+00:00"
+  },
+  "phase4:do-2026-07-09-stop-prompting-start-loops": {
+    "hash": "6c1d1f69e28ae16f66f6b2f30b24d00c1d88c66689266e12fb8f0ae15b351449",
+    "slug": "do-2026-07-09-stop-prompting-start-loops",
+    "synced_at": "2026-07-09T23:10:32.281931+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
@@ -1868,6 +1893,11 @@
     "hash": "9d39a80fa7c734243a57295d4e607c888c8131b82e5ec628ec1bac9ed9bf72c6",
     "slug": "nh-2026-07-08-single-goal-prompt-full-company",
     "synced_at": "2026-07-08T23:06:33.382095+00:00"
+  },
+  "phase4:nh-2026-07-09-single-prompt-full-video-pipeline": {
+    "hash": "f0e8d621d372804f65d474c175de6820e84b7c3d022ed00fb667d5c53b3d6f03",
+    "slug": "nh-2026-07-09-single-prompt-full-video-pipeline",
+    "synced_at": "2026-07-09T23:10:32.282644+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
