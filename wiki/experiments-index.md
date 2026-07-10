@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**385 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**389 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -14,7 +14,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 |---|---|
 | `discarded` | 92 |
 | `adopted` | 90 |
-| `backlog` | 85 |
+| `backlog` | 89 |
 | `deferred` | 56 |
 | `done` | 48 |
 | `in_progress` | 10 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 155 |
+| `(none)` | 159 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,9 +32,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 99 |
-| @nb | 84 |
-| @nh | 72 |
+| @aie | 101 |
+| @nb | 85 |
+| @nh | 73 |
 | @mlops | 44 |
 | @do | 38 |
 | @mk | 19 |
@@ -53,6 +53,10 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-10 | [[experiments/nh-2026-07-10-soul-vs-fable-routing|Route tasks between GPT-5.6 Soul and Claude Fable 5 based on creative vs. execution workload]] | @nh | `-` |
+| 2026-07-10 | [[experiments/nb-2026-07-10-task-shape-estimator|Build a task-shape estimator to route work to chat, single-agent, multi-agent, or human]] | @nb | `-` |
+| 2026-07-10 | [[experiments/aie-2026-07-10-zl-continuum-review-layer|Define a per-task review tier (output / task-direction / loop-design) and enforce it before merging agent work]] | @aie | `-` |
+| 2026-07-10 | [[experiments/aie-2026-07-10-agent-understanding-techniques|Have agents generate explainer docs, quizzes, and micro-world simulations after each large PR]] | @aie | `-` |
 | 2026-07-09 | [[experiments/nh-2026-07-09-single-prompt-full-video-pipeline|Use a single vague prompt with delegation and verification instructions to drive a multi-tool agent pipeline]] | @nh | `-` |
 | 2026-07-09 | [[experiments/do-2026-07-09-stop-prompting-start-loops|Run one high-focus task plus many background agent tasks in parallel]] | @do | `-` |
 | 2026-07-09 | [[experiments/do-2026-07-09-embrace-slop-filter-signal|Generate 100 variants and apply judgment to select the best output]] | @do | `-` |

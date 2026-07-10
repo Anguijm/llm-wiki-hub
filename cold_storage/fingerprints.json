@@ -509,6 +509,16 @@
     "slug": "aie-2026-07-09-personal-brand-as-distribution-moat",
     "synced_at": "2026-07-09T23:10:32.283702+00:00"
   },
+  "phase4:aie-2026-07-10-agent-understanding-techniques": {
+    "hash": "b6c224aca0c33313edc8641ef92f4c70a968f694f13fd9e14b8e09d1f49c0488",
+    "slug": "aie-2026-07-10-agent-understanding-techniques",
+    "synced_at": "2026-07-10T22:58:19.551507+00:00"
+  },
+  "phase4:aie-2026-07-10-zl-continuum-review-layer": {
+    "hash": "acd089a81d522d7764d18d869988d57de2ff40e96bb8952e4b5d3ca233472ed5",
+    "slug": "aie-2026-07-10-zl-continuum-review-layer",
+    "synced_at": "2026-07-10T22:58:19.551827+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1529,6 +1539,11 @@
     "slug": "nb-2026-07-08-multi-agent-swarm-qa-catch",
     "synced_at": "2026-07-08T23:06:33.381423+00:00"
   },
+  "phase4:nb-2026-07-10-task-shape-estimator": {
+    "hash": "6fd0cb7edaeff65f850ae894cabe99704720aae46059f2a3f772bb00c924d280",
+    "slug": "nb-2026-07-10-task-shape-estimator",
+    "synced_at": "2026-07-10T22:58:19.550804+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -1898,6 +1913,11 @@
     "hash": "f0e8d621d372804f65d474c175de6820e84b7c3d022ed00fb667d5c53b3d6f03",
     "slug": "nh-2026-07-09-single-prompt-full-video-pipeline",
     "synced_at": "2026-07-09T23:10:32.282644+00:00"
+  },
+  "phase4:nh-2026-07-10-soul-vs-fable-routing": {
+    "hash": "2db8b46d789395c1bca3f133fafc7cbc743745e44f934c13a0839c852853d37c",
+    "slug": "nh-2026-07-10-soul-vs-fable-routing",
+    "synced_at": "2026-07-10T22:58:19.551178+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
