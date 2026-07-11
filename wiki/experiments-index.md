@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**389 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**399 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,9 +12,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
+| `backlog` | 99 |
 | `discarded` | 92 |
 | `adopted` | 90 |
-| `backlog` | 89 |
 | `deferred` | 56 |
 | `done` | 48 |
 | `in_progress` | 10 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 159 |
+| `(none)` | 169 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,9 +32,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 101 |
+| @aie | 109 |
 | @nb | 85 |
-| @nh | 73 |
+| @nh | 75 |
 | @mlops | 44 |
 | @do | 38 |
 | @mk | 19 |
@@ -53,6 +53,16 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-11 | [[experiments/nh-2026-07-11-token-dashboard-local|Deploy a local Claude Code token usage dashboard via GitHub repo]] | @nh | `-` |
+| 2026-07-11 | [[experiments/nh-2026-07-11-claude-code-non-coder-aios|Build a persistent AI operating system context layer in Claude Code]] | @nh | `-` |
+| 2026-07-11 | [[experiments/aie-2026-07-11-semantic-tool-selection|Filter agent tool context with semantic vector search before each call]] | @aie | `-` |
+| 2026-07-11 | [[experiments/aie-2026-07-11-open-claw-parallel-worktrees|Use Open Claw as a spec-focused orchestrator above Claude Code to parallelize work across git worktrees]] | @aie | `-` |
+| 2026-07-11 | [[experiments/aie-2026-07-11-neurosymbolic-runtime-guardians|Implement Python-level hard-stop and self-correcting runtime guardrails for agents]] | @aie | `-` |
+| 2026-07-11 | [[experiments/aie-2026-07-11-multi-agent-dream-cycle|Add a nightly dream-cycle agent that consolidates memory, resolves contradictions, and surfaces a morning report]] | @aie | `-` |
+| 2026-07-11 | [[experiments/aie-2026-07-11-jury-judge-multi-agent-validation|Implement jury-and-judge multi-agent pattern for high-stakes tasks with no empirically correct answer]] | @aie | `-` |
+| 2026-07-11 | [[experiments/aie-2026-07-11-conveyor-belt-agentic-delegation|Redesign agent UX around async delegation with human-pausable conveyor belt and weekly active sessions metric]] | @aie | `-` |
+| 2026-07-11 | [[experiments/aie-2026-07-11-cli-first-github-delegation|Adopt CLI-first workflow with GitHub issue-to-agent delegation as primary development scaling pattern]] | @aie | `-` |
+| 2026-07-11 | [[experiments/aie-2026-07-11-agent-output-gate-contracts|Add explicit boundary contracts (voice, verification, deduplication, schema) at each agent handoff to block polished-but-wrong artifacts]] | @aie | `-` |
 | 2026-07-10 | [[experiments/nh-2026-07-10-soul-vs-fable-routing|Route tasks between GPT-5.6 Soul and Claude Fable 5 based on creative vs. execution workload]] | @nh | `-` |
 | 2026-07-10 | [[experiments/nb-2026-07-10-task-shape-estimator|Build a task-shape estimator to route work to chat, single-agent, multi-agent, or human]] | @nb | `-` |
 | 2026-07-10 | [[experiments/aie-2026-07-10-zl-continuum-review-layer|Define a per-task review tier (output / task-direction / loop-design) and enforce it before merging agent work]] | @aie | `-` |

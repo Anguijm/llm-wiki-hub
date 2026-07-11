@@ -519,6 +519,46 @@
     "slug": "aie-2026-07-10-zl-continuum-review-layer",
     "synced_at": "2026-07-10T22:58:19.551827+00:00"
   },
+  "phase4:aie-2026-07-11-agent-output-gate-contracts": {
+    "hash": "303048a89bdeeb87f17d4f2f8c5d9851d7f08fca4a7bdfc9f8fc5018a63d5adc",
+    "slug": "aie-2026-07-11-agent-output-gate-contracts",
+    "synced_at": "2026-07-11T22:47:29.094515+00:00"
+  },
+  "phase4:aie-2026-07-11-cli-first-github-delegation": {
+    "hash": "f4acc15efb6ca2fc766dfd656911c19c9d258e45407581c24a36308749edc896",
+    "slug": "aie-2026-07-11-cli-first-github-delegation",
+    "synced_at": "2026-07-11T22:47:29.095249+00:00"
+  },
+  "phase4:aie-2026-07-11-conveyor-belt-agentic-delegation": {
+    "hash": "61a1cf665d51ddf13dcfe20897799f3aa51f6aa5d2214a88de1d69af69f3375d",
+    "slug": "aie-2026-07-11-conveyor-belt-agentic-delegation",
+    "synced_at": "2026-07-11T22:47:29.094203+00:00"
+  },
+  "phase4:aie-2026-07-11-jury-judge-multi-agent-validation": {
+    "hash": "c35f60aa829d35f5ff343ba35c7f4e6cadca9a28bddf304fccc93d69a7c42d38",
+    "slug": "aie-2026-07-11-jury-judge-multi-agent-validation",
+    "synced_at": "2026-07-11T22:47:29.095562+00:00"
+  },
+  "phase4:aie-2026-07-11-multi-agent-dream-cycle": {
+    "hash": "a608066be42d63aa0b70ca7b6b639461cb8365034ab66e6d33dfe37173973b5e",
+    "slug": "aie-2026-07-11-multi-agent-dream-cycle",
+    "synced_at": "2026-07-11T22:47:29.093883+00:00"
+  },
+  "phase4:aie-2026-07-11-neurosymbolic-runtime-guardians": {
+    "hash": "76efcd374d2e3ff51daa7b232e2e74c69ac4eb108dce36090714be8af3882029",
+    "slug": "aie-2026-07-11-neurosymbolic-runtime-guardians",
+    "synced_at": "2026-07-11T22:47:29.093527+00:00"
+  },
+  "phase4:aie-2026-07-11-open-claw-parallel-worktrees": {
+    "hash": "32a326f3047f7c7e1736f9465d84919d1c621d1a22b353a1be9e03960807b918",
+    "slug": "aie-2026-07-11-open-claw-parallel-worktrees",
+    "synced_at": "2026-07-11T22:47:29.094901+00:00"
+  },
+  "phase4:aie-2026-07-11-semantic-tool-selection": {
+    "hash": "6a01192e2b81b174735841dca6dd8a8ef5ca5044d58e18f58599861669429386",
+    "slug": "aie-2026-07-11-semantic-tool-selection",
+    "synced_at": "2026-07-11T22:47:29.093199+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1918,6 +1958,16 @@
     "hash": "2db8b46d789395c1bca3f133fafc7cbc743745e44f934c13a0839c852853d37c",
     "slug": "nh-2026-07-10-soul-vs-fable-routing",
     "synced_at": "2026-07-10T22:58:19.551178+00:00"
+  },
+  "phase4:nh-2026-07-11-claude-code-non-coder-aios": {
+    "hash": "68787a1348dfe83b88b67b1a5032c9245b26caa805ad0282002db99815bbc349",
+    "slug": "nh-2026-07-11-claude-code-non-coder-aios",
+    "synced_at": "2026-07-11T22:47:29.092477+00:00"
+  },
+  "phase4:nh-2026-07-11-token-dashboard-local": {
+    "hash": "395b4a45562e9cfe00f522574ee11d77c6579f556067e0edbe5492f9be46342e",
+    "slug": "nh-2026-07-11-token-dashboard-local",
+    "synced_at": "2026-07-11T22:47:29.092865+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
