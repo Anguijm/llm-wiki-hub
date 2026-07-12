@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**399 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**410 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 99 |
+| `backlog` | 110 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 169 |
+| `(none)` | 180 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,9 +32,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 109 |
-| @nb | 85 |
-| @nh | 75 |
+| @aie | 118 |
+| @nb | 86 |
+| @nh | 76 |
 | @mlops | 44 |
 | @do | 38 |
 | @mk | 19 |
@@ -53,6 +53,17 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-12 | [[experiments/nh-2026-07-12-claude-code-clay-lead-gen|Use Claude Code as natural-language orchestrator over Clay MCP for end-to-end lead enrichment]] | @nh | `-` |
+| 2026-07-12 | [[experiments/nb-2026-07-12-no-roadmap-15-commandments|Audit every dev-loop process against the 'does it shorten learning loops?' test]] | @nb | `-` |
+| 2026-07-12 | [[experiments/aie-2026-07-12-typescript-agent-layer|Build the agent orchestration layer in TypeScript with Zod schemas shared end-to-end]] | @aie | `-` |
+| 2026-07-12 | [[experiments/aie-2026-07-12-semantic-blindness-hierarchical-tool|Replace large-context entity lookup with a deterministic hierarchical resolver tool handed to the LLM]] | @aie | `-` |
+| 2026-07-12 | [[experiments/aie-2026-07-12-review-debt-scorer|Implement a deterministic review-debt score on every AI-generated PR]] | @aie | `-` |
+| 2026-07-12 | [[experiments/aie-2026-07-12-remobi-tmux-mobile-agent-monitor|Add Remobi + tmux to the agent-monitoring stack for mobile steering of running agents]] | @aie | `-` |
+| 2026-07-12 | [[experiments/aie-2026-07-12-openclaw-trusted-proxy-auth|Enable OpenClaw trusted-proxy-auth mode behind an identity-aware proxy to remove token friction]] | @aie | `-` |
+| 2026-07-12 | [[experiments/aie-2026-07-12-nanda-open-agent-index|Register an agent on the NANDA open index and test cross-organization agent discovery]] | @aie | `-` |
+| 2026-07-12 | [[experiments/aie-2026-07-12-irt-llm-benchmark-evaluation|Apply Item Response Theory to internal evals to get per-model theta scores and detect item noise]] | @aie | `-` |
+| 2026-07-12 | [[experiments/aie-2026-07-12-done-as-object-liveness-model|Replace boolean task completion with a structured 'done object' enforced by the agent control plane]] | @aie | `-` |
+| 2026-07-12 | [[experiments/aie-2026-07-12-ai-bugpocalypse-secure-by-design|Run a frontier model over the codebase to find vulnerability classes before adversaries do]] | @aie | `-` |
 | 2026-07-11 | [[experiments/nh-2026-07-11-token-dashboard-local|Deploy a local Claude Code token usage dashboard via GitHub repo]] | @nh | `-` |
 | 2026-07-11 | [[experiments/nh-2026-07-11-claude-code-non-coder-aios|Build a persistent AI operating system context layer in Claude Code]] | @nh | `-` |
 | 2026-07-11 | [[experiments/aie-2026-07-11-semantic-tool-selection|Filter agent tool context with semantic vector search before each call]] | @aie | `-` |

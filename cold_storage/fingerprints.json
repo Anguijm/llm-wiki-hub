@@ -559,6 +559,51 @@
     "slug": "aie-2026-07-11-semantic-tool-selection",
     "synced_at": "2026-07-11T22:47:29.093199+00:00"
   },
+  "phase4:aie-2026-07-12-ai-bugpocalypse-secure-by-design": {
+    "hash": "9b033ed382220a7fd1d83cfae23fe55460bfdd140bf241cd2c0c5f5e011b5d58",
+    "slug": "aie-2026-07-12-ai-bugpocalypse-secure-by-design",
+    "synced_at": "2026-07-12T22:47:12.998995+00:00"
+  },
+  "phase4:aie-2026-07-12-done-as-object-liveness-model": {
+    "hash": "545a330520aeef8411fb97fa6412219c0b2dbc9d83a20d7940a48c8e1c9584ba",
+    "slug": "aie-2026-07-12-done-as-object-liveness-model",
+    "synced_at": "2026-07-12T22:47:13.001092+00:00"
+  },
+  "phase4:aie-2026-07-12-irt-llm-benchmark-evaluation": {
+    "hash": "4d22405e07646a37b21d580d4d8a7f1096dd228ebbf3190d9e889eb800d675f7",
+    "slug": "aie-2026-07-12-irt-llm-benchmark-evaluation",
+    "synced_at": "2026-07-12T22:47:13.000827+00:00"
+  },
+  "phase4:aie-2026-07-12-nanda-open-agent-index": {
+    "hash": "3d192e4035b633fdf8de043be491bc10b6839ca50ed5da1fbfe0f08879c9c281",
+    "slug": "aie-2026-07-12-nanda-open-agent-index",
+    "synced_at": "2026-07-12T22:47:12.999612+00:00"
+  },
+  "phase4:aie-2026-07-12-openclaw-trusted-proxy-auth": {
+    "hash": "c6abb198b3411209ac0768c728de23e0f71ac8252e24af80f4c4306f7bb0bb93",
+    "slug": "aie-2026-07-12-openclaw-trusted-proxy-auth",
+    "synced_at": "2026-07-12T22:47:13.001357+00:00"
+  },
+  "phase4:aie-2026-07-12-remobi-tmux-mobile-agent-monitor": {
+    "hash": "b23915359d2dee0d9a21514c896d5a8ed434d811b18c4b976a6e83218d7d83a4",
+    "slug": "aie-2026-07-12-remobi-tmux-mobile-agent-monitor",
+    "synced_at": "2026-07-12T22:47:13.000517+00:00"
+  },
+  "phase4:aie-2026-07-12-review-debt-scorer": {
+    "hash": "d16e87caf2e5f61d5a06826205ac5855e717737d039872e9ad3e542d6f0243c3",
+    "slug": "aie-2026-07-12-review-debt-scorer",
+    "synced_at": "2026-07-12T22:47:13.000200+00:00"
+  },
+  "phase4:aie-2026-07-12-semantic-blindness-hierarchical-tool": {
+    "hash": "5413fe00ed358180b72a4a37f5b88fcd0ce8d704bd1535efff45c642fb894eb5",
+    "slug": "aie-2026-07-12-semantic-blindness-hierarchical-tool",
+    "synced_at": "2026-07-12T22:47:12.999287+00:00"
+  },
+  "phase4:aie-2026-07-12-typescript-agent-layer": {
+    "hash": "f62ab1e31b118a89d8f07963f821837fd2f7b549ffe81dd307c450d9c66fa40a",
+    "slug": "aie-2026-07-12-typescript-agent-layer",
+    "synced_at": "2026-07-12T22:47:12.999927+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1584,6 +1629,11 @@
     "slug": "nb-2026-07-10-task-shape-estimator",
     "synced_at": "2026-07-10T22:58:19.550804+00:00"
   },
+  "phase4:nb-2026-07-12-no-roadmap-15-commandments": {
+    "hash": "151d8bd077b3bb5aeb6f75fa8a942fb5bd64dca145faf50c4c1a6b1b18d6f472",
+    "slug": "nb-2026-07-12-no-roadmap-15-commandments",
+    "synced_at": "2026-07-12T22:47:12.998282+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -1968,6 +2018,11 @@
     "hash": "395b4a45562e9cfe00f522574ee11d77c6579f556067e0edbe5492f9be46342e",
     "slug": "nh-2026-07-11-token-dashboard-local",
     "synced_at": "2026-07-11T22:47:29.092865+00:00"
+  },
+  "phase4:nh-2026-07-12-claude-code-clay-lead-gen": {
+    "hash": "2d742b2adc6c0fc90beecfab3890ec5bb82bedb830d057dd8abdb5cfe9b72851",
+    "slug": "nh-2026-07-12-claude-code-clay-lead-gen",
+    "synced_at": "2026-07-12T22:47:12.998684+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
