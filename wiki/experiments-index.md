@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**410 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**417 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 110 |
+| `backlog` | 117 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 180 |
+| `(none)` | 187 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,12 +32,12 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 118 |
-| @nb | 86 |
+| @aie | 122 |
+| @nb | 88 |
 | @nh | 76 |
 | @mlops | 44 |
 | @do | 38 |
-| @mk | 19 |
+| @mk | 20 |
 | @aij | 10 |
 | @st | 8 |
 | @up | 5 |
@@ -53,6 +53,13 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-13 | [[experiments/nb-2026-07-13-model-selection-by-work-pattern|Select model based on personal work-pattern audit, not benchmark scores]] | @nb | `-` |
+| 2026-07-13 | [[experiments/nb-2026-07-13-fable-as-orchestrator-ringer|Use Fable 5 as intent-parsing orchestrator to farm tasks to cheaper sub-models]] | @nb | `-` |
+| 2026-07-13 | [[experiments/mk-2026-07-13-effort-level-calibration|Start all tasks at low effort and escalate only on evidence of inadequacy]] | @mk | `-` |
+| 2026-07-13 | [[experiments/aie-2026-07-13-verifiers-async-rl-post-training|Use open-source Verifiers + PrimeRL to post-train models on your own production task distribution]] | @aie | `-` |
+| 2026-07-13 | [[experiments/aie-2026-07-13-rlm-recursive-context-management|Implement RLM pattern to externalize large-codebase context into a programmable REPL environment]] | @aie | `-` |
+| 2026-07-13 | [[experiments/aie-2026-07-13-proof-carrying-agents|Air-gap agents from tool execution by reifying plans into provably safe programs before running]] | @aie | `-` |
+| 2026-07-13 | [[experiments/aie-2026-07-13-microvm-sandbox-snapshot-restore|Use microVM memory snapshots with layered lineage for low-latency sandbox creation and Monte Carlo agent exploration]] | @aie | `-` |
 | 2026-07-12 | [[experiments/nh-2026-07-12-claude-code-clay-lead-gen|Use Claude Code as natural-language orchestrator over Clay MCP for end-to-end lead enrichment]] | @nh | `-` |
 | 2026-07-12 | [[experiments/nb-2026-07-12-no-roadmap-15-commandments|Audit every dev-loop process against the 'does it shorten learning loops?' test]] | @nb | `-` |
 | 2026-07-12 | [[experiments/aie-2026-07-12-typescript-agent-layer|Build the agent orchestration layer in TypeScript with Zod schemas shared end-to-end]] | @aie | `-` |

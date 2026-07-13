@@ -604,6 +604,26 @@
     "slug": "aie-2026-07-12-typescript-agent-layer",
     "synced_at": "2026-07-12T22:47:12.999927+00:00"
   },
+  "phase4:aie-2026-07-13-microvm-sandbox-snapshot-restore": {
+    "hash": "b7d36c9f761dd17176d7f44b9b37e2c9176cb8787405cd300e9439399f2ee1fe",
+    "slug": "aie-2026-07-13-microvm-sandbox-snapshot-restore",
+    "synced_at": "2026-07-13T22:55:22.915425+00:00"
+  },
+  "phase4:aie-2026-07-13-proof-carrying-agents": {
+    "hash": "c6996cbb83c474f8d01c1c1926696ae06a9324e8938cb19d7539c79cdf172f68",
+    "slug": "aie-2026-07-13-proof-carrying-agents",
+    "synced_at": "2026-07-13T22:55:22.915096+00:00"
+  },
+  "phase4:aie-2026-07-13-rlm-recursive-context-management": {
+    "hash": "49dbd8b3291200142c6645e6655b27d817c12e1a4d37972e4efc1eb0e830ac64",
+    "slug": "aie-2026-07-13-rlm-recursive-context-management",
+    "synced_at": "2026-07-13T22:55:22.916080+00:00"
+  },
+  "phase4:aie-2026-07-13-verifiers-async-rl-post-training": {
+    "hash": "8afd8f8712bebe9c0d8966119242a4f5f1207eb2d24436b650e4282d6e92f4a0",
+    "slug": "aie-2026-07-13-verifiers-async-rl-post-training",
+    "synced_at": "2026-07-13T22:55:22.915738+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -973,6 +993,11 @@
     "hash": "24b8782dc8450f09facaa512b48c89af40f5d59183293118544886c5fd39b1f2",
     "slug": "mk-2026-07-05-wargame-plans-with-frontier",
     "synced_at": "2026-07-05T23:00:04.805115+00:00"
+  },
+  "phase4:mk-2026-07-13-effort-level-calibration": {
+    "hash": "aa5dcbde368ba2a547b0d37835cfb1e612ba7d91f270678be3e4178094442b5f",
+    "slug": "mk-2026-07-13-effort-level-calibration",
+    "synced_at": "2026-07-13T22:55:22.914734+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
@@ -1633,6 +1658,16 @@
     "hash": "151d8bd077b3bb5aeb6f75fa8a942fb5bd64dca145faf50c4c1a6b1b18d6f472",
     "slug": "nb-2026-07-12-no-roadmap-15-commandments",
     "synced_at": "2026-07-12T22:47:12.998282+00:00"
+  },
+  "phase4:nb-2026-07-13-fable-as-orchestrator-ringer": {
+    "hash": "d65147412d44710bbd95bd973f910845aa677c18da949d8cde69380531902801",
+    "slug": "nb-2026-07-13-fable-as-orchestrator-ringer",
+    "synced_at": "2026-07-13T22:55:22.914410+00:00"
+  },
+  "phase4:nb-2026-07-13-model-selection-by-work-pattern": {
+    "hash": "c407f21e1f39987a9a09190eed7ac3e39247bbad1e01ddb0521fb0eaf2770f94",
+    "slug": "nb-2026-07-13-model-selection-by-work-pattern",
+    "synced_at": "2026-07-13T22:55:22.914065+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
