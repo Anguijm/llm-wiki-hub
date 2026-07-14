@@ -624,6 +624,31 @@
     "slug": "aie-2026-07-13-verifiers-async-rl-post-training",
     "synced_at": "2026-07-13T22:55:22.915738+00:00"
   },
+  "phase4:aie-2026-07-14-answerability-outer-loop": {
+    "hash": "73c594f354ac39c998862032e8aa5a6710a1df87f1a04359cb5cbd27282cdc10",
+    "slug": "aie-2026-07-14-answerability-outer-loop",
+    "synced_at": "2026-07-14T22:55:53.450654+00:00"
+  },
+  "phase4:aie-2026-07-14-fde-motion-matrix": {
+    "hash": "54a1ecfd64809d657cabe06ce4d4849bcb834911f9902399f1473a20117f5070",
+    "slug": "aie-2026-07-14-fde-motion-matrix",
+    "synced_at": "2026-07-14T22:55:53.450310+00:00"
+  },
+  "phase4:aie-2026-07-14-irt-llm-benchmarking": {
+    "hash": "da11bee127188f96b7099c9f7f01f3a374a3d87949574d212dde8beff280ae40",
+    "slug": "aie-2026-07-14-irt-llm-benchmarking",
+    "synced_at": "2026-07-14T22:55:53.450970+00:00"
+  },
+  "phase4:aie-2026-07-14-loops-debate-spec-gated-slices": {
+    "hash": "1353cbc50352122aba97ca1e72a93ed33c8260d7528da1743dd34bc0e10f7cfa",
+    "slug": "aie-2026-07-14-loops-debate-spec-gated-slices",
+    "synced_at": "2026-07-14T22:55:53.451266+00:00"
+  },
+  "phase4:aie-2026-07-14-skill-evals-before-ship": {
+    "hash": "1ae7a45ba2596fc817ac755adcdee73fee426196b7007386ff270cfaf15510f0",
+    "slug": "aie-2026-07-14-skill-evals-before-ship",
+    "synced_at": "2026-07-14T22:55:53.450036+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -678,6 +703,16 @@
     "hash": "a3561e760dd27b9ff12c93d1d76f4bce5ec783d3c0cc7cbeeae8a2c544f42bdb",
     "slug": "aij-2026-06-30-pre-tool-use-hook-pattern",
     "synced_at": "2026-06-30T23:12:03.024471+00:00"
+  },
+  "phase4:aij-2026-07-14-loop-contract-md-pattern": {
+    "hash": "63415bfae99aed03eb01d2dc27633e08332d84986b802671dc70251306b54803",
+    "slug": "aij-2026-07-14-loop-contract-md-pattern",
+    "synced_at": "2026-07-14T22:55:53.449734+00:00"
+  },
+  "phase4:aij-2026-07-14-piper-agent-extensible-harness": {
+    "hash": "c9fa1212b3fc45ecc9de8bb51ce0012b7bafe7661c0300f886782b7342da9d1f",
+    "slug": "aij-2026-07-14-piper-agent-extensible-harness",
+    "synced_at": "2026-07-14T22:55:53.449462+00:00"
   },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "0527033834fe3f49b58f4d9e2c508620ed78f8ba268bccaba81263b6ef3c4afa",
@@ -873,6 +908,16 @@
     "hash": "6c1d1f69e28ae16f66f6b2f30b24d00c1d88c66689266e12fb8f0ae15b351449",
     "slug": "do-2026-07-09-stop-prompting-start-loops",
     "synced_at": "2026-07-09T23:10:32.281931+00:00"
+  },
+  "phase4:do-2026-07-14-aperture-secure-api-keys": {
+    "hash": "21be5b3bcdf21b2a4553f9672f022dcc8eb0a30861ed29cd8d8bfa5dbe47927a",
+    "slug": "do-2026-07-14-aperture-secure-api-keys",
+    "synced_at": "2026-07-14T22:55:53.448854+00:00"
+  },
+  "phase4:do-2026-07-14-tailscale-multi-agent-network": {
+    "hash": "38d88a603a3d713f90c2ee9138f9e128f31a5b0395424bf3e1f01547b37c90e6",
+    "slug": "do-2026-07-14-tailscale-multi-agent-network",
+    "synced_at": "2026-07-14T22:55:53.448532+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
@@ -2058,6 +2103,11 @@
     "hash": "2d742b2adc6c0fc90beecfab3890ec5bb82bedb830d057dd8abdb5cfe9b72851",
     "slug": "nh-2026-07-12-claude-code-clay-lead-gen",
     "synced_at": "2026-07-12T22:47:12.998684+00:00"
+  },
+  "phase4:nh-2026-07-14-inhouse-ai-consultant-roadmap": {
+    "hash": "98c9dfccf109b231918c2a47f6794f84ae0ed1a8cc3e93ec635ed32389c195a2",
+    "slug": "nh-2026-07-14-inhouse-ai-consultant-roadmap",
+    "synced_at": "2026-07-14T22:55:53.449171+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**417 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**427 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 117 |
+| `backlog` | 127 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 187 |
+| `(none)` | 197 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,13 +32,13 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 122 |
+| @aie | 127 |
 | @nb | 88 |
-| @nh | 76 |
+| @nh | 77 |
 | @mlops | 44 |
-| @do | 38 |
+| @do | 40 |
 | @mk | 20 |
-| @aij | 10 |
+| @aij | 12 |
 | @st | 8 |
 | @up | 5 |
 | @eh | 3 |
@@ -53,6 +53,16 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-14 | [[experiments/nh-2026-07-14-inhouse-ai-consultant-roadmap|Run a Constraint-First AI Audit to Identify High-Value Automation Targets]] | @nh | `-` |
+| 2026-07-14 | [[experiments/do-2026-07-14-tailscale-multi-agent-network|Connect All Agent Machines via Tailscale with Zero Open Ports]] | @do | `-` |
+| 2026-07-14 | [[experiments/do-2026-07-14-aperture-secure-api-keys|Store Agent API Keys in Aperture Instead of on the VPS]] | @do | `-` |
+| 2026-07-14 | [[experiments/aij-2026-07-14-piper-agent-extensible-harness|Use Pi Agent's Extension System to Self-Modify the Coding Harness at Runtime]] | @aij | `-` |
+| 2026-07-14 | [[experiments/aij-2026-07-14-loop-contract-md-pattern|Structure Every Agent Loop Around a Loop Contract Markdown File with State and Append-Only Log]] | @aij | `-` |
+| 2026-07-14 | [[experiments/aie-2026-07-14-skill-evals-before-ship|Write Eval Test Cases for Every Agent Skill Before Deploying It]] | @aie | `-` |
+| 2026-07-14 | [[experiments/aie-2026-07-14-loops-debate-spec-gated-slices|Gate Loop Autonomy Behind Spec-Verified, Test-Covered Slices Rather Than Open-Ended Tasks]] | @aie | `-` |
+| 2026-07-14 | [[experiments/aie-2026-07-14-irt-llm-benchmarking|Apply Item Response Theory to Internal Agent Evals to Get Calibrated Model Intelligence Scores]] | @aie | `-` |
+| 2026-07-14 | [[experiments/aie-2026-07-14-fde-motion-matrix|Use a Digital-Maturity × Product-Customization Matrix to Scope FDE Engagements]] | @aie | `-` |
+| 2026-07-14 | [[experiments/aie-2026-07-14-answerability-outer-loop|Enforce an 'Explain It or Don't Ship It' Rule at the Outer Loop Boundary]] | @aie | `-` |
 | 2026-07-13 | [[experiments/nb-2026-07-13-model-selection-by-work-pattern|Select model based on personal work-pattern audit, not benchmark scores]] | @nb | `-` |
 | 2026-07-13 | [[experiments/nb-2026-07-13-fable-as-orchestrator-ringer|Use Fable 5 as intent-parsing orchestrator to farm tasks to cheaper sub-models]] | @nb | `-` |
 | 2026-07-13 | [[experiments/mk-2026-07-13-effort-level-calibration|Start all tasks at low effort and escalate only on evidence of inadequacy]] | @mk | `-` |
