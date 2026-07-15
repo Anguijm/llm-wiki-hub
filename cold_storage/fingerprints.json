@@ -649,6 +649,21 @@
     "slug": "aie-2026-07-14-skill-evals-before-ship",
     "synced_at": "2026-07-14T22:55:53.450036+00:00"
   },
+  "phase4:aie-2026-07-15-claude-code-delegation-threshold": {
+    "hash": "b340e0b08fda4c533d87be93e77e382113dab2594175a880856da52520213225",
+    "slug": "aie-2026-07-15-claude-code-delegation-threshold",
+    "synced_at": "2026-07-15T22:57:21.037950+00:00"
+  },
+  "phase4:aie-2026-07-15-context-layer-mining": {
+    "hash": "c099d5cc94669c037d5a400f3ab5e312903597db5580d7ff51e0f910cbdcb755",
+    "slug": "aie-2026-07-15-context-layer-mining",
+    "synced_at": "2026-07-15T22:57:21.038229+00:00"
+  },
+  "phase4:aie-2026-07-15-recursive-model-improvement-loops": {
+    "hash": "b790413cf18193754f54e8bd51c7c40b3ef0f7233a011b969be27863cdc022c6",
+    "slug": "aie-2026-07-15-recursive-model-improvement-loops",
+    "synced_at": "2026-07-15T22:57:21.037670+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1269,6 +1284,11 @@
     "slug": "mlops-2026-06-22-logs-only-observability",
     "synced_at": "2026-06-25T23:17:21.320913+00:00"
   },
+  "phase4:mlops-2026-07-15-multi-agent-debate-research": {
+    "hash": "fba5b2a59006074823e1ffc31926a8d17177e5e31cc2411f4d78316367b986d3",
+    "slug": "mlops-2026-07-15-multi-agent-debate-research",
+    "synced_at": "2026-07-15T22:57:21.037352+00:00"
+  },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",
     "slug": "nb-2026-03-24-agent-readiness-checklist",
@@ -1713,6 +1733,16 @@
     "hash": "c407f21e1f39987a9a09190eed7ac3e39247bbad1e01ddb0521fb0eaf2770f94",
     "slug": "nb-2026-07-13-model-selection-by-work-pattern",
     "synced_at": "2026-07-13T22:55:22.914065+00:00"
+  },
+  "phase4:nb-2026-07-15-compact-vs-thick-skill-test": {
+    "hash": "19c8c72eef446b0951764f3d0df4d53e3f2c590571478aa832ca1c7bc494da2d",
+    "slug": "nb-2026-07-15-compact-vs-thick-skill-test",
+    "synced_at": "2026-07-15T22:57:21.037049+00:00"
+  },
+  "phase4:nb-2026-07-15-harness-audit-skill": {
+    "hash": "ca01be2c5ccdb0774c6207fbcb60ee0c6923e9fab5a63059ca2730f174901617",
+    "slug": "nb-2026-07-15-harness-audit-skill",
+    "synced_at": "2026-07-15T22:57:21.036703+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",

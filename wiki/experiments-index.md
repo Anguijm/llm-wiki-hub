@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**427 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**433 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 127 |
+| `backlog` | 133 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 197 |
+| `(none)` | 203 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,10 +32,10 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 127 |
-| @nb | 88 |
+| @aie | 130 |
+| @nb | 90 |
 | @nh | 77 |
-| @mlops | 44 |
+| @mlops | 45 |
 | @do | 40 |
 | @mk | 20 |
 | @aij | 12 |
@@ -53,6 +53,12 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-15 | [[experiments/nb-2026-07-15-harness-audit-skill|Build a Harness Inventory Skill to Map All Context Inputs]] | @nb | `-` |
+| 2026-07-15 | [[experiments/nb-2026-07-15-compact-vs-thick-skill-test|A/B Test Compact vs. Thick Skill Variants to Find Delivery Failure Thresholds]] | @nb | `-` |
+| 2026-07-15 | [[experiments/mlops-2026-07-15-multi-agent-debate-research|Use Competing-Model Debate Pattern for Deep Domain Research]] | @mlops | `-` |
+| 2026-07-15 | [[experiments/aie-2026-07-15-recursive-model-improvement-loops|Implement Inner/Outer Training Loop Separation with Agent-Driven Eval Generation]] | @aie | `-` |
+| 2026-07-15 | [[experiments/aie-2026-07-15-context-layer-mining|Build a Compounding Context Layer by Mining Business System Connections and Reverse-Constructing Semantic Links]] | @aie | `-` |
+| 2026-07-15 | [[experiments/aie-2026-07-15-claude-code-delegation-threshold|Calibrate Agent Delegation Threshold by Tracking Permission-Prompt Acceptance Rate Over Model Generations]] | @aie | `-` |
 | 2026-07-14 | [[experiments/nh-2026-07-14-inhouse-ai-consultant-roadmap|Run a Constraint-First AI Audit to Identify High-Value Automation Targets]] | @nh | `-` |
 | 2026-07-14 | [[experiments/do-2026-07-14-tailscale-multi-agent-network|Connect All Agent Machines via Tailscale with Zero Open Ports]] | @do | `-` |
 | 2026-07-14 | [[experiments/do-2026-07-14-aperture-secure-api-keys|Store Agent API Keys in Aperture Instead of on the VPS]] | @do | `-` |
