@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**433 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**436 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 133 |
+| `backlog` | 136 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 203 |
+| `(none)` | 206 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,7 +32,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 130 |
+| @aie | 133 |
 | @nb | 90 |
 | @nh | 77 |
 | @mlops | 45 |
@@ -53,6 +53,9 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-16 | [[experiments/aie-2026-07-16-background-computer-use-quad-driver|Run Computer-Use Agents in the Background Without Screen Takeover]] | @aie | `-` |
+| 2026-07-16 | [[experiments/aie-2026-07-16-ai-agent-top-contributor-parameter-golf|Design Tight Codebase Abstractions to Prevent Agent Reward Hacking]] | @aie | `-` |
+| 2026-07-16 | [[experiments/aie-2026-07-16-agent-eval-as-loss-function|Treat Agent Eval as a Loss Function and Iterate on It First]] | @aie | `-` |
 | 2026-07-15 | [[experiments/nb-2026-07-15-harness-audit-skill|Build a Harness Inventory Skill to Map All Context Inputs]] | @nb | `-` |
 | 2026-07-15 | [[experiments/nb-2026-07-15-compact-vs-thick-skill-test|A/B Test Compact vs. Thick Skill Variants to Find Delivery Failure Thresholds]] | @nb | `-` |
 | 2026-07-15 | [[experiments/mlops-2026-07-15-multi-agent-debate-research|Use Competing-Model Debate Pattern for Deep Domain Research]] | @mlops | `-` |

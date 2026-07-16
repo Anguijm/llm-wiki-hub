@@ -664,6 +664,21 @@
     "slug": "aie-2026-07-15-recursive-model-improvement-loops",
     "synced_at": "2026-07-15T22:57:21.037670+00:00"
   },
+  "phase4:aie-2026-07-16-agent-eval-as-loss-function": {
+    "hash": "d12fdfb66c79eb1511efc3cb563403c0f2baa53bba6cb1a4fae3692ecfee25d9",
+    "slug": "aie-2026-07-16-agent-eval-as-loss-function",
+    "synced_at": "2026-07-16T22:55:57.130297+00:00"
+  },
+  "phase4:aie-2026-07-16-ai-agent-top-contributor-parameter-golf": {
+    "hash": "00c97a533d6a0ea4aa1c02f12189f4ec327dcefcbf7c4347c898fa1991e30825",
+    "slug": "aie-2026-07-16-ai-agent-top-contributor-parameter-golf",
+    "synced_at": "2026-07-16T22:55:57.130044+00:00"
+  },
+  "phase4:aie-2026-07-16-background-computer-use-quad-driver": {
+    "hash": "63db3cc97fb2df229e14f7374385eae1ba34ac446ba1412ee2575a6ffc6c8f2b",
+    "slug": "aie-2026-07-16-background-computer-use-quad-driver",
+    "synced_at": "2026-07-16T22:55:57.130515+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
