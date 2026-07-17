@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**436 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**445 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 136 |
+| `backlog` | 145 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 206 |
+| `(none)` | 215 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,11 +32,11 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 133 |
-| @nb | 90 |
+| @aie | 138 |
+| @nb | 92 |
 | @nh | 77 |
 | @mlops | 45 |
-| @do | 40 |
+| @do | 42 |
 | @mk | 20 |
 | @aij | 12 |
 | @st | 8 |
@@ -53,6 +53,15 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-17 | [[experiments/nb-2026-07-17-automagic-skill-for-automation|Package an 'Auto-Magic' Problem-Discovery Prompt as a Reusable Skill File]] | @nb | `-` |
+| 2026-07-17 | [[experiments/nb-2026-07-17-ai-picks-the-problem|Let the AI Agent Pick Its Own Problem from Your Business Context]] | @nb | `-` |
+| 2026-07-17 | [[experiments/do-2026-07-17-ssh-persistent-agent-session|Run Agent Sessions in a Persistent Multiplexed Terminal Accessible via SSH from Any Device]] | @do | `-` |
+| 2026-07-17 | [[experiments/do-2026-07-17-firstmate-multi-agent-orchestrator|Replace Tab-Juggling with a Single Orchestrator Agent (First Mate Pattern)]] | @do | `-` |
+| 2026-07-17 | [[experiments/aie-2026-07-17-yc-skill-files-as-workforce|Encode Every Repeatable Workflow as a Skill File and Build a Compounding Organizational Library]] | @aie | `-` |
+| 2026-07-17 | [[experiments/aie-2026-07-17-yc-imagination-engineering-think-public|Stream-of-Consciousness Brain Dump into a Channel, Then Synthesize with an Agent into a Personalized Knowledge Interface]] | @aie | `-` |
+| 2026-07-17 | [[experiments/aie-2026-07-17-unsloth-reward-hacking-verification|Add Reward-Hacking Detection Checks Before Accepting AI-Generated Performance Claims]] | @aie | `-` |
+| 2026-07-17 | [[experiments/aie-2026-07-17-microsoft-iq-company-grounding|Implement an Agent Optimizer Loop That Hill-Climbs Agent Instructions from Trace Data]] | @aie | `-` |
+| 2026-07-17 | [[experiments/aie-2026-07-17-deepmind-chain-of-code-reasoning|Use Code as the Reasoning Medium for Multi-Step Agent Tasks Instead of Natural Language Chains]] | @aie | `-` |
 | 2026-07-16 | [[experiments/aie-2026-07-16-background-computer-use-quad-driver|Run Computer-Use Agents in the Background Without Screen Takeover]] | @aie | `-` |
 | 2026-07-16 | [[experiments/aie-2026-07-16-ai-agent-top-contributor-parameter-golf|Design Tight Codebase Abstractions to Prevent Agent Reward Hacking]] | @aie | `-` |
 | 2026-07-16 | [[experiments/aie-2026-07-16-agent-eval-as-loss-function|Treat Agent Eval as a Loss Function and Iterate on It First]] | @aie | `-` |

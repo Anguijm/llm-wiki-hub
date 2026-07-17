@@ -679,6 +679,31 @@
     "slug": "aie-2026-07-16-background-computer-use-quad-driver",
     "synced_at": "2026-07-16T22:55:57.130515+00:00"
   },
+  "phase4:aie-2026-07-17-deepmind-chain-of-code-reasoning": {
+    "hash": "e2b9ed735fc32369383f50eb7ba7747460cdfdcb664055c878c5163a6b6d6cbc",
+    "slug": "aie-2026-07-17-deepmind-chain-of-code-reasoning",
+    "synced_at": "2026-07-17T22:49:26.346479+00:00"
+  },
+  "phase4:aie-2026-07-17-microsoft-iq-company-grounding": {
+    "hash": "1347d662dc511e06484cbaa654810be00ab8389efacfe1cb9bbc36026bd470bc",
+    "slug": "aie-2026-07-17-microsoft-iq-company-grounding",
+    "synced_at": "2026-07-17T22:49:26.346280+00:00"
+  },
+  "phase4:aie-2026-07-17-unsloth-reward-hacking-verification": {
+    "hash": "22f7d9aff1fdea069221bee8245561b48d3ce6f2df769afef927978e8f43b6e7",
+    "slug": "aie-2026-07-17-unsloth-reward-hacking-verification",
+    "synced_at": "2026-07-17T22:49:26.346122+00:00"
+  },
+  "phase4:aie-2026-07-17-yc-imagination-engineering-think-public": {
+    "hash": "b04466c34817a7177042bb99a805fe1007b6e076db28fad7df2ddb875753ce57",
+    "slug": "aie-2026-07-17-yc-imagination-engineering-think-public",
+    "synced_at": "2026-07-17T22:49:26.346831+00:00"
+  },
+  "phase4:aie-2026-07-17-yc-skill-files-as-workforce": {
+    "hash": "03a091e73d3baf148c4d0da5756b13b52e7a1276457ebc66da3331cf76ffdfee",
+    "slug": "aie-2026-07-17-yc-skill-files-as-workforce",
+    "synced_at": "2026-07-17T22:49:26.346641+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -948,6 +973,16 @@
     "hash": "38d88a603a3d713f90c2ee9138f9e128f31a5b0395424bf3e1f01547b37c90e6",
     "slug": "do-2026-07-14-tailscale-multi-agent-network",
     "synced_at": "2026-07-14T22:55:53.448532+00:00"
+  },
+  "phase4:do-2026-07-17-firstmate-multi-agent-orchestrator": {
+    "hash": "61bc9c25725a7e8784353b81a8229e77b3518939727b2ec6c31bf51c05560040",
+    "slug": "do-2026-07-17-firstmate-multi-agent-orchestrator",
+    "synced_at": "2026-07-17T22:49:26.345759+00:00"
+  },
+  "phase4:do-2026-07-17-ssh-persistent-agent-session": {
+    "hash": "b3f005e1db4b54f891e4e5afaf9e730d47b9d574498bec3e50fe1eadf714b5da",
+    "slug": "do-2026-07-17-ssh-persistent-agent-session",
+    "synced_at": "2026-07-17T22:49:26.345946+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
@@ -1758,6 +1793,16 @@
     "hash": "ca01be2c5ccdb0774c6207fbcb60ee0c6923e9fab5a63059ca2730f174901617",
     "slug": "nb-2026-07-15-harness-audit-skill",
     "synced_at": "2026-07-15T22:57:21.036703+00:00"
+  },
+  "phase4:nb-2026-07-17-ai-picks-the-problem": {
+    "hash": "489247d02f20eca053cce67acf14d029a62b09c59ec4b7ae82b533a0822a1fe5",
+    "slug": "nb-2026-07-17-ai-picks-the-problem",
+    "synced_at": "2026-07-17T22:49:26.345294+00:00"
+  },
+  "phase4:nb-2026-07-17-automagic-skill-for-automation": {
+    "hash": "7a99c980bb34c6464afc9c829a9f4ba345feeb532bd283439ff34d389b080207",
+    "slug": "nb-2026-07-17-automagic-skill-for-automation",
+    "synced_at": "2026-07-17T22:49:26.345545+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
