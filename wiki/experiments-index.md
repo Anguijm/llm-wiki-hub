@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**445 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**455 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 145 |
+| `backlog` | 155 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 215 |
+| `(none)` | 225 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,7 +32,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 138 |
+| @aie | 147 |
 | @nb | 92 |
 | @nh | 77 |
 | @mlops | 45 |
@@ -41,7 +41,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | @aij | 12 |
 | @st | 8 |
 | @up | 5 |
-| @eh | 3 |
+| @eh | 4 |
 | @fs | 2 |
 | @tmp | 1 |
 
@@ -53,6 +53,16 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-18 | [[experiments/eh-2026-07-18-intelligence-as-process-not-substance|Frame AI objectives as pattern-compression processes, not capability lists]] | @eh | `-` |
+| 2026-07-18 | [[experiments/aie-2026-07-18-subgraph-pattern-matching-context-retrieval|Replace vector search with shortest-path subgraph retrieval for code dependency context]] | @aie | `-` |
+| 2026-07-18 | [[experiments/aie-2026-07-18-schema-first-graph-extraction|Use schema-constrained structured outputs for graph extraction from unstructured text]] | @aie | `-` |
+| 2026-07-18 | [[experiments/aie-2026-07-18-own-inference-infrastructure-post-pmf|Benchmark token-max context compression to cut inference costs on high-volume agent loops]] | @aie | `-` |
+| 2026-07-18 | [[experiments/aie-2026-07-18-froglet-verifiable-agent-receipts|Add cryptographically-signed execution receipts to agent tool calls for auditability and replay]] | @aie | `-` |
+| 2026-07-18 | [[experiments/aie-2026-07-18-domain-expert-evaluators-before-auto-optimiza|Define high-signal domain evaluators with experts before running any prompt auto-optimization loop]] | @aie | `-` |
+| 2026-07-18 | [[experiments/aie-2026-07-18-content-as-code-structured-pipelines|Build a declarative content pipeline (changelogs, docs, product tours) driven from a structured codebase]] | @aie | `-` |
+| 2026-07-18 | [[experiments/aie-2026-07-18-ai-ux-trust-pillars|Add suggested prompts, next-step action buttons, and streaming indicators to AI feature UIs]] | @aie | `-` |
+| 2026-07-18 | [[experiments/aie-2026-07-18-agent-feature-flags-six-surfaces|Implement per-surface agent feature flags (prompt, tool, model, memory, autonomy, sub-agent) with a kill switch]] | @aie | `-` |
+| 2026-07-18 | [[experiments/aie-2026-07-18-agent-checkpoint-replay-cohort-evals|Implement checkpoint-replay cohort analysis to validate model swaps before shipping]] | @aie | `-` |
 | 2026-07-17 | [[experiments/nb-2026-07-17-automagic-skill-for-automation|Package an 'Auto-Magic' Problem-Discovery Prompt as a Reusable Skill File]] | @nb | `-` |
 | 2026-07-17 | [[experiments/nb-2026-07-17-ai-picks-the-problem|Let the AI Agent Pick Its Own Problem from Your Business Context]] | @nb | `-` |
 | 2026-07-17 | [[experiments/do-2026-07-17-ssh-persistent-agent-session|Run Agent Sessions in a Persistent Multiplexed Terminal Accessible via SSH from Any Device]] | @do | `-` |

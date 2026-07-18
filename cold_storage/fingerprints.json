@@ -704,6 +704,51 @@
     "slug": "aie-2026-07-17-yc-skill-files-as-workforce",
     "synced_at": "2026-07-17T22:49:26.346641+00:00"
   },
+  "phase4:aie-2026-07-18-agent-checkpoint-replay-cohort-evals": {
+    "hash": "c0cddaaff1da6e61264f155a7c1cd9c58bb8226634bc4df307488483008b4097",
+    "slug": "aie-2026-07-18-agent-checkpoint-replay-cohort-evals",
+    "synced_at": "2026-07-18T22:48:55.933873+00:00"
+  },
+  "phase4:aie-2026-07-18-agent-feature-flags-six-surfaces": {
+    "hash": "f27088acbc5bf7b09103fa8fd8b971c57316bbc625c840e519d0673959a33d86",
+    "slug": "aie-2026-07-18-agent-feature-flags-six-surfaces",
+    "synced_at": "2026-07-18T22:48:55.934012+00:00"
+  },
+  "phase4:aie-2026-07-18-ai-ux-trust-pillars": {
+    "hash": "cca2534b5c56442cc4c6444e788293a24e99d3c960a35dc940eca55470f61545",
+    "slug": "aie-2026-07-18-ai-ux-trust-pillars",
+    "synced_at": "2026-07-18T22:48:55.933088+00:00"
+  },
+  "phase4:aie-2026-07-18-content-as-code-structured-pipelines": {
+    "hash": "77caea2ac5b36d2cf73252269b0bfe341172fd99d0df821a044ee6760c5692c7",
+    "slug": "aie-2026-07-18-content-as-code-structured-pipelines",
+    "synced_at": "2026-07-18T22:48:55.933593+00:00"
+  },
+  "phase4:aie-2026-07-18-domain-expert-evaluators-before-auto-optimization": {
+    "hash": "a7296867178588f1901ae67e4db68fd2b54c3fd6e1e34d8c446ca894d50569c1",
+    "slug": "aie-2026-07-18-domain-expert-evaluators-before-auto-optimiza",
+    "synced_at": "2026-07-18T22:48:55.933239+00:00"
+  },
+  "phase4:aie-2026-07-18-froglet-verifiable-agent-receipts": {
+    "hash": "917ab320ed892552eb98f4a7021fb5cdf1201f812604d7f1c78e8fb104aeda49",
+    "slug": "aie-2026-07-18-froglet-verifiable-agent-receipts",
+    "synced_at": "2026-07-18T22:48:55.933736+00:00"
+  },
+  "phase4:aie-2026-07-18-own-inference-infrastructure-post-pmf": {
+    "hash": "5efd0cc384c37319ac506b03e3995c8668e16b96c2121ef09e4923d97b09b5bc",
+    "slug": "aie-2026-07-18-own-inference-infrastructure-post-pmf",
+    "synced_at": "2026-07-18T22:48:55.933402+00:00"
+  },
+  "phase4:aie-2026-07-18-schema-first-graph-extraction": {
+    "hash": "3a3a7d479cd134167c041e21aac1109b72a1fea138eb41d3db3f03f0ad19ef73",
+    "slug": "aie-2026-07-18-schema-first-graph-extraction",
+    "synced_at": "2026-07-18T22:48:55.932764+00:00"
+  },
+  "phase4:aie-2026-07-18-subgraph-pattern-matching-context-retrieval": {
+    "hash": "424a926784f526c8f14362a061071ac8ecef9c5a63de1aa0257a6a24e5ccded5",
+    "slug": "aie-2026-07-18-subgraph-pattern-matching-context-retrieval",
+    "synced_at": "2026-07-18T22:48:55.932932+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -998,6 +1043,11 @@
     "hash": "41f3da6cf6a71be1ebaa38f5e5b419fcd21833a2e60d280523b727770b93e760",
     "slug": "eh-2026-06-16-webgl-morphing-sculpture",
     "synced_at": "2026-06-25T23:17:21.311695+00:00"
+  },
+  "phase4:eh-2026-07-18-intelligence-as-process-not-substance": {
+    "hash": "0a655b183883ded2f494b140b2fae6e1257d0d50e7b10e59cc39c3dad5098165",
+    "slug": "eh-2026-07-18-intelligence-as-process-not-substance",
+    "synced_at": "2026-07-18T22:48:55.932549+00:00"
   },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
