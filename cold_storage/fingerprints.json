@@ -749,6 +749,31 @@
     "slug": "aie-2026-07-18-subgraph-pattern-matching-context-retrieval",
     "synced_at": "2026-07-18T22:48:55.932932+00:00"
   },
+  "phase4:aie-2026-07-19-agent-auth-least-privilege": {
+    "hash": "a8434bfd61bdc87c42e4a5df6f8a914003167d8562925ac9fd8a39fe50bce53d",
+    "slug": "aie-2026-07-19-agent-auth-least-privilege",
+    "synced_at": "2026-07-19T22:50:58.602997+00:00"
+  },
+  "phase4:aie-2026-07-19-continuous-perf-optimization-agent": {
+    "hash": "5124efd13b7c27c07e65a47897508211c26e58287498037637a3d5dab6622ead",
+    "slug": "aie-2026-07-19-continuous-perf-optimization-agent",
+    "synced_at": "2026-07-19T22:50:58.603214+00:00"
+  },
+  "phase4:aie-2026-07-19-eval-pipeline-customer-support": {
+    "hash": "98ee254f4629a030763e0e87c16ceed9e7f06814db977d02fd03f9218635f99b",
+    "slug": "aie-2026-07-19-eval-pipeline-customer-support",
+    "synced_at": "2026-07-19T22:50:58.603447+00:00"
+  },
+  "phase4:aie-2026-07-19-hierarchical-hypothesis-generation": {
+    "hash": "95189328f248c3998be5d3e88d515c7be437868ddf909e02d220a652c65700b3",
+    "slug": "aie-2026-07-19-hierarchical-hypothesis-generation",
+    "synced_at": "2026-07-19T22:50:58.603693+00:00"
+  },
+  "phase4:aie-2026-07-19-single-cell-foundation-models": {
+    "hash": "aca5f4d3ab90410de8f1156cf4f9ba53e9c4a81a886d27bbdaefb23a8b20a362",
+    "slug": "aie-2026-07-19-single-cell-foundation-models",
+    "synced_at": "2026-07-19T22:50:58.602777+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1854,6 +1879,11 @@
     "slug": "nb-2026-07-17-automagic-skill-for-automation",
     "synced_at": "2026-07-17T22:49:26.345545+00:00"
   },
+  "phase4:nb-2026-07-19-local-llm-pii-detection": {
+    "hash": "bb1d04c56d9caeb48013fa7f98241af53a2851c0fe81068ea02434e7ebe2a716",
+    "slug": "nb-2026-07-19-local-llm-pii-detection",
+    "synced_at": "2026-07-19T22:50:58.602231+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -2288,6 +2318,11 @@
     "hash": "923e80bee6b43fdff7b75fc08615bc3316c7a8eef2c435b0a550c33c756f900a",
     "slug": "st-2026-06-28-agent-skills-reusable-instructions",
     "synced_at": "2026-06-28T23:01:24.771690+00:00"
+  },
+  "phase4:st-2026-07-19-harness-engineering-levers": {
+    "hash": "c35bc17e79d4db5be3dd5da6a2baba0d7ec8673377a5d6216fb2768051fe0baf",
+    "slug": "st-2026-07-19-harness-engineering-levers",
+    "synced_at": "2026-07-19T22:50:58.602530+00:00"
   },
   "phase4:tmp-2026-04-01-quantized-local-inference": {
     "hash": "acff2ffb5b52096bc966a39fe8851f9a222cb9dcbcbb9a8420c2b33752962921",

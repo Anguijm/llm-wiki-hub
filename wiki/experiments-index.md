@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**455 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**462 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 155 |
+| `backlog` | 162 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 225 |
+| `(none)` | 232 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,14 +32,14 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 147 |
-| @nb | 92 |
+| @aie | 152 |
+| @nb | 93 |
 | @nh | 77 |
 | @mlops | 45 |
 | @do | 42 |
 | @mk | 20 |
 | @aij | 12 |
-| @st | 8 |
+| @st | 9 |
 | @up | 5 |
 | @eh | 4 |
 | @fs | 2 |
@@ -53,6 +53,13 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-19 | [[experiments/st-2026-07-19-harness-engineering-levers|Structure agent customization across three explicit levers: context, tools, and automations with evals]] | @st | `-` |
+| 2026-07-19 | [[experiments/nb-2026-07-19-local-llm-pii-detection|Run an air-gapped local LLM to detect and mask PII before sending docs to cloud AI]] | @nb | `-` |
+| 2026-07-19 | [[experiments/aie-2026-07-19-single-cell-foundation-models|Benchmark flow-matching models against autoencoder-based models for single-cell RNA-seq generation]] | @aie | `-` |
+| 2026-07-19 | [[experiments/aie-2026-07-19-hierarchical-hypothesis-generation|Inject a hierarchical hypothesis-generation step into autonomous coding agent loops to break optimization plateaus]] | @aie | `-` |
+| 2026-07-19 | [[experiments/aie-2026-07-19-eval-pipeline-customer-support|Build a config-driven eval harness with hard launch gates, simulated multi-turn conversations, and online regression monitoring]] | @aie | `-` |
+| 2026-07-19 | [[experiments/aie-2026-07-19-continuous-perf-optimization-agent|Build a weekly autonomous agent workflow that surfaces scored high-ROI performance optimization PRs from production traces]] | @aie | `-` |
+| 2026-07-19 | [[experiments/aie-2026-07-19-agent-auth-least-privilege|Implement fine-grained, principal-bound, time-limited auth scopes for agents instead of reusing human OAuth credentials]] | @aie | `-` |
 | 2026-07-18 | [[experiments/eh-2026-07-18-intelligence-as-process-not-substance|Frame AI objectives as pattern-compression processes, not capability lists]] | @eh | `-` |
 | 2026-07-18 | [[experiments/aie-2026-07-18-subgraph-pattern-matching-context-retrieval|Replace vector search with shortest-path subgraph retrieval for code dependency context]] | @aie | `-` |
 | 2026-07-18 | [[experiments/aie-2026-07-18-schema-first-graph-extraction|Use schema-constrained structured outputs for graph extraction from unstructured text]] | @aie | `-` |
