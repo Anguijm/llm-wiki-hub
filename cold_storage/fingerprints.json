@@ -774,6 +774,76 @@
     "slug": "aie-2026-07-19-single-cell-foundation-models",
     "synced_at": "2026-07-19T22:50:58.602777+00:00"
   },
+  "phase4:aie-2026-07-20-agent-jurassic-four-layer-sandbox": {
+    "hash": "092146a4d3e34a45b64332bbecc5d5a3953f06a981bf6fed57f6eef72de7b6b7",
+    "slug": "aie-2026-07-20-agent-jurassic-four-layer-sandbox",
+    "synced_at": "2026-07-20T22:59:26.361490+00:00"
+  },
+  "phase4:aie-2026-07-20-deterministic-wrapper-limits-agent-blast-radius": {
+    "hash": "3f6ef91db6d212b23b6d399dddf93259d069d942613e780ce974d57cc3f86383",
+    "slug": "aie-2026-07-20-deterministic-wrapper-limits-agent-blast-radi",
+    "synced_at": "2026-07-20T22:59:26.362470+00:00"
+  },
+  "phase4:aie-2026-07-20-e2e-encryption-personal-agent": {
+    "hash": "f213a37aa1c56b55251dfa6e98c3e9c07b9e86398c6d602406bc101ddd730bfc",
+    "slug": "aie-2026-07-20-e2e-encryption-personal-agent",
+    "synced_at": "2026-07-20T22:59:26.362164+00:00"
+  },
+  "phase4:aie-2026-07-20-enterprise-agent-source-hierarchy": {
+    "hash": "c9d4a7218e68f189a470840870e60964d45b4aba6a1d3554132584c8c97ec497",
+    "slug": "aie-2026-07-20-enterprise-agent-source-hierarchy",
+    "synced_at": "2026-07-20T22:59:26.364946+00:00"
+  },
+  "phase4:aie-2026-07-20-episodic-semantic-memory-agent-consistency": {
+    "hash": "b79a7aed24e5ae7e0cfd1788a2b26b59247922e06e053dfe85f3167a7d843cf7",
+    "slug": "aie-2026-07-20-episodic-semantic-memory-agent-consistency",
+    "synced_at": "2026-07-20T22:59:26.364020+00:00"
+  },
+  "phase4:aie-2026-07-20-generator-validator-separation": {
+    "hash": "a6e31bd85d4185705e105dbbc087aeae9329303a0bcfd511e455cd64af9338e8",
+    "slug": "aie-2026-07-20-generator-validator-separation",
+    "synced_at": "2026-07-20T22:59:26.361172+00:00"
+  },
+  "phase4:aie-2026-07-20-harness-state-machine-voice-tutor": {
+    "hash": "94cae9ae9a09c374675fd273dc8956d51b60d03b30826519631a972ff6c9ffea",
+    "slug": "aie-2026-07-20-harness-state-machine-voice-tutor",
+    "synced_at": "2026-07-20T22:59:26.364364+00:00"
+  },
+  "phase4:aie-2026-07-20-inloop-verification-three-loop-sdlc": {
+    "hash": "fbe0719d985a9c1ce423beb39b37c76954f5b0d4688011ed41daab0e6d21c934",
+    "slug": "aie-2026-07-20-inloop-verification-three-loop-sdlc",
+    "synced_at": "2026-07-20T22:59:26.363719+00:00"
+  },
+  "phase4:aie-2026-07-20-least-privilege-api-keys-agents": {
+    "hash": "b58ae757bf43fab4fefb06efe8ffb42f01e9842354610564f97d18e31281fe04",
+    "slug": "aie-2026-07-20-least-privilege-api-keys-agents",
+    "synced_at": "2026-07-20T22:59:26.361822+00:00"
+  },
+  "phase4:aie-2026-07-20-llm-stack-infra-misconfiguration-audit": {
+    "hash": "87877e78dca41e4fdc690b77969017937d1bc1405a079976bb3e91d99a5ecaf7",
+    "slug": "aie-2026-07-20-llm-stack-infra-misconfiguration-audit",
+    "synced_at": "2026-07-20T22:59:26.362777+00:00"
+  },
+  "phase4:aie-2026-07-20-physical-data-harness-knowledge-base": {
+    "hash": "80252ee5e258fadb6961c07903167f565b200c89abbf1a401345d5393e844343",
+    "slug": "aie-2026-07-20-physical-data-harness-knowledge-base",
+    "synced_at": "2026-07-20T22:59:26.365292+00:00"
+  },
+  "phase4:aie-2026-07-20-slop-squatting-supply-chain-detection": {
+    "hash": "907e1981bfc6f0b692683c1a6e30a17fd1a9bf068f1b9eb5da0bcfb5fd807041",
+    "slug": "aie-2026-07-20-slop-squatting-supply-chain-detection",
+    "synced_at": "2026-07-20T22:59:26.363412+00:00"
+  },
+  "phase4:aie-2026-07-20-small-model-voice-latency": {
+    "hash": "867c140d05b7b9187ddfde60e707c41d52284d0692ac065f54d00f9f3879df2b",
+    "slug": "aie-2026-07-20-small-model-voice-latency",
+    "synced_at": "2026-07-20T22:59:26.364653+00:00"
+  },
+  "phase4:aie-2026-07-20-snyk-hooks-skills-agent-code-security": {
+    "hash": "31ecb7c79e7c5d494f177a8284f0440601a0cfa7825c272bf258fcb16b46a34b",
+    "slug": "aie-2026-07-20-snyk-hooks-skills-agent-code-security",
+    "synced_at": "2026-07-20T22:59:26.363092+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -838,6 +908,16 @@
     "hash": "c9fa1212b3fc45ecc9de8bb51ce0012b7bafe7661c0300f886782b7342da9d1f",
     "slug": "aij-2026-07-14-piper-agent-extensible-harness",
     "synced_at": "2026-07-14T22:55:53.449462+00:00"
+  },
+  "phase4:aij-2026-07-20-claude5-orchestrator-sonet5-executor": {
+    "hash": "23eebae7026869455a569cf704604f0e952d009e3d5b73ddf87c9bac5498ed67",
+    "slug": "aij-2026-07-20-claude5-orchestrator-sonet5-executor",
+    "synced_at": "2026-07-20T22:59:26.360519+00:00"
+  },
+  "phase4:aij-2026-07-20-tmux-multi-cli-orchestration": {
+    "hash": "4f427219f5d3e2f142929fe2002c073a54d78350a84ec7c3f85babb8f795132b",
+    "slug": "aij-2026-07-20-tmux-multi-cli-orchestration",
+    "synced_at": "2026-07-20T22:59:26.360827+00:00"
   },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "0527033834fe3f49b58f4d9e2c508620ed78f8ba268bccaba81263b6ef3c4afa",
@@ -1413,6 +1493,11 @@
     "hash": "fba5b2a59006074823e1ffc31926a8d17177e5e31cc2411f4d78316367b986d3",
     "slug": "mlops-2026-07-15-multi-agent-debate-research",
     "synced_at": "2026-07-15T22:57:21.037352+00:00"
+  },
+  "phase4:mlops-2026-07-20-agent-harness-calibration": {
+    "hash": "8cddcc5e7cda5176b536af03b841c672f73510084208cf1d42279175dacde68b",
+    "slug": "mlops-2026-07-20-agent-harness-calibration",
+    "synced_at": "2026-07-20T22:59:26.359750+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",
@@ -2278,6 +2363,11 @@
     "hash": "98c9dfccf109b231918c2a47f6794f84ae0ed1a8cc3e93ec635ed32389c195a2",
     "slug": "nh-2026-07-14-inhouse-ai-consultant-roadmap",
     "synced_at": "2026-07-14T22:55:53.449171+00:00"
+  },
+  "phase4:nh-2026-07-20-sell-transformation-not-ai": {
+    "hash": "554fbf3146320e8c449d93fdb8a5a08ccaf1919a98c95544ce9cde7abe77d9f0",
+    "slug": "nh-2026-07-20-sell-transformation-not-ai",
+    "synced_at": "2026-07-20T22:59:26.360117+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**462 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**480 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 162 |
+| `backlog` | 180 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 232 |
+| `(none)` | 250 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,13 +32,13 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 152 |
+| @aie | 166 |
 | @nb | 93 |
-| @nh | 77 |
-| @mlops | 45 |
+| @nh | 78 |
+| @mlops | 46 |
 | @do | 42 |
 | @mk | 20 |
-| @aij | 12 |
+| @aij | 14 |
 | @st | 9 |
 | @up | 5 |
 | @eh | 4 |
@@ -53,6 +53,24 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-20 | [[experiments/nh-2026-07-20-sell-transformation-not-ai|Reframe AI feature demos as before/after transformation stories]] | @nh | `-` |
+| 2026-07-20 | [[experiments/mlops-2026-07-20-agent-harness-calibration|Instrument agent traces to classify failure modes and calibrate harness rigidity]] | @mlops | `-` |
+| 2026-07-20 | [[experiments/aij-2026-07-20-tmux-multi-cli-orchestration|Orchestrate heterogeneous coding agents (Claude Code, Codex, Gemini CLI) via tmux pane control]] | @aij | `-` |
+| 2026-07-20 | [[experiments/aij-2026-07-20-claude5-orchestrator-sonet5-executor|Use Claude 4 Opus as orchestrator and Sonnet 5 as persistent executor sub-agent to cut costs 35%]] | @aij | `-` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-snyk-hooks-skills-agent-code-security|Add security scanning as Claude Code hooks and skills rather than post-hoc MCP scanning to reduce latency and token overhead]] | @aie | `-` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-small-model-voice-latency|Offload all reasoning to scaffolding code and use the smallest model that fits the latency budget]] | @aie | `-` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-slop-squatting-supply-chain-detection|Add a package provenance verification step before any agent-suggested dependency is installed]] | @aie | `-` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-physical-data-harness-knowledge-base|Build a persistent knowledge base of processed dataset results to prevent redundant expensive compute]] | @aie | `-` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-llm-stack-infra-misconfiguration-audit|Run a misconfiguration audit against the ML infrastructure using the four-pillar maturity checklist before adding new agent features]] | @aie | `-` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-least-privilege-api-keys-agents|Replace kitchen-sink API keys with scoped OAuth tokens minted per agent tool call via a security token service]] | @aie | `-` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-inloop-verification-three-loop-sdlc|Embed code verification inside the agentic loop (not just CI) using the guide-verify-solve three-loop pattern]] | @aie | `-` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-harness-state-machine-voice-tutor|Wrap multi-step agent logic in an explicit state machine harness]] | @aie | `-` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-generator-validator-separation|Separate the code-generating agent from the security-validating agent to prevent self-review blind spots]] | @aie | `-` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-episodic-semantic-memory-agent-consistency|Add episodic and semantic memory to agent classification tasks to reduce flip-flop inconsistency on boundary cases]] | @aie | `-` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-enterprise-agent-source-hierarchy|Structure agent knowledge sources as a ranked hierarchy from curated to flexible]] | @aie | `-` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-e2e-encryption-personal-agent|Store agent memory keys only on client device and attest workload integrity via a public transparency log before key sharing]] | @aie | `-` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-deterministic-wrapper-limits-agent-blast-radi|Wrap agentic reasoning in a deterministic orchestration layer that owns all credentials and side-effects]] | @aie | `-` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-agent-jurassic-four-layer-sandbox|Implement four-layer agent oversight: deterministic floor, courageable agent, intelligent adversary, structured human escalation]] | @aie | `-` |
 | 2026-07-19 | [[experiments/st-2026-07-19-harness-engineering-levers|Structure agent customization across three explicit levers: context, tools, and automations with evals]] | @st | `-` |
 | 2026-07-19 | [[experiments/nb-2026-07-19-local-llm-pii-detection|Run an air-gapped local LLM to detect and mask PII before sending docs to cloud AI]] | @nb | `-` |
 | 2026-07-19 | [[experiments/aie-2026-07-19-single-cell-foundation-models|Benchmark flow-matching models against autoencoder-based models for single-cell RNA-seq generation]] | @aie | `-` |
