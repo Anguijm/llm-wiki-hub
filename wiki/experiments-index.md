@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**480 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**486 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 180 |
+| `backlog` | 186 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 250 |
+| `(none)` | 256 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,7 +32,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 166 |
+| @aie | 172 |
 | @nb | 93 |
 | @nh | 78 |
 | @mlops | 46 |
@@ -53,6 +53,12 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-21 | [[experiments/aie-2026-07-21-state-of-ai-eng-audio-modality|Add Audio Modality to Existing Agent Pipeline as High-Intent Adoption Signal]] | @aie | `-` |
+| 2026-07-21 | [[experiments/aie-2026-07-21-outcome-based-agent-scoring|Instrument Execution Layer to Capture Outcome-Based Agent Scores]] | @aie | `-` |
+| 2026-07-21 | [[experiments/aie-2026-07-21-html-native-video-agents|Use Raw HTML/CSS/JS as Agent Output Format Instead of Custom DSLs]] | @aie | `-` |
+| 2026-07-21 | [[experiments/aie-2026-07-21-harness-to-claw-agentic-spectrum|Build an Always-On Cloud Harness with Slack Integration]] | @aie | `-` |
+| 2026-07-21 | [[experiments/aie-2026-07-21-execution-layer-decoupling|Decouple Execution Layer from Context and Compute Layers in Agent Architecture]] | @aie | `-` |
+| 2026-07-21 | [[experiments/aie-2026-07-21-desktop-local-model-sovereign|Benchmark Local Open-Weight Models as Drop-In Replacements for Cloud Models in Agent Workflows]] | @aie | `-` |
 | 2026-07-20 | [[experiments/nh-2026-07-20-sell-transformation-not-ai|Reframe AI feature demos as before/after transformation stories]] | @nh | `-` |
 | 2026-07-20 | [[experiments/mlops-2026-07-20-agent-harness-calibration|Instrument agent traces to classify failure modes and calibrate harness rigidity]] | @mlops | `-` |
 | 2026-07-20 | [[experiments/aij-2026-07-20-tmux-multi-cli-orchestration|Orchestrate heterogeneous coding agents (Claude Code, Codex, Gemini CLI) via tmux pane control]] | @aij | `-` |

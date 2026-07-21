@@ -844,6 +844,36 @@
     "slug": "aie-2026-07-20-snyk-hooks-skills-agent-code-security",
     "synced_at": "2026-07-20T22:59:26.363092+00:00"
   },
+  "phase4:aie-2026-07-21-desktop-local-model-sovereign": {
+    "hash": "af70ac627d44efb641c9fb59c649fd955cc1b4e71db33c7c609cd5f7cb055410",
+    "slug": "aie-2026-07-21-desktop-local-model-sovereign",
+    "synced_at": "2026-07-21T22:55:45.320644+00:00"
+  },
+  "phase4:aie-2026-07-21-execution-layer-decoupling": {
+    "hash": "bf3c66c20df921ec806e6acf381108868a4767e4536e8a974480d95ad002d69e",
+    "slug": "aie-2026-07-21-execution-layer-decoupling",
+    "synced_at": "2026-07-21T22:55:45.319647+00:00"
+  },
+  "phase4:aie-2026-07-21-harness-to-claw-agentic-spectrum": {
+    "hash": "5ddbbbf3fd496ac6b9790d7e1c3bfb954b44bebe02267173aeb27170e5e53b51",
+    "slug": "aie-2026-07-21-harness-to-claw-agentic-spectrum",
+    "synced_at": "2026-07-21T22:55:45.318910+00:00"
+  },
+  "phase4:aie-2026-07-21-html-native-video-agents": {
+    "hash": "680dbe5000c84929c40f1569dd547a3307677cd6abafaca34f545bfac229143d",
+    "slug": "aie-2026-07-21-html-native-video-agents",
+    "synced_at": "2026-07-21T22:55:45.319296+00:00"
+  },
+  "phase4:aie-2026-07-21-outcome-based-agent-scoring": {
+    "hash": "5c444cc520b26f55fbd8c3395f0bb59dd033673dcb03129bd5d52f57609a80b5",
+    "slug": "aie-2026-07-21-outcome-based-agent-scoring",
+    "synced_at": "2026-07-21T22:55:45.319964+00:00"
+  },
+  "phase4:aie-2026-07-21-state-of-ai-eng-audio-modality": {
+    "hash": "b9c06612787e76df6a330e74083030663246a0006507ae4c5212787a7947cc7b",
+    "slug": "aie-2026-07-21-state-of-ai-eng-audio-modality",
+    "synced_at": "2026-07-21T22:55:45.320278+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
