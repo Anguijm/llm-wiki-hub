@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**486 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**494 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 186 |
+| `backlog` | 194 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 256 |
+| `(none)` | 264 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,12 +32,12 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 172 |
+| @aie | 178 |
 | @nb | 93 |
-| @nh | 78 |
+| @nh | 79 |
 | @mlops | 46 |
 | @do | 42 |
-| @mk | 20 |
+| @mk | 21 |
 | @aij | 14 |
 | @st | 9 |
 | @up | 5 |
@@ -53,6 +53,14 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-22 | [[experiments/nh-2026-07-22-claude-ai-consultant-roadmap|Build One Claude Workflow Demo with Before/After Metrics]] | @nh | `-` |
+| 2026-07-22 | [[experiments/mk-2026-07-22-local-ai-command-center-agentic-setup|Use Claude Code to Auto-Install and Configure a Local Open-Weight Model Stack]] | @mk | `-` |
+| 2026-07-22 | [[experiments/aie-2026-07-22-thin-agents-ontology-semantic-layer|Implement a Three-Pillar Ontology Layer (Business + Technical + Execution Traces) to Enable Thin Cross-Agent Data Discovery]] | @aie | `-` |
+| 2026-07-22 | [[experiments/aie-2026-07-22-graph-memory-vs-markdown-for-agents|Replace Agent Markdown File Memory with a Neo4j Graph Store and Benchmark Retrieval Precision]] | @aie | `-` |
+| 2026-07-22 | [[experiments/aie-2026-07-22-gates-foundation-knowledge-graph-sip|Build a Cross-System Semantic Knowledge Graph as the Agentic Retrieval Layer]] | @aie | `-` |
+| 2026-07-22 | [[experiments/aie-2026-07-22-claude-managed-agents-brain-hands-decoupling|Decouple Agent Harness (Brain) from Execution Sandbox (Hands) with an Append-Only Session Log]] | @aie | `-` |
+| 2026-07-22 | [[experiments/aie-2026-07-22-agent-auth-identity-per-agent|Assign Per-Agent Scoped Identity and Audit Logs Instead of Passing User Credentials to Agents]] | @aie | `-` |
+| 2026-07-22 | [[experiments/aie-2026-07-22-active-graph-log-centric-agent-runtime|Replace Session Logs with an Immutable Event-Sourced Graph as Agent Ground Truth]] | @aie | `-` |
 | 2026-07-21 | [[experiments/aie-2026-07-21-state-of-ai-eng-audio-modality|Add Audio Modality to Existing Agent Pipeline as High-Intent Adoption Signal]] | @aie | `-` |
 | 2026-07-21 | [[experiments/aie-2026-07-21-outcome-based-agent-scoring|Instrument Execution Layer to Capture Outcome-Based Agent Scores]] | @aie | `-` |
 | 2026-07-21 | [[experiments/aie-2026-07-21-html-native-video-agents|Use Raw HTML/CSS/JS as Agent Output Format Instead of Custom DSLs]] | @aie | `-` |

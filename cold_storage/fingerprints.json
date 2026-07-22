@@ -874,6 +874,36 @@
     "slug": "aie-2026-07-21-state-of-ai-eng-audio-modality",
     "synced_at": "2026-07-21T22:55:45.320278+00:00"
   },
+  "phase4:aie-2026-07-22-active-graph-log-centric-agent-runtime": {
+    "hash": "be7ad8bf4f34887da5544b7363de1e8e8401d61a42404214f821848e41923963",
+    "slug": "aie-2026-07-22-active-graph-log-centric-agent-runtime",
+    "synced_at": "2026-07-22T23:02:26.099617+00:00"
+  },
+  "phase4:aie-2026-07-22-agent-auth-identity-per-agent": {
+    "hash": "86896ac4fda347d2262889719fbbfc5dda6b33d50c214483d01973f723c3a92f",
+    "slug": "aie-2026-07-22-agent-auth-identity-per-agent",
+    "synced_at": "2026-07-22T23:02:26.100946+00:00"
+  },
+  "phase4:aie-2026-07-22-claude-managed-agents-brain-hands-decoupling": {
+    "hash": "a10e2c414ae7e50cb35e7d5f7044812f2a44c90f44a51b00a72df8b3236a6a23",
+    "slug": "aie-2026-07-22-claude-managed-agents-brain-hands-decoupling",
+    "synced_at": "2026-07-22T23:02:26.100630+00:00"
+  },
+  "phase4:aie-2026-07-22-gates-foundation-knowledge-graph-sip": {
+    "hash": "3ee887f2ca8a8f140b53bd78b711739016da8afbb9add3a4850e4111bf6292b4",
+    "slug": "aie-2026-07-22-gates-foundation-knowledge-graph-sip",
+    "synced_at": "2026-07-22T23:02:26.099256+00:00"
+  },
+  "phase4:aie-2026-07-22-graph-memory-vs-markdown-for-agents": {
+    "hash": "0ce2e6d489dc9a32b32c0b4365c7faea4f4a77aa9ff2a3ffbd3a297856255373",
+    "slug": "aie-2026-07-22-graph-memory-vs-markdown-for-agents",
+    "synced_at": "2026-07-22T23:02:26.099937+00:00"
+  },
+  "phase4:aie-2026-07-22-thin-agents-ontology-semantic-layer": {
+    "hash": "c8864f4c3b376fb7eb00cc066bd102d65dedfc36dbd7693619012a56d76888f2",
+    "slug": "aie-2026-07-22-thin-agents-ontology-semantic-layer",
+    "synced_at": "2026-07-22T23:02:26.100282+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1293,6 +1323,11 @@
     "hash": "aa5dcbde368ba2a547b0d37835cfb1e612ba7d91f270678be3e4178094442b5f",
     "slug": "mk-2026-07-13-effort-level-calibration",
     "synced_at": "2026-07-13T22:55:22.914734+00:00"
+  },
+  "phase4:mk-2026-07-22-local-ai-command-center-agentic-setup": {
+    "hash": "8be4efbbbc794623061cd003e393ce5a73348787867759394e2b48ec0c966eb9",
+    "slug": "mk-2026-07-22-local-ai-command-center-agentic-setup",
+    "synced_at": "2026-07-22T23:02:26.098924+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
@@ -2398,6 +2433,11 @@
     "hash": "554fbf3146320e8c449d93fdb8a5a08ccaf1919a98c95544ce9cde7abe77d9f0",
     "slug": "nh-2026-07-20-sell-transformation-not-ai",
     "synced_at": "2026-07-20T22:59:26.360117+00:00"
+  },
+  "phase4:nh-2026-07-22-claude-ai-consultant-roadmap": {
+    "hash": "be4a8186234a769714edd296f480515e7447b32117ec2ef7d0ca5d025093792c",
+    "slug": "nh-2026-07-22-claude-ai-consultant-roadmap",
+    "synced_at": "2026-07-22T23:02:26.098569+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
