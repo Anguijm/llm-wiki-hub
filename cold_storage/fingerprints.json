@@ -904,6 +904,66 @@
     "slug": "aie-2026-07-22-thin-agents-ontology-semantic-layer",
     "synced_at": "2026-07-22T23:02:26.100282+00:00"
   },
+  "phase4:aie-2026-07-23-dspy-task-signature-separation": {
+    "hash": "d172c9cd371eeeb921baf1f328494a2242ad02b75772006387c13482b51f99e8",
+    "slug": "aie-2026-07-23-dspy-task-signature-separation",
+    "synced_at": "2026-07-23T22:55:49.752046+00:00"
+  },
+  "phase4:aie-2026-07-23-execution-dag-anomaly-detection": {
+    "hash": "499141ac2e11396b425ff9284820cf8a819bb9fdc29502e8df97b572cfccaecf",
+    "slug": "aie-2026-07-23-execution-dag-anomaly-detection",
+    "synced_at": "2026-07-23T22:55:49.754788+00:00"
+  },
+  "phase4:aie-2026-07-23-graph-provenance-for-llm-facts": {
+    "hash": "f4e2e794b4128c8661cdd46b9019c629623178ab49c8628da87f9ac69a46bf97",
+    "slug": "aie-2026-07-23-graph-provenance-for-llm-facts",
+    "synced_at": "2026-07-23T22:55:49.754140+00:00"
+  },
+  "phase4:aie-2026-07-23-graph-shapes-for-agent-context": {
+    "hash": "f786f5baaefd971fc81a1148afacd2da4882f16f2b5a42de7706f51dca222977",
+    "slug": "aie-2026-07-23-graph-shapes-for-agent-context",
+    "synced_at": "2026-07-23T22:55:49.753389+00:00"
+  },
+  "phase4:aie-2026-07-23-knowledge-graph-as-agent-control-plane": {
+    "hash": "3355ba696f52e7536be84beaf41d8ccca8ae10945bc0914e1305fdef91908864",
+    "slug": "aie-2026-07-23-knowledge-graph-as-agent-control-plane",
+    "synced_at": "2026-07-23T22:55:49.753818+00:00"
+  },
+  "phase4:aie-2026-07-23-notion-token-cost-model-routing": {
+    "hash": "c7e477b55691866ce6ee63c544987d2896ec2948c285281a410b531aec23e95a",
+    "slug": "aie-2026-07-23-notion-token-cost-model-routing",
+    "synced_at": "2026-07-23T22:55:49.752393+00:00"
+  },
+  "phase4:aie-2026-07-23-offline-context-precomputation": {
+    "hash": "92352f869f78475b05a43a5a44afda615c0f528f8096748c35a3a065f9e184eb",
+    "slug": "aie-2026-07-23-offline-context-precomputation",
+    "synced_at": "2026-07-23T22:55:49.755421+00:00"
+  },
+  "phase4:aie-2026-07-23-ontology-validator-for-agent-tool-outputs": {
+    "hash": "8c886a3b44e222ae880404e5cf4411d177f448a53d36bcce6f31bdb365af499f",
+    "slug": "aie-2026-07-23-ontology-validator-for-agent-tool-outputs",
+    "synced_at": "2026-07-23T22:55:49.754451+00:00"
+  },
+  "phase4:aie-2026-07-23-perception-agent-shared-screen-context": {
+    "hash": "c92c523866d619dd2cc46220176126a9d5f540c6ec271addf83e4ced0f7a8b8d",
+    "slug": "aie-2026-07-23-perception-agent-shared-screen-context",
+    "synced_at": "2026-07-23T22:55:49.753075+00:00"
+  },
+  "phase4:aie-2026-07-23-pre-planning-alignment-before-agent-coding": {
+    "hash": "22e25bdfa6fde5482e5c5956e02176b5ebb691ae3e189a7cab6f23d9eba0a63e",
+    "slug": "aie-2026-07-23-pre-planning-alignment-before-agent-coding",
+    "synced_at": "2026-07-23T22:55:49.752761+00:00"
+  },
+  "phase4:aie-2026-07-23-semantic-relationship-graph": {
+    "hash": "fa23232a9a479760048b795cfb2d41d51985ceed8fd7e35e2dd5996b4b0ffa86",
+    "slug": "aie-2026-07-23-semantic-relationship-graph",
+    "synced_at": "2026-07-23T22:55:49.755756+00:00"
+  },
+  "phase4:aie-2026-07-23-video-spatial-temporal-memory-layer": {
+    "hash": "b336c3ecb5064e8ad138ece8591af4f6a769df3bf3cf2ca9fbc69ba3c28e8a48",
+    "slug": "aie-2026-07-23-video-spatial-temporal-memory-layer",
+    "synced_at": "2026-07-23T22:55:49.755104+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2033,6 +2093,26 @@
     "hash": "bb1d04c56d9caeb48013fa7f98241af53a2851c0fe81068ea02434e7ebe2a716",
     "slug": "nb-2026-07-19-local-llm-pii-detection",
     "synced_at": "2026-07-19T22:50:58.602231+00:00"
+  },
+  "phase4:nb-2026-07-23-anti-slop-human-intent-signal": {
+    "hash": "6c4f754e7664f8a3e94d7c9e976af7e84ffdc536d3bf3ce070412353e413d341",
+    "slug": "nb-2026-07-23-anti-slop-human-intent-signal",
+    "synced_at": "2026-07-23T22:55:49.751380+00:00"
+  },
+  "phase4:nb-2026-07-23-local-model-fallback-for-sensitive-analysis": {
+    "hash": "9c553071905f94f74374df6e92b0f438c4b317984324202c2a121c694089a450",
+    "slug": "nb-2026-07-23-local-model-fallback-for-sensitive-analysis",
+    "synced_at": "2026-07-23T22:55:49.751049+00:00"
+  },
+  "phase4:nb-2026-07-23-multi-model-redundancy-strategy": {
+    "hash": "17dcd1cf352794bcf6cd481d3a83df30690484f898459bc447ce95e1f4422f8b",
+    "slug": "nb-2026-07-23-multi-model-redundancy-strategy",
+    "synced_at": "2026-07-23T22:55:49.751718+00:00"
+  },
+  "phase4:nb-2026-07-23-trusted-access-policy-for-ai-cyber-defense": {
+    "hash": "3eac647c3f9291c24d742c3e50e46650275b2d46f2f1d0088a881e9cb1f1683f",
+    "slug": "nb-2026-07-23-trusted-access-policy-for-ai-cyber-defense",
+    "synced_at": "2026-07-23T22:55:49.750648+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",

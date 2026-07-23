@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**494 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**510 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 194 |
+| `backlog` | 210 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 264 |
+| `(none)` | 280 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,8 +32,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 178 |
-| @nb | 93 |
+| @aie | 190 |
+| @nb | 97 |
 | @nh | 79 |
 | @mlops | 46 |
 | @do | 42 |
@@ -53,6 +53,22 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-23 | [[experiments/nb-2026-07-23-trusted-access-policy-for-ai-cyber-defense|Implement pre-verified trusted-access tiers for frontier models in security workflows]] | @nb | `-` |
+| 2026-07-23 | [[experiments/nb-2026-07-23-multi-model-redundancy-strategy|Build a model-diverse fallback stack with at least one open-weights model for disruption resilience]] | @nb | `-` |
+| 2026-07-23 | [[experiments/nb-2026-07-23-local-model-fallback-for-sensitive-analysis|Pre-vet and deploy a local open-weights model as a no-guardrail fallback for sensitive artifact analysis]] | @nb | `-` |
+| 2026-07-23 | [[experiments/nb-2026-07-23-anti-slop-human-intent-signal|Add a human-intent attestation step to AI-generated content pipelines]] | @nb | `-` |
+| 2026-07-23 | [[experiments/aie-2026-07-23-video-spatial-temporal-memory-layer|Build a persistent spatiotemporal memory layer for video assets that supports cross-file entity continuity and moment retrieval]] | @aie | `-` |
+| 2026-07-23 | [[experiments/aie-2026-07-23-semantic-relationship-graph|Link artifacts across sources into a cross-referenced meaning graph]] | @aie | `-` |
+| 2026-07-23 | [[experiments/aie-2026-07-23-pre-planning-alignment-before-agent-coding|Add structured pre-planning (architecture + program design docs) before every agent coding task]] | @aie | `-` |
+| 2026-07-23 | [[experiments/aie-2026-07-23-perception-agent-shared-screen-context|Give agents continuous visual perception of shared UI state so they can monitor, detect, and recover from step failures]] | @aie | `-` |
+| 2026-07-23 | [[experiments/aie-2026-07-23-ontology-validator-for-agent-tool-outputs|Add an ontology-based validator after each agent tool call to catch semantically invalid outputs before they propagate]] | @aie | `-` |
+| 2026-07-23 | [[experiments/aie-2026-07-23-offline-context-precomputation|Precompute user context profiles offline before agent queries]] | @aie | `-` |
+| 2026-07-23 | [[experiments/aie-2026-07-23-notion-token-cost-model-routing|Build a per-task model routing layer that matches model capability to task complexity to control token costs]] | @aie | `-` |
+| 2026-07-23 | [[experiments/aie-2026-07-23-knowledge-graph-as-agent-control-plane|Replace multi-agent context handoff chains with a single reasoning agent navigating a knowledge graph control plane]] | @aie | `-` |
+| 2026-07-23 | [[experiments/aie-2026-07-23-graph-shapes-for-agent-context|Model agent context as typed graph shapes (table-of-contents, connection, theme) rather than flat vector search]] | @aie | `-` |
+| 2026-07-23 | [[experiments/aie-2026-07-23-graph-provenance-for-llm-facts|Attach source lineage to every LLM-extracted fact in agent memory using graph relationships that survive mutation]] | @aie | `-` |
+| 2026-07-23 | [[experiments/aie-2026-07-23-execution-dag-anomaly-detection|Model agent pipeline execution as a DAG and detect structural drift and timing anomalies against a learned baseline]] | @aie | `-` |
+| 2026-07-23 | [[experiments/aie-2026-07-23-dspy-task-signature-separation|Wrap every repeated AI task in a DSPy-style typed signature to decouple task logic from model/prompt implementation]] | @aie | `-` |
 | 2026-07-22 | [[experiments/nh-2026-07-22-claude-ai-consultant-roadmap|Build One Claude Workflow Demo with Before/After Metrics]] | @nh | `-` |
 | 2026-07-22 | [[experiments/mk-2026-07-22-local-ai-command-center-agentic-setup|Use Claude Code to Auto-Install and Configure a Local Open-Weight Model Stack]] | @mk | `-` |
 | 2026-07-22 | [[experiments/aie-2026-07-22-thin-agents-ontology-semantic-layer|Implement a Three-Pillar Ontology Layer (Business + Technical + Execution Traces) to Enable Thin Cross-Agent Data Discovery]] | @aie | `-` |
