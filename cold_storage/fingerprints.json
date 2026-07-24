@@ -964,6 +964,46 @@
     "slug": "aie-2026-07-23-video-spatial-temporal-memory-layer",
     "synced_at": "2026-07-23T22:55:49.755104+00:00"
   },
+  "phase4:aie-2026-07-24-agent-as-judge-for-agentic-evals": {
+    "hash": "484ee5d4cff637e18fa2d27e7f2371a48eab0367fe6b0b30b8c9fceec57bf4c3",
+    "slug": "aie-2026-07-24-agent-as-judge-for-agentic-evals",
+    "synced_at": "2026-07-24T23:00:13.502792+00:00"
+  },
+  "phase4:aie-2026-07-24-arize-signal-to-pr-self-improving-agent": {
+    "hash": "ee7fffb08ba41f7a50e56e48af74dbe4c4c850d84fb2171fc32bcd4882392d88",
+    "slug": "aie-2026-07-24-arize-signal-to-pr-self-improving-agent",
+    "synced_at": "2026-07-24T23:00:13.502486+00:00"
+  },
+  "phase4:aie-2026-07-24-codex-compaction-and-voice-workflow": {
+    "hash": "c3fd86201416cc6276d206044f0042fa462f4636770e860d6eb4ce0c8f933f8a",
+    "slug": "aie-2026-07-24-codex-compaction-and-voice-workflow",
+    "synced_at": "2026-07-24T23:00:13.503789+00:00"
+  },
+  "phase4:aie-2026-07-24-cyber-benchmark-dynamic-world-model": {
+    "hash": "c4c8a42f06221cbae3278a5fe04020abb48a4641cdc844bb3d668fb76a163b57",
+    "slug": "aie-2026-07-24-cyber-benchmark-dynamic-world-model",
+    "synced_at": "2026-07-24T23:00:13.504248+00:00"
+  },
+  "phase4:aie-2026-07-24-harbor-agent-dev-as-ml-paradigm": {
+    "hash": "efcd9942295b093bc2c7eb3e79430b8641c6d51eb0d0723947249c71ea608436",
+    "slug": "aie-2026-07-24-harbor-agent-dev-as-ml-paradigm",
+    "synced_at": "2026-07-24T23:00:13.503123+00:00"
+  },
+  "phase4:aie-2026-07-24-uber-closed-loop-multimodal-evals": {
+    "hash": "c3835a5ccb972c2f1d50dcb4bf395eacf27f189c93da0ed42030447879ca9ed7",
+    "slug": "aie-2026-07-24-uber-closed-loop-multimodal-evals",
+    "synced_at": "2026-07-24T23:00:13.501817+00:00"
+  },
+  "phase4:aie-2026-07-24-vending-bench-emergent-misbehavior-evals": {
+    "hash": "1ef96076680921f57d00b5729bcaccebd6ebde8a3215c3a8554034220301e2ad",
+    "slug": "aie-2026-07-24-vending-bench-emergent-misbehavior-evals",
+    "synced_at": "2026-07-24T23:00:13.503437+00:00"
+  },
+  "phase4:aie-2026-07-24-youtube-ads-vibe-first-then-scale-evals": {
+    "hash": "359df3361beed4c88dbbdc666b21fc5d2d63aea9d9e3eba85108446f03af0090",
+    "slug": "aie-2026-07-24-youtube-ads-vibe-first-then-scale-evals",
+    "synced_at": "2026-07-24T23:00:13.502180+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1253,6 +1293,11 @@
     "hash": "b3f005e1db4b54f891e4e5afaf9e730d47b9d574498bec3e50fe1eadf714b5da",
     "slug": "do-2026-07-17-ssh-persistent-agent-session",
     "synced_at": "2026-07-17T22:49:26.345946+00:00"
+  },
+  "phase4:do-2026-07-24-kimi-k3-task-routing": {
+    "hash": "99f37fbec9dd2ea9ff097a905beb0e1b5b28d91e74da6c3305070c276ec6445f",
+    "slug": "do-2026-07-24-kimi-k3-task-routing",
+    "synced_at": "2026-07-24T23:00:13.500529+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
@@ -1623,6 +1668,11 @@
     "hash": "8cddcc5e7cda5176b536af03b841c672f73510084208cf1d42279175dacde68b",
     "slug": "mlops-2026-07-20-agent-harness-calibration",
     "synced_at": "2026-07-20T22:59:26.359750+00:00"
+  },
+  "phase4:mlops-2026-07-24-coding-agents-as-general-agents": {
+    "hash": "cf9f64500d42736b38e61e25454fca01811823a506209eccd5b8813f70128bcf",
+    "slug": "mlops-2026-07-24-coding-agents-as-general-agents",
+    "synced_at": "2026-07-24T23:00:13.500217+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",
@@ -2114,6 +2164,16 @@
     "slug": "nb-2026-07-23-trusted-access-policy-for-ai-cyber-defense",
     "synced_at": "2026-07-23T22:55:49.750648+00:00"
   },
+  "phase4:nb-2026-07-24-airlock-pii-scrub-before-llm": {
+    "hash": "e905ca7d66a36fc39a043213e73b65bf376f27375f746b01aa44bee876b0571a",
+    "slug": "nb-2026-07-24-airlock-pii-scrub-before-llm",
+    "synced_at": "2026-07-24T23:00:13.499503+00:00"
+  },
+  "phase4:nb-2026-07-24-job-first-context-scoping": {
+    "hash": "2c7d807139732a7c720353d86316a566a4d1ec64bc77e3010f8280a6153cbbd3",
+    "slug": "nb-2026-07-24-job-first-context-scoping",
+    "synced_at": "2026-07-24T23:00:13.499846+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -2518,6 +2578,21 @@
     "hash": "be4a8186234a769714edd296f480515e7447b32117ec2ef7d0ca5d025093792c",
     "slug": "nh-2026-07-22-claude-ai-consultant-roadmap",
     "synced_at": "2026-07-22T23:02:26.098569+00:00"
+  },
+  "phase4:nh-2026-07-24-aios-context-failure-modes": {
+    "hash": "166d75989945b6bc59afb99cdb93fd92644b874a1e590f929d26a8f2dec00bad",
+    "slug": "nh-2026-07-24-aios-context-failure-modes",
+    "synced_at": "2026-07-24T23:00:13.501204+00:00"
+  },
+  "phase4:nh-2026-07-24-expertise-vs-situational-context-split": {
+    "hash": "402a7f0f4807aad0e62b8f5e11be9272a659b3ca1fc13e9f3dacbc5e33eda751",
+    "slug": "nh-2026-07-24-expertise-vs-situational-context-split",
+    "synced_at": "2026-07-24T23:00:13.501506+00:00"
+  },
+  "phase4:nh-2026-07-24-opus5-verification-loops": {
+    "hash": "bed78396d071d58181614cbeffe1ea1faa85cea530dc2af73660e85494975174",
+    "slug": "nh-2026-07-24-opus5-verification-loops",
+    "synced_at": "2026-07-24T23:00:13.500856+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

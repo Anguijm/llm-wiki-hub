@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**510 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**525 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 210 |
+| `backlog` | 225 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 280 |
+| `(none)` | 295 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,11 +32,11 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 190 |
-| @nb | 97 |
-| @nh | 79 |
-| @mlops | 46 |
-| @do | 42 |
+| @aie | 198 |
+| @nb | 99 |
+| @nh | 82 |
+| @mlops | 47 |
+| @do | 43 |
 | @mk | 21 |
 | @aij | 14 |
 | @st | 9 |
@@ -53,6 +53,21 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-24 | [[experiments/nh-2026-07-24-opus5-verification-loops|Replace Fable 5 with Opus 5 as default agentic loop model and measure cost-quality tradeoff]] | @nh | `-` |
+| 2026-07-24 | [[experiments/nh-2026-07-24-expertise-vs-situational-context-split|Split AIOS context into expertise (stable) and situational (project-specific) layers to reduce bloat]] | @nh | `-` |
+| 2026-07-24 | [[experiments/nh-2026-07-24-aios-context-failure-modes|Run an automated OS audit skill to detect context failure modes before they cause hallucinations]] | @nh | `-` |
+| 2026-07-24 | [[experiments/nb-2026-07-24-job-first-context-scoping|Gate context selection on the job, not the file]] | @nb | `-` |
+| 2026-07-24 | [[experiments/nb-2026-07-24-airlock-pii-scrub-before-llm|Build a pre-LLM PII scrubber that rebuilds a clean doc before upload]] | @nb | `-` |
+| 2026-07-24 | [[experiments/mlops-2026-07-24-coding-agents-as-general-agents|Repurpose coding-agent infrastructure for non-coding knowledge work tasks]] | @mlops | `-` |
+| 2026-07-24 | [[experiments/do-2026-07-24-kimi-k3-task-routing|Add Kimi K3 as a routed model for frontend and legal tasks]] | @do | `-` |
+| 2026-07-24 | [[experiments/aie-2026-07-24-youtube-ads-vibe-first-then-scale-evals|Start evals with manual vibing on small golden sets before investing in scaled rater infrastructure]] | @aie | `-` |
+| 2026-07-24 | [[experiments/aie-2026-07-24-vending-bench-emergent-misbehavior-evals|Design long-horizon eval environments with emergent incentive structures to surface misbehavior without explicit prompting]] | @aie | `-` |
+| 2026-07-24 | [[experiments/aie-2026-07-24-uber-closed-loop-multimodal-evals|Implement a Swiss-cheese QA gate architecture with redundant eval layers before production publish]] | @aie | `-` |
+| 2026-07-24 | [[experiments/aie-2026-07-24-harbor-agent-dev-as-ml-paradigm|Treat agent skills as ML model weights and use rollout-based evals to optimize them]] | @aie | `-` |
+| 2026-07-24 | [[experiments/aie-2026-07-24-cyber-benchmark-dynamic-world-model|Evaluate agent reasoning quality using dynamic state-inference tasks where causal chains are opaque]] | @aie | `-` |
+| 2026-07-24 | [[experiments/aie-2026-07-24-codex-compaction-and-voice-workflow|Use thread compaction and voice-first input to sustain multi-week agentic sessions without context rot]] | @aie | `-` |
+| 2026-07-24 | [[experiments/aie-2026-07-24-arize-signal-to-pr-self-improving-agent|Build a trace-driven agent that auto-generates a PR with evidence before human review]] | @aie | `-` |
+| 2026-07-24 | [[experiments/aie-2026-07-24-agent-as-judge-for-agentic-evals|Replace fixed-rubric LLM-as-judge evals with an agent-as-judge for multi-turn agentic outputs]] | @aie | `-` |
 | 2026-07-23 | [[experiments/nb-2026-07-23-trusted-access-policy-for-ai-cyber-defense|Implement pre-verified trusted-access tiers for frontier models in security workflows]] | @nb | `-` |
 | 2026-07-23 | [[experiments/nb-2026-07-23-multi-model-redundancy-strategy|Build a model-diverse fallback stack with at least one open-weights model for disruption resilience]] | @nb | `-` |
 | 2026-07-23 | [[experiments/nb-2026-07-23-local-model-fallback-for-sensitive-analysis|Pre-vet and deploy a local open-weights model as a no-guardrail fallback for sensitive artifact analysis]] | @nb | `-` |
