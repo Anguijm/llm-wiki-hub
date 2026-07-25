@@ -1004,6 +1004,26 @@
     "slug": "aie-2026-07-24-youtube-ads-vibe-first-then-scale-evals",
     "synced_at": "2026-07-24T23:00:13.502180+00:00"
   },
+  "phase4:aie-2026-07-25-agent-simulation-benchmark-from-traces": {
+    "hash": "e931f98ce4c14b43049e6c86d454e56931028ae85b24d975154a3089bcf2e1d1",
+    "slug": "aie-2026-07-25-agent-simulation-benchmark-from-traces",
+    "synced_at": "2026-07-25T22:55:22.947228+00:00"
+  },
+  "phase4:aie-2026-07-25-control-loop-pr-flow-control": {
+    "hash": "7bb6c36acda568026afe26c226e81667c3cdacf0dced02e57bad219ca0021b9b",
+    "slug": "aie-2026-07-25-control-loop-pr-flow-control",
+    "synced_at": "2026-07-25T22:55:22.946568+00:00"
+  },
+  "phase4:aie-2026-07-25-tiny-model-finetune-voice-function-calling": {
+    "hash": "b8371598e01311265aee66795658dc562debba5d45e759fbefa48596d17a1205",
+    "slug": "aie-2026-07-25-tiny-model-finetune-voice-function-calling",
+    "synced_at": "2026-07-25T22:55:22.946885+00:00"
+  },
+  "phase4:aie-2026-07-25-video-eval-small-vlm-judge": {
+    "hash": "3430c8182d1d5e0598020b9633dc6a780f7fff80511d05db5118ba2d7b05320c",
+    "slug": "aie-2026-07-25-video-eval-small-vlm-judge",
+    "synced_at": "2026-07-25T22:55:22.947571+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2593,6 +2613,16 @@
     "hash": "bed78396d071d58181614cbeffe1ea1faa85cea530dc2af73660e85494975174",
     "slug": "nh-2026-07-24-opus5-verification-loops",
     "synced_at": "2026-07-24T23:00:13.500856+00:00"
+  },
+  "phase4:nh-2026-07-25-fable-orchestrator-opus-subagent": {
+    "hash": "d295a453a04144f8df7f3deb7cea6d7d58c42378c5baeacc96023027e8c95bdd",
+    "slug": "nh-2026-07-25-fable-orchestrator-opus-subagent",
+    "synced_at": "2026-07-25T22:55:22.946218+00:00"
+  },
+  "phase4:nh-2026-07-25-opus5-vs-fable5-claude-code-comparison": {
+    "hash": "dfbcd804d137472838f6ff2041a6b5ab05f4a1bf58bf10dad048f8b984d935aa",
+    "slug": "nh-2026-07-25-opus5-vs-fable5-claude-code-comparison",
+    "synced_at": "2026-07-25T22:55:22.945869+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

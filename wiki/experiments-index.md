@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**525 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**531 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 225 |
+| `backlog` | 231 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 295 |
+| `(none)` | 301 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,9 +32,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 198 |
+| @aie | 202 |
 | @nb | 99 |
-| @nh | 82 |
+| @nh | 84 |
 | @mlops | 47 |
 | @do | 43 |
 | @mk | 21 |
@@ -53,6 +53,12 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-25 | [[experiments/nh-2026-07-25-opus5-vs-fable5-claude-code-comparison|Benchmark Opus 5 vs Fable 5 on Real Coding Workflows Inside Claude Code]] | @nh | `-` |
+| 2026-07-25 | [[experiments/nh-2026-07-25-fable-orchestrator-opus-subagent|Use Fable as a Delegating Orchestrator to Preserve Context Window Budget]] | @nh | `-` |
+| 2026-07-25 | [[experiments/aie-2026-07-25-video-eval-small-vlm-judge|Fine-Tune a Small VLM as a Fast Video Quality Judge Calibrated by Periodic Human Annotation]] | @aie | `-` |
+| 2026-07-25 | [[experiments/aie-2026-07-25-tiny-model-finetune-voice-function-calling|Fine-Tune a Sub-4B Parameter Model on Synthetic Data for Robust Voice-to-Function-Calling]] | @aie | `-` |
+| 2026-07-25 | [[experiments/aie-2026-07-25-control-loop-pr-flow-control|Implement Adaptive Flow Control to Prevent PR Stack-Up in Agentic Loops]] | @aie | `-` |
+| 2026-07-25 | [[experiments/aie-2026-07-25-agent-simulation-benchmark-from-traces|Build a Private Agent Benchmark from Production Traces for Repeatable Offline Evaluation]] | @aie | `-` |
 | 2026-07-24 | [[experiments/nh-2026-07-24-opus5-verification-loops|Replace Fable 5 with Opus 5 as default agentic loop model and measure cost-quality tradeoff]] | @nh | `-` |
 | 2026-07-24 | [[experiments/nh-2026-07-24-expertise-vs-situational-context-split|Split AIOS context into expertise (stable) and situational (project-specific) layers to reduce bloat]] | @nh | `-` |
 | 2026-07-24 | [[experiments/nh-2026-07-24-aios-context-failure-modes|Run an automated OS audit skill to detect context failure modes before they cause hallucinations]] | @nh | `-` |
