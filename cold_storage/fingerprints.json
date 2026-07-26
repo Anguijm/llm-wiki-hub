@@ -1024,6 +1024,16 @@
     "slug": "aie-2026-07-25-video-eval-small-vlm-judge",
     "synced_at": "2026-07-25T22:55:22.947571+00:00"
   },
+  "phase4:aie-2026-07-26-deepswe-contamination-resistant-benchmark": {
+    "hash": "b225cbef8283dacf1b53388b4c9beb0a930f511a3361045e7dba06c3e00f4a9e",
+    "slug": "aie-2026-07-26-deepswe-contamination-resistant-benchmark",
+    "synced_at": "2026-07-26T22:57:50.700191+00:00"
+  },
+  "phase4:aie-2026-07-26-sondermind-modular-guardrails-evals": {
+    "hash": "e2bbe0995a8e095b0546ac42d5091a6454eb7f58bb99bda7f86a09e3ea0c0872",
+    "slug": "aie-2026-07-26-sondermind-modular-guardrails-evals",
+    "synced_at": "2026-07-26T22:57:50.700385+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1453,6 +1463,11 @@
     "hash": "8be4efbbbc794623061cd003e393ce5a73348787867759394e2b48ec0c966eb9",
     "slug": "mk-2026-07-22-local-ai-command-center-agentic-setup",
     "synced_at": "2026-07-22T23:02:26.098924+00:00"
+  },
+  "phase4:mk-2026-07-26-personal-benchmark-slash-command": {
+    "hash": "bbdecc51ed57fdb3ad478ec89dc2465c3dab2e3a85c620f0fb367b462ed8de21",
+    "slug": "mk-2026-07-26-personal-benchmark-slash-command",
+    "synced_at": "2026-07-26T22:57:50.699997+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
@@ -2194,6 +2209,11 @@
     "slug": "nb-2026-07-24-job-first-context-scoping",
     "synced_at": "2026-07-24T23:00:13.499846+00:00"
   },
+  "phase4:nb-2026-07-26-ai-agent-support-root-cause-loop": {
+    "hash": "1f8f20b203f1642fdcefe44bac750372b5469d1b3efb0c83c2617e791445fd11",
+    "slug": "nb-2026-07-26-ai-agent-support-root-cause-loop",
+    "synced_at": "2026-07-26T22:57:50.699537+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -2623,6 +2643,11 @@
     "hash": "dfbcd804d137472838f6ff2041a6b5ab05f4a1bf58bf10dad048f8b984d935aa",
     "slug": "nh-2026-07-25-opus5-vs-fable5-claude-code-comparison",
     "synced_at": "2026-07-25T22:55:22.945869+00:00"
+  },
+  "phase4:nh-2026-07-26-claude-code-agentic-onboarding": {
+    "hash": "f6de7288cb959633c40ccec6d8a7af74455d548cb678bd10975b6b63187bde5d",
+    "slug": "nh-2026-07-26-claude-code-agentic-onboarding",
+    "synced_at": "2026-07-26T22:57:50.699769+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

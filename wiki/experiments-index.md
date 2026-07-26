@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**531 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**536 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 231 |
+| `backlog` | 236 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 301 |
+| `(none)` | 306 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,12 +32,12 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 202 |
-| @nb | 99 |
-| @nh | 84 |
+| @aie | 204 |
+| @nb | 100 |
+| @nh | 85 |
 | @mlops | 47 |
 | @do | 43 |
-| @mk | 21 |
+| @mk | 22 |
 | @aij | 14 |
 | @st | 9 |
 | @up | 5 |
@@ -53,6 +53,11 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-26 | [[experiments/nh-2026-07-26-claude-code-agentic-onboarding|Build a local AI operating system in Claude Code with persistent context across all business tools]] | @nh | `-` |
+| 2026-07-26 | [[experiments/nb-2026-07-26-ai-agent-support-root-cause-loop|Use an AI agent to root-cause recurring support tickets and close the upstream failure]] | @nb | `-` |
+| 2026-07-26 | [[experiments/mk-2026-07-26-personal-benchmark-slash-command|Build a /benchmark slash command that runs your real tasks against new models and scores them against your personal rubric]] | @mk | `-` |
+| 2026-07-26 | [[experiments/aie-2026-07-26-sondermind-modular-guardrails-evals|Implement separate LLM-as-judge guardrail calls sandwiching core agent to improve robustness and eval granularity]] | @aie | `-` |
+| 2026-07-26 | [[experiments/aie-2026-07-26-deepswe-contamination-resistant-benchmark|Design coding evals with one task per repo and runtime isolation to prevent git-log cheating]] | @aie | `-` |
 | 2026-07-25 | [[experiments/nh-2026-07-25-opus5-vs-fable5-claude-code-comparison|Benchmark Opus 5 vs Fable 5 on Real Coding Workflows Inside Claude Code]] | @nh | `-` |
 | 2026-07-25 | [[experiments/nh-2026-07-25-fable-orchestrator-opus-subagent|Use Fable as a Delegating Orchestrator to Preserve Context Window Budget]] | @nh | `-` |
 | 2026-07-25 | [[experiments/aie-2026-07-25-video-eval-small-vlm-judge|Fine-Tune a Small VLM as a Fast Video Quality Judge Calibrated by Periodic Human Annotation]] | @aie | `-` |
