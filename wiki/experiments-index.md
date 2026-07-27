@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**536 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**541 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 236 |
+| `backlog` | 241 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 306 |
+| `(none)` | 311 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,11 +32,11 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 204 |
-| @nb | 100 |
+| @aie | 206 |
+| @nb | 101 |
 | @nh | 85 |
 | @mlops | 47 |
-| @do | 43 |
+| @do | 45 |
 | @mk | 22 |
 | @aij | 14 |
 | @st | 9 |
@@ -53,6 +53,11 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-27 | [[experiments/nb-2026-07-27-chinese-model-specialist-routing|Route agent swarm tasks to cheap Chinese models by task type]] | @nb | `-` |
+| 2026-07-27 | [[experiments/do-2026-07-27-kill-features-to-stay-on-frontier|Audit and prune agent tooling features that model capability improvements have made redundant]] | @do | `-` |
+| 2026-07-27 | [[experiments/do-2026-07-27-agent-to-agent-parallel-bug-fixing|Spawn child agents from a running agent to handle discovered bugs in parallel]] | @do | `-` |
+| 2026-07-27 | [[experiments/aie-2026-07-27-type1-vs-type2-data-pipeline-audit|Classify training and eval data as Type 1 (real workflow capture) vs Type 2 (contrived) and prefer Type 1 for fine-tuning]] | @aie | `-` |
+| 2026-07-27 | [[experiments/aie-2026-07-27-synthetic-data-rephrasing-for-token-uniquenes|Apply synthetic rephrasing to high-quality repeated data to prevent early saturation in fine-tuning]] | @aie | `-` |
 | 2026-07-26 | [[experiments/nh-2026-07-26-claude-code-agentic-onboarding|Build a local AI operating system in Claude Code with persistent context across all business tools]] | @nh | `-` |
 | 2026-07-26 | [[experiments/nb-2026-07-26-ai-agent-support-root-cause-loop|Use an AI agent to root-cause recurring support tickets and close the upstream failure]] | @nb | `-` |
 | 2026-07-26 | [[experiments/mk-2026-07-26-personal-benchmark-slash-command|Build a /benchmark slash command that runs your real tasks against new models and scores them against your personal rubric]] | @mk | `-` |
