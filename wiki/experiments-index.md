@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**541 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**552 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 241 |
+| `backlog` | 252 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 311 |
+| `(none)` | 322 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,7 +32,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 206 |
+| @aie | 217 |
 | @nb | 101 |
 | @nh | 85 |
 | @mlops | 47 |
@@ -53,6 +53,17 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-28 | [[experiments/aie-2026-07-28-varick-knowledge-graph-process-extraction|Build a knowledge graph of organizational processes and train a retrieval agent to traverse it]] | @aie | `-` |
+| 2026-07-28 | [[experiments/aie-2026-07-28-ramp-scoping-agent-intake|Deploy a multi-turn scoping agent to front-load requirements gathering before engineering work begins]] | @aie | `-` |
+| 2026-07-28 | [[experiments/aie-2026-07-28-ramp-agentic-spec-pipeline|Build a staged pipeline from raw request to shipped feature with agents at each step and evals between stages]] | @aie | `-` |
+| 2026-07-28 | [[experiments/aie-2026-07-28-netflix-perf-agent-profiling-pipeline|Build an agentic performance engineering pipeline that auto-triggers profiling, identifies hot paths via LLM, and proposes diffs]] | @aie | `-` |
+| 2026-07-28 | [[experiments/aie-2026-07-28-kepler-fde-as-product-strategy|Treat every agent deployment as a product research session — detect the real problem before building]] | @aie | `-` |
+| 2026-07-28 | [[experiments/aie-2026-07-28-huggingface-denormalized-read-collection-sear|Pre-tokenize model/artifact names at insert time into a denormalized read collection to keep search sub-100ms at scale]] | @aie | `-` |
+| 2026-07-28 | [[experiments/aie-2026-07-28-factory-signal-flow-software-factory|Model the full signal-to-code pipeline as explicit stages with feedback loops]] | @aie | `-` |
+| 2026-07-28 | [[experiments/aie-2026-07-28-factory-fde-tip-of-spear|Instrument autonomy ratio to measure agent-readiness of a codebase]] | @aie | `-` |
+| 2026-07-28 | [[experiments/aie-2026-07-28-decagon-custom-to-self-serve-productization|Establish a 'custom becomes self-serve' pipeline to systematically productize one-off agent configurations]] | @aie | `-` |
+| 2026-07-28 | [[experiments/aie-2026-07-28-cognition-sdlc-capability-mapping|Map agent capabilities to specific SDLC stages rather than deploying generically]] | @aie | `-` |
+| 2026-07-28 | [[experiments/aie-2026-07-28-anthropic-fde-shared-primitives|Build shared agent primitives from repeated bespoke implementations to reduce per-customer marginal cost]] | @aie | `-` |
 | 2026-07-27 | [[experiments/nb-2026-07-27-chinese-model-specialist-routing|Route agent swarm tasks to cheap Chinese models by task type]] | @nb | `-` |
 | 2026-07-27 | [[experiments/do-2026-07-27-kill-features-to-stay-on-frontier|Audit and prune agent tooling features that model capability improvements have made redundant]] | @do | `-` |
 | 2026-07-27 | [[experiments/do-2026-07-27-agent-to-agent-parallel-bug-fixing|Spawn child agents from a running agent to handle discovered bugs in parallel]] | @do | `-` |

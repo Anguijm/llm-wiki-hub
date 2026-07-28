@@ -1044,6 +1044,61 @@
     "slug": "aie-2026-07-27-type1-vs-type2-data-pipeline-audit",
     "synced_at": "2026-07-27T23:00:37.060725+00:00"
   },
+  "phase4:aie-2026-07-28-anthropic-fde-shared-primitives": {
+    "hash": "7f58837776ba37f4f53f1b6509643d7d26007f249818811489787a346373ee02",
+    "slug": "aie-2026-07-28-anthropic-fde-shared-primitives",
+    "synced_at": "2026-07-28T22:57:10.946986+00:00"
+  },
+  "phase4:aie-2026-07-28-cognition-sdlc-capability-mapping": {
+    "hash": "44ec53b346109e419bbeee44a2e42bb88fa4d42c724c197a5c53343c38b2f89a",
+    "slug": "aie-2026-07-28-cognition-sdlc-capability-mapping",
+    "synced_at": "2026-07-28T22:57:10.945510+00:00"
+  },
+  "phase4:aie-2026-07-28-decagon-custom-to-self-serve-productization": {
+    "hash": "6bccb4af12ecff64b2116a23c9252f12a547ebeb853a7da207db7239a6643755",
+    "slug": "aie-2026-07-28-decagon-custom-to-self-serve-productization",
+    "synced_at": "2026-07-28T22:57:10.946380+00:00"
+  },
+  "phase4:aie-2026-07-28-factory-fde-tip-of-spear": {
+    "hash": "7972032878481a9f2e4f13e94d3064a6f829756632d9d931e061e4c0ecbe1ca2",
+    "slug": "aie-2026-07-28-factory-fde-tip-of-spear",
+    "synced_at": "2026-07-28T22:57:10.944474+00:00"
+  },
+  "phase4:aie-2026-07-28-factory-signal-flow-software-factory": {
+    "hash": "a8996994cd3d1dfe69c2f91ec2e0f429ef53defb574711ca574e8fb8e4578406",
+    "slug": "aie-2026-07-28-factory-signal-flow-software-factory",
+    "synced_at": "2026-07-28T22:57:10.944856+00:00"
+  },
+  "phase4:aie-2026-07-28-huggingface-denormalized-read-collection-search": {
+    "hash": "371a67a6b6920e3201ff7be397f5d73f29adcbe4273ef5a162f8ebe85185d8f5",
+    "slug": "aie-2026-07-28-huggingface-denormalized-read-collection-sear",
+    "synced_at": "2026-07-28T22:57:10.947271+00:00"
+  },
+  "phase4:aie-2026-07-28-kepler-fde-as-product-strategy": {
+    "hash": "0ff1a85635a25a313742dcd1a507c521bd327670814bce7b1a095bb13a796faa",
+    "slug": "aie-2026-07-28-kepler-fde-as-product-strategy",
+    "synced_at": "2026-07-28T22:57:10.946652+00:00"
+  },
+  "phase4:aie-2026-07-28-netflix-perf-agent-profiling-pipeline": {
+    "hash": "f3e8b8ab8cd33d3da6e0d856b69766ab7a915ba09a5a0a1a50878436785097cb",
+    "slug": "aie-2026-07-28-netflix-perf-agent-profiling-pipeline",
+    "synced_at": "2026-07-28T22:57:10.947545+00:00"
+  },
+  "phase4:aie-2026-07-28-ramp-agentic-spec-pipeline": {
+    "hash": "8d35c74837a3d71f93189fcc7ff277a61f92b12ce27634b0ad2a52548948d6e3",
+    "slug": "aie-2026-07-28-ramp-agentic-spec-pipeline",
+    "synced_at": "2026-07-28T22:57:10.946106+00:00"
+  },
+  "phase4:aie-2026-07-28-ramp-scoping-agent-intake": {
+    "hash": "117faf0837300563d42e9103935baefa71fea74a3470c64ce2043496ea3a7ccd",
+    "slug": "aie-2026-07-28-ramp-scoping-agent-intake",
+    "synced_at": "2026-07-28T22:57:10.945797+00:00"
+  },
+  "phase4:aie-2026-07-28-varick-knowledge-graph-process-extraction": {
+    "hash": "558ff756a6cc2d95b5b2fc27a15ba788474064e79450d0f8a04411652665321e",
+    "slug": "aie-2026-07-28-varick-knowledge-graph-process-extraction",
+    "synced_at": "2026-07-28T22:57:10.945196+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
