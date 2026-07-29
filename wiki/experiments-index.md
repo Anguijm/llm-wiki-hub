@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**552 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**562 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 252 |
+| `backlog` | 262 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 322 |
+| `(none)` | 332 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,8 +32,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 217 |
-| @nb | 101 |
+| @aie | 225 |
+| @nb | 103 |
 | @nh | 85 |
 | @mlops | 47 |
 | @do | 45 |
@@ -53,6 +53,16 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-29 | [[experiments/nb-2026-07-29-token-saver-skill|Install a Token Saver skill into Claude Code or Codex to automate context hygiene]] | @nb | `-` |
+| 2026-07-29 | [[experiments/nb-2026-07-29-token-limit-habits|Apply 9 token-reduction habits to cut reused-input waste in long AI sessions]] | @nb | `-` |
+| 2026-07-29 | [[experiments/aie-2026-07-29-verifiable-provenance-chain|Attach a provenance ledger to every AI-produced data point tracking its source, derivation, and company-specific transformation]] | @aie | `-` |
+| 2026-07-29 | [[experiments/aie-2026-07-29-synthetic-persona-validation|Validate synthetic persona accuracy by measuring distribution shape against ground-truth human data and computing a noise-floor baseline]] | @aie | `-` |
+| 2026-07-29 | [[experiments/aie-2026-07-29-skill-centric-harness|Build a skill registry with progressive disclosure and embedding-based retrieval to scale agent capabilities past 10 skills]] | @aie | `-` |
+| 2026-07-29 | [[experiments/aie-2026-07-29-simulation-eval-data-generation|Generate multi-turn agent eval trajectories in simulation to short-circuit production A/B testing cycles]] | @aie | `-` |
+| 2026-07-29 | [[experiments/aie-2026-07-29-outcome-grounded-domain-model|Fine-tune a domain model on verified situation-action-outcome triples to outperform frontier models on domain-specific advice]] | @aie | `-` |
+| 2026-07-29 | [[experiments/aie-2026-07-29-harness-receipt-audit|Add a harness receipt layer that records state ownership, ordered mutations, and user-visible edge confirmation for every agent action]] | @aie | `-` |
+| 2026-07-29 | [[experiments/aie-2026-07-29-alphalab-strict-eval-environment|Treat auto-research agent improvement as RL by building strict Kaggle-style eval environments that become the RL training signal]] | @aie | `-` |
+| 2026-07-29 | [[experiments/aie-2026-07-29-ai-skill-security-review|Build a CI gate that runs hybrid deterministic + LLM security scans on AI skills before marketplace publish]] | @aie | `-` |
 | 2026-07-28 | [[experiments/aie-2026-07-28-varick-knowledge-graph-process-extraction|Build a knowledge graph of organizational processes and train a retrieval agent to traverse it]] | @aie | `-` |
 | 2026-07-28 | [[experiments/aie-2026-07-28-ramp-scoping-agent-intake|Deploy a multi-turn scoping agent to front-load requirements gathering before engineering work begins]] | @aie | `-` |
 | 2026-07-28 | [[experiments/aie-2026-07-28-ramp-agentic-spec-pipeline|Build a staged pipeline from raw request to shipped feature with agents at each step and evals between stages]] | @aie | `-` |

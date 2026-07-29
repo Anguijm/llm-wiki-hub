@@ -1099,6 +1099,46 @@
     "slug": "aie-2026-07-28-varick-knowledge-graph-process-extraction",
     "synced_at": "2026-07-28T22:57:10.945196+00:00"
   },
+  "phase4:aie-2026-07-29-ai-skill-security-review": {
+    "hash": "1b051e1abd95e1e93666dce6732be0393208a89dcc591c3db3b3cd41e7e3d62d",
+    "slug": "aie-2026-07-29-ai-skill-security-review",
+    "synced_at": "2026-07-29T22:58:36.920497+00:00"
+  },
+  "phase4:aie-2026-07-29-alphalab-strict-eval-environment": {
+    "hash": "8d32857acc2b58586a50254c44de1e61e80e7621a564a3b6271ccdd7ef735fa1",
+    "slug": "aie-2026-07-29-alphalab-strict-eval-environment",
+    "synced_at": "2026-07-29T22:58:36.923789+00:00"
+  },
+  "phase4:aie-2026-07-29-harness-receipt-audit": {
+    "hash": "e5935fa223f4ccd341cfadf2127170a5b6baa9a0c35e723abd14a2c7e5e46ca5",
+    "slug": "aie-2026-07-29-harness-receipt-audit",
+    "synced_at": "2026-07-29T22:58:36.924333+00:00"
+  },
+  "phase4:aie-2026-07-29-outcome-grounded-domain-model": {
+    "hash": "5954ff38aaf90bf2c5487122b7945c4cf4ea32a50b9b9f82aa9622215be94122",
+    "slug": "aie-2026-07-29-outcome-grounded-domain-model",
+    "synced_at": "2026-07-29T22:58:36.922118+00:00"
+  },
+  "phase4:aie-2026-07-29-simulation-eval-data-generation": {
+    "hash": "fbe52d71a6fb967044d9c622285ab688be436d53c6d3463a6d41f2adabeece70",
+    "slug": "aie-2026-07-29-simulation-eval-data-generation",
+    "synced_at": "2026-07-29T22:58:36.922660+00:00"
+  },
+  "phase4:aie-2026-07-29-skill-centric-harness": {
+    "hash": "58a0bde0de7696d65171f35db67de236db01152bae682a3028ba5f7274522c43",
+    "slug": "aie-2026-07-29-skill-centric-harness",
+    "synced_at": "2026-07-29T22:58:36.923230+00:00"
+  },
+  "phase4:aie-2026-07-29-synthetic-persona-validation": {
+    "hash": "035d0aefcb0c200f8cc3a31b4b15ccd307d3e48c1aeba54b331b298839bbc6bb",
+    "slug": "aie-2026-07-29-synthetic-persona-validation",
+    "synced_at": "2026-07-29T22:58:36.921572+00:00"
+  },
+  "phase4:aie-2026-07-29-verifiable-provenance-chain": {
+    "hash": "63d2bcc9539dec079e78069d39e89156d40afc6091cba76c6988551a44621046",
+    "slug": "aie-2026-07-29-verifiable-provenance-chain",
+    "synced_at": "2026-07-29T22:58:36.921039+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2293,6 +2333,16 @@
     "hash": "588849607095345bf0e970a8aa16e1fe15862f09ca14d9b14dd0fb9accb3a3ab",
     "slug": "nb-2026-07-27-chinese-model-specialist-routing",
     "synced_at": "2026-07-27T23:00:37.059686+00:00"
+  },
+  "phase4:nb-2026-07-29-token-limit-habits": {
+    "hash": "4114245d40abe02ae1c7a40b80f74973e51841e94c03bb94b9bd16e6d242c290",
+    "slug": "nb-2026-07-29-token-limit-habits",
+    "synced_at": "2026-07-29T22:58:36.919353+00:00"
+  },
+  "phase4:nb-2026-07-29-token-saver-skill": {
+    "hash": "8f645f3268198882e9ad1284cd4d93ed87fecc257451b201e5ec16c3c932a178",
+    "slug": "nb-2026-07-29-token-saver-skill",
+    "synced_at": "2026-07-29T22:58:36.919911+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
