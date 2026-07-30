@@ -1139,6 +1139,31 @@
     "slug": "aie-2026-07-29-verifiable-provenance-chain",
     "synced_at": "2026-07-29T22:58:36.921039+00:00"
   },
+  "phase4:aie-2026-07-30-automated-ai-research-open-ended-evolution": {
+    "hash": "461aa14878f859137075f15010b696feb93020f4ff78529c002c19a901e3ec57",
+    "slug": "aie-2026-07-30-automated-ai-research-open-ended-evolution",
+    "synced_at": "2026-07-30T23:06:12.445789+00:00"
+  },
+  "phase4:aie-2026-07-30-event-sourced-agent-semantic-layer": {
+    "hash": "8b1b2e6abcc960dcade46da29bc9a78a8606c8f2e013dbd4e4f8847315018548",
+    "slug": "aie-2026-07-30-event-sourced-agent-semantic-layer",
+    "synced_at": "2026-07-30T23:06:12.446746+00:00"
+  },
+  "phase4:aie-2026-07-30-finance-agent-dev-loop-velocity": {
+    "hash": "d795146b51d91e7073c098d13fafa9b7d6d9caa1c864950b786583607214ff95",
+    "slug": "aie-2026-07-30-finance-agent-dev-loop-velocity",
+    "synced_at": "2026-07-30T23:06:12.446107+00:00"
+  },
+  "phase4:aie-2026-07-30-group-agent-memory-security-routing": {
+    "hash": "70a7c598d9b17fd451cafa12d3be80b8b8ab13ae8498c2784326c7e2324ea1c6",
+    "slug": "aie-2026-07-30-group-agent-memory-security-routing",
+    "synced_at": "2026-07-30T23:06:12.447034+00:00"
+  },
+  "phase4:aie-2026-07-30-memo-trust-source-citation": {
+    "hash": "838973563f6b1b4bb0eca4c10d6db13859e0edb523a8e56653bb624295e41aa9",
+    "slug": "aie-2026-07-30-memo-trust-source-citation",
+    "synced_at": "2026-07-30T23:06:12.446435+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1213,6 +1238,16 @@
     "hash": "4f427219f5d3e2f142929fe2002c073a54d78350a84ec7c3f85babb8f795132b",
     "slug": "aij-2026-07-20-tmux-multi-cli-orchestration",
     "synced_at": "2026-07-20T22:59:26.360827+00:00"
+  },
+  "phase4:aij-2026-07-30-reddit-karma-loop-personal-wiki": {
+    "hash": "4e4b02165479b8a55bfb441a4ad0dee53fbf81d742e42caae38b2906c9ac2f28",
+    "slug": "aij-2026-07-30-reddit-karma-loop-personal-wiki",
+    "synced_at": "2026-07-30T23:06:12.445139+00:00"
+  },
+  "phase4:aij-2026-07-30-reddit-thread-quality-gate": {
+    "hash": "453261ae550e3b8106b3b584f1eb3b9a1e1c708509fee86d52fdc837bd3d2c05",
+    "slug": "aij-2026-07-30-reddit-thread-quality-gate",
+    "synced_at": "2026-07-30T23:06:12.445467+00:00"
   },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "0527033834fe3f49b58f4d9e2c508620ed78f8ba268bccaba81263b6ef3c4afa",

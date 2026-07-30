@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**562 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**569 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 262 |
+| `backlog` | 269 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 332 |
+| `(none)` | 339 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,13 +32,13 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 225 |
+| @aie | 230 |
 | @nb | 103 |
 | @nh | 85 |
 | @mlops | 47 |
 | @do | 45 |
 | @mk | 22 |
-| @aij | 14 |
+| @aij | 16 |
 | @st | 9 |
 | @up | 5 |
 | @eh | 4 |
@@ -53,6 +53,13 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-30 | [[experiments/aij-2026-07-30-reddit-thread-quality-gate|Implement a three-rule thread quality gate before any agent post action]] | @aij | `-` |
+| 2026-07-30 | [[experiments/aij-2026-07-30-reddit-karma-loop-personal-wiki|Build a personal wiki ingestion loop to ground agent responses in owner-specific POV]] | @aij | `-` |
+| 2026-07-30 | [[experiments/aie-2026-07-30-memo-trust-source-citation|Attach inline source receipts with trust levels to every agent-generated claim rather than end-of-document citations]] | @aie | `-` |
+| 2026-07-30 | [[experiments/aie-2026-07-30-group-agent-memory-security-routing|Add a context-aware privacy gate and per-user LoRA memory adapters to agents deployed in shared multi-user contexts]] | @aie | `-` |
+| 2026-07-30 | [[experiments/aie-2026-07-30-finance-agent-dev-loop-velocity|Wire Jira bug tickets directly into parallel agent work trees to remove human-as-dispatcher bottleneck]] | @aie | `-` |
+| 2026-07-30 | [[experiments/aie-2026-07-30-event-sourced-agent-semantic-layer|Build a projection-fed semantic layer as the context interface between event-sourced domain and AI agents]] | @aie | `-` |
+| 2026-07-30 | [[experiments/aie-2026-07-30-automated-ai-research-open-ended-evolution|Apply an open-ended evolutionary search agent to narrow optimization benchmarks before broader research tasks]] | @aie | `-` |
 | 2026-07-29 | [[experiments/nb-2026-07-29-token-saver-skill|Install a Token Saver skill into Claude Code or Codex to automate context hygiene]] | @nb | `-` |
 | 2026-07-29 | [[experiments/nb-2026-07-29-token-limit-habits|Apply 9 token-reduction habits to cut reused-input waste in long AI sessions]] | @nb | `-` |
 | 2026-07-29 | [[experiments/aie-2026-07-29-verifiable-provenance-chain|Attach a provenance ledger to every AI-produced data point tracking its source, derivation, and company-specific transformation]] | @aie | `-` |
