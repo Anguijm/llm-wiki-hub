@@ -1164,6 +1164,91 @@
     "slug": "aie-2026-07-30-memo-trust-source-citation",
     "synced_at": "2026-07-30T23:06:12.446435+00:00"
   },
+  "phase4:aie-2026-07-31-agent-transcript-quality-mining": {
+    "hash": "117b3eed58e5fa9150e0976a092bff56773db58b8dd831ca7db3826e9bb5a2f8",
+    "slug": "aie-2026-07-31-agent-transcript-quality-mining",
+    "synced_at": "2026-07-31T22:59:01.118938+00:00"
+  },
+  "phase4:aie-2026-07-31-architecture-md-agent-invariants": {
+    "hash": "859397ac48704e87949f66c0b002a3421bc01d871e6d9119e2ace913efbc09f8",
+    "slug": "aie-2026-07-31-architecture-md-agent-invariants",
+    "synced_at": "2026-07-31T22:59:01.118795+00:00"
+  },
+  "phase4:aie-2026-07-31-base-model-as-rl-prior": {
+    "hash": "5a76c1c7178ac3eee9b40b85c8916bb82903767ceb3232e4150cd4816f964af9",
+    "slug": "aie-2026-07-31-base-model-as-rl-prior",
+    "synced_at": "2026-07-31T22:59:01.117413+00:00"
+  },
+  "phase4:aie-2026-07-31-benchmark-task-quality-principles": {
+    "hash": "35be74223ba59fae3a30c5ebae2d6b75d01010e5f1a1f6ffd087a516ec2b7a60",
+    "slug": "aie-2026-07-31-benchmark-task-quality-principles",
+    "synced_at": "2026-07-31T22:59:01.118189+00:00"
+  },
+  "phase4:aie-2026-07-31-biology-data-analysis-verifiable-substrate": {
+    "hash": "1d1bf900c20675dc27848a6921f351cc3b4f0dccf07d4fa0b1aafcf00ab90293",
+    "slug": "aie-2026-07-31-biology-data-analysis-verifiable-substrate",
+    "synced_at": "2026-07-31T22:59:01.117725+00:00"
+  },
+  "phase4:aie-2026-07-31-curator-synthetic-data-pipeline": {
+    "hash": "7d04f0d31d8c445cf249b5c39690d65fa8d5f8b928cac5d6eccc05efa15f860b",
+    "slug": "aie-2026-07-31-curator-synthetic-data-pipeline",
+    "synced_at": "2026-07-31T22:59:01.116365+00:00"
+  },
+  "phase4:aie-2026-07-31-emulated-multi-node-infra-sandbox": {
+    "hash": "b5f1a3564aa1cb0c65b01aa625c2ab1e2a1be2366a7fd4e8989d84355c3d6e1d",
+    "slug": "aie-2026-07-31-emulated-multi-node-infra-sandbox",
+    "synced_at": "2026-07-31T22:59:01.117113+00:00"
+  },
+  "phase4:aie-2026-07-31-environment-supervised-learning-signal": {
+    "hash": "7518223dae2e2fee86956c266985c023db0ffaad3e979701dab255497bbad7ae",
+    "slug": "aie-2026-07-31-environment-supervised-learning-signal",
+    "synced_at": "2026-07-31T22:59:01.118501+00:00"
+  },
+  "phase4:aie-2026-07-31-expert-disagreement-as-signal": {
+    "hash": "85707c17a8e7492ad9f90bbcd0e70619e2e69cb02ebda8b8ce640379a5bc5b1a",
+    "slug": "aie-2026-07-31-expert-disagreement-as-signal",
+    "synced_at": "2026-07-31T22:59:01.118006+00:00"
+  },
+  "phase4:aie-2026-07-31-mid-training-agentic-distribution": {
+    "hash": "2b1ec16b8d09167498a12eb5f68fbdb059d0679c52c0f5e8dcdcf2c6a005a74d",
+    "slug": "aie-2026-07-31-mid-training-agentic-distribution",
+    "synced_at": "2026-07-31T22:59:01.117574+00:00"
+  },
+  "phase4:aie-2026-07-31-minimax-self-evolution-harness": {
+    "hash": "89ef2d19aa9bb16706a1599f6a42026f6480f06b7a936d1c6741421a4e74cca6",
+    "slug": "aie-2026-07-31-minimax-self-evolution-harness",
+    "synced_at": "2026-07-31T22:59:01.118652+00:00"
+  },
+  "phase4:aie-2026-07-31-multi-sandbox-parallel-rollouts": {
+    "hash": "4218db6fc9d031e9ef542f3a9bbb5520b62ce3de7fe7dc71cc5a5d1401782365",
+    "slug": "aie-2026-07-31-multi-sandbox-parallel-rollouts",
+    "synced_at": "2026-07-31T22:59:01.117267+00:00"
+  },
+  "phase4:aie-2026-07-31-open-ended-rl-benchmarks": {
+    "hash": "5bee5defdfd06089a85a2d58ab1b391c7d792299c94a399f0a0fb2123c4cee64",
+    "slug": "aie-2026-07-31-open-ended-rl-benchmarks",
+    "synced_at": "2026-07-31T22:59:01.116965+00:00"
+  },
+  "phase4:aie-2026-07-31-open-thoughts-reasoning-data": {
+    "hash": "5b59bcf91cafd2da845f7e964fe17b9986cc7fe66a429a1ad4f89adf0cc2e53d",
+    "slug": "aie-2026-07-31-open-thoughts-reasoning-data",
+    "synced_at": "2026-07-31T22:59:01.116610+00:00"
+  },
+  "phase4:aie-2026-07-31-pipeline-rl-long-horizon": {
+    "hash": "ad9e4be2fb1c29e5c027a2e0ac9a8c0a5856c8161b3588d0dd26295bc2a8abaf",
+    "slug": "aie-2026-07-31-pipeline-rl-long-horizon",
+    "synced_at": "2026-07-31T22:59:01.116809+00:00"
+  },
+  "phase4:aie-2026-07-31-rl-without-verifiable-rewards": {
+    "hash": "751d43f1da611e42f068887cd8838cad8bf65a43d9ba35e589611b671aadaa97",
+    "slug": "aie-2026-07-31-rl-without-verifiable-rewards",
+    "synced_at": "2026-07-31T22:59:01.118343+00:00"
+  },
+  "phase4:aie-2026-07-31-subjective-domain-measurability": {
+    "hash": "e6732f1801cbaca6afcb3535a15069a319da701990c7fb09b61424a536fed4e0",
+    "slug": "aie-2026-07-31-subjective-domain-measurability",
+    "synced_at": "2026-07-31T22:59:01.117867+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",

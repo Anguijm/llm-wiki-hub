@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**569 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**586 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 269 |
+| `backlog` | 286 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 339 |
+| `(none)` | 356 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,7 +32,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 230 |
+| @aie | 247 |
 | @nb | 103 |
 | @nh | 85 |
 | @mlops | 47 |
@@ -53,6 +53,23 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-07-31 | [[experiments/aie-2026-07-31-subjective-domain-measurability|Decompose subjective quality criteria into context-specific verifiable components for reward design]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-rl-without-verifiable-rewards|Bootstrap non-verifiable reward signals using LLM judges with iterative refinement against training behavior]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-pipeline-rl-long-horizon|Apply pipeline RL with off-policy tolerance to reduce GPU idle time in long-horizon rollouts]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-open-thoughts-reasoning-data|Curate high-quality reasoning traces using Curator for open-source SFT datasets]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-open-ended-rl-benchmarks|Benchmark agents on open-ended real-world tasks (e.g., sports betting) to expose long-horizon weaknesses]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-multi-sandbox-parallel-rollouts|Run multi-sandbox post-training rollouts for tasks that exceed single-container complexity]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-minimax-self-evolution-harness|Implement self-evolving RL harnesses where the model builds its own training environments]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-mid-training-agentic-distribution|Insert a mid-training phase with agentic traces and long-context data before RL post-training]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-expert-disagreement-as-signal|Distinguish meaningful expert disagreement from data noise during human QA of preference data]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-environment-supervised-learning-signal|Combine RL with supervised learning signal from the environment to improve agent world model]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-emulated-multi-node-infra-sandbox|Simulate distributed cluster failures inside a single-node sandbox for infra agent training]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-curator-synthetic-data-pipeline|Use structured XML tags in SFT data to reduce hallucination of specific values]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-biology-data-analysis-verifiable-substrate|Use domain data analysis pipelines as verifiable RL substrates in non-code domains]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-benchmark-task-quality-principles|Audit existing benchmark tasks against five quality principles before using them for eval or training]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-base-model-as-rl-prior|Design pre-training data mix to build atomic skills for RL rather than broad web knowledge]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-architecture-md-agent-invariants|Maintain a minimal architecture.md file as the single source of invariants for all AI coding agents]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-agent-transcript-quality-mining|Mine agent transcripts for efficiency failures (unnecessary tool calls) to improve language tooling]] | @aie | `-` |
 | 2026-07-30 | [[experiments/aij-2026-07-30-reddit-thread-quality-gate|Implement a three-rule thread quality gate before any agent post action]] | @aij | `-` |
 | 2026-07-30 | [[experiments/aij-2026-07-30-reddit-karma-loop-personal-wiki|Build a personal wiki ingestion loop to ground agent responses in owner-specific POV]] | @aij | `-` |
 | 2026-07-30 | [[experiments/aie-2026-07-30-memo-trust-source-citation|Attach inline source receipts with trust levels to every agent-generated claim rather than end-of-document citations]] | @aie | `-` |
