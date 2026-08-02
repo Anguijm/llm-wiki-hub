@@ -1249,6 +1249,41 @@
     "slug": "aie-2026-07-31-subjective-domain-measurability",
     "synced_at": "2026-07-31T22:59:01.117867+00:00"
   },
+  "phase4:aie-2026-08-02-benchmaxxing-human-expert-evals": {
+    "hash": "8cfefae3b7af5d73c71eb2c6b5b6616ff5b67e583dae8c4e5be4e832f656f6c9",
+    "slug": "aie-2026-08-02-benchmaxxing-human-expert-evals",
+    "synced_at": "2026-08-02T22:55:48.544450+00:00"
+  },
+  "phase4:aie-2026-08-02-custom-harness-post-training": {
+    "hash": "7c068d16731c4d0937de36ab9c2fe0bf879102e52731277a0a7e4eae107fface",
+    "slug": "aie-2026-08-02-custom-harness-post-training",
+    "synced_at": "2026-08-02T22:55:48.546071+00:00"
+  },
+  "phase4:aie-2026-08-02-cybersec-rl-difficulty-ladder": {
+    "hash": "46dc4ec651dcbbde2d6ee8b414bcdbb6311d205e69e44c6db8119ad9762a763c",
+    "slug": "aie-2026-08-02-cybersec-rl-difficulty-ladder",
+    "synced_at": "2026-08-02T22:55:48.544792+00:00"
+  },
+  "phase4:aie-2026-08-02-data-quality-compute-multiplier": {
+    "hash": "8dd270c49402cd8fac0098daa109fa2e328c0d4dc4b44247cdd7249259608d24",
+    "slug": "aie-2026-08-02-data-quality-compute-multiplier",
+    "synced_at": "2026-08-02T22:55:48.545755+00:00"
+  },
+  "phase4:aie-2026-08-02-long-horizon-rubric-granularity": {
+    "hash": "53478d19353dff5b8b529348b20310d7b8a0332638ec1df64f0b715b60ce5636",
+    "slug": "aie-2026-08-02-long-horizon-rubric-granularity",
+    "synced_at": "2026-08-02T22:55:48.545106+00:00"
+  },
+  "phase4:aie-2026-08-02-mcp-tasks-async-durable": {
+    "hash": "d4fd6d0569b921e1ffc47fd361dcddcaf6d56a67ea0c822470bed939850f02cf",
+    "slug": "aie-2026-08-02-mcp-tasks-async-durable",
+    "synced_at": "2026-08-02T22:55:48.544092+00:00"
+  },
+  "phase4:aie-2026-08-02-rlhf-vs-automation-divide": {
+    "hash": "a84d1f9286290d158ece8ebe22b1c9f79477e3ea12bc482d9b386ad25fb6be0c",
+    "slug": "aie-2026-08-02-rlhf-vs-automation-divide",
+    "synced_at": "2026-08-02T22:55:48.545420+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1563,6 +1598,16 @@
     "hash": "db9db5d590f780455f6f9c85ba1b56edf9b4d35d20be37dc5573090fda87e77b",
     "slug": "do-2026-07-27-kill-features-to-stay-on-frontier",
     "synced_at": "2026-07-27T23:00:37.060372+00:00"
+  },
+  "phase4:do-2026-08-02-global-agent-guardrails-hooks": {
+    "hash": "d187187400c5306de9afe049c995950e24689f88b86b13613d7627913a184776",
+    "slug": "do-2026-08-02-global-agent-guardrails-hooks",
+    "synced_at": "2026-08-02T22:55:48.542775+00:00"
+  },
+  "phase4:do-2026-08-02-lazy-loading-skill-descriptions": {
+    "hash": "7884704911dde1ead7ede03088508cc347f912b0c79407e092f9d156106d24c0",
+    "slug": "do-2026-08-02-lazy-loading-skill-descriptions",
+    "synced_at": "2026-08-02T22:55:48.543097+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
@@ -2464,6 +2509,16 @@
     "slug": "nb-2026-07-29-token-saver-skill",
     "synced_at": "2026-07-29T22:58:36.919911+00:00"
   },
+  "phase4:nb-2026-08-02-level-up-ai-builder-framework": {
+    "hash": "d5f1d6517e65c6c91c037fa7d8cefedee9208e3e33d1de982ada0a4e41811ae4",
+    "slug": "nb-2026-08-02-level-up-ai-builder-framework",
+    "synced_at": "2026-08-02T22:55:48.542041+00:00"
+  },
+  "phase4:nb-2026-08-02-skill-audit-conflict-resolution": {
+    "hash": "013d7b1189413593dfa87ad6cc0ac3f46b7754496cd377eebfe637d79a960117",
+    "slug": "nb-2026-08-02-skill-audit-conflict-resolution",
+    "synced_at": "2026-08-02T22:55:48.542399+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -2899,6 +2954,11 @@
     "slug": "nh-2026-07-26-claude-code-agentic-onboarding",
     "synced_at": "2026-07-26T22:57:50.699769+00:00"
   },
+  "phase4:nh-2026-08-02-roi-anchored-pricing-framework": {
+    "hash": "665227d913f4307593dd0fac8525ba7f496a0d57dff0837abfc1291129234d35",
+    "slug": "nh-2026-08-02-roi-anchored-pricing-framework",
+    "synced_at": "2026-08-02T22:55:48.543412+00:00"
+  },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
     "slug": "st-2026-04-05-skill-creator-meta-agent",
@@ -2943,6 +3003,11 @@
     "hash": "c35bc17e79d4db5be3dd5da6a2baba0d7ec8673377a5d6216fb2768051fe0baf",
     "slug": "st-2026-07-19-harness-engineering-levers",
     "synced_at": "2026-07-19T22:50:58.602530+00:00"
+  },
+  "phase4:st-2026-08-02-four-step-skill-delegation-framework": {
+    "hash": "3ba4a92c3138bc54778c482dbff78eade0ceab97d121cb62cba24f92a4735eb4",
+    "slug": "st-2026-08-02-four-step-skill-delegation-framework",
+    "synced_at": "2026-08-02T22:55:48.543770+00:00"
   },
   "phase4:tmp-2026-04-01-quantized-local-inference": {
     "hash": "acff2ffb5b52096bc966a39fe8851f9a222cb9dcbcbb9a8420c2b33752962921",

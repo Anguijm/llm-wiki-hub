@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**586 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**599 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 286 |
+| `backlog` | 299 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 356 |
+| `(none)` | 369 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,14 +32,14 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 247 |
-| @nb | 103 |
-| @nh | 85 |
+| @aie | 254 |
+| @nb | 105 |
+| @nh | 86 |
 | @mlops | 47 |
-| @do | 45 |
+| @do | 47 |
 | @mk | 22 |
 | @aij | 16 |
-| @st | 9 |
+| @st | 10 |
 | @up | 5 |
 | @eh | 4 |
 | @fs | 2 |
@@ -53,6 +53,19 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-02 | [[experiments/st-2026-08-02-four-step-skill-delegation-framework|Apply the do-once → distill → use → iterate skill-building loop to your top 3 recurring tasks]] | @st | `-` |
+| 2026-08-02 | [[experiments/nh-2026-08-02-roi-anchored-pricing-framework|Price AI builds as ~10-13% of annualized cost savings before quoting any number]] | @nh | `-` |
+| 2026-08-02 | [[experiments/nb-2026-08-02-skill-audit-conflict-resolution|Build a skill-audit skill that finds and resolves conflicts across your existing skill set]] | @nb | `-` |
+| 2026-08-02 | [[experiments/nb-2026-08-02-level-up-ai-builder-framework|Audit your builder level and identify the single next-level unlock]] | @nb | `-` |
+| 2026-08-02 | [[experiments/do-2026-08-02-lazy-loading-skill-descriptions|Rewrite skill descriptions as precise trigger conditions to exploit lazy-loading behavior]] | @do | `-` |
+| 2026-08-02 | [[experiments/do-2026-08-02-global-agent-guardrails-hooks|Implement pre-tool-call hooks that programmatically block dangerous agent commands]] | @do | `-` |
+| 2026-08-02 | [[experiments/aie-2026-08-02-rlhf-vs-automation-divide|Separate your agent tasks into human-in-loop (RLHF-suited) vs. fully-automated (requires new post-training) and route accordingly]] | @aie | `-` |
+| 2026-08-02 | [[experiments/aie-2026-08-02-mcp-tasks-async-durable|Implement durable MCP task handles for long-running tool calls using Temporal workflows]] | @aie | `-` |
+| 2026-08-02 | [[experiments/aie-2026-08-02-long-horizon-rubric-granularity|Design task rubrics with 20+ sub-criteria and partial-credit scoring for long-horizon agent evals]] | @aie | `-` |
+| 2026-08-02 | [[experiments/aie-2026-08-02-data-quality-compute-multiplier|Apply mid-training on curated domain-specific data to make post-training 2-3x more effective]] | @aie | `-` |
+| 2026-08-02 | [[experiments/aie-2026-08-02-cybersec-rl-difficulty-ladder|Structure RL training environments as a two-axis difficulty ladder: target hardness × exploitation depth]] | @aie | `-` |
+| 2026-08-02 | [[experiments/aie-2026-08-02-custom-harness-post-training|Train directly on production harness traces to adapt models to custom tool-calling environments]] | @aie | `-` |
+| 2026-08-02 | [[experiments/aie-2026-08-02-benchmaxxing-human-expert-evals|Replace LLM-as-judge evals with blind human expert comparisons for subjective output quality]] | @aie | `-` |
 | 2026-07-31 | [[experiments/aie-2026-07-31-subjective-domain-measurability|Decompose subjective quality criteria into context-specific verifiable components for reward design]] | @aie | `-` |
 | 2026-07-31 | [[experiments/aie-2026-07-31-rl-without-verifiable-rewards|Bootstrap non-verifiable reward signals using LLM judges with iterative refinement against training behavior]] | @aie | `-` |
 | 2026-07-31 | [[experiments/aie-2026-07-31-pipeline-rl-long-horizon|Apply pipeline RL with off-policy tolerance to reduce GPU idle time in long-horizon rollouts]] | @aie | `-` |
