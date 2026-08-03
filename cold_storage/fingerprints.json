@@ -1284,6 +1284,16 @@
     "slug": "aie-2026-08-02-rlhf-vs-automation-divide",
     "synced_at": "2026-08-02T22:55:48.545420+00:00"
   },
+  "phase4:aie-2026-08-03-mcp-apps-interactive-ui-over-mcp": {
+    "hash": "38e313a4c87bb4a8c053298525552a991de09596a2945e60ed858d4ee0f2022b",
+    "slug": "aie-2026-08-03-mcp-apps-interactive-ui-over-mcp",
+    "synced_at": "2026-08-03T22:58:52.717412+00:00"
+  },
+  "phase4:aie-2026-08-03-turbopuffer-campfire-async-collab": {
+    "hash": "50f03fd94ab12a7c73fc013bfc696b8d25d830f0ffa0e691e743ea454a9121b9",
+    "slug": "aie-2026-08-03-turbopuffer-campfire-async-collab",
+    "synced_at": "2026-08-03T22:58:52.717788+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",

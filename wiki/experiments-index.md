@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**599 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**601 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 299 |
+| `backlog` | 301 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 369 |
+| `(none)` | 371 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,7 +32,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 254 |
+| @aie | 256 |
 | @nb | 105 |
 | @nh | 86 |
 | @mlops | 47 |
@@ -53,6 +53,8 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-03 | [[experiments/aie-2026-08-03-turbopuffer-campfire-async-collab|Adopt Lightweight 'Campfire' Async Collaboration Model for Distributed AI Dev Teams]] | @aie | `-` |
+| 2026-08-03 | [[experiments/aie-2026-08-03-mcp-apps-interactive-ui-over-mcp|Embed Interactive MCP App UI into Agent Tool Responses]] | @aie | `-` |
 | 2026-08-02 | [[experiments/st-2026-08-02-four-step-skill-delegation-framework|Apply the do-once → distill → use → iterate skill-building loop to your top 3 recurring tasks]] | @st | `-` |
 | 2026-08-02 | [[experiments/nh-2026-08-02-roi-anchored-pricing-framework|Price AI builds as ~10-13% of annualized cost savings before quoting any number]] | @nh | `-` |
 | 2026-08-02 | [[experiments/nb-2026-08-02-skill-audit-conflict-resolution|Build a skill-audit skill that finds and resolves conflicts across your existing skill set]] | @nb | `-` |
