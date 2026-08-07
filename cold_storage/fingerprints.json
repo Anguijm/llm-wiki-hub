@@ -1294,6 +1294,16 @@
     "slug": "aie-2026-08-03-turbopuffer-campfire-async-collab",
     "synced_at": "2026-08-03T22:58:52.717788+00:00"
   },
+  "phase4:aie-2026-08-07-frontier-delegates-to-impl-model": {
+    "hash": "79e6c21b6cf51da6a4e00926dd8288cffb6fd2225ef8e22a1dcefa9462d16f95",
+    "slug": "aie-2026-08-07-frontier-delegates-to-impl-model",
+    "synced_at": "2026-08-07T01:29:11.325220+00:00"
+  },
+  "phase4:aie-2026-08-07-sandboxed-vibe-coded-gadgets": {
+    "hash": "971796491c34e30a42a244720133f3364b978214abadd1825fbbed349672b2b8",
+    "slug": "aie-2026-08-07-sandboxed-vibe-coded-gadgets",
+    "synced_at": "2026-08-07T01:29:11.325548+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2528,6 +2538,11 @@
     "hash": "013d7b1189413593dfa87ad6cc0ac3f46b7754496cd377eebfe637d79a960117",
     "slug": "nb-2026-08-02-skill-audit-conflict-resolution",
     "synced_at": "2026-08-02T22:55:48.542399+00:00"
+  },
+  "phase4:nb-2026-08-07-voice-discovery-skill": {
+    "hash": "6adc9e7929b101e52c8536d884ae05954d34f22a87322f639d2b2dacba5d773f",
+    "slug": "nb-2026-08-07-voice-discovery-skill",
+    "synced_at": "2026-08-07T01:29:11.324851+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
