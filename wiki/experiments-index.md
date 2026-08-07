@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**606 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**610 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 306 |
+| `backlog` | 310 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 376 |
+| `(none)` | 380 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,11 +32,11 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 258 |
-| @nb | 106 |
+| @aie | 259 |
+| @nb | 107 |
 | @nh | 88 |
+| @do | 49 |
 | @mlops | 47 |
-| @do | 47 |
 | @mk | 22 |
 | @aij | 16 |
 | @st | 10 |
@@ -54,8 +54,12 @@ Ordered by published date, most recent first.
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
 | 2026-08-07 | [[experiments/nb-2026-08-07-voice-discovery-skill|Build a Custom Voice Discovery Prompt to Prevent AI Slop Output]] | @nb | `-` |
+| 2026-08-07 | [[experiments/nb-2026-08-07-agent-truth-envelope-audit|Audit Agent Tool and Data Scope Before Assigning Missions]] | @nb | `-` |
+| 2026-08-07 | [[experiments/do-2026-08-07-program-design-before-agent|Add Explicit Program Design Phase Before Letting Agent Execute]] | @do | `-` |
+| 2026-08-07 | [[experiments/do-2026-08-07-incident-routing-to-agent-factory|Route Uptime Incidents Directly Into Agent for Triage and PR Generation]] | @do | `-` |
 | 2026-08-07 | [[experiments/aie-2026-08-07-sandboxed-vibe-coded-gadgets|Run AI-Generated App Code in Null-Origin Iframe + Durable Object Sandbox to Eliminate XSS Risk]] | @aie | `-` |
 | 2026-08-07 | [[experiments/aie-2026-08-07-frontier-delegates-to-impl-model|Route Planning to Frontier Model and Execution to Cheaper Implementation Model]] | @aie | `-` |
+| 2026-08-07 | [[experiments/aie-2026-08-07-dynamic-quantization-layer-selection|Apply Dynamic Per-Layer Quantization to Preserve Accuracy on Local Models]] | @aie | `-` |
 | 2026-08-04 | [[experiments/nh-2026-08-04-negative-prompting-system|Add Negative Prompting Layer to All Agent Instructions]] | @nh | `-` |
 | 2026-08-04 | [[experiments/nh-2026-08-04-model-routing-by-task|Implement Model Routing to Match Task Complexity to Model Cost]] | @nh | `-` |
 | 2026-08-03 | [[experiments/aie-2026-08-03-turbopuffer-campfire-async-collab|Adopt Lightweight 'Campfire' Async Collaboration Model for Distributed AI Dev Teams]] | @aie | `-` |

@@ -1294,6 +1294,11 @@
     "slug": "aie-2026-08-03-turbopuffer-campfire-async-collab",
     "synced_at": "2026-08-03T22:58:52.717788+00:00"
   },
+  "phase4:aie-2026-08-07-dynamic-quantization-layer-selection": {
+    "hash": "c438b7b26a64f07b9abf8f85bb2904ba18f11744fe58447a77a25323c6b0bde3",
+    "slug": "aie-2026-08-07-dynamic-quantization-layer-selection",
+    "synced_at": "2026-08-07T22:33:24.479783+00:00"
+  },
   "phase4:aie-2026-08-07-frontier-delegates-to-impl-model": {
     "hash": "79e6c21b6cf51da6a4e00926dd8288cffb6fd2225ef8e22a1dcefa9462d16f95",
     "slug": "aie-2026-08-07-frontier-delegates-to-impl-model",
@@ -1628,6 +1633,16 @@
     "hash": "7884704911dde1ead7ede03088508cc347f912b0c79407e092f9d156106d24c0",
     "slug": "do-2026-08-02-lazy-loading-skill-descriptions",
     "synced_at": "2026-08-02T22:55:48.543097+00:00"
+  },
+  "phase4:do-2026-08-07-incident-routing-to-agent-factory": {
+    "hash": "649b5a4a70ac1666f68a6c0489c5e6aa4e6698ede9e235fcf6b7d7874bcb0022",
+    "slug": "do-2026-08-07-incident-routing-to-agent-factory",
+    "synced_at": "2026-08-07T22:33:24.479445+00:00"
+  },
+  "phase4:do-2026-08-07-program-design-before-agent": {
+    "hash": "8371054202e59ebc28470b0c5d1953b61acb8cca7782ec892a49f3c3a578c25b",
+    "slug": "do-2026-08-07-program-design-before-agent",
+    "synced_at": "2026-08-07T22:33:24.479066+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
@@ -2538,6 +2553,11 @@
     "hash": "013d7b1189413593dfa87ad6cc0ac3f46b7754496cd377eebfe637d79a960117",
     "slug": "nb-2026-08-02-skill-audit-conflict-resolution",
     "synced_at": "2026-08-02T22:55:48.542399+00:00"
+  },
+  "phase4:nb-2026-08-07-agent-truth-envelope-audit": {
+    "hash": "efa5b08d85e31373e5065418f28879d8b31779e60f30e0666d56dc91d18bde5d",
+    "slug": "nb-2026-08-07-agent-truth-envelope-audit",
+    "synced_at": "2026-08-07T22:33:24.478657+00:00"
   },
   "phase4:nb-2026-08-07-voice-discovery-skill": {
     "hash": "6adc9e7929b101e52c8536d884ae05954d34f22a87322f639d2b2dacba5d773f",
