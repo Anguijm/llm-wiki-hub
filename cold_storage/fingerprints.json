@@ -1309,6 +1309,31 @@
     "slug": "aie-2026-08-07-sandboxed-vibe-coded-gadgets",
     "synced_at": "2026-08-07T01:29:11.325548+00:00"
   },
+  "phase4:aie-2026-08-08-agentic-workflow-natural-language": {
+    "hash": "6c8939921d41b351c4b58b1e3bf8d3b6f12c3cc0d1a69e6a8c2995d295cfaca9",
+    "slug": "aie-2026-08-08-agentic-workflow-natural-language",
+    "synced_at": "2026-08-08T22:27:50.976223+00:00"
+  },
+  "phase4:aie-2026-08-08-cca-antipatterns-field-guide": {
+    "hash": "5a8ae8b37d6181fe540317c09cf027e6bb67c5ac39a2159be8574f41fdf8d4b0",
+    "slug": "aie-2026-08-08-cca-antipatterns-field-guide",
+    "synced_at": "2026-08-08T22:27:50.976910+00:00"
+  },
+  "phase4:aie-2026-08-08-legacy-refactor-benchmark": {
+    "hash": "6ae59e2adb9c87370461b5e95a7a46e91103b911042a4df2984c9405afcd27d0",
+    "slug": "aie-2026-08-08-legacy-refactor-benchmark",
+    "synced_at": "2026-08-08T22:27:50.976685+00:00"
+  },
+  "phase4:aie-2026-08-08-open-weights-cost-arbitrage": {
+    "hash": "f9c93d30bcce8135a662e242be6ae893e206fd502c0f266130068850d8ba8705",
+    "slug": "aie-2026-08-08-open-weights-cost-arbitrage",
+    "synced_at": "2026-08-08T22:27:50.977129+00:00"
+  },
+  "phase4:aie-2026-08-08-realtime-multiplayer-shared-doc": {
+    "hash": "bbe544d65f6db8650dbced89507ffb7395d453528c5992d4b7d764403816fc13",
+    "slug": "aie-2026-08-08-realtime-multiplayer-shared-doc",
+    "synced_at": "2026-08-08T22:27:50.976468+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1783,6 +1808,16 @@
     "hash": "bbdecc51ed57fdb3ad478ec89dc2465c3dab2e3a85c620f0fb367b462ed8de21",
     "slug": "mk-2026-07-26-personal-benchmark-slash-command",
     "synced_at": "2026-07-26T22:57:50.699997+00:00"
+  },
+  "phase4:mk-2026-08-08-hack-record-skill-for-sop-audit": {
+    "hash": "f7f3a920ca25f976c3f169e197835161a49c6a3e54a1a0e6d72fbeab7c416fb3",
+    "slug": "mk-2026-08-08-hack-record-skill-for-sop-audit",
+    "synced_at": "2026-08-08T22:27:50.975991+00:00"
+  },
+  "phase4:mk-2026-08-08-video-to-code-review": {
+    "hash": "a7d9f48a637f25e4ffb61bbb1ae78c43dd36d2d5828d5e8ea32b247a001301ce",
+    "slug": "mk-2026-08-08-video-to-code-review",
+    "synced_at": "2026-08-08T22:27:50.975722+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",

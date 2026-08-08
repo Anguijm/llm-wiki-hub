@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**610 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**617 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 310 |
+| `backlog` | 317 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 380 |
+| `(none)` | 387 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,12 +32,12 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 259 |
+| @aie | 264 |
 | @nb | 107 |
 | @nh | 88 |
 | @do | 49 |
 | @mlops | 47 |
-| @mk | 22 |
+| @mk | 24 |
 | @aij | 16 |
 | @st | 10 |
 | @up | 5 |
@@ -53,6 +53,13 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-08 | [[experiments/mk-2026-08-08-video-to-code-review|Feed screen-recording MP4 directly to Claude Code for codebase improvement review]] | @mk | `-` |
+| 2026-08-08 | [[experiments/mk-2026-08-08-hack-record-skill-for-sop-audit|Override Codex 'Record and Replay' skill to audit and SOP-ify manual workflows]] | @mk | `-` |
+| 2026-08-08 | [[experiments/aie-2026-08-08-realtime-multiplayer-shared-doc|Use a shared live markdown plan document as the primary human-agent collaboration interface]] | @aie | `-` |
+| 2026-08-08 | [[experiments/aie-2026-08-08-open-weights-cost-arbitrage|Route high-volume agentic workloads to open-weights models via volume-discount inference providers to cut token costs 80%+]] | @aie | `-` |
+| 2026-08-08 | [[experiments/aie-2026-08-08-legacy-refactor-benchmark|Benchmark coding agents against legacy multi-repo vs clean monorepo to quantify refactor ROI]] | @aie | `-` |
+| 2026-08-08 | [[experiments/aie-2026-08-08-cca-antipatterns-field-guide|Implement context-forking with token-count-gated compaction to prevent context bloat in long agent runs]] | @aie | `-` |
+| 2026-08-08 | [[experiments/aie-2026-08-08-agentic-workflow-natural-language|Define agentic background automation with a Slack-style natural-language spec in a single file]] | @aie | `-` |
 | 2026-08-07 | [[experiments/nb-2026-08-07-voice-discovery-skill|Build a Custom Voice Discovery Prompt to Prevent AI Slop Output]] | @nb | `-` |
 | 2026-08-07 | [[experiments/nb-2026-08-07-agent-truth-envelope-audit|Audit Agent Tool and Data Scope Before Assigning Missions]] | @nb | `-` |
 | 2026-08-07 | [[experiments/do-2026-08-07-program-design-before-agent|Add Explicit Program Design Phase Before Letting Agent Execute]] | @do | `-` |
