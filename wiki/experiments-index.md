@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**617 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**629 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 317 |
+| `backlog` | 329 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 387 |
+| `(none)` | 399 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,8 +32,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 264 |
-| @nb | 107 |
+| @aie | 274 |
+| @nb | 109 |
 | @nh | 88 |
 | @do | 49 |
 | @mlops | 47 |
@@ -53,6 +53,18 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-09 | [[experiments/nb-2026-08-09-leader-ai-contract|Establish a Public Leadership Contract Before AI Rollout]] | @nb | `-` |
+| 2026-08-09 | [[experiments/nb-2026-08-09-human-edge-articulation|Define and Communicate Explicit Human-Owned Responsibilities in AI Rollout Docs]] | @nb | `-` |
+| 2026-08-09 | [[experiments/aie-2026-08-09-plan-before-implement|Separate Planning and Polish Phases in Agentic Workflows to Prevent Velocity Sickness]] | @aie | `-` |
+| 2026-08-09 | [[experiments/aie-2026-08-09-multiplayer-agent-sessions|Share Persistent Agent Sessions Across Slack, IDE, and GitHub]] | @aie | `-` |
+| 2026-08-09 | [[experiments/aie-2026-08-09-model-agnostic-benchmarking|Benchmark Multiple Coding Models Against Your Own Codebase to Stay Model-Agnostic]] | @aie | `-` |
+| 2026-08-09 | [[experiments/aie-2026-08-09-local-model-sovereignty|Evaluate Open-Weight Local Models as Drop-In Replacements for Frontier APIs on Dev Loop Tasks]] | @aie | `-` |
+| 2026-08-09 | [[experiments/aie-2026-08-09-inner-loop-verification|Embed Static Analysis Verification Inside the Agentic Coding Loop Before PR Creation]] | @aie | `-` |
+| 2026-08-09 | [[experiments/aie-2026-08-09-durable-decision-log|Maintain a Durable Decision Log External to Agent Sessions to Prevent Agent Bankruptcy]] | @aie | `-` |
+| 2026-08-09 | [[experiments/aie-2026-08-09-bounded-autonomy-guidelines|Define Bounded Autonomy Guidelines Specifying What Agents Can and Cannot Touch]] | @aie | `-` |
+| 2026-08-09 | [[experiments/aie-2026-08-09-background-scheduled-agents|Run Schedule- and Trigger-Based Background Agents for Proactive Production Health Tasks]] | @aie | `-` |
+| 2026-08-09 | [[experiments/aie-2026-08-09-always-on-oncall-agent|Deploy a Persistent On-Call Agent That Triages Alerts and Performs Root Cause Analysis]] | @aie | `-` |
+| 2026-08-09 | [[experiments/aie-2026-08-09-ai-native-primitives|Build with Hundreds of Concurrent Inference Calls as a Core Architectural Primitive]] | @aie | `-` |
 | 2026-08-08 | [[experiments/mk-2026-08-08-video-to-code-review|Feed screen-recording MP4 directly to Claude Code for codebase improvement review]] | @mk | `-` |
 | 2026-08-08 | [[experiments/mk-2026-08-08-hack-record-skill-for-sop-audit|Override Codex 'Record and Replay' skill to audit and SOP-ify manual workflows]] | @mk | `-` |
 | 2026-08-08 | [[experiments/aie-2026-08-08-realtime-multiplayer-shared-doc|Use a shared live markdown plan document as the primary human-agent collaboration interface]] | @aie | `-` |

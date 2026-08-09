@@ -1334,6 +1334,56 @@
     "slug": "aie-2026-08-08-realtime-multiplayer-shared-doc",
     "synced_at": "2026-08-08T22:27:50.976468+00:00"
   },
+  "phase4:aie-2026-08-09-ai-native-primitives": {
+    "hash": "d0f12a1b1a9934e37b0bf0a61dce09b283541498c0d185435e4acc55e7efe91e",
+    "slug": "aie-2026-08-09-ai-native-primitives",
+    "synced_at": "2026-08-09T22:29:14.510618+00:00"
+  },
+  "phase4:aie-2026-08-09-always-on-oncall-agent": {
+    "hash": "bd43571e1e9c13b4f688d383e2096acfaf29e217925e6dd0371c8dbcc524379e",
+    "slug": "aie-2026-08-09-always-on-oncall-agent",
+    "synced_at": "2026-08-09T22:29:14.509934+00:00"
+  },
+  "phase4:aie-2026-08-09-background-scheduled-agents": {
+    "hash": "7fd74090d77fd1cedbf855bffb5a21d816b67ecf29e4ae868320b3bbf3ebba5a",
+    "slug": "aie-2026-08-09-background-scheduled-agents",
+    "synced_at": "2026-08-09T22:29:14.510263+00:00"
+  },
+  "phase4:aie-2026-08-09-bounded-autonomy-guidelines": {
+    "hash": "ff7dd4bb75049840ae2deafc384da6bcf14fafc5497736bbdc407e0a04c884dd",
+    "slug": "aie-2026-08-09-bounded-autonomy-guidelines",
+    "synced_at": "2026-08-09T22:29:14.509000+00:00"
+  },
+  "phase4:aie-2026-08-09-durable-decision-log": {
+    "hash": "a0135d9d32ab39856ba34d58f441947515fb11d3ee3c4f2438e6493f387f2d39",
+    "slug": "aie-2026-08-09-durable-decision-log",
+    "synced_at": "2026-08-09T22:29:14.509634+00:00"
+  },
+  "phase4:aie-2026-08-09-inner-loop-verification": {
+    "hash": "4034173f5d768c9d98cb2ee2c64cecdb51df4002e43b1aa57a56370fab591fef",
+    "slug": "aie-2026-08-09-inner-loop-verification",
+    "synced_at": "2026-08-09T22:29:14.508690+00:00"
+  },
+  "phase4:aie-2026-08-09-local-model-sovereignty": {
+    "hash": "44da2290f64618460816d7ba1c4b64ff7d7ac86cbaff6ccb082c7d191ccec0f0",
+    "slug": "aie-2026-08-09-local-model-sovereignty",
+    "synced_at": "2026-08-09T22:29:14.510939+00:00"
+  },
+  "phase4:aie-2026-08-09-model-agnostic-benchmarking": {
+    "hash": "e27511346d08b9eb7d7c91fd6abb9a79b3e625a8db18d537b2d2295e46fda216",
+    "slug": "aie-2026-08-09-model-agnostic-benchmarking",
+    "synced_at": "2026-08-09T22:29:14.508363+00:00"
+  },
+  "phase4:aie-2026-08-09-multiplayer-agent-sessions": {
+    "hash": "c09b555edfea234d42bfbb4d22b6f8265dbb9bfb15b7c7534fb7ecd6a5d05f6d",
+    "slug": "aie-2026-08-09-multiplayer-agent-sessions",
+    "synced_at": "2026-08-09T22:29:14.507996+00:00"
+  },
+  "phase4:aie-2026-08-09-plan-before-implement": {
+    "hash": "060d15c12eaf5cb59b5c299b3671d5d4f98d4fe0e56876f464e518ca7e25d639",
+    "slug": "aie-2026-08-09-plan-before-implement",
+    "synced_at": "2026-08-09T22:29:14.509328+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2598,6 +2648,16 @@
     "hash": "6adc9e7929b101e52c8536d884ae05954d34f22a87322f639d2b2dacba5d773f",
     "slug": "nb-2026-08-07-voice-discovery-skill",
     "synced_at": "2026-08-07T01:29:11.324851+00:00"
+  },
+  "phase4:nb-2026-08-09-human-edge-articulation": {
+    "hash": "4a74635d8fb41990751e4119d08ad027e83aa8d89aeba1ce1ef90c9eaec8fc6c",
+    "slug": "nb-2026-08-09-human-edge-articulation",
+    "synced_at": "2026-08-09T22:29:14.507672+00:00"
+  },
+  "phase4:nb-2026-08-09-leader-ai-contract": {
+    "hash": "871a079947325ca544920568d7313834edc37adf6b733434fc69758d327156d6",
+    "slug": "nb-2026-08-09-leader-ai-contract",
+    "synced_at": "2026-08-09T22:29:14.507310+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
