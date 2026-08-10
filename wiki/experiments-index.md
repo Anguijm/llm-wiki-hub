@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**629 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**634 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 329 |
+| `backlog` | 334 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 399 |
+| `(none)` | 404 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,10 +32,10 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 274 |
-| @nb | 109 |
-| @nh | 88 |
-| @do | 49 |
+| @aie | 276 |
+| @nb | 110 |
+| @nh | 89 |
+| @do | 50 |
 | @mlops | 47 |
 | @mk | 24 |
 | @aij | 16 |
@@ -53,6 +53,11 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-10 | [[experiments/nh-2026-08-10-dual-model-coding-workflow|Use Claude as thought-partner and Codex as executor in a two-model coding loop]] | @nh | `-` |
+| 2026-08-10 | [[experiments/nb-2026-08-10-harden-systems-against-emergent-agent-coordina|Audit shared environments for unintended agent communication channels]] | @nb | `-` |
+| 2026-08-10 | [[experiments/do-2026-08-10-multiplayer-agentic-scaffold|Replace ad-hoc file sharing between agents with a multiplayer shared-artifact scaffold]] | @do | `-` |
+| 2026-08-10 | [[experiments/aie-2026-08-10-cross-datacenter-rl-rollout-decoupling|Decouple RL rollout fleet from trainer cluster using delta-weight sync instead of full checkpoints]] | @aie | `-` |
+| 2026-08-10 | [[experiments/aie-2026-08-10-codex-harness-context-compaction|Implement server-side context compaction and incremental tool-result streaming in long-running agents]] | @aie | `-` |
 | 2026-08-09 | [[experiments/nb-2026-08-09-leader-ai-contract|Establish a Public Leadership Contract Before AI Rollout]] | @nb | `-` |
 | 2026-08-09 | [[experiments/nb-2026-08-09-human-edge-articulation|Define and Communicate Explicit Human-Owned Responsibilities in AI Rollout Docs]] | @nb | `-` |
 | 2026-08-09 | [[experiments/aie-2026-08-09-plan-before-implement|Separate Planning and Polish Phases in Agentic Workflows to Prevent Velocity Sickness]] | @aie | `-` |

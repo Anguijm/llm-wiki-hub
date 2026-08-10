@@ -1389,6 +1389,16 @@
     "slug": "aie-2026-08-09-plan-before-implement",
     "synced_at": "2026-08-09T22:29:14.509328+00:00"
   },
+  "phase4:aie-2026-08-10-codex-harness-context-compaction": {
+    "hash": "5dbe4f6147c3d8de9ed2997a8775918386a456956f4003998538033e897025ed",
+    "slug": "aie-2026-08-10-codex-harness-context-compaction",
+    "synced_at": "2026-08-10T22:35:44.685001+00:00"
+  },
+  "phase4:aie-2026-08-10-cross-datacenter-rl-rollout-decoupling": {
+    "hash": "1481d39797a40bffaea72f0207200b732c74a4a84eba146e05d84206521dbb6e",
+    "slug": "aie-2026-08-10-cross-datacenter-rl-rollout-decoupling",
+    "synced_at": "2026-08-10T22:35:44.684678+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1723,6 +1733,11 @@
     "hash": "8371054202e59ebc28470b0c5d1953b61acb8cca7782ec892a49f3c3a578c25b",
     "slug": "do-2026-08-07-program-design-before-agent",
     "synced_at": "2026-08-07T22:33:24.479066+00:00"
+  },
+  "phase4:do-2026-08-10-multiplayer-agentic-scaffold": {
+    "hash": "502398f1333b43758672292b78cd81c027394b97c6e8f8648109d9a3f86af484",
+    "slug": "do-2026-08-10-multiplayer-agentic-scaffold",
+    "synced_at": "2026-08-10T22:35:44.683944+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
@@ -2664,6 +2679,11 @@
     "slug": "nb-2026-08-09-leader-ai-contract",
     "synced_at": "2026-08-09T22:29:14.507310+00:00"
   },
+  "phase4:nb-2026-08-10-harden-systems-against-emergent-agent-coordination": {
+    "hash": "99f889b94485d0695c5d8e2000af56080b7162e701f19be647d55444b0c182b5",
+    "slug": "nb-2026-08-10-harden-systems-against-emergent-agent-coordina",
+    "synced_at": "2026-08-10T22:35:44.683572+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -3113,6 +3133,11 @@
     "hash": "e63d44496ad83a4e5a2d47401a14535459ccf8b2740e5ef0b7c89b29d783e48c",
     "slug": "nh-2026-08-04-negative-prompting-system",
     "synced_at": "2026-08-04T23:02:17.058762+00:00"
+  },
+  "phase4:nh-2026-08-10-dual-model-coding-workflow": {
+    "hash": "c529c01787081b48df7448cb780aede3b9ea3b786a965fed9cab886e5057c8d9",
+    "slug": "nh-2026-08-10-dual-model-coding-workflow",
+    "synced_at": "2026-08-10T22:35:44.684301+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
