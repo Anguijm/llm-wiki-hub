@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**634 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**640 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 334 |
+| `backlog` | 340 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 404 |
+| `(none)` | 410 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,12 +32,12 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 276 |
+| @aie | 279 |
 | @nb | 110 |
-| @nh | 89 |
+| @nh | 91 |
 | @do | 50 |
 | @mlops | 47 |
-| @mk | 24 |
+| @mk | 25 |
 | @aij | 16 |
 | @st | 10 |
 | @up | 5 |
@@ -53,6 +53,12 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-11 | [[experiments/nh-2026-08-11-pricing-prompt-three-tiers|Use a structured Claude prompt to generate psychologically anchored three-tier pricing]] | @nh | `-` |
+| 2026-08-11 | [[experiments/nh-2026-08-11-ai-consultant-three-buckets|Route every AI build to one of three value buckets before scoping]] | @nh | `-` |
+| 2026-08-11 | [[experiments/mk-2026-08-11-local-model-3d-website-harness|Add a skill-router function to a local agent harness for asset-type-aware generation]] | @mk | `-` |
+| 2026-08-11 | [[experiments/aie-2026-08-11-harness-progressive-disclosure|Structure CLAUDE.md as a thin index with progressive disclosure into skill files capped at 100 lines each]] | @aie | `-` |
+| 2026-08-11 | [[experiments/aie-2026-08-11-dreaming-memory-self-improvement|Add a periodic 'dreaming' batch pass that distills session transcripts into updated agent memory]] | @aie | `-` |
+| 2026-08-11 | [[experiments/aie-2026-08-11-claude-managed-agents-infrastructure|Implement an outcomes-based grader agent that loops until success criteria are met]] | @aie | `-` |
 | 2026-08-10 | [[experiments/nh-2026-08-10-dual-model-coding-workflow|Use Claude as thought-partner and Codex as executor in a two-model coding loop]] | @nh | `-` |
 | 2026-08-10 | [[experiments/nb-2026-08-10-harden-systems-against-emergent-agent-coordina|Audit shared environments for unintended agent communication channels]] | @nb | `-` |
 | 2026-08-10 | [[experiments/do-2026-08-10-multiplayer-agentic-scaffold|Replace ad-hoc file sharing between agents with a multiplayer shared-artifact scaffold]] | @do | `-` |

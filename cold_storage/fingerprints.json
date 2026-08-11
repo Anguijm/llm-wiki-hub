@@ -1399,6 +1399,21 @@
     "slug": "aie-2026-08-10-cross-datacenter-rl-rollout-decoupling",
     "synced_at": "2026-08-10T22:35:44.684678+00:00"
   },
+  "phase4:aie-2026-08-11-claude-managed-agents-infrastructure": {
+    "hash": "dac191687ea8554a39da3bec82eb0cb943c3cfabb1626c86ba46675aa14b1f35",
+    "slug": "aie-2026-08-11-claude-managed-agents-infrastructure",
+    "synced_at": "2026-08-11T22:39:43.440939+00:00"
+  },
+  "phase4:aie-2026-08-11-dreaming-memory-self-improvement": {
+    "hash": "827de76df60f5b73b26cc1275b21d3076a8570d916c17a96356667c0732eaadc",
+    "slug": "aie-2026-08-11-dreaming-memory-self-improvement",
+    "synced_at": "2026-08-11T22:39:43.441204+00:00"
+  },
+  "phase4:aie-2026-08-11-harness-progressive-disclosure": {
+    "hash": "8edca2c1022cb089ff0c179180dc68e5f66eafb95570e08251747dea882d4be3",
+    "slug": "aie-2026-08-11-harness-progressive-disclosure",
+    "synced_at": "2026-08-11T22:39:43.441503+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1888,6 +1903,11 @@
     "hash": "a7d9f48a637f25e4ffb61bbb1ae78c43dd36d2d5828d5e8ea32b247a001301ce",
     "slug": "mk-2026-08-08-video-to-code-review",
     "synced_at": "2026-08-08T22:27:50.975722+00:00"
+  },
+  "phase4:mk-2026-08-11-local-model-3d-website-harness": {
+    "hash": "b91d01a1dc0a1dba7b43304ca777074ca73403c3395b9cb1cf800945e826b393",
+    "slug": "mk-2026-08-11-local-model-3d-website-harness",
+    "synced_at": "2026-08-11T22:39:43.440664+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
@@ -3138,6 +3158,16 @@
     "hash": "c529c01787081b48df7448cb780aede3b9ea3b786a965fed9cab886e5057c8d9",
     "slug": "nh-2026-08-10-dual-model-coding-workflow",
     "synced_at": "2026-08-10T22:35:44.684301+00:00"
+  },
+  "phase4:nh-2026-08-11-ai-consultant-three-buckets": {
+    "hash": "58b900dd1185c330631f6002bcb9b1081b23095900392354a4c51c85b2a88919",
+    "slug": "nh-2026-08-11-ai-consultant-three-buckets",
+    "synced_at": "2026-08-11T22:39:43.439976+00:00"
+  },
+  "phase4:nh-2026-08-11-pricing-prompt-three-tiers": {
+    "hash": "2ffb2216d6ead83d98aa1ac770996dc4187973011c6f2ea04bcf905082b6670c",
+    "slug": "nh-2026-08-11-pricing-prompt-three-tiers",
+    "synced_at": "2026-08-11T22:39:43.440359+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
