@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**640 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**649 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 340 |
+| `backlog` | 349 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 410 |
+| `(none)` | 419 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,9 +32,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 279 |
-| @nb | 110 |
-| @nh | 91 |
+| @aie | 284 |
+| @nb | 111 |
+| @nh | 94 |
 | @do | 50 |
 | @mlops | 47 |
 | @mk | 25 |
@@ -53,6 +53,15 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-12 | [[experiments/nh-2026-08-12-sl-goal-verification-prompt|Append Self-Verification Standards to Agent Task Prompts]] | @nh | `-` |
+| 2026-08-12 | [[experiments/nh-2026-08-12-grokbot-persistent-agent-team|Test Grokbot as a Persistent Multi-Agent Team with Shared Plugin Context]] | @nh | `-` |
+| 2026-08-12 | [[experiments/nh-2026-08-12-delete-skills-unhobble-model|Audit and Prune System Prompts and Skills After Each Major Model Upgrade]] | @nh | `-` |
+| 2026-08-12 | [[experiments/nb-2026-08-12-progressive-context-shaping|Implement Progressive Context Shaping with a Four-File State System]] | @nb | `-` |
+| 2026-08-12 | [[experiments/aie-2026-08-12-ranked-recall-policy-memory-harness|Replace Vector RAG Memory with a Ranked Decisions Ledger for Long-Horizon Agent Runs]] | @aie | `-` |
+| 2026-08-12 | [[experiments/aie-2026-08-12-online-per-step-hinting-distillation|Apply Per-Step Online Hinting to Correct Persistent Agent Behavior Errors]] | @aie | `-` |
+| 2026-08-12 | [[experiments/aie-2026-08-12-llm-knowledge-base-enrichment|Build an Agent-Enriched Markdown Knowledge Base with Backlinks, Tags, Wikis, and Graph Visualization]] | @aie | `-` |
+| 2026-08-12 | [[experiments/aie-2026-08-12-issue-detection-code-classifiers-over-traces|Replace Trace Clustering with Deterministic Keyword Signals and Code-Mode Classifiers for Issue Detection]] | @aie | `-` |
+| 2026-08-12 | [[experiments/aie-2026-08-12-agent-trace-mining-improvement-loop|Enable Agent Trace Collection and Use an Agent to Mine Traces for Improvement Signals]] | @aie | `-` |
 | 2026-08-11 | [[experiments/nh-2026-08-11-pricing-prompt-three-tiers|Use a structured Claude prompt to generate psychologically anchored three-tier pricing]] | @nh | `-` |
 | 2026-08-11 | [[experiments/nh-2026-08-11-ai-consultant-three-buckets|Route every AI build to one of three value buckets before scoping]] | @nh | `-` |
 | 2026-08-11 | [[experiments/mk-2026-08-11-local-model-3d-website-harness|Add a skill-router function to a local agent harness for asset-type-aware generation]] | @mk | `-` |

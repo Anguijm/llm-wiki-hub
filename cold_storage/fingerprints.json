@@ -1424,6 +1424,31 @@
     "slug": "aie-2026-08-11-harness-progressive-disclosure",
     "synced_at": "2026-08-11T22:39:43.441503+00:00"
   },
+  "phase4:aie-2026-08-12-agent-trace-mining-improvement-loop": {
+    "hash": "7707ce434caa962ff2e027f20203eecef3cda369cf790f0b7cbf304388482e07",
+    "slug": "aie-2026-08-12-agent-trace-mining-improvement-loop",
+    "synced_at": "2026-08-12T22:38:55.750670+00:00"
+  },
+  "phase4:aie-2026-08-12-issue-detection-code-classifiers-over-traces": {
+    "hash": "0162d0971dcafcc89fd6e6e8f3f943f4d5d8d21a020a82fdc2a7d56d7ba65dc2",
+    "slug": "aie-2026-08-12-issue-detection-code-classifiers-over-traces",
+    "synced_at": "2026-08-12T22:38:55.751903+00:00"
+  },
+  "phase4:aie-2026-08-12-llm-knowledge-base-enrichment": {
+    "hash": "058c0cb90d09a29d3a0d319d759cb97b9563a0c4f46b8fe841fdc4a1ecfd59ab",
+    "slug": "aie-2026-08-12-llm-knowledge-base-enrichment",
+    "synced_at": "2026-08-12T22:38:55.751495+00:00"
+  },
+  "phase4:aie-2026-08-12-online-per-step-hinting-distillation": {
+    "hash": "294a93bb473100ef5e1019dc71b46a10b44f1620b2713a640cd356caa1c0ebf9",
+    "slug": "aie-2026-08-12-online-per-step-hinting-distillation",
+    "synced_at": "2026-08-12T22:38:55.752291+00:00"
+  },
+  "phase4:aie-2026-08-12-ranked-recall-policy-memory-harness": {
+    "hash": "f391b2db262ae11c3e15e07ebe9dbfef41c67bea53793e34b327c370c5f8fdd2",
+    "slug": "aie-2026-08-12-ranked-recall-policy-memory-harness",
+    "synced_at": "2026-08-12T22:38:55.751095+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2714,6 +2739,11 @@
     "slug": "nb-2026-08-10-harden-systems-against-emergent-agent-coordina",
     "synced_at": "2026-08-10T22:35:44.683572+00:00"
   },
+  "phase4:nb-2026-08-12-progressive-context-shaping": {
+    "hash": "d1767c4e7a6369412ae8b07fa5624fde49e3b76358eb324cb0da750f6e1b1014",
+    "slug": "nb-2026-08-12-progressive-context-shaping",
+    "synced_at": "2026-08-12T22:38:55.748631+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -3178,6 +3208,21 @@
     "hash": "2ffb2216d6ead83d98aa1ac770996dc4187973011c6f2ea04bcf905082b6670c",
     "slug": "nh-2026-08-11-pricing-prompt-three-tiers",
     "synced_at": "2026-08-11T22:39:43.440359+00:00"
+  },
+  "phase4:nh-2026-08-12-delete-skills-unhobble-model": {
+    "hash": "773a836307cfda7364918f871d5d718362ba7474ba46a9ab78efad0a4978a7bc",
+    "slug": "nh-2026-08-12-delete-skills-unhobble-model",
+    "synced_at": "2026-08-12T22:38:55.749350+00:00"
+  },
+  "phase4:nh-2026-08-12-grokbot-persistent-agent-team": {
+    "hash": "e807ca153691f738fb2f96c3d1f31b3d114fc2d32e31d06e232b2f7b56397413",
+    "slug": "nh-2026-08-12-grokbot-persistent-agent-team",
+    "synced_at": "2026-08-12T22:38:55.750219+00:00"
+  },
+  "phase4:nh-2026-08-12-sl-goal-verification-prompt": {
+    "hash": "5a51e89d21a316918ab6da711fdfdee13ebadd7ac0a5c754aa625552ff5aff4e",
+    "slug": "nh-2026-08-12-sl-goal-verification-prompt",
+    "synced_at": "2026-08-12T22:38:55.749800+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
