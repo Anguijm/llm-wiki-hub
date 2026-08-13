@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**649 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**657 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 349 |
+| `backlog` | 357 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 419 |
+| `(none)` | 427 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,9 +32,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 284 |
+| @aie | 290 |
 | @nb | 111 |
-| @nh | 94 |
+| @nh | 96 |
 | @do | 50 |
 | @mlops | 47 |
 | @mk | 25 |
@@ -53,6 +53,14 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-13 | [[experiments/nh-2026-08-13-codex-browser-qa-automation|Use Codex Browser Agent for Automated UI/QA Testing]] | @nh | `-` |
+| 2026-08-13 | [[experiments/nh-2026-08-13-codex-browser-content-publishing-pipeline|Chain Codex Browser Skills into a Multi-Step Content Publishing Pipeline]] | @nh | `-` |
+| 2026-08-13 | [[experiments/aie-2026-08-13-scaling-compute-on-context-depth|Apply Iterative Self-Improving Synthetic Training to Encode Private Domain Depth]] | @aie | `-` |
+| 2026-08-13 | [[experiments/aie-2026-08-13-opsd-online-per-token-continual-learning|Prototype OPSD-Style Online Per-Token Reward Training from Production Agent Traces]] | @aie | `-` |
+| 2026-08-13 | [[experiments/aie-2026-08-13-memory-running-profile-staleness|Implement Asynchronous Running-Profile Memory with Conflict Detection]] | @aie | `-` |
+| 2026-08-13 | [[experiments/aie-2026-08-13-continual-learning-expertise-microworld|Build a Domain-Specific Continual Learning Loop to Accumulate Agent Expertise]] | @aie | `-` |
+| 2026-08-13 | [[experiments/aie-2026-08-13-continual-learning-benchmark-design|Design a Sequential, Sample-Efficiency-First Benchmark for Agent Continual Learning]] | @aie | `-` |
+| 2026-08-13 | [[experiments/aie-2026-08-13-autoscientist-gradient-free-continual-learnin|Evaluate Auto-Scientist for Automated Model Training Pipeline Optimization]] | @aie | `-` |
 | 2026-08-12 | [[experiments/nh-2026-08-12-sl-goal-verification-prompt|Append Self-Verification Standards to Agent Task Prompts]] | @nh | `-` |
 | 2026-08-12 | [[experiments/nh-2026-08-12-grokbot-persistent-agent-team|Test Grokbot as a Persistent Multi-Agent Team with Shared Plugin Context]] | @nh | `-` |
 | 2026-08-12 | [[experiments/nh-2026-08-12-delete-skills-unhobble-model|Audit and Prune System Prompts and Skills After Each Major Model Upgrade]] | @nh | `-` |

@@ -1449,6 +1449,36 @@
     "slug": "aie-2026-08-12-ranked-recall-policy-memory-harness",
     "synced_at": "2026-08-12T22:38:55.751095+00:00"
   },
+  "phase4:aie-2026-08-13-autoscientist-gradient-free-continual-learning": {
+    "hash": "ea2ad0a47a435c31d6587e6863e4fe6ddc3eae1220c0960a35ecf74285025636",
+    "slug": "aie-2026-08-13-autoscientist-gradient-free-continual-learnin",
+    "synced_at": "2026-08-13T22:39:38.534817+00:00"
+  },
+  "phase4:aie-2026-08-13-continual-learning-benchmark-design": {
+    "hash": "388d277071e9b9ab6d6e998eef03b45963e454c34a5a4bf7c51d0dbab15c7c68",
+    "slug": "aie-2026-08-13-continual-learning-benchmark-design",
+    "synced_at": "2026-08-13T22:39:38.535937+00:00"
+  },
+  "phase4:aie-2026-08-13-continual-learning-expertise-microworld": {
+    "hash": "6648bcde26eccad8717d09a2bfde37cb950258c596e94b9babab76d9e7b53554",
+    "slug": "aie-2026-08-13-continual-learning-expertise-microworld",
+    "synced_at": "2026-08-13T22:39:38.535087+00:00"
+  },
+  "phase4:aie-2026-08-13-memory-running-profile-staleness": {
+    "hash": "0991d664a76e7c2e9b8ea4b0d85adedf2153c46f13050c53d6b908b20b7ae960",
+    "slug": "aie-2026-08-13-memory-running-profile-staleness",
+    "synced_at": "2026-08-13T22:39:38.534533+00:00"
+  },
+  "phase4:aie-2026-08-13-opsd-online-per-token-continual-learning": {
+    "hash": "a156a94b716ecba11441829dc12dd7187832d6386a9beff6af40bfe8bde1a3b7",
+    "slug": "aie-2026-08-13-opsd-online-per-token-continual-learning",
+    "synced_at": "2026-08-13T22:39:38.535663+00:00"
+  },
+  "phase4:aie-2026-08-13-scaling-compute-on-context-depth": {
+    "hash": "6f876d4dc09d46daeaa9fb8dfe74f3ab83d175e8b04e934824973d4a0cae376c",
+    "slug": "aie-2026-08-13-scaling-compute-on-context-depth",
+    "synced_at": "2026-08-13T22:39:38.535373+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -3223,6 +3253,16 @@
     "hash": "5a51e89d21a316918ab6da711fdfdee13ebadd7ac0a5c754aa625552ff5aff4e",
     "slug": "nh-2026-08-12-sl-goal-verification-prompt",
     "synced_at": "2026-08-12T22:38:55.749800+00:00"
+  },
+  "phase4:nh-2026-08-13-codex-browser-content-publishing-pipeline": {
+    "hash": "4db5ba3370011143c14dccd469405a03459d80e0123f0c3071e42a447d64a4fb",
+    "slug": "nh-2026-08-13-codex-browser-content-publishing-pipeline",
+    "synced_at": "2026-08-13T22:39:38.534180+00:00"
+  },
+  "phase4:nh-2026-08-13-codex-browser-qa-automation": {
+    "hash": "57e626acd4e64d7d6a1a7c49d09090d08ce19cf97597ad02b5ba5daa94b97a1a",
+    "slug": "nh-2026-08-13-codex-browser-qa-automation",
+    "synced_at": "2026-08-13T22:39:38.533848+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
