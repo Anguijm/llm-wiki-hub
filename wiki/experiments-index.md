@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**657 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**668 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 357 |
+| `backlog` | 368 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 427 |
+| `(none)` | 438 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,9 +32,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 290 |
-| @nb | 111 |
-| @nh | 96 |
+| @aie | 297 |
+| @nb | 113 |
+| @nh | 98 |
 | @do | 50 |
 | @mlops | 47 |
 | @mk | 25 |
@@ -53,6 +53,17 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-14 | [[experiments/nh-2026-08-14-codex-vs-claude-code-head-to-head|Run Identical Multi-Phase Build Prompts on Two Coding Agents and Compare Output Quality vs Cost]] | @nh | `-` |
+| 2026-08-14 | [[experiments/nh-2026-08-14-adversarial-review-plugin|Add a Codex Adversarial-Review Step After Claude Code's Primary Build]] | @nh | `-` |
+| 2026-08-14 | [[experiments/nb-2026-08-14-grockbot-single-auth-perimeter|Implement a Single-Auth-Perimeter Pattern for Multi-Agent Tool Access]] | @nb | `-` |
+| 2026-08-14 | [[experiments/nb-2026-08-14-grockbot-chief-of-staff-agent|Deploy a Chief-of-Staff Coordinator Bot to Manage a Multi-Agent Swarm]] | @nb | `-` |
+| 2026-08-14 | [[experiments/aie-2026-08-14-web-data-pipeline-multimodal|Build an Iterative Multimodal Web-Data Collection Pipeline for Agent Grounding]] | @aie | `-` |
+| 2026-08-14 | [[experiments/aie-2026-08-14-rl-agent-real-world-harness|Add Risk-Aware Execution Guards and Graceful Human-Handoff to Agent Action Loop]] | @aie | `-` |
+| 2026-08-14 | [[experiments/aie-2026-08-14-cu-benchmark-stochastic-envs|Make Agent Evals Stochastic and Hierarchically Sampled to Prevent Replay-Agent Gaming]] | @aie | `-` |
+| 2026-08-14 | [[experiments/aie-2026-08-14-computer-use-long-tail-web|Benchmark a Small Fast Computer-Use Model Against Frontier Models for Long-Tail Web Tasks on Cost and Latency]] | @aie | `-` |
+| 2026-08-14 | [[experiments/aie-2026-08-14-cdp-meatbag-ladder-captcha|Use the CDP Meatbag Ladder Pattern for Agent Browser Automation Instead of MCP]] | @aie | `-` |
+| 2026-08-14 | [[experiments/aie-2026-08-14-caas-owned-vs-rented-context|Calculate the Cost Tipping Point Between Renting AI Search Context vs Owning a Custom Knowledge Graph]] | @aie | `-` |
+| 2026-08-14 | [[experiments/aie-2026-08-14-browserbase-harness-engineering|Build a Domain-Optimized Agent Harness to Extract Capability Overhang from Existing Models]] | @aie | `-` |
 | 2026-08-13 | [[experiments/nh-2026-08-13-codex-browser-qa-automation|Use Codex Browser Agent for Automated UI/QA Testing]] | @nh | `-` |
 | 2026-08-13 | [[experiments/nh-2026-08-13-codex-browser-content-publishing-pipeline|Chain Codex Browser Skills into a Multi-Step Content Publishing Pipeline]] | @nh | `-` |
 | 2026-08-13 | [[experiments/aie-2026-08-13-scaling-compute-on-context-depth|Apply Iterative Self-Improving Synthetic Training to Encode Private Domain Depth]] | @aie | `-` |

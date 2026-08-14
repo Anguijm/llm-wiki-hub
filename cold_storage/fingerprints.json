@@ -1479,6 +1479,41 @@
     "slug": "aie-2026-08-13-scaling-compute-on-context-depth",
     "synced_at": "2026-08-13T22:39:38.535373+00:00"
   },
+  "phase4:aie-2026-08-14-browserbase-harness-engineering": {
+    "hash": "2e00b4a8a833760c8efde8e59c3441f9cf5aa5a71911ca4f995a284c68f0c4a2",
+    "slug": "aie-2026-08-14-browserbase-harness-engineering",
+    "synced_at": "2026-08-14T22:20:54.121169+00:00"
+  },
+  "phase4:aie-2026-08-14-caas-owned-vs-rented-context": {
+    "hash": "21f3fbe029b45d0472290aaa3096f5d89445932a1c8ed3f9a60a17b497bbe82b",
+    "slug": "aie-2026-08-14-caas-owned-vs-rented-context",
+    "synced_at": "2026-08-14T22:20:54.120348+00:00"
+  },
+  "phase4:aie-2026-08-14-cdp-meatbag-ladder-captcha": {
+    "hash": "f5f5f31b80c1b3d61c12d9c35c07a2c0d592252cf1170f43b071b760c440d884",
+    "slug": "aie-2026-08-14-cdp-meatbag-ladder-captcha",
+    "synced_at": "2026-08-14T22:20:54.120913+00:00"
+  },
+  "phase4:aie-2026-08-14-computer-use-long-tail-web": {
+    "hash": "06c173165785a380d4897798bae9bdb7da6491633ff415f8cd6e42d1bfecc953",
+    "slug": "aie-2026-08-14-computer-use-long-tail-web",
+    "synced_at": "2026-08-14T22:20:54.121739+00:00"
+  },
+  "phase4:aie-2026-08-14-cu-benchmark-stochastic-envs": {
+    "hash": "987109588b93ffd5e4bf4f67ac1c1204603deea41d47281690226c04128cab40",
+    "slug": "aie-2026-08-14-cu-benchmark-stochastic-envs",
+    "synced_at": "2026-08-14T22:20:54.121440+00:00"
+  },
+  "phase4:aie-2026-08-14-rl-agent-real-world-harness": {
+    "hash": "c0b707383fdf5825152fd5828aa7ba7a12b30993fd21bed36321d72371441bf4",
+    "slug": "aie-2026-08-14-rl-agent-real-world-harness",
+    "synced_at": "2026-08-14T22:20:54.120624+00:00"
+  },
+  "phase4:aie-2026-08-14-web-data-pipeline-multimodal": {
+    "hash": "b50c4e9542ef55391ac307a735df92fba99ba3dc74f22e06c62523535910896f",
+    "slug": "aie-2026-08-14-web-data-pipeline-multimodal",
+    "synced_at": "2026-08-14T22:20:54.120078+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2774,6 +2809,16 @@
     "slug": "nb-2026-08-12-progressive-context-shaping",
     "synced_at": "2026-08-12T22:38:55.748631+00:00"
   },
+  "phase4:nb-2026-08-14-grockbot-chief-of-staff-agent": {
+    "hash": "a5fcff6dfd79e9fc6e221510886069b19ccc4c09ffcc0619fe642561442cca78",
+    "slug": "nb-2026-08-14-grockbot-chief-of-staff-agent",
+    "synced_at": "2026-08-14T22:20:54.118876+00:00"
+  },
+  "phase4:nb-2026-08-14-grockbot-single-auth-perimeter": {
+    "hash": "cc86fec3241c62cefc4082f05f5966e9518573821268d05c76fd24710b22b56b",
+    "slug": "nb-2026-08-14-grockbot-single-auth-perimeter",
+    "synced_at": "2026-08-14T22:20:54.119206+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -3263,6 +3308,16 @@
     "hash": "57e626acd4e64d7d6a1a7c49d09090d08ce19cf97597ad02b5ba5daa94b97a1a",
     "slug": "nh-2026-08-13-codex-browser-qa-automation",
     "synced_at": "2026-08-13T22:39:38.533848+00:00"
+  },
+  "phase4:nh-2026-08-14-adversarial-review-plugin": {
+    "hash": "84a3c35d9e235e3c9301108437f9bb327f0fbae6c82af5552930dd586f489ce9",
+    "slug": "nh-2026-08-14-adversarial-review-plugin",
+    "synced_at": "2026-08-14T22:20:54.119795+00:00"
+  },
+  "phase4:nh-2026-08-14-codex-vs-claude-code-head-to-head": {
+    "hash": "4d1d093fd8c5355627b3cb2ce2fc91e7bdc65e1c0739dadb8ad93eeaa3e81e15",
+    "slug": "nh-2026-08-14-codex-vs-claude-code-head-to-head",
+    "synced_at": "2026-08-14T22:20:54.119493+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
