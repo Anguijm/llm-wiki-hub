@@ -2009,6 +2009,16 @@
     "slug": "mk-2026-08-11-local-model-3d-website-harness",
     "synced_at": "2026-08-11T22:39:43.440664+00:00"
   },
+  "phase4:mk-2026-08-15-api-aggregator-creative-studio": {
+    "hash": "f66252ef30796b45bdf73b36bc29154f4d4d70ef5af3e313c15b140d96b686a2",
+    "slug": "mk-2026-08-15-api-aggregator-creative-studio",
+    "synced_at": "2026-08-15T22:19:37.968933+00:00"
+  },
+  "phase4:mk-2026-08-15-mcp-codex-video-generation": {
+    "hash": "50708c20a65ba7fd7403bd3c2ade130eecfcc2d64349030cb8567cf5666c1f32",
+    "slug": "mk-2026-08-15-mcp-codex-video-generation",
+    "synced_at": "2026-08-15T22:19:37.969336+00:00"
+  },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
     "slug": "mlops-2026-03-17-durable-execution-agents",
