@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**670 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**672 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 370 |
+| `backlog` | 372 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 440 |
+| `(none)` | 442 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -39,7 +39,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | @mlops | 47 |
 | @mk | 27 |
 | @aij | 16 |
-| @st | 10 |
+| @st | 12 |
 | @up | 5 |
 | @eh | 4 |
 | @fs | 2 |
@@ -53,6 +53,8 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-16 | [[experiments/st-2026-08-16-morning-agent-triage|Implement a Scheduled Morning Agent Sync That Produces a Skimmable Action-Item Summary]] | @st | `-` |
+| 2026-08-16 | [[experiments/st-2026-08-16-aios-seven-components|Map Your Dev Loop to a 7-Component AI OS Framework]] | @st | `-` |
 | 2026-08-15 | [[experiments/mk-2026-08-15-mcp-codex-video-generation|Expose Video Generation Models as a Local MCP for Coding Agents]] | @mk | `-` |
 | 2026-08-15 | [[experiments/mk-2026-08-15-api-aggregator-creative-studio|Build a Pay-As-You-Go Multi-Model Creative Studio via API Aggregator]] | @mk | `-` |
 | 2026-08-14 | [[experiments/nh-2026-08-14-codex-vs-claude-code-head-to-head|Run Identical Multi-Phase Build Prompts on Two Coding Agents and Compare Output Quality vs Cost]] | @nh | `-` |

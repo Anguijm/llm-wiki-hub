@@ -3379,6 +3379,16 @@
     "slug": "st-2026-08-02-four-step-skill-delegation-framework",
     "synced_at": "2026-08-02T22:55:48.543770+00:00"
   },
+  "phase4:st-2026-08-16-aios-seven-components": {
+    "hash": "d3564b1165cea987e2ded5ff448d45d1b602dc06a571e0dd88b64cd60b870e2f",
+    "slug": "st-2026-08-16-aios-seven-components",
+    "synced_at": "2026-08-16T22:19:11.893455+00:00"
+  },
+  "phase4:st-2026-08-16-morning-agent-triage": {
+    "hash": "4121143e8373d603e173a2735d2e5f778d06e1cac90efef700e1f60147b08ba9",
+    "slug": "st-2026-08-16-morning-agent-triage",
+    "synced_at": "2026-08-16T22:19:11.893821+00:00"
+  },
   "phase4:tmp-2026-04-01-quantized-local-inference": {
     "hash": "acff2ffb5b52096bc966a39fe8851f9a222cb9dcbcbb9a8420c2b33752962921",
     "slug": "tmp-2026-04-01-quantized-local-inference",
