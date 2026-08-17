@@ -1514,6 +1514,21 @@
     "slug": "aie-2026-08-14-web-data-pipeline-multimodal",
     "synced_at": "2026-08-14T22:20:54.120078+00:00"
   },
+  "phase4:aie-2026-08-17-agent-network-firewall": {
+    "hash": "8dcd09e74a9bc9b194c1b6c4a8842d47220f29838c7f88b3371475078c50b5a5",
+    "slug": "aie-2026-08-17-agent-network-firewall",
+    "synced_at": "2026-08-17T22:22:28.535719+00:00"
+  },
+  "phase4:aie-2026-08-17-ai-slot-register": {
+    "hash": "7fd70a6cb6be6f2d24e697adf15c41f03a7da788cd708e84c21310c4bce33e60",
+    "slug": "aie-2026-08-17-ai-slot-register",
+    "synced_at": "2026-08-17T22:22:28.535586+00:00"
+  },
+  "phase4:aie-2026-08-17-context-compaction-strategy": {
+    "hash": "f931163af012bf3deac1109bc6341cf9f22638283d056899e6e5a38ebd46cff1",
+    "slug": "aie-2026-08-17-context-compaction-strategy",
+    "synced_at": "2026-08-17T22:22:28.535852+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2259,6 +2274,11 @@
     "slug": "mlops-2026-07-24-coding-agents-as-general-agents",
     "synced_at": "2026-07-24T23:00:13.500217+00:00"
   },
+  "phase4:mlops-2026-08-17-loop-engineering-eval-harness": {
+    "hash": "e2d6bdde8c14e838a0d73a42528f356b535c5c1dcf970556a7b561d740536092",
+    "slug": "mlops-2026-08-17-loop-engineering-eval-harness",
+    "synced_at": "2026-08-17T22:22:28.535443+00:00"
+  },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",
     "slug": "nb-2026-03-24-agent-readiness-checklist",
@@ -2828,6 +2848,16 @@
     "hash": "cc86fec3241c62cefc4082f05f5966e9518573821268d05c76fd24710b22b56b",
     "slug": "nb-2026-08-14-grockbot-single-auth-perimeter",
     "synced_at": "2026-08-14T22:20:54.119206+00:00"
+  },
+  "phase4:nb-2026-08-17-agent-permission-scoping": {
+    "hash": "b7217318fac583a420fb83cb560604198a249eada6f64009c924a8f75dea6cfe",
+    "slug": "nb-2026-08-17-agent-permission-scoping",
+    "synced_at": "2026-08-17T22:22:28.535031+00:00"
+  },
+  "phase4:nb-2026-08-17-skill-provenance-audit": {
+    "hash": "bb5c69af0f7c33654dd0c1e600689ca0d3c9483cbe5ccd9741bcffdbac56accf",
+    "slug": "nb-2026-08-17-skill-provenance-audit",
+    "synced_at": "2026-08-17T22:22:28.535279+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",

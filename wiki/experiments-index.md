@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**672 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**678 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 372 |
+| `backlog` | 378 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 442 |
+| `(none)` | 448 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,11 +32,11 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 297 |
-| @nb | 113 |
+| @aie | 300 |
+| @nb | 115 |
 | @nh | 98 |
 | @do | 50 |
-| @mlops | 47 |
+| @mlops | 48 |
 | @mk | 27 |
 | @aij | 16 |
 | @st | 12 |
@@ -53,6 +53,12 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-17 | [[experiments/nb-2026-08-17-skill-provenance-audit|Implement a Skill Provenance Check Before Installing Any Agent Skill]] | @nb | `-` |
+| 2026-08-17 | [[experiments/nb-2026-08-17-agent-permission-scoping|Audit and Scope Agent Permissions Before Any Task Execution]] | @nb | `-` |
+| 2026-08-17 | [[experiments/mlops-2026-08-17-loop-engineering-eval-harness|Replace Single-Shot Prompts with Stateful REPL Loops for Long-Horizon Coding Tasks]] | @mlops | `-` |
+| 2026-08-17 | [[experiments/aie-2026-08-17-context-compaction-strategy|Default to Full Context Retention with Lazy Compaction Threshold Instead of Eager Summarization]] | @aie | `-` |
+| 2026-08-17 | [[experiments/aie-2026-08-17-ai-slot-register|Mine Past Review Comments to Build a Reusable AI Slot Register]] | @aie | `-` |
+| 2026-08-17 | [[experiments/aie-2026-08-17-agent-network-firewall|Route All Agent Egress Through a Protocol-Aware Firewall with Human Approval Rules]] | @aie | `-` |
 | 2026-08-16 | [[experiments/st-2026-08-16-morning-agent-triage|Implement a Scheduled Morning Agent Sync That Produces a Skimmable Action-Item Summary]] | @st | `-` |
 | 2026-08-16 | [[experiments/st-2026-08-16-aios-seven-components|Map Your Dev Loop to a 7-Component AI OS Framework]] | @st | `-` |
 | 2026-08-15 | [[experiments/mk-2026-08-15-mcp-codex-video-generation|Expose Video Generation Models as a Local MCP for Coding Agents]] | @mk | `-` |
