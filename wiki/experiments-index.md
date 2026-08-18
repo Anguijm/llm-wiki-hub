@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**678 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**689 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 378 |
+| `backlog` | 389 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 448 |
+| `(none)` | 459 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,11 +32,11 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 300 |
+| @aie | 306 |
 | @nb | 115 |
-| @nh | 98 |
+| @nh | 99 |
+| @mlops | 52 |
 | @do | 50 |
-| @mlops | 48 |
 | @mk | 27 |
 | @aij | 16 |
 | @st | 12 |
@@ -53,6 +53,17 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-18 | [[experiments/nh-2026-08-18-become-inhouse-ai-person|Apply the Constraint-Attack Framework to Prioritize Which AI Automations to Build Next]] | @nh | `-` |
+| 2026-08-18 | [[experiments/mlops-2026-08-18-tamper-evident-audit-mcp|Add Tamper-Evident Trace Reports to MCP Agent Sessions Using Hardware Attestation]] | @mlops | `-` |
+| 2026-08-18 | [[experiments/mlops-2026-08-18-stateless-mcp-horizontal-scale|Deploy MCP Servers Behind a Load Balancer Using Stateless Protocol + DB-Backed Session Tokens]] | @mlops | `-` |
+| 2026-08-18 | [[experiments/mlops-2026-08-18-mcp-event-subscriptions|Prototype MCP Event Subscriptions Using the Proposed Poll Delivery Mode]] | @mlops | `-` |
+| 2026-08-18 | [[experiments/mlops-2026-08-18-json-schema-2020-12-mcp-tools|Rewrite MCP Tool Schemas Using JSON Schema 2020-12 Conditional Keywords]] | @mlops | `-` |
+| 2026-08-18 | [[experiments/aie-2026-08-18-stylistic-diversity-data-curation|Audit training data curation pipeline for unintentional stylistic diversity loss]] | @aie | `-` |
+| 2026-08-18 | [[experiments/aie-2026-08-18-realtime-interactive-video-integration|Integrate a Real-Time Interactive Video World Model via Reactor API for Controllable Visual Agents]] | @aie | `-` |
+| 2026-08-18 | [[experiments/aie-2026-08-18-prompt-expander-llm-distillation|Add a small LLM prompt expander before image generation to improve output quality]] | @aie | `-` |
+| 2026-08-18 | [[experiments/aie-2026-08-18-lod-context-assembly-game-engine-agent|Apply Level-of-Detail (LOD) Context Pruning to Manage Large Scene Graphs in Agent Prompts]] | @aie | `-` |
+| 2026-08-18 | [[experiments/aie-2026-08-18-large-scale-training-infra-metrics|Replace GPU Utilization Metrics with Tensor Core Utilization as the Primary Training Health Signal]] | @aie | `-` |
+| 2026-08-18 | [[experiments/aie-2026-08-18-agentic-video-editor-remotion|Use Remotion (Video-as-React-Code) as the Agent Output Format for Programmatic Video Composition]] | @aie | `-` |
 | 2026-08-17 | [[experiments/nb-2026-08-17-skill-provenance-audit|Implement a Skill Provenance Check Before Installing Any Agent Skill]] | @nb | `-` |
 | 2026-08-17 | [[experiments/nb-2026-08-17-agent-permission-scoping|Audit and Scope Agent Permissions Before Any Task Execution]] | @nb | `-` |
 | 2026-08-17 | [[experiments/mlops-2026-08-17-loop-engineering-eval-harness|Replace Single-Shot Prompts with Stateful REPL Loops for Long-Horizon Coding Tasks]] | @mlops | `-` |

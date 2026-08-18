@@ -1529,6 +1529,36 @@
     "slug": "aie-2026-08-17-context-compaction-strategy",
     "synced_at": "2026-08-17T22:22:28.535852+00:00"
   },
+  "phase4:aie-2026-08-18-agentic-video-editor-remotion": {
+    "hash": "2d3047b3e4c4c04242b77cf77bd5c158cae6f41d2fc8b80313d5de8317a14164",
+    "slug": "aie-2026-08-18-agentic-video-editor-remotion",
+    "synced_at": "2026-08-18T22:21:44.809680+00:00"
+  },
+  "phase4:aie-2026-08-18-large-scale-training-infra-metrics": {
+    "hash": "64afaf05e380817d79d9d25936be0e2ec196d260fc79f38a1649dabdfbf880f7",
+    "slug": "aie-2026-08-18-large-scale-training-infra-metrics",
+    "synced_at": "2026-08-18T22:21:44.809346+00:00"
+  },
+  "phase4:aie-2026-08-18-lod-context-assembly-game-engine-agent": {
+    "hash": "5658324ce9f9a4fd7392b148698b5bd9ef211cd2ea93bbe33e118d96f83b3bad",
+    "slug": "aie-2026-08-18-lod-context-assembly-game-engine-agent",
+    "synced_at": "2026-08-18T22:21:44.809981+00:00"
+  },
+  "phase4:aie-2026-08-18-prompt-expander-llm-distillation": {
+    "hash": "ce720fa792b9a45a2e67a29eaf9738da04cc82547e396d5d6bd982d6a5dda169",
+    "slug": "aie-2026-08-18-prompt-expander-llm-distillation",
+    "synced_at": "2026-08-18T22:21:44.810650+00:00"
+  },
+  "phase4:aie-2026-08-18-realtime-interactive-video-integration": {
+    "hash": "a4a7065f855cbe294df4789db45e117967935f071f2c0115d49792d178e4f5ea",
+    "slug": "aie-2026-08-18-realtime-interactive-video-integration",
+    "synced_at": "2026-08-18T22:21:44.809043+00:00"
+  },
+  "phase4:aie-2026-08-18-stylistic-diversity-data-curation": {
+    "hash": "83db6a15aba8c5ed0a1bf1c7450cb2ca9ecc62478736c57687fbecfa02474798",
+    "slug": "aie-2026-08-18-stylistic-diversity-data-curation",
+    "synced_at": "2026-08-18T22:21:44.810281+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2278,6 +2308,26 @@
     "hash": "e2d6bdde8c14e838a0d73a42528f356b535c5c1dcf970556a7b561d740536092",
     "slug": "mlops-2026-08-17-loop-engineering-eval-harness",
     "synced_at": "2026-08-17T22:22:28.535443+00:00"
+  },
+  "phase4:mlops-2026-08-18-json-schema-2020-12-mcp-tools": {
+    "hash": "9a48e75e2f49bf17cbe6e4c84f8dfcb2fbcd7658adcac9d8bd5bf69741d88848",
+    "slug": "mlops-2026-08-18-json-schema-2020-12-mcp-tools",
+    "synced_at": "2026-08-18T22:21:44.807346+00:00"
+  },
+  "phase4:mlops-2026-08-18-mcp-event-subscriptions": {
+    "hash": "464f163e93d606044f7625605406b786a4726c02dec861e23c09c922828b2aef",
+    "slug": "mlops-2026-08-18-mcp-event-subscriptions",
+    "synced_at": "2026-08-18T22:21:44.808080+00:00"
+  },
+  "phase4:mlops-2026-08-18-stateless-mcp-horizontal-scale": {
+    "hash": "f3f58262606e5bae07118891d698b1aa3ff315757ca95fcd32fa3e1ddeccadb7",
+    "slug": "mlops-2026-08-18-stateless-mcp-horizontal-scale",
+    "synced_at": "2026-08-18T22:21:44.807746+00:00"
+  },
+  "phase4:mlops-2026-08-18-tamper-evident-audit-mcp": {
+    "hash": "46f2f9629d56fab72112523a99714cbadcd8c3905d53e28165f4462ec302a815",
+    "slug": "mlops-2026-08-18-tamper-evident-audit-mcp",
+    "synced_at": "2026-08-18T22:21:44.808393+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",
@@ -3358,6 +3408,11 @@
     "hash": "4d1d093fd8c5355627b3cb2ce2fc91e7bdc65e1c0739dadb8ad93eeaa3e81e15",
     "slug": "nh-2026-08-14-codex-vs-claude-code-head-to-head",
     "synced_at": "2026-08-14T22:20:54.119493+00:00"
+  },
+  "phase4:nh-2026-08-18-become-inhouse-ai-person": {
+    "hash": "ada84a9f40864d3036789811d1578186a5d7ca638b9b19528ca8278a5f94ac07",
+    "slug": "nh-2026-08-18-become-inhouse-ai-person",
+    "synced_at": "2026-08-18T22:21:44.808736+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
