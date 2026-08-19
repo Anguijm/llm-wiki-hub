@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**689 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**716 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 389 |
+| `backlog` | 416 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 459 |
+| `(none)` | 486 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,12 +32,12 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 306 |
-| @nb | 115 |
-| @nh | 99 |
-| @mlops | 52 |
+| @aie | 320 |
+| @nb | 117 |
+| @nh | 100 |
+| @mlops | 61 |
 | @do | 50 |
-| @mk | 27 |
+| @mk | 28 |
 | @aij | 16 |
 | @st | 12 |
 | @up | 5 |
@@ -53,6 +53,33 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-19 | [[experiments/nh-2026-08-19-grokbot-chief-of-staff-pattern|Implement a chief-of-staff agent that delegates to specialist sub-agents instead of routing tasks manually]] | @nh | `-` |
+| 2026-08-19 | [[experiments/nb-2026-08-19-plain-english-agent-skill|Inject a plain-English explanation skill into coding agents before architecture decisions]] | @nb | `-` |
+| 2026-08-19 | [[experiments/nb-2026-08-19-five-software-shapes-map|Use a 'wish-to-shape' framing exercise before choosing a build tool]] | @nb | `-` |
+| 2026-08-19 | [[experiments/mlops-2026-08-19-mcp-tasks-v2-temporal|Implement MCP Tasks v2 server-side durability using Temporal workflows]] | @mlops | `-` |
+| 2026-08-19 | [[experiments/mlops-2026-08-19-mcp-tasks-extension-v1-v2|Migrate MCP tool servers from blocking calls to Tasks v2 async pattern]] | @mlops | `-` |
+| 2026-08-19 | [[experiments/mlops-2026-08-19-mcp-stateless-spec-migration|Migrate MCP server to stateless mode for horizontal scalability and zero sticky-session headaches]] | @mlops | `-` |
+| 2026-08-19 | [[experiments/mlops-2026-08-19-mcp-security-static-scan-cicd|Add AST-based taint-flow static analysis to CI/CD pipeline for MCP server code]] | @mlops | `-` |
+| 2026-08-19 | [[experiments/mlops-2026-08-19-mcp-observability-anomaly-detection|Wire an MCP server to an observability stack for natural-language anomaly detection and model config recommendations]] | @mlops | `-` |
+| 2026-08-19 | [[experiments/mlops-2026-08-19-mcp-governance-framework|Implement a four-pillar governance layer (policy, identity, HITL approvals, observability) around MCP-connected agents]] | @mlops | `-` |
+| 2026-08-19 | [[experiments/mlops-2026-08-19-mcp-dual-era-server-migration|Build dual-era MCP servers that serve both stateless and stateful clients from a single endpoint during transition]] | @mlops | `-` |
+| 2026-08-19 | [[experiments/mlops-2026-08-19-idp-into-ide-declarative-agent-harness|Build a declarative YAML harness so domain teams can ship compliant agents without AI/security expertise]] | @mlops | `-` |
+| 2026-08-19 | [[experiments/mlops-2026-08-19-enterprise-mcp-role-based-gateway|Replace per-tool MCP servers with role-based gateway servers that model business operations]] | @mlops | `-` |
+| 2026-08-19 | [[experiments/mk-2026-08-19-sdk-bridge-replace-api-keys|Use the Codex/Claude SDK as an API-key-free bridge for internal tool AI calls]] | @mk | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-x12-standard-schema-agent-harness|Ground Agent Memory and Transactions in a Domain-Standard Schema to Constrain Action Space]] | @aie | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-world-model-avatar-eq-iq-split|Architect Photorealistic Avatars with Separate EQ (Expression/Embodiment) and IQ (Reasoning/Tool-Use) Models]] | @aie | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-vertical-ai-seven-step-recipe|Scope Vertical AI Agents to a Single Narrow Task and Gate Expansion on ROI]] | @aie | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-skills-based-domain-expert-pipeline|Model Data Pipelines as Skill Files on an Agent Harness So Domain Experts Own Them]] | @aie | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-simulation-first-hazard-driven-shipping|Ship AI Agents via Staged Simulation-to-Production Pipeline Anchored to an Explicit Hazard Registry]] | @aie | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-reverse-inference-synthetic-data|Generate Synthetic Training Data by Reversing the Inference Workflow]] | @aie | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-realtime-generative-video-inference|Serve Distilled Video Generation Models in Streaming Pipelines for Real-Time Interactive Applications]] | @aie | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-object-storage-privacy-evals|Run Production Evals Inside Customer Environment via Orchestration-Adjacent Object Storage]] | @aie | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-immutable-ledger-audit-trail|Build an Immutable Ledger of Agent Actions for Audit and Replay]] | @aie | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-hippocratic-latency-intelligence-tradeoff|Build a Vertically Integrated Inference Stack to Hit Both Latency and Clinical Accuracy Targets Simultaneously]] | @aie | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-deterministic-code-layer-above-model|Place a Deterministic Code Layer Above the Model for All Irreversible High-Stakes Decisions]] | @aie | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-decompose-workflows-post-train-small-models|Decompose Complex Workflows into Sub-Tasks and Post-Train Small Models Per Sub-Task to Reduce Cost and Latency]] | @aie | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-clinical-ai-tdd-evals|Write Hundreds of Evals TDD-Style Before Prompting, with Zero Tolerance for Safety-Critical Failures]] | @aie | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-ai-native-org-transformation|Run Per-Test-Case Multiple Trials with Minimum Pass Rate for Non-Deterministic AI Features]] | @aie | `-` |
 | 2026-08-18 | [[experiments/nh-2026-08-18-become-inhouse-ai-person|Apply the Constraint-Attack Framework to Prioritize Which AI Automations to Build Next]] | @nh | `-` |
 | 2026-08-18 | [[experiments/mlops-2026-08-18-tamper-evident-audit-mcp|Add Tamper-Evident Trace Reports to MCP Agent Sessions Using Hardware Attestation]] | @mlops | `-` |
 | 2026-08-18 | [[experiments/mlops-2026-08-18-stateless-mcp-horizontal-scale|Deploy MCP Servers Behind a Load Balancer Using Stateless Protocol + DB-Backed Session Tokens]] | @mlops | `-` |

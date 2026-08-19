@@ -1559,6 +1559,76 @@
     "slug": "aie-2026-08-18-stylistic-diversity-data-curation",
     "synced_at": "2026-08-18T22:21:44.810281+00:00"
   },
+  "phase4:aie-2026-08-19-ai-native-org-transformation": {
+    "hash": "536db4c93a5a66e610eaf20c71c92d3d5d356b2cd858c6a73b843a3b5fd9a23f",
+    "slug": "aie-2026-08-19-ai-native-org-transformation",
+    "synced_at": "2026-08-19T22:22:49.315557+00:00"
+  },
+  "phase4:aie-2026-08-19-clinical-ai-tdd-evals": {
+    "hash": "2cc46d6bbb28fb566e2dc49b4d45eb12bff4c9d9f5a8d42e302ae71501098853",
+    "slug": "aie-2026-08-19-clinical-ai-tdd-evals",
+    "synced_at": "2026-08-19T22:22:49.316866+00:00"
+  },
+  "phase4:aie-2026-08-19-decompose-workflows-post-train-small-models": {
+    "hash": "3d81e8e12ebcd3dcc3b6f0086a2de7779a9a945569b6cb6f79f13adfecd725a5",
+    "slug": "aie-2026-08-19-decompose-workflows-post-train-small-models",
+    "synced_at": "2026-08-19T22:22:49.317800+00:00"
+  },
+  "phase4:aie-2026-08-19-deterministic-code-layer-above-model": {
+    "hash": "6a55a305da89862fb0d5b43b85084c3d5efc0d391283f76e53623f0ab4ac9030",
+    "slug": "aie-2026-08-19-deterministic-code-layer-above-model",
+    "synced_at": "2026-08-19T22:22:49.317497+00:00"
+  },
+  "phase4:aie-2026-08-19-hippocratic-latency-intelligence-tradeoff": {
+    "hash": "b7bda41b35c0d7c46c06d231dd8f8f9396458d2b9a9b18461067460e3693276f",
+    "slug": "aie-2026-08-19-hippocratic-latency-intelligence-tradeoff",
+    "synced_at": "2026-08-19T22:22:49.316560+00:00"
+  },
+  "phase4:aie-2026-08-19-immutable-ledger-audit-trail": {
+    "hash": "4076a30287bbe3dcd256269ca91a9348135f8a77c2c7f778d6e36750cda7e803",
+    "slug": "aie-2026-08-19-immutable-ledger-audit-trail",
+    "synced_at": "2026-08-19T22:22:49.314257+00:00"
+  },
+  "phase4:aie-2026-08-19-object-storage-privacy-evals": {
+    "hash": "a53cc26a91b065aa5938bc46333a7219fcf81fe8ff2ce77b34ddf3c3d6e920d7",
+    "slug": "aie-2026-08-19-object-storage-privacy-evals",
+    "synced_at": "2026-08-19T22:22:49.314604+00:00"
+  },
+  "phase4:aie-2026-08-19-realtime-generative-video-inference": {
+    "hash": "aec0b13d9105c65e2bfb15496fa3562e82e1ccc92cd48f922d5159f4fe89ee02",
+    "slug": "aie-2026-08-19-realtime-generative-video-inference",
+    "synced_at": "2026-08-19T22:22:49.318098+00:00"
+  },
+  "phase4:aie-2026-08-19-reverse-inference-synthetic-data": {
+    "hash": "e114eb17162e9121cb2d505165f6c515d29a9b8eee321f57aeff6882e3bcd095",
+    "slug": "aie-2026-08-19-reverse-inference-synthetic-data",
+    "synced_at": "2026-08-19T22:22:49.314907+00:00"
+  },
+  "phase4:aie-2026-08-19-simulation-first-hazard-driven-shipping": {
+    "hash": "ee8d02f2c081cf77da4f16fb6fb8b7a53f906768b974e4c08dcd3dcb347df2b8",
+    "slug": "aie-2026-08-19-simulation-first-hazard-driven-shipping",
+    "synced_at": "2026-08-19T22:22:49.317169+00:00"
+  },
+  "phase4:aie-2026-08-19-skills-based-domain-expert-pipeline": {
+    "hash": "27c3443f15861123728539a518d68e47e5bcd8fe2f231582bad7a9c09ed0fa84",
+    "slug": "aie-2026-08-19-skills-based-domain-expert-pipeline",
+    "synced_at": "2026-08-19T22:22:49.315217+00:00"
+  },
+  "phase4:aie-2026-08-19-vertical-ai-seven-step-recipe": {
+    "hash": "9f6f90a7a1c9dcc2dbc159b964f6f5270debbb9443bd4c63ab4b60c4407273f2",
+    "slug": "aie-2026-08-19-vertical-ai-seven-step-recipe",
+    "synced_at": "2026-08-19T22:22:49.315857+00:00"
+  },
+  "phase4:aie-2026-08-19-world-model-avatar-eq-iq-split": {
+    "hash": "13b44a02475dd897ea7a675391dc775ec0f35788421eab6aeaa119830687c9a0",
+    "slug": "aie-2026-08-19-world-model-avatar-eq-iq-split",
+    "synced_at": "2026-08-19T22:22:49.318411+00:00"
+  },
+  "phase4:aie-2026-08-19-x12-standard-schema-agent-harness": {
+    "hash": "0c61de21f0e6a1319a3f623a6dfa4324cfb64d1f3c63aa3f778cdf7099d2740b",
+    "slug": "aie-2026-08-19-x12-standard-schema-agent-harness",
+    "synced_at": "2026-08-19T22:22:49.316225+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2064,6 +2134,11 @@
     "slug": "mk-2026-08-15-mcp-codex-video-generation",
     "synced_at": "2026-08-15T22:19:37.969336+00:00"
   },
+  "phase4:mk-2026-08-19-sdk-bridge-replace-api-keys": {
+    "hash": "e678ddd247fd20a9af9053387087f3f1062f746bf1228691558f953fa6111199",
+    "slug": "mk-2026-08-19-sdk-bridge-replace-api-keys",
+    "synced_at": "2026-08-19T22:22:49.313953+00:00"
+  },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
     "slug": "mlops-2026-03-17-durable-execution-agents",
@@ -2328,6 +2403,51 @@
     "hash": "46f2f9629d56fab72112523a99714cbadcd8c3905d53e28165f4462ec302a815",
     "slug": "mlops-2026-08-18-tamper-evident-audit-mcp",
     "synced_at": "2026-08-18T22:21:44.808393+00:00"
+  },
+  "phase4:mlops-2026-08-19-enterprise-mcp-role-based-gateway": {
+    "hash": "d35ab5bef7dd40bff349f96096ff85097477387f43aedb4d64facfe367638d98",
+    "slug": "mlops-2026-08-19-enterprise-mcp-role-based-gateway",
+    "synced_at": "2026-08-19T22:22:49.313285+00:00"
+  },
+  "phase4:mlops-2026-08-19-idp-into-ide-declarative-agent-harness": {
+    "hash": "a22a79c7747f6e2d8eb6b44b96e8520358d7c6b8d37f7c573ec927923a921499",
+    "slug": "mlops-2026-08-19-idp-into-ide-declarative-agent-harness",
+    "synced_at": "2026-08-19T22:22:49.311706+00:00"
+  },
+  "phase4:mlops-2026-08-19-mcp-dual-era-server-migration": {
+    "hash": "9ed491fa8ec0465baa3febf986c654e80df491881dba82a46eb8601bdb1adf5f",
+    "slug": "mlops-2026-08-19-mcp-dual-era-server-migration",
+    "synced_at": "2026-08-19T22:22:49.312979+00:00"
+  },
+  "phase4:mlops-2026-08-19-mcp-governance-framework": {
+    "hash": "e6d9e414ce3854b21f61678611840cf6f134c9ef0564bb71f3d4e5eaddc8f511",
+    "slug": "mlops-2026-08-19-mcp-governance-framework",
+    "synced_at": "2026-08-19T22:22:49.312667+00:00"
+  },
+  "phase4:mlops-2026-08-19-mcp-observability-anomaly-detection": {
+    "hash": "c09a0b16072e9077251a5e991a834b18feb40cfa4eea716c47574d78d2c83160",
+    "slug": "mlops-2026-08-19-mcp-observability-anomaly-detection",
+    "synced_at": "2026-08-19T22:22:49.311353+00:00"
+  },
+  "phase4:mlops-2026-08-19-mcp-security-static-scan-cicd": {
+    "hash": "6eeca20cde1e03a757f4e25125e245928af1508347bd24481395df5abcd46bc1",
+    "slug": "mlops-2026-08-19-mcp-security-static-scan-cicd",
+    "synced_at": "2026-08-19T22:22:49.312335+00:00"
+  },
+  "phase4:mlops-2026-08-19-mcp-stateless-spec-migration": {
+    "hash": "a73b2c01ea9fbc79aad84a0973dde81f045609d37af066abd6198acabee88841",
+    "slug": "mlops-2026-08-19-mcp-stateless-spec-migration",
+    "synced_at": "2026-08-19T22:22:49.312023+00:00"
+  },
+  "phase4:mlops-2026-08-19-mcp-tasks-extension-v1-v2": {
+    "hash": "5dcca4da54b698263135e37a6810a103b2cf089c9e1edc378381cfb850cf93d5",
+    "slug": "mlops-2026-08-19-mcp-tasks-extension-v1-v2",
+    "synced_at": "2026-08-19T22:22:49.311041+00:00"
+  },
+  "phase4:mlops-2026-08-19-mcp-tasks-v2-temporal": {
+    "hash": "7e8c69d06d8485626e1e6e7704a563ec0616d873786c815cf734d3bf8e91e083",
+    "slug": "mlops-2026-08-19-mcp-tasks-v2-temporal",
+    "synced_at": "2026-08-19T22:22:49.310738+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",
@@ -2909,6 +3029,16 @@
     "slug": "nb-2026-08-17-skill-provenance-audit",
     "synced_at": "2026-08-17T22:22:28.535279+00:00"
   },
+  "phase4:nb-2026-08-19-five-software-shapes-map": {
+    "hash": "33a4600a93b2d28d1b107d4789fd056f252eea2e7a20652f1da64f0b2c02fe60",
+    "slug": "nb-2026-08-19-five-software-shapes-map",
+    "synced_at": "2026-08-19T22:22:49.310019+00:00"
+  },
+  "phase4:nb-2026-08-19-plain-english-agent-skill": {
+    "hash": "d5e2f514b40b9fafc232b687b19d58102ac9eecc1f7e2e00bd690e5ec6fc67b9",
+    "slug": "nb-2026-08-19-plain-english-agent-skill",
+    "synced_at": "2026-08-19T22:22:49.310376+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -3413,6 +3543,11 @@
     "hash": "ada84a9f40864d3036789811d1578186a5d7ca638b9b19528ca8278a5f94ac07",
     "slug": "nh-2026-08-18-become-inhouse-ai-person",
     "synced_at": "2026-08-18T22:21:44.808736+00:00"
+  },
+  "phase4:nh-2026-08-19-grokbot-chief-of-staff-pattern": {
+    "hash": "59df58ab4cef7e7b32d3cd0ef4b11d57709357acf1d7adb11d322dfc471f002f",
+    "slug": "nh-2026-08-19-grokbot-chief-of-staff-pattern",
+    "synced_at": "2026-08-19T22:22:49.313641+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
