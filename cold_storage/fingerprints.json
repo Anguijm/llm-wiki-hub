@@ -1629,6 +1629,51 @@
     "slug": "aie-2026-08-19-x12-standard-schema-agent-harness",
     "synced_at": "2026-08-19T22:22:49.316225+00:00"
   },
+  "phase4:aie-2026-08-20-braintrust-eval-flywheel-architecture-generations": {
+    "hash": "ff417cd95735d4cc3299b81570cff3279fcabfe9a8dcc30595113161a09a827c",
+    "slug": "aie-2026-08-20-braintrust-eval-flywheel-architecture-generat",
+    "synced_at": "2026-08-20T22:25:52.870311+00:00"
+  },
+  "phase4:aie-2026-08-20-compound-engineering-memory-system": {
+    "hash": "4e9d7f44b44337cfab37a7dca605e84cebbfca3980bdde2c5142d9d32d69a006",
+    "slug": "aie-2026-08-20-compound-engineering-memory-system",
+    "synced_at": "2026-08-20T22:25:52.868886+00:00"
+  },
+  "phase4:aie-2026-08-20-compound-engineering-overnight-task-scope": {
+    "hash": "8de917287ad59ffd831621f183fef25817aa4caae6caf1f12267bccd14c30f84",
+    "slug": "aie-2026-08-20-compound-engineering-overnight-task-scope",
+    "synced_at": "2026-08-20T22:25:52.869158+00:00"
+  },
+  "phase4:aie-2026-08-20-cto-prototyping-overnight-agent-runs": {
+    "hash": "eb6d22113572aa801ddbe693df9ecea0ff847ecda832db39a666790c2705cfc1",
+    "slug": "aie-2026-08-20-cto-prototyping-overnight-agent-runs",
+    "synced_at": "2026-08-20T22:25:52.869756+00:00"
+  },
+  "phase4:aie-2026-08-20-decawork-agent-identity-lifecycle": {
+    "hash": "e519cf7302e8fc5535c408db5fefd25b17bdec24b54daeb887f1e5cfb2e2175d",
+    "slug": "aie-2026-08-20-decawork-agent-identity-lifecycle",
+    "synced_at": "2026-08-20T22:25:52.869469+00:00"
+  },
+  "phase4:aie-2026-08-20-docker-agent-scoped-sandbox-runtime": {
+    "hash": "1c703af25441adced6bb84573f91871d9adff39db35b52eafb1693f6f852987e",
+    "slug": "aie-2026-08-20-docker-agent-scoped-sandbox-runtime",
+    "synced_at": "2026-08-20T22:25:52.868037+00:00"
+  },
+  "phase4:aie-2026-08-20-fine-tuning-vs-context-engineering-lease-end": {
+    "hash": "138b09c0cb72bc06425132e32c7d29d40693d07e455edc7881f69821fa7e4382",
+    "slug": "aie-2026-08-20-fine-tuning-vs-context-engineering-lease-end",
+    "synced_at": "2026-08-20T22:25:52.868329+00:00"
+  },
+  "phase4:aie-2026-08-20-huggingface-research-outreach-agent": {
+    "hash": "7c61dbe3ed2405b2afeca1734ca22b1cc17df165b70777ad7b68c318c361ef05",
+    "slug": "aie-2026-08-20-huggingface-research-outreach-agent",
+    "synced_at": "2026-08-20T22:25:52.868612+00:00"
+  },
+  "phase4:aie-2026-08-20-qodo-ai-code-review-context-codification": {
+    "hash": "5458018b7a199f617c24c22a7cb539616382894ae46ddda015cbe8a3ec3bfcd8",
+    "slug": "aie-2026-08-20-qodo-ai-code-review-context-codification",
+    "synced_at": "2026-08-20T22:25:52.870026+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1968,6 +2013,16 @@
     "hash": "502398f1333b43758672292b78cd81c027394b97c6e8f8648109d9a3f86af484",
     "slug": "do-2026-08-10-multiplayer-agentic-scaffold",
     "synced_at": "2026-08-10T22:35:44.683944+00:00"
+  },
+  "phase4:do-2026-08-20-agentic-engineering-markdown-context": {
+    "hash": "3ea15c4a7df61437ad7ecafc241cd6110dcb47792b9ada8c9fdfdf5a04da5f3e",
+    "slug": "do-2026-08-20-agentic-engineering-markdown-context",
+    "synced_at": "2026-08-20T22:25:52.867169+00:00"
+  },
+  "phase4:do-2026-08-20-agentic-engineering-session-startup-hook": {
+    "hash": "3216c2f71089339abb247fd1fd07556ebbfe9585cc12d8b797891b23b63d8f6a",
+    "slug": "do-2026-08-20-agentic-engineering-session-startup-hook",
+    "synced_at": "2026-08-20T22:25:52.867481+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
@@ -2448,6 +2503,16 @@
     "hash": "7e8c69d06d8485626e1e6e7704a563ec0616d873786c815cf734d3bf8e91e083",
     "slug": "mlops-2026-08-19-mcp-tasks-v2-temporal",
     "synced_at": "2026-08-19T22:22:49.310738+00:00"
+  },
+  "phase4:mlops-2026-08-20-mcp-virtual-community-event-intro": {
+    "hash": "831479370b95a3022203740ad8ec69f35c5125d53d70ca3eb16aa9340885af94",
+    "slug": "mlops-2026-08-20-mcp-virtual-community-event-intro",
+    "synced_at": "2026-08-20T22:25:52.866563+00:00"
+  },
+  "phase4:mlops-2026-08-20-seattle-mcp-release-party-intro": {
+    "hash": "4987b21644d8b50dc1a62a2d2dbfc2d4d3003b012486e5c9f828c3a0e56070e2",
+    "slug": "mlops-2026-08-20-seattle-mcp-release-party-intro",
+    "synced_at": "2026-08-20T22:25:52.866875+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",
@@ -3548,6 +3613,11 @@
     "hash": "59df58ab4cef7e7b32d3cd0ef4b11d57709357acf1d7adb11d322dfc471f002f",
     "slug": "nh-2026-08-19-grokbot-chief-of-staff-pattern",
     "synced_at": "2026-08-19T22:22:49.313641+00:00"
+  },
+  "phase4:nh-2026-08-20-five-in-demand-ai-automations-2026": {
+    "hash": "c600ee3a3b00f34c1c3bb1193d01f83e7ba52ed71e975f77484f2fe720b74f63",
+    "slug": "nh-2026-08-20-five-in-demand-ai-automations-2026",
+    "synced_at": "2026-08-20T22:25:52.867764+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

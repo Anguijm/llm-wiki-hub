@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**716 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**730 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,19 +12,19 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 416 |
+| `backlog` | 428 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
 | `done` | 48 |
 | `in_progress` | 10 |
-| `skipped` | 4 |
+| `skipped` | 6 |
 
 ## By verdict
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 486 |
+| `(none)` | 500 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,11 +32,11 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 320 |
+| @aie | 329 |
 | @nb | 117 |
-| @nh | 100 |
-| @mlops | 61 |
-| @do | 50 |
+| @nh | 101 |
+| @mlops | 63 |
+| @do | 52 |
 | @mk | 28 |
 | @aij | 16 |
 | @st | 12 |
@@ -53,6 +53,20 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-20 | [[experiments/nh-2026-08-20-five-in-demand-ai-automations-2026|Build a domain-specific lead qualification workflow with human handoff and measurable CRM output]] | @nh | `-` |
+| 2026-08-20 | [[experiments/mlops-2026-08-20-seattle-mcp-release-party-intro|Skip — No actionable experiment]] | @mlops | `-` |
+| 2026-08-20 | [[experiments/mlops-2026-08-20-mcp-virtual-community-event-intro|Skip — No actionable experiment]] | @mlops | `-` |
+| 2026-08-20 | [[experiments/do-2026-08-20-agentic-engineering-session-startup-hook|Implement a session startup hook that primes agent as senior engineer]] | @do | `-` |
+| 2026-08-20 | [[experiments/do-2026-08-20-agentic-engineering-markdown-context|Invest more time in markdown context files than in code execution]] | @do | `-` |
+| 2026-08-20 | [[experiments/aie-2026-08-20-qodo-ai-code-review-context-codification|Codify team-specific coding standards and tribal knowledge as structured context for automated PR review]] | @aie | `-` |
+| 2026-08-20 | [[experiments/aie-2026-08-20-huggingface-research-outreach-agent|Build a deterministic agent workflow with a single CLI tool to automate repetitive research outreach at scale]] | @aie | `-` |
+| 2026-08-20 | [[experiments/aie-2026-08-20-fine-tuning-vs-context-engineering-lease-end|Replace fine-tuned intent classification with context-rich skills and system prompts on a frontier model]] | @aie | `-` |
+| 2026-08-20 | [[experiments/aie-2026-08-20-docker-agent-scoped-sandbox-runtime|Run agents inside scoped sandboxes with least-privilege access to limit blast radius]] | @aie | `-` |
+| 2026-08-20 | [[experiments/aie-2026-08-20-decawork-agent-identity-lifecycle|Model agents as managed workers with identity, short-lived capability tokens, and audit receipts]] | @aie | `-` |
+| 2026-08-20 | [[experiments/aie-2026-08-20-cto-prototyping-overnight-agent-runs|Use overnight agent runs with expanding task scope to ship 2–10 PRs per week within a meeting-heavy schedule]] | @aie | `-` |
+| 2026-08-20 | [[experiments/aie-2026-08-20-compound-engineering-overnight-task-scope|Run the 'boring middle' (plan/work/review) unsupervised overnight and review output in morning]] | @aie | `-` |
+| 2026-08-20 | [[experiments/aie-2026-08-20-compound-engineering-memory-system|Build a compounding memory system that extracts and stores learnings from every agent interaction]] | @aie | `-` |
+| 2026-08-20 | [[experiments/aie-2026-08-20-braintrust-eval-flywheel-architecture-generat|Rebuild evals in parallel with every major agent architecture change and use production data to surface novel failure modes]] | @aie | `-` |
 | 2026-08-19 | [[experiments/nh-2026-08-19-grokbot-chief-of-staff-pattern|Implement a chief-of-staff agent that delegates to specialist sub-agents instead of routing tasks manually]] | @nh | `-` |
 | 2026-08-19 | [[experiments/nb-2026-08-19-plain-english-agent-skill|Inject a plain-English explanation skill into coding agents before architecture decisions]] | @nb | `-` |
 | 2026-08-19 | [[experiments/nb-2026-08-19-five-software-shapes-map|Use a 'wish-to-shape' framing exercise before choosing a build tool]] | @nb | `-` |
