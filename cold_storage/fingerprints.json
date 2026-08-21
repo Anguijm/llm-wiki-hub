@@ -1674,6 +1674,21 @@
     "slug": "aie-2026-08-20-qodo-ai-code-review-context-codification",
     "synced_at": "2026-08-20T22:25:52.870026+00:00"
   },
+  "phase4:aie-2026-08-21-context-engine-over-mcp": {
+    "hash": "dbcec70e8bb0748fdde8cfa2dc99e9de70abb7b456c0604185a105e532cb63ac",
+    "slug": "aie-2026-08-21-context-engine-over-mcp",
+    "synced_at": "2026-08-21T22:23:08.441691+00:00"
+  },
+  "phase4:aie-2026-08-21-hallmark-slop-gates-design-skill": {
+    "hash": "368abbfd56fa4389ecccf3a1b490d1b312095d9d6d0b6513fca9e32cece0129e",
+    "slug": "aie-2026-08-21-hallmark-slop-gates-design-skill",
+    "synced_at": "2026-08-21T22:23:08.441913+00:00"
+  },
+  "phase4:aie-2026-08-21-uber-agentic-sdlc-inner-outer-loop": {
+    "hash": "68b1aa2bc3180e111e63945aa142e4fc9ed689eab188166ac9f446dd33144f5c",
+    "slug": "aie-2026-08-21-uber-agentic-sdlc-inner-outer-loop",
+    "synced_at": "2026-08-21T22:23:08.442130+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -3104,6 +3119,11 @@
     "slug": "nb-2026-08-19-plain-english-agent-skill",
     "synced_at": "2026-08-19T22:22:49.310376+00:00"
   },
+  "phase4:nb-2026-08-21-glm53-in-claude-code-cost-routing": {
+    "hash": "4132533d7c72eb742aad6d18ded28533f037aff88fb8cf5797e3c54a515a5628",
+    "slug": "nb-2026-08-21-glm53-in-claude-code-cost-routing",
+    "synced_at": "2026-08-21T22:23:08.441192+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -3618,6 +3638,11 @@
     "hash": "c600ee3a3b00f34c1c3bb1193d01f83e7ba52ed71e975f77484f2fe720b74f63",
     "slug": "nh-2026-08-20-five-in-demand-ai-automations-2026",
     "synced_at": "2026-08-20T22:25:52.867764+00:00"
+  },
+  "phase4:nh-2026-08-21-claude-marketing-team-higsfield": {
+    "hash": "6aaafbc03ff29c349b4beea547f3c1c5705985af99c1d23569835a1a6e38f8a3",
+    "slug": "nh-2026-08-21-claude-marketing-team-higsfield",
+    "synced_at": "2026-08-21T22:23:08.441448+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

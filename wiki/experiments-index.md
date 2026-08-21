@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**730 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**735 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 428 |
+| `backlog` | 433 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 500 |
+| `(none)` | 505 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,9 +32,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 329 |
-| @nb | 117 |
-| @nh | 101 |
+| @aie | 332 |
+| @nb | 118 |
+| @nh | 102 |
 | @mlops | 63 |
 | @do | 52 |
 | @mk | 28 |
@@ -53,6 +53,11 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-21 | [[experiments/nh-2026-08-21-claude-marketing-team-higsfield|Build a Claude Code project with brand guidelines and reusable skill files to generate consistent marketing assets via Higsfield]] | @nh | `-` |
+| 2026-08-21 | [[experiments/nb-2026-08-21-glm53-in-claude-code-cost-routing|Route bounded coding tasks to GLM 5.3 inside Claude Code to reduce model costs]] | @nb | `-` |
+| 2026-08-21 | [[experiments/aie-2026-08-21-uber-agentic-sdlc-inner-outer-loop|Implement inner-loop vs outer-loop agent quality checks with a PR-attached evidence table to build reviewer confidence in autonomous diffs]] | @aie | `-` |
+| 2026-08-21 | [[experiments/aie-2026-08-21-hallmark-slop-gates-design-skill|Encode an anti-slop design ruleset and curated visual references into agents.md to improve AI-generated UI quality]] | @aie | `-` |
+| 2026-08-21 | [[experiments/aie-2026-08-21-context-engine-over-mcp|Add a pre-synthesis context layer between raw MCP data sources and the agent to reduce hallucinations from missing organizational knowledge]] | @aie | `-` |
 | 2026-08-20 | [[experiments/nh-2026-08-20-five-in-demand-ai-automations-2026|Build a domain-specific lead qualification workflow with human handoff and measurable CRM output]] | @nh | `-` |
 | 2026-08-20 | [[experiments/mlops-2026-08-20-seattle-mcp-release-party-intro|Skip — No actionable experiment]] | @mlops | `-` |
 | 2026-08-20 | [[experiments/mlops-2026-08-20-mcp-virtual-community-event-intro|Skip — No actionable experiment]] | @mlops | `-` |
