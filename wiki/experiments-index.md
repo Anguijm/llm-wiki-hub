@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**735 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**745 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 433 |
+| `backlog` | 443 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 505 |
+| `(none)` | 515 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,9 +32,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 332 |
+| @aie | 340 |
 | @nb | 118 |
-| @nh | 102 |
+| @nh | 104 |
 | @mlops | 63 |
 | @do | 52 |
 | @mk | 28 |
@@ -53,6 +53,16 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-22 | [[experiments/nh-2026-08-22-scrollcraft-skill|Build a ScrollCraft design skill plugin for Claude Code]] | @nh | `-` |
+| 2026-08-22 | [[experiments/nh-2026-08-22-free-models-claude-code|Route Claude Code through OpenRouter to use free or cheap models]] | @nh | `-` |
+| 2026-08-22 | [[experiments/aie-2026-08-22-warp-cloud-agent-platform|Design cloud agent sandboxes with bring-your-own-infrastructure and multi-harness support]] | @aie | `-` |
+| 2026-08-22 | [[experiments/aie-2026-08-22-token-ops-control-plane|Implement a run-level token budget control plane with steer-before-halt policies]] | @aie | `-` |
+| 2026-08-22 | [[experiments/aie-2026-08-22-team-agent-enablement|Redirect skeptic engineers from fixing agent output to improving agent context and harness]] | @aie | `-` |
+| 2026-08-22 | [[experiments/aie-2026-08-22-model-routing-preferences|Configure task-specific model routing rules to cut inference cost 3x without quality loss]] | @aie | `-` |
+| 2026-08-22 | [[experiments/aie-2026-08-22-clinical-ai-eval-loop|Build an evolving per-output judge that assembles context from expert corrections rather than a static rubric]] | @aie | `-` |
+| 2026-08-22 | [[experiments/aie-2026-08-22-chip-design-shared-nervous-system|Use a living intent graph as single source of truth with human-in-the-loop approval for agent modifications]] | @aie | `-` |
+| 2026-08-22 | [[experiments/aie-2026-08-22-agent-frameworks-yaml-first|Define background agents in Markdown/YAML with cron+event triggers instead of framework code]] | @aie | `-` |
+| 2026-08-22 | [[experiments/aie-2026-08-22-agent-budget-primitives|Enforce agent safety via asymmetric verbs, rate limits, trip-wires, and proxy-stamped identity]] | @aie | `-` |
 | 2026-08-21 | [[experiments/nh-2026-08-21-claude-marketing-team-higsfield|Build a Claude Code project with brand guidelines and reusable skill files to generate consistent marketing assets via Higsfield]] | @nh | `-` |
 | 2026-08-21 | [[experiments/nb-2026-08-21-glm53-in-claude-code-cost-routing|Route bounded coding tasks to GLM 5.3 inside Claude Code to reduce model costs]] | @nb | `-` |
 | 2026-08-21 | [[experiments/aie-2026-08-21-uber-agentic-sdlc-inner-outer-loop|Implement inner-loop vs outer-loop agent quality checks with a PR-attached evidence table to build reviewer confidence in autonomous diffs]] | @aie | `-` |

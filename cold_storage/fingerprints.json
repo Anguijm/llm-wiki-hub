@@ -1689,6 +1689,46 @@
     "slug": "aie-2026-08-21-uber-agentic-sdlc-inner-outer-loop",
     "synced_at": "2026-08-21T22:23:08.442130+00:00"
   },
+  "phase4:aie-2026-08-22-agent-budget-primitives": {
+    "hash": "865192b42f11a5d0f6300bcbcc552459cbb68b3c1a1a0cc00703b6afd12ff64a",
+    "slug": "aie-2026-08-22-agent-budget-primitives",
+    "synced_at": "2026-08-22T22:20:03.221831+00:00"
+  },
+  "phase4:aie-2026-08-22-agent-frameworks-yaml-first": {
+    "hash": "4cbcfee3353f578d95e094c6d964a508e2a3fde86fe3bc58f98e413cebedaaf4",
+    "slug": "aie-2026-08-22-agent-frameworks-yaml-first",
+    "synced_at": "2026-08-22T22:20:03.220716+00:00"
+  },
+  "phase4:aie-2026-08-22-chip-design-shared-nervous-system": {
+    "hash": "1c97852a362eb0896df1afe32d3635a64971469d988d9590f3a09b1d6da83b86",
+    "slug": "aie-2026-08-22-chip-design-shared-nervous-system",
+    "synced_at": "2026-08-22T22:20:03.221359+00:00"
+  },
+  "phase4:aie-2026-08-22-clinical-ai-eval-loop": {
+    "hash": "fa66fc68acb1633ccdf4f7600f594947aa9cac0ef5daafd5f710b43213c26979",
+    "slug": "aie-2026-08-22-clinical-ai-eval-loop",
+    "synced_at": "2026-08-22T22:20:03.220487+00:00"
+  },
+  "phase4:aie-2026-08-22-model-routing-preferences": {
+    "hash": "61ba1afc94f65cd7b59a5926255a714c52e61251c93509678e994c6d9c5f29ce",
+    "slug": "aie-2026-08-22-model-routing-preferences",
+    "synced_at": "2026-08-22T22:20:03.221145+00:00"
+  },
+  "phase4:aie-2026-08-22-team-agent-enablement": {
+    "hash": "eae9a58626abfc8cac5f192f55595a94a8821b1d2d1d4e97f20092b47c7d3280",
+    "slug": "aie-2026-08-22-team-agent-enablement",
+    "synced_at": "2026-08-22T22:20:03.220928+00:00"
+  },
+  "phase4:aie-2026-08-22-token-ops-control-plane": {
+    "hash": "0b740f92d360dd13bc5907298bdef281fb04f3536de657fb942465f832fa7c30",
+    "slug": "aie-2026-08-22-token-ops-control-plane",
+    "synced_at": "2026-08-22T22:20:03.221570+00:00"
+  },
+  "phase4:aie-2026-08-22-warp-cloud-agent-platform": {
+    "hash": "9b8febfc1094b7db43c2d17a85cbd16ce7caf82bb2ededa16b015251ffeb4a9d",
+    "slug": "aie-2026-08-22-warp-cloud-agent-platform",
+    "synced_at": "2026-08-22T22:20:03.220271+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -3643,6 +3683,16 @@
     "hash": "6aaafbc03ff29c349b4beea547f3c1c5705985af99c1d23569835a1a6e38f8a3",
     "slug": "nh-2026-08-21-claude-marketing-team-higsfield",
     "synced_at": "2026-08-21T22:23:08.441448+00:00"
+  },
+  "phase4:nh-2026-08-22-free-models-claude-code": {
+    "hash": "9e5d23442295e31014e9af449d42c167e3e767ededb66957b5bfa63172ffd798",
+    "slug": "nh-2026-08-22-free-models-claude-code",
+    "synced_at": "2026-08-22T22:20:03.220048+00:00"
+  },
+  "phase4:nh-2026-08-22-scrollcraft-skill": {
+    "hash": "ef37ab1061912fba227b23513102d1d4ba97a00d9b6c0c1f64418e0ed3266e7e",
+    "slug": "nh-2026-08-22-scrollcraft-skill",
+    "synced_at": "2026-08-22T22:20:03.219790+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
