@@ -2249,6 +2249,11 @@
     "slug": "mk-2026-08-19-sdk-bridge-replace-api-keys",
     "synced_at": "2026-08-19T22:22:49.313953+00:00"
   },
+  "phase4:mk-2026-08-23-personal-agent-comparison-framework": {
+    "hash": "cf99ba176404b0e43f9d7cd0a10ac8f57f48e1bd55fcd531df3af9e2ff10aec8",
+    "slug": "mk-2026-08-23-personal-agent-comparison-framework",
+    "synced_at": "2026-08-23T22:20:14.507626+00:00"
+  },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
     "slug": "mlops-2026-03-17-durable-execution-agents",
@@ -3163,6 +3168,11 @@
     "hash": "4132533d7c72eb742aad6d18ded28533f037aff88fb8cf5797e3c54a515a5628",
     "slug": "nb-2026-08-21-glm53-in-claude-code-cost-routing",
     "synced_at": "2026-08-21T22:23:08.441192+00:00"
+  },
+  "phase4:nb-2026-08-23-fte-workflow-leverage-mapping": {
+    "hash": "673e192c3bf368b85a189ef314b444321c27a028220cc04c7d25772674a5d1d6",
+    "slug": "nb-2026-08-23-fte-workflow-leverage-mapping",
+    "synced_at": "2026-08-23T22:20:14.507221+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",

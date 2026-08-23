@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**745 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**747 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 443 |
+| `backlog` | 445 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 515 |
+| `(none)` | 517 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -33,11 +33,11 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Channel | Experiments |
 |---|---|
 | @aie | 340 |
-| @nb | 118 |
+| @nb | 119 |
 | @nh | 104 |
 | @mlops | 63 |
 | @do | 52 |
-| @mk | 28 |
+| @mk | 29 |
 | @aij | 16 |
 | @st | 12 |
 | @up | 5 |
@@ -53,6 +53,8 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-23 | [[experiments/nb-2026-08-23-fte-workflow-leverage-mapping|Map a Real Workflow to Find High-Leverage AI Insertion Points]] | @nb | `-` |
+| 2026-08-23 | [[experiments/mk-2026-08-23-personal-agent-comparison-framework|Evaluate Personal Agent Platforms Against a Shared Capability Matrix Before Switching]] | @mk | `-` |
 | 2026-08-22 | [[experiments/nh-2026-08-22-scrollcraft-skill|Build a ScrollCraft design skill plugin for Claude Code]] | @nh | `-` |
 | 2026-08-22 | [[experiments/nh-2026-08-22-free-models-claude-code|Route Claude Code through OpenRouter to use free or cheap models]] | @nh | `-` |
 | 2026-08-22 | [[experiments/aie-2026-08-22-warp-cloud-agent-platform|Design cloud agent sandboxes with bring-your-own-infrastructure and multi-harness support]] | @aie | `-` |
