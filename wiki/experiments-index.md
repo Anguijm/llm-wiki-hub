@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**747 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**750 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 445 |
+| `backlog` | 448 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 517 |
+| `(none)` | 520 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -34,7 +34,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 |---|---|
 | @aie | 340 |
 | @nb | 119 |
-| @nh | 104 |
+| @nh | 107 |
 | @mlops | 63 |
 | @do | 52 |
 | @mk | 29 |
@@ -53,6 +53,9 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-24 | [[experiments/nh-2026-08-24-vault-verification-pipeline|Add a pre-flight verification prompt that cites sources and flags low-confidence claims]] | @nh | `-` |
+| 2026-08-24 | [[experiments/nh-2026-08-24-deepseek-harness-vs-claude-code|Run the same vague prompt through Deepseek Harness and Claude Code to benchmark output quality and confidence calibration]] | @nh | `-` |
+| 2026-08-24 | [[experiments/nh-2026-08-24-agent-draft-not-send|Gate all irreversible agent actions behind a draft/approval step before execution]] | @nh | `-` |
 | 2026-08-23 | [[experiments/nb-2026-08-23-fte-workflow-leverage-mapping|Map a Real Workflow to Find High-Leverage AI Insertion Points]] | @nb | `-` |
 | 2026-08-23 | [[experiments/mk-2026-08-23-personal-agent-comparison-framework|Evaluate Personal Agent Platforms Against a Shared Capability Matrix Before Switching]] | @mk | `-` |
 | 2026-08-22 | [[experiments/nh-2026-08-22-scrollcraft-skill|Build a ScrollCraft design skill plugin for Claude Code]] | @nh | `-` |

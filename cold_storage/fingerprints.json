@@ -3704,6 +3704,21 @@
     "slug": "nh-2026-08-22-scrollcraft-skill",
     "synced_at": "2026-08-22T22:20:03.219790+00:00"
   },
+  "phase4:nh-2026-08-24-agent-draft-not-send": {
+    "hash": "24ddb01bdde5d8c24bd5291334bcff94fc3ee4e161d49022d613c81007d1f1e8",
+    "slug": "nh-2026-08-24-agent-draft-not-send",
+    "synced_at": "2026-08-24T22:24:30.074888+00:00"
+  },
+  "phase4:nh-2026-08-24-deepseek-harness-vs-claude-code": {
+    "hash": "323983ee37931eb9a5bdc125660bed872723ba4fb3920d9a887352c66e6109a7",
+    "slug": "nh-2026-08-24-deepseek-harness-vs-claude-code",
+    "synced_at": "2026-08-24T22:24:30.075233+00:00"
+  },
+  "phase4:nh-2026-08-24-vault-verification-pipeline": {
+    "hash": "a9ea4326f78be6cb86484758376dcb419bfda5e2e2fc941b465f84b13a03eecd",
+    "slug": "nh-2026-08-24-vault-verification-pipeline",
+    "synced_at": "2026-08-24T22:24:30.074540+00:00"
+  },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
     "slug": "st-2026-04-05-skill-creator-meta-agent",
