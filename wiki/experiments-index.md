@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**750 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**755 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 448 |
+| `backlog` | 453 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 520 |
+| `(none)` | 525 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,13 +32,13 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 340 |
+| @aie | 341 |
 | @nb | 119 |
-| @nh | 107 |
+| @nh | 109 |
 | @mlops | 63 |
 | @do | 52 |
 | @mk | 29 |
-| @aij | 16 |
+| @aij | 18 |
 | @st | 12 |
 | @up | 5 |
 | @eh | 4 |
@@ -53,6 +53,11 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-25 | [[experiments/nh-2026-08-25-grill-me-prompt-expertise-extraction|Use a 'grill me' prompt to extract domain expertise before building an AI agent]] | @nh | `-` |
+| 2026-08-25 | [[experiments/nh-2026-08-25-diagnose-kpi-value-proof|Identify the constraint first, pick a KPI before building, price on proven value]] | @nh | `-` |
+| 2026-08-25 | [[experiments/aij-2026-08-25-event-loop-trigger-pattern|Replace human-triggered agent prompts with event-based or goal-based loop triggers]] | @aij | `-` |
+| 2026-08-25 | [[experiments/aij-2026-08-25-control-graph-sop-for-agents|Replace ad-hoc agent prompting with a control graph (SOP as code) for reliable multi-step workflows]] | @aij | `-` |
+| 2026-08-25 | [[experiments/aie-2026-08-25-einstein-arena-environment-design|Design agent environments with leaderboards, verifiers, and peer visibility instead of fixed workflows]] | @aie | `-` |
 | 2026-08-24 | [[experiments/nh-2026-08-24-vault-verification-pipeline|Add a pre-flight verification prompt that cites sources and flags low-confidence claims]] | @nh | `-` |
 | 2026-08-24 | [[experiments/nh-2026-08-24-deepseek-harness-vs-claude-code|Run the same vague prompt through Deepseek Harness and Claude Code to benchmark output quality and confidence calibration]] | @nh | `-` |
 | 2026-08-24 | [[experiments/nh-2026-08-24-agent-draft-not-send|Gate all irreversible agent actions behind a draft/approval step before execution]] | @nh | `-` |

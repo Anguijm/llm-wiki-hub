@@ -1729,6 +1729,11 @@
     "slug": "aie-2026-08-22-warp-cloud-agent-platform",
     "synced_at": "2026-08-22T22:20:03.220271+00:00"
   },
+  "phase4:aie-2026-08-25-einstein-arena-environment-design": {
+    "hash": "0277ac74b1f77a22c880e0ea1e2b741c43cdbc9fc6a48c7cbf5cfc6052425222",
+    "slug": "aie-2026-08-25-einstein-arena-environment-design",
+    "synced_at": "2026-08-25T22:25:25.273083+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -1813,6 +1818,16 @@
     "hash": "453261ae550e3b8106b3b584f1eb3b9a1e1c708509fee86d52fdc837bd3d2c05",
     "slug": "aij-2026-07-30-reddit-thread-quality-gate",
     "synced_at": "2026-07-30T23:06:12.445467+00:00"
+  },
+  "phase4:aij-2026-08-25-control-graph-sop-for-agents": {
+    "hash": "6195aff611fe8a661e029549d8e7da4fb14754d3a89f67c28bd1f73acdc38528",
+    "slug": "aij-2026-08-25-control-graph-sop-for-agents",
+    "synced_at": "2026-08-25T22:25:25.272516+00:00"
+  },
+  "phase4:aij-2026-08-25-event-loop-trigger-pattern": {
+    "hash": "45ed147cb696e7d876339001798da6affdbbbc0f7fbe485947b3faff755150c8",
+    "slug": "aij-2026-08-25-event-loop-trigger-pattern",
+    "synced_at": "2026-08-25T22:25:25.272807+00:00"
   },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "0527033834fe3f49b58f4d9e2c508620ed78f8ba268bccaba81263b6ef3c4afa",
@@ -3718,6 +3733,16 @@
     "hash": "a9ea4326f78be6cb86484758376dcb419bfda5e2e2fc941b465f84b13a03eecd",
     "slug": "nh-2026-08-24-vault-verification-pipeline",
     "synced_at": "2026-08-24T22:24:30.074540+00:00"
+  },
+  "phase4:nh-2026-08-25-diagnose-kpi-value-proof": {
+    "hash": "8ff141369ef0648d8b96b45b4b111ec62f367af95e8f84559e6e4471643aa0a7",
+    "slug": "nh-2026-08-25-diagnose-kpi-value-proof",
+    "synced_at": "2026-08-25T22:25:25.271868+00:00"
+  },
+  "phase4:nh-2026-08-25-grill-me-prompt-expertise-extraction": {
+    "hash": "4b8387bc839cd08809865b8d8cf38434870f5b847f9cdfaf315e157ec533575d",
+    "slug": "nh-2026-08-25-grill-me-prompt-expertise-extraction",
+    "synced_at": "2026-08-25T22:25:25.272196+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
