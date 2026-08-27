@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**755 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**771 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 453 |
+| `backlog` | 469 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 525 |
+| `(none)` | 541 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,12 +32,12 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 341 |
-| @nb | 119 |
-| @nh | 109 |
+| @aie | 351 |
+| @nb | 122 |
+| @nh | 110 |
 | @mlops | 63 |
 | @do | 52 |
-| @mk | 29 |
+| @mk | 31 |
 | @aij | 18 |
 | @st | 12 |
 | @up | 5 |
@@ -53,6 +53,22 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-27 | [[experiments/nh-2026-08-27-claude-code-vs-codex-design-benchmark|Run identical prompts through Claude Code and Codex and compare output tokens, cost, and quality]] | @nh | `-` |
+| 2026-08-27 | [[experiments/nb-2026-08-27-verifiable-domain-agent-first|Prioritize agent deployment on verifiable-output tasks first]] | @nb | `-` |
+| 2026-08-27 | [[experiments/nb-2026-08-27-stripe-openrouter-token-economy|Route agent tasks through OpenRouter to benchmark cost and model selection at scale]] | @nb | `-` |
+| 2026-08-27 | [[experiments/nb-2026-08-27-agent-work-overhead-tracking|Track human overhead per agent run to quantify management tax]] | @nb | `-` |
+| 2026-08-27 | [[experiments/mk-2026-08-27-grokbot-multi-agent-architecture-rebuild|Implement per-agent mailbox messaging with priority interrupts in a custom multi-agent harness]] | @mk | `-` |
+| 2026-08-27 | [[experiments/mk-2026-08-27-grokbot-auto-approval-tiering|Build a tiered auto-approval layer that learns from repeated agent action patterns]] | @mk | `-` |
+| 2026-08-27 | [[experiments/aie-2026-08-27-snowflake-gtm-quality-over-coverage|Define a 150-question test suite before deploying an agent and enforce 95% accuracy on a subset before expanding coverage]] | @aie | `-` |
+| 2026-08-27 | [[experiments/aie-2026-08-27-ramp-intent-to-multichannel-orchestration|Build vertical single-channel agent automations first, then compose them into multi-channel orchestration]] | @aie | `-` |
+| 2026-08-27 | [[experiments/aie-2026-08-27-oxylabs-scraper-api-agent-web-access|Replace browser automation with lightweight scraper APIs for agent web discovery and use browser only for interactive steps]] | @aie | `-` |
+| 2026-08-27 | [[experiments/aie-2026-08-27-openai-gtm-self-serve-first|Launch agent-powered self-serve capability before building the sales team to identify real bottlenecks]] | @aie | `-` |
+| 2026-08-27 | [[experiments/aie-2026-08-27-notion-know-decide-act-learn-loop|Architect agent systems around a Know-Decide-Act-Learn loop with humans and agents on the same substrate]] | @aie | `-` |
+| 2026-08-27 | [[experiments/aie-2026-08-27-llms-txt-agent-discoverability|Add llms.txt, llms-full.txt, and twin .md files to project docs to maximize agent discoverability]] | @aie | `-` |
+| 2026-08-27 | [[experiments/aie-2026-08-27-gtm-agent-skill-curation|Build agent skill files encoding domain expertise as the foundation for agentic GTM workflows]] | @aie | `-` |
+| 2026-08-27 | [[experiments/aie-2026-08-27-exa-icp-live-model|Build a live internal knowledge model that agents can query for context-aware task execution]] | @aie | `-` |
+| 2026-08-27 | [[experiments/aie-2026-08-27-clay-gtm-data-waterfalling|Implement waterfall data enrichment across multiple providers to maximize field coverage for agent context]] | @aie | `-` |
+| 2026-08-27 | [[experiments/aie-2026-08-27-agent-advocate-devrel-evals|Point a coding agent at your docs and generate an agent experience report]] | @aie | `-` |
 | 2026-08-25 | [[experiments/nh-2026-08-25-grill-me-prompt-expertise-extraction|Use a 'grill me' prompt to extract domain expertise before building an AI agent]] | @nh | `-` |
 | 2026-08-25 | [[experiments/nh-2026-08-25-diagnose-kpi-value-proof|Identify the constraint first, pick a KPI before building, price on proven value]] | @nh | `-` |
 | 2026-08-25 | [[experiments/aij-2026-08-25-event-loop-trigger-pattern|Replace human-triggered agent prompts with event-based or goal-based loop triggers]] | @aij | `-` |

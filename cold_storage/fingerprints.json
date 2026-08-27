@@ -1734,6 +1734,56 @@
     "slug": "aie-2026-08-25-einstein-arena-environment-design",
     "synced_at": "2026-08-25T22:25:25.273083+00:00"
   },
+  "phase4:aie-2026-08-27-agent-advocate-devrel-evals": {
+    "hash": "7621fb680bd758eb560086be67f3d88ae9f852e582f399d59629c0e61537db50",
+    "slug": "aie-2026-08-27-agent-advocate-devrel-evals",
+    "synced_at": "2026-08-27T02:57:06.889259+00:00"
+  },
+  "phase4:aie-2026-08-27-clay-gtm-data-waterfalling": {
+    "hash": "e599c3d8f4c825ed940d8e3f73b4a63e6830f907a71fa9384a107ea1a951bf40",
+    "slug": "aie-2026-08-27-clay-gtm-data-waterfalling",
+    "synced_at": "2026-08-27T02:57:06.891205+00:00"
+  },
+  "phase4:aie-2026-08-27-exa-icp-live-model": {
+    "hash": "56401a08214f6e4d845fb508518a11fbe9bd4ce760286a1f015179b4314986ae",
+    "slug": "aie-2026-08-27-exa-icp-live-model",
+    "synced_at": "2026-08-27T02:57:06.889815+00:00"
+  },
+  "phase4:aie-2026-08-27-gtm-agent-skill-curation": {
+    "hash": "66fdbe82b116cadbb42b77a3075b01a9561579cb0c9043a01645ee73621f72dc",
+    "slug": "aie-2026-08-27-gtm-agent-skill-curation",
+    "synced_at": "2026-08-27T02:57:06.889542+00:00"
+  },
+  "phase4:aie-2026-08-27-llms-txt-agent-discoverability": {
+    "hash": "97e2e0dcc062c062557a5851e20e8182393be4c6142dcf2570335d775b26d506",
+    "slug": "aie-2026-08-27-llms-txt-agent-discoverability",
+    "synced_at": "2026-08-27T02:57:06.890110+00:00"
+  },
+  "phase4:aie-2026-08-27-notion-know-decide-act-learn-loop": {
+    "hash": "f254f0bdff16cbb908c8f1e86e8c7c3bfdd01056eef6f6b66a844d818c41a2e5",
+    "slug": "aie-2026-08-27-notion-know-decide-act-learn-loop",
+    "synced_at": "2026-08-27T02:57:06.890907+00:00"
+  },
+  "phase4:aie-2026-08-27-openai-gtm-self-serve-first": {
+    "hash": "4138f88164a4767d97496c345bc014cbcb025f421f51e80ed25582d62a6d3bac",
+    "slug": "aie-2026-08-27-openai-gtm-self-serve-first",
+    "synced_at": "2026-08-27T02:57:06.891469+00:00"
+  },
+  "phase4:aie-2026-08-27-oxylabs-scraper-api-agent-web-access": {
+    "hash": "33c901d519a76ea06e6a00efcf1d957a5a1a87f955785e1bcfbe227bc2f03e4d",
+    "slug": "aie-2026-08-27-oxylabs-scraper-api-agent-web-access",
+    "synced_at": "2026-08-27T02:57:06.891738+00:00"
+  },
+  "phase4:aie-2026-08-27-ramp-intent-to-multichannel-orchestration": {
+    "hash": "aa6ff25edb3d2c2331414f488bfe5bed87b0e048d79d4c815eab19e5a28c4db4",
+    "slug": "aie-2026-08-27-ramp-intent-to-multichannel-orchestration",
+    "synced_at": "2026-08-27T02:57:06.890639+00:00"
+  },
+  "phase4:aie-2026-08-27-snowflake-gtm-quality-over-coverage": {
+    "hash": "33cc572abb4122070e9de2f55fe132957bb1e28e2aa22c7fca99a0ae74d3e845",
+    "slug": "aie-2026-08-27-snowflake-gtm-quality-over-coverage",
+    "synced_at": "2026-08-27T02:57:06.890371+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2268,6 +2318,16 @@
     "hash": "cf99ba176404b0e43f9d7cd0a10ac8f57f48e1bd55fcd531df3af9e2ff10aec8",
     "slug": "mk-2026-08-23-personal-agent-comparison-framework",
     "synced_at": "2026-08-23T22:20:14.507626+00:00"
+  },
+  "phase4:mk-2026-08-27-grokbot-auto-approval-tiering": {
+    "hash": "803fb8709815caba59ab62ba3926be3d6f0f4b96cdd4159ff3801c3afbbb203d",
+    "slug": "mk-2026-08-27-grokbot-auto-approval-tiering",
+    "synced_at": "2026-08-27T02:57:06.888975+00:00"
+  },
+  "phase4:mk-2026-08-27-grokbot-multi-agent-architecture-rebuild": {
+    "hash": "7d29232f2d8febb405ec0048441a055d6db84e823df35a2d5b33eb48fd4e358b",
+    "slug": "mk-2026-08-27-grokbot-multi-agent-architecture-rebuild",
+    "synced_at": "2026-08-27T02:57:06.888696+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
@@ -3189,6 +3249,21 @@
     "slug": "nb-2026-08-23-fte-workflow-leverage-mapping",
     "synced_at": "2026-08-23T22:20:14.507221+00:00"
   },
+  "phase4:nb-2026-08-27-agent-work-overhead-tracking": {
+    "hash": "6ebd51d8cb8d79a5dd35e29862b9836503f15e310a0b1b1ec76dc7b3c922fd07",
+    "slug": "nb-2026-08-27-agent-work-overhead-tracking",
+    "synced_at": "2026-08-27T02:57:06.887491+00:00"
+  },
+  "phase4:nb-2026-08-27-stripe-openrouter-token-economy": {
+    "hash": "55654976a5bcd1411eb8d21a18044c59f219f3168da117575932afbdf794f5e6",
+    "slug": "nb-2026-08-27-stripe-openrouter-token-economy",
+    "synced_at": "2026-08-27T02:57:06.888137+00:00"
+  },
+  "phase4:nb-2026-08-27-verifiable-domain-agent-first": {
+    "hash": "b07b403c8489e2232268f3956f7d4a3c5a6cf902deab98db20ace8f7002e6598",
+    "slug": "nb-2026-08-27-verifiable-domain-agent-first",
+    "synced_at": "2026-08-27T02:57:06.887814+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -3743,6 +3818,11 @@
     "hash": "4b8387bc839cd08809865b8d8cf38434870f5b847f9cdfaf315e157ec533575d",
     "slug": "nh-2026-08-25-grill-me-prompt-expertise-extraction",
     "synced_at": "2026-08-25T22:25:25.272196+00:00"
+  },
+  "phase4:nh-2026-08-27-claude-code-vs-codex-design-benchmark": {
+    "hash": "2dda871722c4dec866ba7455852e65537a5529c3b31aad679e189b45c5605632",
+    "slug": "nh-2026-08-27-claude-code-vs-codex-design-benchmark",
+    "synced_at": "2026-08-27T02:57:06.888410+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
