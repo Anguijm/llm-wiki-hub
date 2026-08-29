@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**771 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**791 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 469 |
+| `backlog` | 489 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 541 |
+| `(none)` | 561 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,11 +32,11 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 351 |
-| @nb | 122 |
-| @nh | 110 |
+| @aie | 366 |
+| @nb | 124 |
+| @nh | 112 |
 | @mlops | 63 |
-| @do | 52 |
+| @do | 53 |
 | @mk | 31 |
 | @aij | 18 |
 | @st | 12 |
@@ -53,6 +53,26 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-29 | [[experiments/nh-2026-08-29-managed-hermes-agent-setup|Deploy a managed Hermes agent via Hostinger and connect it to Telegram for persistent pocket-agent access]] | @nh | `-` |
+| 2026-08-29 | [[experiments/nh-2026-08-29-codex-saas-clone-cost-analysis|Use a capped Codex subscription to build internal SaaS clones and measure real token cost vs. subscription value]] | @nh | `-` |
+| 2026-08-29 | [[experiments/nb-2026-08-29-friction-maxing-multi-model-loop|Route every AI output through at least two competing models before accepting it]] | @nb | `-` |
+| 2026-08-29 | [[experiments/nb-2026-08-29-agent-confidence-disclosure-test|Add a mandatory environment-access disclosure step to every new agent onboarding]] | @nb | `-` |
+| 2026-08-29 | [[experiments/do-2026-08-29-local-ai-hardware-stack|Replace cloud inference API calls with a local GPU node for sensitive or high-volume workloads]] | @do | `-` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-trusted-throughput-token-roi|Instrument a per-team token-usage dashboard as a smoke detector and define 'trusted throughput' as the primary ROI metric]] | @aie | `-` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-strands-robot-agentic-layer|Wrap hardware tool calls in an AWS Strands agentic layer to enable natural-language orchestration of physical devices]] | @aie | `-` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-sop-to-agent-translation-loop|Build a refinement loop that translates human SOPs into agent-executable SOP corpus and measures correction rate over time]] | @aie | `-` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-skills-registry-governance|Create a centralized skills registry with governance and static evaluation against framework best practices to standardize agent behavior across teams]] | @aie | `-` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-six-month-infra-review-cycle|Establish a mandatory six-month agent infrastructure review cycle gated by eval-set regression tests]] | @aie | `-` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-signal-layer-distortion-check|Add a signal-distortion check before any AI-generated external communication is published]] | @aie | `-` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-longlake-software-service-codesign|Embed AI Agents Natively Into Existing Operator Workflows to Drive Adoption]] | @aie | `-` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-lean4-formal-verification-spec-first|Use Lean4 Spec-First Workflow to Formally Verify Agent-Generated Code]] | @aie | `-` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-figma-tdd-agent-verification|Prompt Coding Agents to Write Tests First (TDD-Style) Before Implementation]] | @aie | `-` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-enterprise-ai-readiness-entitlements|Audit and fix entitlement models before deploying agents to prevent 100x amplification of permission boundary failures]] | @aie | `-` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-distributed-systems-agent-guardrails|Apply distributed-systems patterns (idempotency, scoped credentials, circuit breakers, explicit transactions) to every agent tool call]] | @aie | `-` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-amazon-frontier-dev-parallel-agents|Run Multiple Coding Agents in Parallel on a Backlog to Achieve Step-Function Productivity]] | @aie | `-` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-air-gapped-ai-data-diode|Use a one-way data diode plus Apache Iceberg time-travel to create a physically secure, court-defensible AI inference system]] | @aie | `-` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-agentic-site-model-eval-latency|Run continuous Promptfoo evals across multiple LLM providers to select the fastest model that meets accuracy thresholds for latency-sensitive agentic tasks]] | @aie | `-` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-agent-runtime-skills-context|Structure agent context as composable skill units with progressive disclosure to control context window bloat]] | @aie | `-` |
 | 2026-08-27 | [[experiments/nh-2026-08-27-claude-code-vs-codex-design-benchmark|Run identical prompts through Claude Code and Codex and compare output tokens, cost, and quality]] | @nh | `-` |
 | 2026-08-27 | [[experiments/nb-2026-08-27-verifiable-domain-agent-first|Prioritize agent deployment on verifiable-output tasks first]] | @nb | `-` |
 | 2026-08-27 | [[experiments/nb-2026-08-27-stripe-openrouter-token-economy|Route agent tasks through OpenRouter to benchmark cost and model selection at scale]] | @nb | `-` |

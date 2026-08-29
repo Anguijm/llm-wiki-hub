@@ -1784,6 +1784,81 @@
     "slug": "aie-2026-08-27-snowflake-gtm-quality-over-coverage",
     "synced_at": "2026-08-27T02:57:06.890371+00:00"
   },
+  "phase4:aie-2026-08-29-agent-runtime-skills-context": {
+    "hash": "94a716fc5155e88489721650fc9cf7cbdebf42778acf9cb93a3a265d2384a1c9",
+    "slug": "aie-2026-08-29-agent-runtime-skills-context",
+    "synced_at": "2026-08-29T23:53:45.988004+00:00"
+  },
+  "phase4:aie-2026-08-29-agentic-site-model-eval-latency": {
+    "hash": "fb4cd8cf9f69cd9140ee4aef86e8bafdfffe845f0d92832699932547ab0d1cad",
+    "slug": "aie-2026-08-29-agentic-site-model-eval-latency",
+    "synced_at": "2026-08-29T23:53:45.987710+00:00"
+  },
+  "phase4:aie-2026-08-29-air-gapped-ai-data-diode": {
+    "hash": "69c8ee31cc240bea392e566a88ea6f95f89ccb7fa14a8e7423b915b28ad43038",
+    "slug": "aie-2026-08-29-air-gapped-ai-data-diode",
+    "synced_at": "2026-08-29T23:53:45.988801+00:00"
+  },
+  "phase4:aie-2026-08-29-amazon-frontier-dev-parallel-agents": {
+    "hash": "96486bec36de24ccdd358a3660d01575fbf6ed5a19c74d74a543bc39ed409242",
+    "slug": "aie-2026-08-29-amazon-frontier-dev-parallel-agents",
+    "synced_at": "2026-08-29T23:53:45.990780+00:00"
+  },
+  "phase4:aie-2026-08-29-distributed-systems-agent-guardrails": {
+    "hash": "2b6786ec04e410522897bb87180cff30d9924ff73ebb5cac6ac0c74f29196a72",
+    "slug": "aie-2026-08-29-distributed-systems-agent-guardrails",
+    "synced_at": "2026-08-29T23:53:45.988266+00:00"
+  },
+  "phase4:aie-2026-08-29-enterprise-ai-readiness-entitlements": {
+    "hash": "5fdf44de8d8b2a1151cf83ffc92e61fe940e7a16ebd14c7badf0470d7bcb3b4a",
+    "slug": "aie-2026-08-29-enterprise-ai-readiness-entitlements",
+    "synced_at": "2026-08-29T23:53:45.989348+00:00"
+  },
+  "phase4:aie-2026-08-29-figma-tdd-agent-verification": {
+    "hash": "d6b1db0d2eceba5de676e2177173d84f29af35b4874989cad8594b149d151a60",
+    "slug": "aie-2026-08-29-figma-tdd-agent-verification",
+    "synced_at": "2026-08-29T23:53:45.990442+00:00"
+  },
+  "phase4:aie-2026-08-29-lean4-formal-verification-spec-first": {
+    "hash": "1ab8ee86c1275fc9e89ff7494310fd67f158ab2974b9af7ed474f985c84da3ff",
+    "slug": "aie-2026-08-29-lean4-formal-verification-spec-first",
+    "synced_at": "2026-08-29T23:53:45.989896+00:00"
+  },
+  "phase4:aie-2026-08-29-longlake-software-service-codesign": {
+    "hash": "0837f1f81cb49a809f32b2b6bb732a61b87f7d85a2aa4573c504454b0077bb02",
+    "slug": "aie-2026-08-29-longlake-software-service-codesign",
+    "synced_at": "2026-08-29T23:53:45.990175+00:00"
+  },
+  "phase4:aie-2026-08-29-signal-layer-distortion-check": {
+    "hash": "d4b416b67709692abb77c6bfa9e154cbb5129c0d0e2ebfa5eb93d3ad41c93ccc",
+    "slug": "aie-2026-08-29-signal-layer-distortion-check",
+    "synced_at": "2026-08-29T23:53:45.987148+00:00"
+  },
+  "phase4:aie-2026-08-29-six-month-infra-review-cycle": {
+    "hash": "603c8de75bd092ea7b8542044bfe138d733a5c099d058911390cf47bc29479a9",
+    "slug": "aie-2026-08-29-six-month-infra-review-cycle",
+    "synced_at": "2026-08-29T23:53:45.989091+00:00"
+  },
+  "phase4:aie-2026-08-29-skills-registry-governance": {
+    "hash": "279bbebf4effb4da46acf9054f4978e1498bea534e70e67e66c0523d14459a09",
+    "slug": "aie-2026-08-29-skills-registry-governance",
+    "synced_at": "2026-08-29T23:53:45.989613+00:00"
+  },
+  "phase4:aie-2026-08-29-sop-to-agent-translation-loop": {
+    "hash": "74efef7719a17e8c75f358ca404cedb21fafa1951c2ca140545612faf4508881",
+    "slug": "aie-2026-08-29-sop-to-agent-translation-loop",
+    "synced_at": "2026-08-29T23:53:45.987430+00:00"
+  },
+  "phase4:aie-2026-08-29-strands-robot-agentic-layer": {
+    "hash": "fb5c2d552d494aa579df6150a18f99df9d950f5558c5748283cdc26fdf594fad",
+    "slug": "aie-2026-08-29-strands-robot-agentic-layer",
+    "synced_at": "2026-08-29T23:53:45.986842+00:00"
+  },
+  "phase4:aie-2026-08-29-trusted-throughput-token-roi": {
+    "hash": "5411868fabee2a69f71e8b981b4f7a73f98cc02e0f0f7e3ade9f6a0e851dcf3a",
+    "slug": "aie-2026-08-29-trusted-throughput-token-roi",
+    "synced_at": "2026-08-29T23:53:45.988533+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2143,6 +2218,11 @@
     "hash": "3216c2f71089339abb247fd1fd07556ebbfe9585cc12d8b797891b23b63d8f6a",
     "slug": "do-2026-08-20-agentic-engineering-session-startup-hook",
     "synced_at": "2026-08-20T22:25:52.867481+00:00"
+  },
+  "phase4:do-2026-08-29-local-ai-hardware-stack": {
+    "hash": "6392af368ca4800400ff9483fff1d3bf1342463d3ffbe682f8a403cf8f2d3bc8",
+    "slug": "do-2026-08-29-local-ai-hardware-stack",
+    "synced_at": "2026-08-29T23:53:45.986043+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
@@ -3264,6 +3344,16 @@
     "slug": "nb-2026-08-27-verifiable-domain-agent-first",
     "synced_at": "2026-08-27T02:57:06.887814+00:00"
   },
+  "phase4:nb-2026-08-29-agent-confidence-disclosure-test": {
+    "hash": "550ba9abf5a139add2e6a14261aa2984ed803a9528149169b16ed23cc2411502",
+    "slug": "nb-2026-08-29-agent-confidence-disclosure-test",
+    "synced_at": "2026-08-29T23:53:45.985736+00:00"
+  },
+  "phase4:nb-2026-08-29-friction-maxing-multi-model-loop": {
+    "hash": "e54fb6ba8eafed8dae6502d740180bcac2b91eb185ff46cf5d3855c068e4e160",
+    "slug": "nb-2026-08-29-friction-maxing-multi-model-loop",
+    "synced_at": "2026-08-29T23:53:45.985404+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -3823,6 +3913,16 @@
     "hash": "2dda871722c4dec866ba7455852e65537a5529c3b31aad679e189b45c5605632",
     "slug": "nh-2026-08-27-claude-code-vs-codex-design-benchmark",
     "synced_at": "2026-08-27T02:57:06.888410+00:00"
+  },
+  "phase4:nh-2026-08-29-codex-saas-clone-cost-analysis": {
+    "hash": "d04dd0df98024df2d1fc48b6ff973edd7e0568b5668954576f724264d694a93c",
+    "slug": "nh-2026-08-29-codex-saas-clone-cost-analysis",
+    "synced_at": "2026-08-29T23:53:45.986309+00:00"
+  },
+  "phase4:nh-2026-08-29-managed-hermes-agent-setup": {
+    "hash": "2646e2bc05ab33564bdb4e99ecc5eea33fad2fef545fdabbfe65f5f556f4e6d4",
+    "slug": "nh-2026-08-29-managed-hermes-agent-setup",
+    "synced_at": "2026-08-29T23:53:45.986579+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
