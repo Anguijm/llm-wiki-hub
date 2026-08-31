@@ -1859,6 +1859,11 @@
     "slug": "aie-2026-08-29-trusted-throughput-token-roi",
     "synced_at": "2026-08-29T23:53:45.988533+00:00"
   },
+  "phase4:aie-2026-08-30-omni-flash-multimodal-input-video-output-api": {
+    "hash": "fc8cc1f2354bcb330a27d19444066df5401dc23378e55fb7833b352c66cfe4da",
+    "slug": "aie-2026-08-30-omni-flash-multimodal-input-video-output-api",
+    "synced_at": "2026-08-31T00:12:40.924825+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -3354,6 +3359,11 @@
     "slug": "nb-2026-08-29-friction-maxing-multi-model-loop",
     "synced_at": "2026-08-29T23:53:45.985404+00:00"
   },
+  "phase4:nb-2026-08-30-define-passing-conditions-before-agent-deploy": {
+    "hash": "406fba59be0561c3a8938bd274efdfc48b15554c2120d3c55350171c52f7e812",
+    "slug": "nb-2026-08-30-define-passing-conditions-before-agent-deploy",
+    "synced_at": "2026-08-31T00:12:40.924453+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -3983,6 +3993,11 @@
     "hash": "4121143e8373d603e173a2735d2e5f778d06e1cac90efef700e1f60147b08ba9",
     "slug": "st-2026-08-16-morning-agent-triage",
     "synced_at": "2026-08-16T22:19:11.893821+00:00"
+  },
+  "phase4:st-2026-08-30-four-stage-ai-adoption-roadmap": {
+    "hash": "99bd34fa43d4e5a2d9da59ead5d1a63f901b8395e2b49fcb208a1cf654191071",
+    "slug": "st-2026-08-30-four-stage-ai-adoption-roadmap",
+    "synced_at": "2026-08-31T00:12:40.924659+00:00"
   },
   "phase4:tmp-2026-04-01-quantized-local-inference": {
     "hash": "acff2ffb5b52096bc966a39fe8851f9a222cb9dcbcbb9a8420c2b33752962921",

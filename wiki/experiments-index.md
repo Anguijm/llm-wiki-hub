@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**791 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**794 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 489 |
+| `backlog` | 492 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 561 |
+| `(none)` | 564 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,14 +32,14 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 366 |
-| @nb | 124 |
+| @aie | 367 |
+| @nb | 125 |
 | @nh | 112 |
 | @mlops | 63 |
 | @do | 53 |
 | @mk | 31 |
 | @aij | 18 |
-| @st | 12 |
+| @st | 13 |
 | @up | 5 |
 | @eh | 4 |
 | @fs | 2 |
@@ -53,6 +53,9 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-08-30 | [[experiments/st-2026-08-30-four-stage-ai-adoption-roadmap|Run a four-stage AI adoption audit (Foundation → Activation → Adoption → Expansion) before adding new agent capabilities]] | @st | `-` |
+| 2026-08-30 | [[experiments/nb-2026-08-30-define-passing-conditions-before-agent-deploy|Define explicit passing conditions tied to business metrics before deploying any agent]] | @nb | `-` |
+| 2026-08-30 | [[experiments/aie-2026-08-30-omni-flash-multimodal-input-video-output-api|Prototype an automated video post-production pipeline using Gemini Omni Flash API (multimodal-in, video-out)]] | @aie | `-` |
 | 2026-08-29 | [[experiments/nh-2026-08-29-managed-hermes-agent-setup|Deploy a managed Hermes agent via Hostinger and connect it to Telegram for persistent pocket-agent access]] | @nh | `-` |
 | 2026-08-29 | [[experiments/nh-2026-08-29-codex-saas-clone-cost-analysis|Use a capped Codex subscription to build internal SaaS clones and measure real token cost vs. subscription value]] | @nh | `-` |
 | 2026-08-29 | [[experiments/nb-2026-08-29-friction-maxing-multi-model-loop|Route every AI output through at least two competing models before accepting it]] | @nb | `-` |
