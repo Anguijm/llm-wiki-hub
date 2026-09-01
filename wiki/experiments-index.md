@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**797 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**810 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 495 |
+| `backlog` | 508 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 567 |
+| `(none)` | 580 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,9 +32,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 367 |
-| @nb | 125 |
-| @nh | 114 |
+| @aie | 376 |
+| @nb | 126 |
+| @nh | 117 |
 | @mlops | 63 |
 | @do | 53 |
 | @mk | 32 |
@@ -53,9 +53,22 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-01 | [[experiments/nh-2026-09-01-reward-hacking-eval-harness|Add reward-hacking detection to agentic eval harnesses]] | @nh | `-` |
 | 2026-09-01 | [[experiments/nh-2026-09-01-grokbot-cold-outreach-agent|Wire a Grokbot Agent to Clay for Daily Automated Cold Outreach]] | @nh | `-` |
 | 2026-09-01 | [[experiments/nh-2026-09-01-grokbot-agent-team-setup|Build a Grokbot Leadership Team with Specialized Sub-Agents]] | @nh | `-` |
+| 2026-09-01 | [[experiments/nh-2026-09-01-grokbot-agent-org-chart|Implement an org-chart agent hierarchy with executive routing bots]] | @nh | `-` |
+| 2026-09-01 | [[experiments/nh-2026-09-01-claude-fable-51-cost-benchmark|Benchmark Claude Fable 5.1 cost-per-task against Fable 5 on real agentic workloads]] | @nh | `-` |
+| 2026-09-01 | [[experiments/nb-2026-09-01-local-vs-cloud-ai-bet|Build a local-vs-cloud task router for AI workloads]] | @nb | `-` |
 | 2026-09-01 | [[experiments/mk-2026-09-01-grokbot-model-router|Build a Grokbot Router to Swap Underlying LLM Provider Per Agent]] | @mk | `-` |
+| 2026-09-01 | [[experiments/aie-2026-09-01-x402-rough-edges-agi-interface|Expose paid tool APIs via an agent-readable markdown interface (AGI endpoint) instead of versioned REST APIs]] | @aie | `-` |
+| 2026-09-01 | [[experiments/aie-2026-09-01-x402-aws-edge-paywall-monetization|Wrap content API endpoints with x402 paywalls at the CDN/edge layer without changing origin infrastructure]] | @aie | `-` |
+| 2026-09-01 | [[experiments/aie-2026-09-01-ucp-merchant-capabilities-manifest|Publish a merchant capabilities manifest and structured catalog to make a service agent-commerce ready]] | @aie | `-` |
+| 2026-09-01 | [[experiments/aie-2026-09-01-multimodal-fuzzy-intent-shopping-loop|Implement a three-phase discovery-research-response loop for agents handling fuzzy user intent]] | @aie | `-` |
+| 2026-09-01 | [[experiments/aie-2026-09-01-intent-driven-ux-component-hierarchy|Encode UX layout rules as a slot hierarchy for AI-generated interfaces]] | @aie | `-` |
+| 2026-09-01 | [[experiments/aie-2026-09-01-duna-agentic-identity-registry|Register agents under a DUNA for open-internet identity and trust]] | @aie | `-` |
+| 2026-09-01 | [[experiments/aie-2026-09-01-circle-agent-wallet-nanopayments|Equip a Claude Code agent with a Circle USDC wallet and benchmark task completion on paywalled resources]] | @aie | `-` |
+| 2026-09-01 | [[experiments/aie-2026-09-01-agent-payment-compliance-screening|Gate agent payment execution behind wallet-address compliance screening]] | @aie | `-` |
+| 2026-09-01 | [[experiments/aie-2026-09-01-agent-authorization-stakes-matrix|Apply a stakes-and-evidence matrix to classify agent actions and required authorization proof]] | @aie | `-` |
 | 2026-08-30 | [[experiments/st-2026-08-30-four-stage-ai-adoption-roadmap|Run a four-stage AI adoption audit (Foundation → Activation → Adoption → Expansion) before adding new agent capabilities]] | @st | `-` |
 | 2026-08-30 | [[experiments/nb-2026-08-30-define-passing-conditions-before-agent-deploy|Define explicit passing conditions tied to business metrics before deploying any agent]] | @nb | `-` |
 | 2026-08-30 | [[experiments/aie-2026-08-30-omni-flash-multimodal-input-video-output-api|Prototype an automated video post-production pipeline using Gemini Omni Flash API (multimodal-in, video-out)]] | @aie | `-` |

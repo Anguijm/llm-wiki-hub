@@ -1864,6 +1864,51 @@
     "slug": "aie-2026-08-30-omni-flash-multimodal-input-video-output-api",
     "synced_at": "2026-08-31T00:12:40.924825+00:00"
   },
+  "phase4:aie-2026-09-01-agent-authorization-stakes-matrix": {
+    "hash": "943760e9af53bfcf93fd3b2ebf3ede8d345face19cb0e0837071444836027a71",
+    "slug": "aie-2026-09-01-agent-authorization-stakes-matrix",
+    "synced_at": "2026-09-01T23:48:33.172183+00:00"
+  },
+  "phase4:aie-2026-09-01-agent-payment-compliance-screening": {
+    "hash": "38f0e4a77b2e16dcd51b9b3050ee3b1a753f6cd1f1c055e30783624d3669058b",
+    "slug": "aie-2026-09-01-agent-payment-compliance-screening",
+    "synced_at": "2026-09-01T23:48:33.171530+00:00"
+  },
+  "phase4:aie-2026-09-01-circle-agent-wallet-nanopayments": {
+    "hash": "9a82a96bd4381f86ef2dc780f636b4b507e4fe2e30d406d193ad274965a27eb0",
+    "slug": "aie-2026-09-01-circle-agent-wallet-nanopayments",
+    "synced_at": "2026-09-01T23:48:33.172809+00:00"
+  },
+  "phase4:aie-2026-09-01-duna-agentic-identity-registry": {
+    "hash": "aac99b838cd11f3a836b477becdf1e4c62e9dab4bd0728a80f902a72b1beb633",
+    "slug": "aie-2026-09-01-duna-agentic-identity-registry",
+    "synced_at": "2026-09-01T23:48:33.170869+00:00"
+  },
+  "phase4:aie-2026-09-01-intent-driven-ux-component-hierarchy": {
+    "hash": "415a1001f63330df26765caa39f946b82d0bfdf8161af569d02c939b5916a75e",
+    "slug": "aie-2026-09-01-intent-driven-ux-component-hierarchy",
+    "synced_at": "2026-09-01T23:48:33.171220+00:00"
+  },
+  "phase4:aie-2026-09-01-multimodal-fuzzy-intent-shopping-loop": {
+    "hash": "97d5c8717dc8b43a289a2c7efa8dc1bc90d69aaae071b8079482df8b59907466",
+    "slug": "aie-2026-09-01-multimodal-fuzzy-intent-shopping-loop",
+    "synced_at": "2026-09-01T23:48:33.173137+00:00"
+  },
+  "phase4:aie-2026-09-01-ucp-merchant-capabilities-manifest": {
+    "hash": "61f7e0314c6e9a26165886aff666e06742540703d5ca28b70e9e473a5473baf2",
+    "slug": "aie-2026-09-01-ucp-merchant-capabilities-manifest",
+    "synced_at": "2026-09-01T23:48:33.173457+00:00"
+  },
+  "phase4:aie-2026-09-01-x402-aws-edge-paywall-monetization": {
+    "hash": "69a4add1b9647ad7cf0199d023b56706511ae1bf7098da90778f39c481886386",
+    "slug": "aie-2026-09-01-x402-aws-edge-paywall-monetization",
+    "synced_at": "2026-09-01T23:48:33.172501+00:00"
+  },
+  "phase4:aie-2026-09-01-x402-rough-edges-agi-interface": {
+    "hash": "073795897939c78620718dab5113dc6c90c44aa7c142173d729d49aa1d774ed1",
+    "slug": "aie-2026-09-01-x402-rough-edges-agi-interface",
+    "synced_at": "2026-09-01T23:48:33.171848+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -3369,6 +3414,11 @@
     "slug": "nb-2026-08-30-define-passing-conditions-before-agent-deploy",
     "synced_at": "2026-08-31T00:12:40.924453+00:00"
   },
+  "phase4:nb-2026-09-01-local-vs-cloud-ai-bet": {
+    "hash": "2e1ea845bad66ec16e266d8909a9a83c7107c0441321bbbfcb561b0fda7dd565",
+    "slug": "nb-2026-09-01-local-vs-cloud-ai-bet",
+    "synced_at": "2026-09-01T23:48:33.169555+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -3939,6 +3989,16 @@
     "slug": "nh-2026-08-29-managed-hermes-agent-setup",
     "synced_at": "2026-08-29T23:53:45.986579+00:00"
   },
+  "phase4:nh-2026-09-01-claude-fable-51-cost-benchmark": {
+    "hash": "89b1416b27cd91e0a4fcd82391e17ec58cc20ff444b5ce0a9d1fe91bde2eb8c6",
+    "slug": "nh-2026-09-01-claude-fable-51-cost-benchmark",
+    "synced_at": "2026-09-01T23:48:33.169903+00:00"
+  },
+  "phase4:nh-2026-09-01-grokbot-agent-org-chart": {
+    "hash": "67e5f95233f5d9f6a0cdc6fc5aa0c2e740f19deb06e957de414feb384be4535f",
+    "slug": "nh-2026-09-01-grokbot-agent-org-chart",
+    "synced_at": "2026-09-01T23:48:33.170550+00:00"
+  },
   "phase4:nh-2026-09-01-grokbot-agent-team-setup": {
     "hash": "cb82c930e188e01405f38671587548fb4eb8aaccea8b1f26fba4d079000876e2",
     "slug": "nh-2026-09-01-grokbot-agent-team-setup",
@@ -3948,6 +4008,11 @@
     "hash": "9841aebe2f548c8d901b4072c0cc7c68f54675a82291ada2d2334fa2b55f373e",
     "slug": "nh-2026-09-01-grokbot-cold-outreach-agent",
     "synced_at": "2026-09-01T00:59:23.025066+00:00"
+  },
+  "phase4:nh-2026-09-01-reward-hacking-eval-harness": {
+    "hash": "f55128ed25428c37478e79fe8c7264f8877e98103c9a6caf7ffe860ad697b212",
+    "slug": "nh-2026-09-01-reward-hacking-eval-harness",
+    "synced_at": "2026-09-01T23:48:33.170245+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
