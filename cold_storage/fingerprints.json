@@ -2414,6 +2414,11 @@
     "slug": "mk-2026-08-27-grokbot-multi-agent-architecture-rebuild",
     "synced_at": "2026-08-27T02:57:06.888696+00:00"
   },
+  "phase4:mk-2026-09-01-grokbot-model-router": {
+    "hash": "79c2617611a9fc8c1d6af5b776fca962c6914297c71ec715e719dfc83a55e951",
+    "slug": "mk-2026-09-01-grokbot-model-router",
+    "synced_at": "2026-09-01T00:59:23.025389+00:00"
+  },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
     "slug": "mlops-2026-03-17-durable-execution-agents",
@@ -3933,6 +3938,16 @@
     "hash": "2646e2bc05ab33564bdb4e99ecc5eea33fad2fef545fdabbfe65f5f556f4e6d4",
     "slug": "nh-2026-08-29-managed-hermes-agent-setup",
     "synced_at": "2026-08-29T23:53:45.986579+00:00"
+  },
+  "phase4:nh-2026-09-01-grokbot-agent-team-setup": {
+    "hash": "cb82c930e188e01405f38671587548fb4eb8aaccea8b1f26fba4d079000876e2",
+    "slug": "nh-2026-09-01-grokbot-agent-team-setup",
+    "synced_at": "2026-09-01T00:59:23.024646+00:00"
+  },
+  "phase4:nh-2026-09-01-grokbot-cold-outreach-agent": {
+    "hash": "9841aebe2f548c8d901b4072c0cc7c68f54675a82291ada2d2334fa2b55f373e",
+    "slug": "nh-2026-09-01-grokbot-cold-outreach-agent",
+    "synced_at": "2026-09-01T00:59:23.025066+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
