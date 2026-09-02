@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**810 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**817 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 508 |
+| `backlog` | 515 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 580 |
+| `(none)` | 587 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -33,11 +33,11 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Channel | Experiments |
 |---|---|
 | @aie | 376 |
-| @nb | 126 |
-| @nh | 117 |
+| @nb | 127 |
+| @nh | 120 |
 | @mlops | 63 |
-| @do | 53 |
-| @mk | 32 |
+| @do | 55 |
+| @mk | 33 |
 | @aij | 18 |
 | @st | 13 |
 | @up | 5 |
@@ -53,6 +53,13 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-02 | [[experiments/nh-2026-09-02-scrollcraft-verification-loop|Add Screenshot-Based Visual Verification Loop to UI Generation Tasks]] | @nh | `-` |
+| 2026-09-02 | [[experiments/nh-2026-09-02-fable-orchestrator-no-build|Prompt Fable 5.1 as Pure Orchestrator — Spin Sub-Agents, Never Build Directly]] | @nh | `-` |
+| 2026-09-02 | [[experiments/nh-2026-09-02-fable-effort-level-matching|Match Fable 5.1 Effort Level to Task Complexity to Reduce Token Burn]] | @nh | `-` |
+| 2026-09-02 | [[experiments/nb-2026-09-02-multi-provider-memory-portability|Store Memory and Context Outside Any Single AI Provider]] | @nb | `-` |
+| 2026-09-02 | [[experiments/mk-2026-09-02-fable51-system-prompt-analysis|Classify and Tier Memories by Sensitivity to Improve Agent Context Hygiene]] | @mk | `-` |
+| 2026-09-02 | [[experiments/do-2026-09-02-vps-cloud-agent-hosting|Run Persistent Agentic Sessions on a Self-Hosted VPS to Escape Ecosystem Lock-In]] | @do | `-` |
+| 2026-09-02 | [[experiments/do-2026-09-02-priority-queue-agent-orchestration|Implement a Priority Queue (Coral) for Multi-Agent Response Ordering]] | @do | `-` |
 | 2026-09-01 | [[experiments/nh-2026-09-01-reward-hacking-eval-harness|Add reward-hacking detection to agentic eval harnesses]] | @nh | `-` |
 | 2026-09-01 | [[experiments/nh-2026-09-01-grokbot-cold-outreach-agent|Wire a Grokbot Agent to Clay for Daily Automated Cold Outreach]] | @nh | `-` |
 | 2026-09-01 | [[experiments/nh-2026-09-01-grokbot-agent-team-setup|Build a Grokbot Leadership Team with Specialized Sub-Agents]] | @nh | `-` |
