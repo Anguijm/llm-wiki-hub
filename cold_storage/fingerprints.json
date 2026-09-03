@@ -1909,6 +1909,46 @@
     "slug": "aie-2026-09-01-x402-rough-edges-agi-interface",
     "synced_at": "2026-09-01T23:48:33.171848+00:00"
   },
+  "phase4:aie-2026-09-03-composio-knowledge-work-six-primitives": {
+    "hash": "4493b5f452f53b6902fd4cbfca1ba76dbf1e55c07790a748d9ad84e03bbb4043",
+    "slug": "aie-2026-09-03-composio-knowledge-work-six-primitives",
+    "synced_at": "2026-09-03T23:47:27.993868+00:00"
+  },
+  "phase4:aie-2026-09-03-composio-sandbox-reversibility": {
+    "hash": "1fa28f85d749de34b1cecda31ecd4dfd1c0ef68e904ec2957ace5132a0136f4e",
+    "slug": "aie-2026-09-03-composio-sandbox-reversibility",
+    "synced_at": "2026-09-03T23:47:27.994206+00:00"
+  },
+  "phase4:aie-2026-09-03-promptql-company-brain-update-rate": {
+    "hash": "084a8551e3652ee12c9eae8dfc99dee61d4f9e7a16a6a629bc7cfdd07952b778",
+    "slug": "aie-2026-09-03-promptql-company-brain-update-rate",
+    "synced_at": "2026-09-03T23:47:27.994879+00:00"
+  },
+  "phase4:aie-2026-09-03-promptql-no-stored-credentials": {
+    "hash": "50b04e85883dc5e5ebf7cd0fc5e8b69d99ab967899358d3733547afe03657326",
+    "slug": "aie-2026-09-03-promptql-no-stored-credentials",
+    "synced_at": "2026-09-03T23:47:27.994534+00:00"
+  },
+  "phase4:aie-2026-09-03-town-low-sensitivity-auto-zone": {
+    "hash": "31f5e2b8baa44e091fb1de06ce75cb0209e18a5312089fdeab127e32c5051309",
+    "slug": "aie-2026-09-03-town-low-sensitivity-auto-zone",
+    "synced_at": "2026-09-03T23:47:27.995206+00:00"
+  },
+  "phase4:aie-2026-09-03-twosigma-agent-runs-as-user-identity": {
+    "hash": "e2993a107ce22f7c97911350e31eef1bda31f9512389b158a81f454ca9a54f82",
+    "slug": "aie-2026-09-03-twosigma-agent-runs-as-user-identity",
+    "synced_at": "2026-09-03T23:47:27.995535+00:00"
+  },
+  "phase4:aie-2026-09-03-twosigma-xlm-agent-header-attribution": {
+    "hash": "3de072b822b00d7d07df97d8e761f56246671cb71bf74dbfb92e3e01adfe740e",
+    "slug": "aie-2026-09-03-twosigma-xlm-agent-header-attribution",
+    "synced_at": "2026-09-03T23:47:27.995870+00:00"
+  },
+  "phase4:aie-2026-09-03-zo-personal-cloud-agent-hosting": {
+    "hash": "336ee4dc1eb74f3c0326b5cd222a33bebd11cd3fd7541e1272a17af9976dee80",
+    "slug": "aie-2026-09-03-zo-personal-cloud-agent-hosting",
+    "synced_at": "2026-09-03T23:47:27.996171+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",

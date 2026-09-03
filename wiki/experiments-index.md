@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**817 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**825 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 515 |
+| `backlog` | 523 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 587 |
+| `(none)` | 595 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,7 +32,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 376 |
+| @aie | 384 |
 | @nb | 127 |
 | @nh | 120 |
 | @mlops | 63 |
@@ -53,6 +53,14 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-03 | [[experiments/aie-2026-09-03-zo-personal-cloud-agent-hosting|Host your personal agent and its dependent services on a single self-owned cloud node]] | @aie | `-` |
+| 2026-09-03 | [[experiments/aie-2026-09-03-twosigma-xlm-agent-header-attribution|Add an X-LLM-Agent HTTP header to all agent-initiated requests for audit attribution]] | @aie | `-` |
+| 2026-09-03 | [[experiments/aie-2026-09-03-twosigma-agent-runs-as-user-identity|Run agents as the requesting user's identity via per-user Kubernetes namespaces and a sidecar credential injector]] | @aie | `-` |
+| 2026-09-03 | [[experiments/aie-2026-09-03-town-low-sensitivity-auto-zone|Define an explicit low-sensitivity data zone where agents can share context without human approval]] | @aie | `-` |
+| 2026-09-03 | [[experiments/aie-2026-09-03-promptql-no-stored-credentials|Inject user credentials at the HTTP/SQL layer instead of storing them in the agent sandbox]] | @aie | `-` |
+| 2026-09-03 | [[experiments/aie-2026-09-03-promptql-company-brain-update-rate|Track daily update rate of your shared knowledge base as a health metric]] | @aie | `-` |
+| 2026-09-03 | [[experiments/aie-2026-09-03-composio-sandbox-reversibility|Add a sandbox dry-run gate before irreversible agent actions]] | @aie | `-` |
+| 2026-09-03 | [[experiments/aie-2026-09-03-composio-knowledge-work-six-primitives|Audit your agent stack against the six knowledge-work primitives]] | @aie | `-` |
 | 2026-09-02 | [[experiments/nh-2026-09-02-scrollcraft-verification-loop|Add Screenshot-Based Visual Verification Loop to UI Generation Tasks]] | @nh | `-` |
 | 2026-09-02 | [[experiments/nh-2026-09-02-fable-orchestrator-no-build|Prompt Fable 5.1 as Pure Orchestrator — Spin Sub-Agents, Never Build Directly]] | @nh | `-` |
 | 2026-09-02 | [[experiments/nh-2026-09-02-fable-effort-level-matching|Match Fable 5.1 Effort Level to Task Complexity to Reduce Token Burn]] | @nh | `-` |
