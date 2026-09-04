@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**825 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**830 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 523 |
+| `backlog` | 528 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 595 |
+| `(none)` | 600 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,9 +32,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 384 |
-| @nb | 127 |
-| @nh | 120 |
+| @aie | 385 |
+| @nb | 129 |
+| @nh | 122 |
 | @mlops | 63 |
 | @do | 55 |
 | @mk | 33 |
@@ -53,6 +53,11 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-04 | [[experiments/nh-2026-09-04-fable51-vs-fable5-agentic-app-build|Benchmark Fable 5.1 vs Fable 5 as orchestrators in a multi-agent app-build workflow on identical prompts]] | @nh | `-` |
+| 2026-09-04 | [[experiments/nh-2026-09-04-astra-end-to-end-video-production|Prompt GPT-6 Astra to autonomously produce a finished YouTube video end-to-end from a single open-ended brief]] | @nh | `-` |
+| 2026-09-04 | [[experiments/nb-2026-09-04-low-effort-dcf-model-deck|Run Claude on 'low' effort setting for knowledge-work financial modeling to benchmark cost-quality tradeoff]] | @nb | `-` |
+| 2026-09-04 | [[experiments/nb-2026-09-04-claude-blender-architectural-film|Use Claude + Blender tool-use to generate an architectural walkthrough film from a property address]] | @nb | `-` |
+| 2026-09-04 | [[experiments/aie-2026-09-04-minimax-sparse-attention-long-context-agents|Evaluate MiniMax M3's 1M-token sparse attention context for long-horizon multi-round agentic tasks]] | @aie | `-` |
 | 2026-09-03 | [[experiments/aie-2026-09-03-zo-personal-cloud-agent-hosting|Host your personal agent and its dependent services on a single self-owned cloud node]] | @aie | `-` |
 | 2026-09-03 | [[experiments/aie-2026-09-03-twosigma-xlm-agent-header-attribution|Add an X-LLM-Agent HTTP header to all agent-initiated requests for audit attribution]] | @aie | `-` |
 | 2026-09-03 | [[experiments/aie-2026-09-03-twosigma-agent-runs-as-user-identity|Run agents as the requesting user's identity via per-user Kubernetes namespaces and a sidecar credential injector]] | @aie | `-` |

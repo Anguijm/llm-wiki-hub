@@ -1949,6 +1949,11 @@
     "slug": "aie-2026-09-03-zo-personal-cloud-agent-hosting",
     "synced_at": "2026-09-03T23:47:27.996171+00:00"
   },
+  "phase4:aie-2026-09-04-minimax-sparse-attention-long-context-agents": {
+    "hash": "65a4106449821353ab79d03afc540b8142a549bd002e89f48c7003ffbf87c394",
+    "slug": "aie-2026-09-04-minimax-sparse-attention-long-context-agents",
+    "synced_at": "2026-09-04T23:44:18.788886+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -3479,6 +3484,16 @@
     "slug": "nb-2026-09-02-multi-provider-memory-portability",
     "synced_at": "2026-09-02T23:52:06.939085+00:00"
   },
+  "phase4:nb-2026-09-04-claude-blender-architectural-film": {
+    "hash": "c59013c7806478d2510574c81d11469cee03cc5b36d066260b09f6b8da98a27c",
+    "slug": "nb-2026-09-04-claude-blender-architectural-film",
+    "synced_at": "2026-09-04T23:44:18.787518+00:00"
+  },
+  "phase4:nb-2026-09-04-low-effort-dcf-model-deck": {
+    "hash": "8db4f7fc8dbc7edc2114f701b9875d436a63ea0807466c3bca6ff3afd55eda69",
+    "slug": "nb-2026-09-04-low-effort-dcf-model-deck",
+    "synced_at": "2026-09-04T23:44:18.787891+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -4088,6 +4103,16 @@
     "hash": "0b5fdbb597bae8513b3ca8a54c1cfb0efc53e4e49a5b2adfbeaba8162d110bd4",
     "slug": "nh-2026-09-02-scrollcraft-verification-loop",
     "synced_at": "2026-09-02T23:52:06.940202+00:00"
+  },
+  "phase4:nh-2026-09-04-astra-end-to-end-video-production": {
+    "hash": "8fa311711804357b9457a95d839023094474657d276f7d8c27c759e8e9fea34c",
+    "slug": "nh-2026-09-04-astra-end-to-end-video-production",
+    "synced_at": "2026-09-04T23:44:18.788223+00:00"
+  },
+  "phase4:nh-2026-09-04-fable51-vs-fable5-agentic-app-build": {
+    "hash": "343b43ce5dda281533097d35e56e800fcf149e7fbd5b370373e9306c4295d5b8",
+    "slug": "nh-2026-09-04-fable51-vs-fable5-agentic-app-build",
+    "synced_at": "2026-09-04T23:44:18.788539+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
