@@ -2524,6 +2524,16 @@
     "slug": "mk-2026-09-02-fable51-system-prompt-analysis",
     "synced_at": "2026-09-02T23:52:06.940408+00:00"
   },
+  "phase4:mk-2026-09-05-computer-use-cli-from-browser": {
+    "hash": "64307e97687bec56fed249fdae5db7d3b8794ce91a04d5a47011b9149baf46c9",
+    "slug": "mk-2026-09-05-computer-use-cli-from-browser",
+    "synced_at": "2026-09-05T23:33:59.520798+00:00"
+  },
+  "phase4:mk-2026-09-05-computer-use-mcp-install-test": {
+    "hash": "02b6841807051ee3ee3decbd15098847a2689eb4acdcc13ba0f8819341c95aad",
+    "slug": "mk-2026-09-05-computer-use-mcp-install-test",
+    "synced_at": "2026-09-05T23:33:59.521107+00:00"
+  },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
     "slug": "mlops-2026-03-17-durable-execution-agents",
@@ -4113,6 +4123,16 @@
     "hash": "343b43ce5dda281533097d35e56e800fcf149e7fbd5b370373e9306c4295d5b8",
     "slug": "nh-2026-09-04-fable51-vs-fable5-agentic-app-build",
     "synced_at": "2026-09-04T23:44:18.788539+00:00"
+  },
+  "phase4:nh-2026-09-05-astra-browser-website-scrollcraft": {
+    "hash": "951818e392e0c5c647b25fb39a57cd50cd04e9ccc0c0869a5961fe9d1198a370",
+    "slug": "nh-2026-09-05-astra-browser-website-scrollcraft",
+    "synced_at": "2026-09-05T23:33:59.520476+00:00"
+  },
+  "phase4:nh-2026-09-05-voice-delegated-codex-personal-os": {
+    "hash": "db34ac7183ed849f106c8cb7447068c99a8c1ad7ce9b4599121deaaf15162032",
+    "slug": "nh-2026-09-05-voice-delegated-codex-personal-os",
+    "synced_at": "2026-09-05T23:33:59.520118+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

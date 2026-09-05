@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**830 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**834 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 528 |
+| `backlog` | 532 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 600 |
+| `(none)` | 604 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -34,10 +34,10 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 |---|---|
 | @aie | 385 |
 | @nb | 129 |
-| @nh | 122 |
+| @nh | 124 |
 | @mlops | 63 |
 | @do | 55 |
-| @mk | 33 |
+| @mk | 35 |
 | @aij | 18 |
 | @st | 13 |
 | @up | 5 |
@@ -53,6 +53,10 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-05 | [[experiments/nh-2026-09-05-voice-delegated-codex-personal-os|Use Astra Voice Mode to Delegate Parallel Codex Threads via Project Context]] | @nh | `-` |
+| 2026-09-05 | [[experiments/nh-2026-09-05-astra-browser-website-scrollcraft|Inject Inspiration URLs and a Layering Skill Prompt into Astra for One-Shot Premium Web UI Generation]] | @nh | `-` |
+| 2026-09-05 | [[experiments/mk-2026-09-05-computer-use-mcp-install-test|Automate MCP Server Install and First-Run Testing via Astra Computer Use]] | @mk | `-` |
+| 2026-09-05 | [[experiments/mk-2026-09-05-computer-use-cli-from-browser|Use Astra Computer Use Once to Generate a Reusable CLI for API-less Tools]] | @mk | `-` |
 | 2026-09-04 | [[experiments/nh-2026-09-04-fable51-vs-fable5-agentic-app-build|Benchmark Fable 5.1 vs Fable 5 as orchestrators in a multi-agent app-build workflow on identical prompts]] | @nh | `-` |
 | 2026-09-04 | [[experiments/nh-2026-09-04-astra-end-to-end-video-production|Prompt GPT-6 Astra to autonomously produce a finished YouTube video end-to-end from a single open-ended brief]] | @nh | `-` |
 | 2026-09-04 | [[experiments/nb-2026-09-04-low-effort-dcf-model-deck|Run Claude on 'low' effort setting for knowledge-work financial modeling to benchmark cost-quality tradeoff]] | @nb | `-` |
