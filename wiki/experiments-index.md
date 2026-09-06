@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**834 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**837 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 532 |
+| `backlog` | 535 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 604 |
+| `(none)` | 607 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -33,8 +33,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Channel | Experiments |
 |---|---|
 | @aie | 385 |
-| @nb | 129 |
-| @nh | 124 |
+| @nb | 131 |
+| @nh | 125 |
 | @mlops | 63 |
 | @do | 55 |
 | @mk | 35 |
@@ -53,6 +53,9 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-06 | [[experiments/nh-2026-09-06-astra-vs-fable-15-use-cases|Run identical task prompts through Astra and Fable 5.1 and score output quality, time, and cost per use-case category]] | @nh | `-` |
+| 2026-09-06 | [[experiments/nb-2026-09-06-standing-job-agent-governance|Define a standing-job governance checklist before deploying a long-running agent]] | @nb | `-` |
+| 2026-09-06 | [[experiments/nb-2026-09-06-astra-autonomous-knowledge-system|Hand Astra a raw data dump and let it self-direct a personal knowledge system]] | @nb | `-` |
 | 2026-09-05 | [[experiments/nh-2026-09-05-voice-delegated-codex-personal-os|Use Astra Voice Mode to Delegate Parallel Codex Threads via Project Context]] | @nh | `-` |
 | 2026-09-05 | [[experiments/nh-2026-09-05-astra-browser-website-scrollcraft|Inject Inspiration URLs and a Layering Skill Prompt into Astra for One-Shot Premium Web UI Generation]] | @nh | `-` |
 | 2026-09-05 | [[experiments/mk-2026-09-05-computer-use-mcp-install-test|Automate MCP Server Install and First-Run Testing via Astra Computer Use]] | @mk | `-` |

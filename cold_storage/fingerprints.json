@@ -3504,6 +3504,16 @@
     "slug": "nb-2026-09-04-low-effort-dcf-model-deck",
     "synced_at": "2026-09-04T23:44:18.787891+00:00"
   },
+  "phase4:nb-2026-09-06-astra-autonomous-knowledge-system": {
+    "hash": "babc2c1d70389ecc188425fb26ceb8b743c23218e17db353e5b227bdca5c2dc3",
+    "slug": "nb-2026-09-06-astra-autonomous-knowledge-system",
+    "synced_at": "2026-09-06T23:30:10.536124+00:00"
+  },
+  "phase4:nb-2026-09-06-standing-job-agent-governance": {
+    "hash": "f089d7af4ed50d12ca3863514a8a8a65c5fb598414ce257b7b263f7cf1035c04",
+    "slug": "nb-2026-09-06-standing-job-agent-governance",
+    "synced_at": "2026-09-06T23:30:10.536471+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -4133,6 +4143,11 @@
     "hash": "db34ac7183ed849f106c8cb7447068c99a8c1ad7ce9b4599121deaaf15162032",
     "slug": "nh-2026-09-05-voice-delegated-codex-personal-os",
     "synced_at": "2026-09-05T23:33:59.520118+00:00"
+  },
+  "phase4:nh-2026-09-06-astra-vs-fable-15-use-cases": {
+    "hash": "e9bdef4793bb12837d991da16932b99bf4ec2b9f50b8c499a898cfb2141bdeea",
+    "slug": "nh-2026-09-06-astra-vs-fable-15-use-cases",
+    "synced_at": "2026-09-06T23:30:10.536773+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
