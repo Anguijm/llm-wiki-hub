@@ -3514,6 +3514,11 @@
     "slug": "nb-2026-09-06-standing-job-agent-governance",
     "synced_at": "2026-09-06T23:30:10.536471+00:00"
   },
+  "phase4:nb-2026-09-07-astra-admin-recipe-cards": {
+    "hash": "7a75e03d60c4848387d9352287bcf3b29a967cd6af45c8bb61aa67e21338befd",
+    "slug": "nb-2026-09-07-astra-admin-recipe-cards",
+    "synced_at": "2026-09-07T23:59:53.467094+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -4148,6 +4153,16 @@
     "hash": "e9bdef4793bb12837d991da16932b99bf4ec2b9f50b8c499a898cfb2141bdeea",
     "slug": "nh-2026-09-06-astra-vs-fable-15-use-cases",
     "synced_at": "2026-09-06T23:30:10.536773+00:00"
+  },
+  "phase4:nh-2026-09-07-aios-second-brain-four-cs": {
+    "hash": "62377cc00def1173ec1d5da2beab6f6ccd0a84e03c48b79541dc6e60b0f1905e",
+    "slug": "nh-2026-09-07-aios-second-brain-four-cs",
+    "synced_at": "2026-09-07T23:59:53.467474+00:00"
+  },
+  "phase4:nh-2026-09-07-astra-stock-trader-scheduled-agents": {
+    "hash": "685fea748dc31533a722ca70e89aaaed3567410381659bc108e7a6f41637db3c",
+    "slug": "nh-2026-09-07-astra-stock-trader-scheduled-agents",
+    "synced_at": "2026-09-07T23:59:53.467307+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

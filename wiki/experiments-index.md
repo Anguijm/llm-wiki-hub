@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**837 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**840 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 535 |
+| `backlog` | 538 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 607 |
+| `(none)` | 610 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -33,8 +33,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Channel | Experiments |
 |---|---|
 | @aie | 385 |
-| @nb | 131 |
-| @nh | 125 |
+| @nb | 132 |
+| @nh | 127 |
 | @mlops | 63 |
 | @do | 55 |
 | @mk | 35 |
@@ -53,6 +53,9 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-07 | [[experiments/nh-2026-09-07-astra-stock-trader-scheduled-agents|Chain Stateless Scheduled Agents with a Shared Progress Log for Continuous Autonomous Operation]] | @nh | `-` |
+| 2026-09-07 | [[experiments/nh-2026-09-07-aios-second-brain-four-cs|Build a Four-C AI Operating System (Context, Connections, Capabilities, Cadence) as a Persistent Knowledge Base for Agents]] | @nh | `-` |
+| 2026-09-07 | [[experiments/nb-2026-09-07-astra-admin-recipe-cards|Build a Manager-Agent Recipe Card to Orchestrate Multi-Step Admin Tasks]] | @nb | `-` |
 | 2026-09-06 | [[experiments/nh-2026-09-06-astra-vs-fable-15-use-cases|Run identical task prompts through Astra and Fable 5.1 and score output quality, time, and cost per use-case category]] | @nh | `-` |
 | 2026-09-06 | [[experiments/nb-2026-09-06-standing-job-agent-governance|Define a standing-job governance checklist before deploying a long-running agent]] | @nb | `-` |
 | 2026-09-06 | [[experiments/nb-2026-09-06-astra-autonomous-knowledge-system|Hand Astra a raw data dump and let it self-direct a personal knowledge system]] | @nb | `-` |
