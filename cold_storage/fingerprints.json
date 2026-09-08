@@ -1954,6 +1954,11 @@
     "slug": "aie-2026-09-04-minimax-sparse-attention-long-context-agents",
     "synced_at": "2026-09-04T23:44:18.788886+00:00"
   },
+  "phase4:aie-2026-09-08-llm-inference-at-scale-workshop": {
+    "hash": "dbd589ab5fe94fc9c166584112bf1a3c441d26de9dfb5bc765ff13570a201f30",
+    "slug": "aie-2026-09-08-llm-inference-at-scale-workshop",
+    "synced_at": "2026-09-08T23:50:58.948027+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2349,6 +2354,11 @@
     "slug": "eh-2026-07-18-intelligence-as-process-not-substance",
     "synced_at": "2026-07-18T22:48:55.932549+00:00"
   },
+  "phase4:eh-2026-09-08-deep-talk-buddy-interrupting-ai": {
+    "hash": "8f28919f2fd6d5857e483e701dda9d4feb3df155a99c9581622135a1ba294569",
+    "slug": "eh-2026-09-08-deep-talk-buddy-interrupting-ai",
+    "synced_at": "2026-09-08T23:50:58.947355+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -2533,6 +2543,11 @@
     "hash": "02b6841807051ee3ee3decbd15098847a2689eb4acdcc13ba0f8819341c95aad",
     "slug": "mk-2026-09-05-computer-use-mcp-install-test",
     "synced_at": "2026-09-05T23:33:59.521107+00:00"
+  },
+  "phase4:mk-2026-09-08-astra-effort-level-benchmark": {
+    "hash": "6e84a2d62a78670f17de0d22a8746e21eac500a7f71b363cf52ff24a2b56e096",
+    "slug": "mk-2026-09-08-astra-effort-level-benchmark",
+    "synced_at": "2026-09-08T23:50:58.947710+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
@@ -4163,6 +4178,11 @@
     "hash": "685fea748dc31533a722ca70e89aaaed3567410381659bc108e7a6f41637db3c",
     "slug": "nh-2026-09-07-astra-stock-trader-scheduled-agents",
     "synced_at": "2026-09-07T23:59:53.467307+00:00"
+  },
+  "phase4:nh-2026-09-08-codex-hyperframes-ai-video-editing": {
+    "hash": "fb3af13572d2f9266ce076bb6d646b19610cb61b2c02d46954e7a3d7c545db7b",
+    "slug": "nh-2026-09-08-codex-hyperframes-ai-video-editing",
+    "synced_at": "2026-09-08T23:50:58.947011+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**840 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**844 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 538 |
+| `backlog` | 542 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 610 |
+| `(none)` | 614 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,16 +32,16 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 385 |
+| @aie | 386 |
 | @nb | 132 |
-| @nh | 127 |
+| @nh | 128 |
 | @mlops | 63 |
 | @do | 55 |
-| @mk | 35 |
+| @mk | 36 |
 | @aij | 18 |
 | @st | 13 |
 | @up | 5 |
-| @eh | 4 |
+| @eh | 5 |
 | @fs | 2 |
 | @tmp | 1 |
 
@@ -53,6 +53,10 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-08 | [[experiments/nh-2026-09-08-codex-hyperframes-ai-video-editing|Use Codex + Hyperframes to edit long-form video via natural language prompts]] | @nh | `-` |
+| 2026-09-08 | [[experiments/mk-2026-09-08-astra-effort-level-benchmark|Benchmark Astra effort levels (low/medium/high/max/ultra) on an identical multi-step research-and-build task]] | @mk | `-` |
+| 2026-09-08 | [[experiments/eh-2026-09-08-deep-talk-buddy-interrupting-ai|Build a conversational AI that interrupts with reflective reframes mid-thought]] | @eh | `-` |
+| 2026-09-08 | [[experiments/aie-2026-09-08-llm-inference-at-scale-workshop|Build a structured decision framework for selecting LLM serving engines based on use-case constraints]] | @aie | `-` |
 | 2026-09-07 | [[experiments/nh-2026-09-07-astra-stock-trader-scheduled-agents|Chain Stateless Scheduled Agents with a Shared Progress Log for Continuous Autonomous Operation]] | @nh | `-` |
 | 2026-09-07 | [[experiments/nh-2026-09-07-aios-second-brain-four-cs|Build a Four-C AI Operating System (Context, Connections, Capabilities, Cadence) as a Persistent Knowledge Base for Agents]] | @nh | `-` |
 | 2026-09-07 | [[experiments/nb-2026-09-07-astra-admin-recipe-cards|Build a Manager-Agent Recipe Card to Orchestrate Multi-Step Admin Tasks]] | @nb | `-` |
