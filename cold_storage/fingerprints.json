@@ -1959,6 +1959,41 @@
     "slug": "aie-2026-09-08-llm-inference-at-scale-workshop",
     "synced_at": "2026-09-08T23:50:58.948027+00:00"
   },
+  "phase4:aie-2026-09-09-acp-universal-agent-client-protocol": {
+    "hash": "c087a02b0dd2fc087a054e81cca3136dc073b616b22aa7e7f852496ad7540dad",
+    "slug": "aie-2026-09-09-acp-universal-agent-client-protocol",
+    "synced_at": "2026-09-09T23:50:53.077346+00:00"
+  },
+  "phase4:aie-2026-09-09-ifscale-instruction-following-ceiling": {
+    "hash": "b4913eacb3d9d542b2e04283138b913a11a2d723b1a56a1b1e080ecca6b9745a",
+    "slug": "aie-2026-09-09-ifscale-instruction-following-ceiling",
+    "synced_at": "2026-09-09T23:50:53.078109+00:00"
+  },
+  "phase4:aie-2026-09-09-linkedin-contextual-agent-playbooks": {
+    "hash": "e5278d0b4aacee59e354a65fcd2999e8991bd3df12df295bc47963ca71a9289a",
+    "slug": "aie-2026-09-09-linkedin-contextual-agent-playbooks",
+    "synced_at": "2026-09-09T23:50:53.078768+00:00"
+  },
+  "phase4:aie-2026-09-09-mcp-apps-data-first-rendering": {
+    "hash": "d5507bad4e67b4af8afb491bf8ff5dd826e6a348c93bcd9d0a6c8be7d277532f",
+    "slug": "aie-2026-09-09-mcp-apps-data-first-rendering",
+    "synced_at": "2026-09-09T23:50:53.077769+00:00"
+  },
+  "phase4:aie-2026-09-09-mcp-toolbox-authenticated-parameters": {
+    "hash": "c04e35295853c3ee6d04b40247acd18f7e90a0ebca9cbc16d25b0e1290cce577",
+    "slug": "aie-2026-09-09-mcp-toolbox-authenticated-parameters",
+    "synced_at": "2026-09-09T23:50:53.079446+00:00"
+  },
+  "phase4:aie-2026-09-09-relational-context-engine-beyond-rag": {
+    "hash": "8c04dfcfba2474e2fb80929d05ce4e5fcb24e15e84d37e245768bb51f8809623",
+    "slug": "aie-2026-09-09-relational-context-engine-beyond-rag",
+    "synced_at": "2026-09-09T23:50:53.078459+00:00"
+  },
+  "phase4:aie-2026-09-09-rlm-recursive-language-model-pattern": {
+    "hash": "9e86a0b5b7935e1ae3482d52bc107b59ffd7d2d553102c8114ae72cc10b6370f",
+    "slug": "aie-2026-09-09-rlm-recursive-language-model-pattern",
+    "synced_at": "2026-09-09T23:50:53.079095+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2333,6 +2368,11 @@
     "hash": "f54241823936e45b16dc1dd37a8b37f3f03c222d62e784885be9fb0ebb81ab0e",
     "slug": "do-2026-09-02-vps-cloud-agent-hosting",
     "synced_at": "2026-09-02T23:52:06.939338+00:00"
+  },
+  "phase4:do-2026-09-09-run-open-weights-agent-offline": {
+    "hash": "4411c77f10df346721c35afa643dd3bf77cd6fcbe17fead6e385533e1c80d507",
+    "slug": "do-2026-09-09-run-open-weights-agent-offline",
+    "synced_at": "2026-09-09T23:50:53.076980+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",

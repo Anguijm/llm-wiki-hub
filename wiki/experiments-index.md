@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**844 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**852 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 542 |
+| `backlog` | 550 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 614 |
+| `(none)` | 622 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,11 +32,11 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 386 |
+| @aie | 393 |
 | @nb | 132 |
 | @nh | 128 |
 | @mlops | 63 |
-| @do | 55 |
+| @do | 56 |
 | @mk | 36 |
 | @aij | 18 |
 | @st | 13 |
@@ -53,6 +53,14 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-09 | [[experiments/do-2026-09-09-run-open-weights-agent-offline|Run a fully offline multi-agent loop using Frontier Agent + 35B open weights model]] | @do | `-` |
+| 2026-09-09 | [[experiments/aie-2026-09-09-rlm-recursive-language-model-pattern|Prototype an RLM (Recursive Language Model) pattern for long-context document processing tasks]] | @aie | `-` |
+| 2026-09-09 | [[experiments/aie-2026-09-09-relational-context-engine-beyond-rag|Build a relational context engine that lets agents query structured repo/team data, not just RAG chunks]] | @aie | `-` |
+| 2026-09-09 | [[experiments/aie-2026-09-09-mcp-toolbox-authenticated-parameters|Use MCP Toolbox authenticated parameters to bind user identity to DB tools without exposing PII to the agent]] | @aie | `-` |
+| 2026-09-09 | [[experiments/aie-2026-09-09-mcp-apps-data-first-rendering|Separate data-fetch tools from render tools in MCP apps so the model can filter before displaying]] | @aie | `-` |
+| 2026-09-09 | [[experiments/aie-2026-09-09-linkedin-contextual-agent-playbooks|Replace direct MCP tool exposure with three meta-tools (search, get-schema, execute) to scale to 1,300+ tools without context overload]] | @aie | `-` |
+| 2026-09-09 | [[experiments/aie-2026-09-09-ifscale-instruction-following-ceiling|Benchmark our skills files against IFScale to find the real instruction-following ceiling for our chosen model]] | @aie | `-` |
+| 2026-09-09 | [[experiments/aie-2026-09-09-acp-universal-agent-client-protocol|Implement ACP (Agent Client Protocol) transport so any client can drive any harness]] | @aie | `-` |
 | 2026-09-08 | [[experiments/nh-2026-09-08-codex-hyperframes-ai-video-editing|Use Codex + Hyperframes to edit long-form video via natural language prompts]] | @nh | `-` |
 | 2026-09-08 | [[experiments/mk-2026-09-08-astra-effort-level-benchmark|Benchmark Astra effort levels (low/medium/high/max/ultra) on an identical multi-step research-and-build task]] | @mk | `-` |
 | 2026-09-08 | [[experiments/eh-2026-09-08-deep-talk-buddy-interrupting-ai|Build a conversational AI that interrupts with reflective reframes mid-thought]] | @eh | `-` |
