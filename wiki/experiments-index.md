@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**852 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**862 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 550 |
+| `backlog` | 560 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 622 |
+| `(none)` | 632 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,10 +32,10 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 393 |
-| @nb | 132 |
+| @aie | 400 |
+| @nb | 134 |
 | @nh | 128 |
-| @mlops | 63 |
+| @mlops | 64 |
 | @do | 56 |
 | @mk | 36 |
 | @aij | 18 |
@@ -53,6 +53,16 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-10 | [[experiments/nb-2026-09-10-open-multiagent-repo-message-board|Coordinate Cross-Model Multi-Agent Work via Shared Repo and Message Board]] | @nb | `-` |
+| 2026-09-10 | [[experiments/nb-2026-09-10-dual-model-clipboard-comparison|Run Identical Prompts Across Two Models to Surface Divergent Design Solutions]] | @nb | `-` |
+| 2026-09-10 | [[experiments/mlops-2026-09-10-forged-chain-of-thought-injection|Test Forged Chain-of-Thought Injection Against Your Agent's Tool-Output Boundary]] | @mlops | `-` |
+| 2026-09-10 | [[experiments/aie-2026-09-10-tldraw-agent-canvas-spatial-coordination|Use an Infinite Canvas as a Multiplayer Multi-Agent Coordination and Visualization Layer]] | @aie | `-` |
+| 2026-09-10 | [[experiments/aie-2026-09-10-prefab-generative-ui-python-mcp|Stream Agent-Generated UI via MCP Apps to Bypass Context-Window Bottleneck]] | @aie | `-` |
+| 2026-09-10 | [[experiments/aie-2026-09-10-mousepower-agent-task-uncertainty-matrix|Score Agent Tasks on Step-Uncertainty vs Acceptance-Criteria-Uncertainty Before Assigning to Agents]] | @aie | `-` |
+| 2026-09-10 | [[experiments/aie-2026-09-10-impeccable-adjective-driven-design-iteration|Inject Design-System-Aware Context into Coding Harnesses to Steer Aesthetic Output via Natural Language Commands]] | @aie | `-` |
+| 2026-09-10 | [[experiments/aie-2026-09-10-deterministic-design-code-roundtrip-guardrail|Add Deterministic Drift-Detection Guardrails to Catch Design-Code Divergence Before Merge]] | @aie | `-` |
+| 2026-09-10 | [[experiments/aie-2026-09-10-design-system-first-agent-scale|Establish a Locked Design System Foundation Before Delegating Deliverables to Agents]] | @aie | `-` |
+| 2026-09-10 | [[experiments/aie-2026-09-10-brand-api-slop-prevention|Extract Structured Brand Constraints from a URL and Inject as Agent Context to Reduce Style Drift]] | @aie | `-` |
 | 2026-09-09 | [[experiments/do-2026-09-09-run-open-weights-agent-offline|Run a fully offline multi-agent loop using Frontier Agent + 35B open weights model]] | @do | `-` |
 | 2026-09-09 | [[experiments/aie-2026-09-09-rlm-recursive-language-model-pattern|Prototype an RLM (Recursive Language Model) pattern for long-context document processing tasks]] | @aie | `-` |
 | 2026-09-09 | [[experiments/aie-2026-09-09-relational-context-engine-beyond-rag|Build a relational context engine that lets agents query structured repo/team data, not just RAG chunks]] | @aie | `-` |

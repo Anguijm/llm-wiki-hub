@@ -1994,6 +1994,41 @@
     "slug": "aie-2026-09-09-rlm-recursive-language-model-pattern",
     "synced_at": "2026-09-09T23:50:53.079095+00:00"
   },
+  "phase4:aie-2026-09-10-brand-api-slop-prevention": {
+    "hash": "728f67db3bf783c92568d581d992bf99e8525d25252bfba3ba372a7f14904b42",
+    "slug": "aie-2026-09-10-brand-api-slop-prevention",
+    "synced_at": "2026-09-10T23:44:23.612892+00:00"
+  },
+  "phase4:aie-2026-09-10-design-system-first-agent-scale": {
+    "hash": "fc4559b603a05fb6b79edd54059ebc74edd912730574c71e7c5f57c0fecba91d",
+    "slug": "aie-2026-09-10-design-system-first-agent-scale",
+    "synced_at": "2026-09-10T23:44:23.612346+00:00"
+  },
+  "phase4:aie-2026-09-10-deterministic-design-code-roundtrip-guardrails": {
+    "hash": "c1d042db55994aaceead9d528673168c9f6e56f9543dd717b002af9754bda5d2",
+    "slug": "aie-2026-09-10-deterministic-design-code-roundtrip-guardrail",
+    "synced_at": "2026-09-10T23:44:23.613739+00:00"
+  },
+  "phase4:aie-2026-09-10-impeccable-adjective-driven-design-iteration": {
+    "hash": "97a74ad6a15a1e445dc7b61571de00335045e00f6bf3bb9fceb72ac5d9bc2417",
+    "slug": "aie-2026-09-10-impeccable-adjective-driven-design-iteration",
+    "synced_at": "2026-09-10T23:44:23.613163+00:00"
+  },
+  "phase4:aie-2026-09-10-mousepower-agent-task-uncertainty-matrix": {
+    "hash": "ee78091bc0fb3077088828f469c7049da516a0d3a676fcce2e310af34930334b",
+    "slug": "aie-2026-09-10-mousepower-agent-task-uncertainty-matrix",
+    "synced_at": "2026-09-10T23:44:23.613480+00:00"
+  },
+  "phase4:aie-2026-09-10-prefab-generative-ui-python-mcp": {
+    "hash": "39e85c0d93b8545e49eb7547bbecc5352dc59d8d22437d93d2cbf027b42d1947",
+    "slug": "aie-2026-09-10-prefab-generative-ui-python-mcp",
+    "synced_at": "2026-09-10T23:44:23.612623+00:00"
+  },
+  "phase4:aie-2026-09-10-tldraw-agent-canvas-spatial-coordination": {
+    "hash": "dc9de18befe9fcafbf9a4db0a706d2cb805e0531a839183f49a73b01eadffef2",
+    "slug": "aie-2026-09-10-tldraw-agent-canvas-spatial-coordination",
+    "synced_at": "2026-09-10T23:44:23.614013+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2909,6 +2944,11 @@
     "slug": "mlops-2026-08-20-seattle-mcp-release-party-intro",
     "synced_at": "2026-08-20T22:25:52.866875+00:00"
   },
+  "phase4:mlops-2026-09-10-forged-chain-of-thought-injection": {
+    "hash": "ecb741afa01a34bc48149e46f495d7188900e728c255ff0354bf72a2f7f6dee0",
+    "slug": "mlops-2026-09-10-forged-chain-of-thought-injection",
+    "synced_at": "2026-09-10T23:44:23.612038+00:00"
+  },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",
     "slug": "nb-2026-03-24-agent-readiness-checklist",
@@ -3573,6 +3613,16 @@
     "hash": "7a75e03d60c4848387d9352287bcf3b29a967cd6af45c8bb61aa67e21338befd",
     "slug": "nb-2026-09-07-astra-admin-recipe-cards",
     "synced_at": "2026-09-07T23:59:53.467094+00:00"
+  },
+  "phase4:nb-2026-09-10-dual-model-clipboard-comparison": {
+    "hash": "f004876ecfa0c438cbf7c22033bde93aeb0ed502260bd09f5e18370a9a330e79",
+    "slug": "nb-2026-09-10-dual-model-clipboard-comparison",
+    "synced_at": "2026-09-10T23:44:23.611415+00:00"
+  },
+  "phase4:nb-2026-09-10-open-multiagent-repo-message-board": {
+    "hash": "d61ca92ad2bc30629533b55775d0d376902425b8cabc2f13884a92f63b6c8a59",
+    "slug": "nb-2026-09-10-open-multiagent-repo-message-board",
+    "synced_at": "2026-09-10T23:44:23.611753+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
