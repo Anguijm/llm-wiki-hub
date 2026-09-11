@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**862 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**866 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 560 |
+| `backlog` | 564 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 632 |
+| `(none)` | 636 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,9 +32,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 400 |
-| @nb | 134 |
-| @nh | 128 |
+| @aie | 401 |
+| @nb | 135 |
+| @nh | 130 |
 | @mlops | 64 |
 | @do | 56 |
 | @mk | 36 |
@@ -53,6 +53,10 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-11 | [[experiments/nh-2026-09-11-skill-decay-rotation|Audit and Prune Agent Skills Every Six Months to Prevent Harness Bloat]] | @nh | `-` |
+| 2026-09-11 | [[experiments/nh-2026-09-11-harness-over-model-loyalty|Decouple Agent Harness from Model Provider to Enable Swappable Brains]] | @nh | `-` |
+| 2026-09-11 | [[experiments/nb-2026-09-11-omarchy-scoped-agent-desktop-changes|Run Scoped Agent Tasks Against Documented OS Configuration Handles]] | @nb | `-` |
+| 2026-09-11 | [[experiments/aie-2026-09-11-architecture-first-agent-coding|Shift Agent Coding Review to Architecture Decisions Before Code Generation]] | @aie | `-` |
 | 2026-09-10 | [[experiments/nb-2026-09-10-open-multiagent-repo-message-board|Coordinate Cross-Model Multi-Agent Work via Shared Repo and Message Board]] | @nb | `-` |
 | 2026-09-10 | [[experiments/nb-2026-09-10-dual-model-clipboard-comparison|Run Identical Prompts Across Two Models to Surface Divergent Design Solutions]] | @nb | `-` |
 | 2026-09-10 | [[experiments/mlops-2026-09-10-forged-chain-of-thought-injection|Test Forged Chain-of-Thought Injection Against Your Agent's Tool-Output Boundary]] | @mlops | `-` |
