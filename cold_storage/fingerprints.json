@@ -2414,6 +2414,16 @@
     "slug": "do-2026-09-09-run-open-weights-agent-offline",
     "synced_at": "2026-09-09T23:50:53.076980+00:00"
   },
+  "phase4:do-2026-09-12-bash-first-agentic-harness": {
+    "hash": "21105a5e04a9b46b34dfb85cb3c19b7102bc3cec558b8093842230b85fae7c09",
+    "slug": "do-2026-09-12-bash-first-agentic-harness",
+    "synced_at": "2026-09-12T23:45:42.114574+00:00"
+  },
+  "phase4:do-2026-09-12-deferred-tool-loading": {
+    "hash": "1d164ef5fc18ee3f4316fcec73bef289d91f25111cb2a139931bc97bc3f5221a",
+    "slug": "do-2026-09-12-deferred-tool-loading",
+    "synced_at": "2026-09-12T23:45:42.114930+00:00"
+  },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
     "slug": "eh-2026-06-13-interactive-geometry-watercolor-visualizer",

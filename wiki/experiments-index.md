@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**866 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**868 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 564 |
+| `backlog` | 566 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 636 |
+| `(none)` | 638 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -36,7 +36,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | @nb | 135 |
 | @nh | 130 |
 | @mlops | 64 |
-| @do | 56 |
+| @do | 58 |
 | @mk | 36 |
 | @aij | 18 |
 | @st | 13 |
@@ -53,6 +53,8 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-12 | [[experiments/do-2026-09-12-deferred-tool-loading|Implement Deferred Tool Loading via Interleaved System Messages]] | @do | `-` |
+| 2026-09-12 | [[experiments/do-2026-09-12-bash-first-agentic-harness|Replace Custom Tool Calls with Bash-First Agent Harness]] | @do | `-` |
 | 2026-09-11 | [[experiments/nh-2026-09-11-skill-decay-rotation|Audit and Prune Agent Skills Every Six Months to Prevent Harness Bloat]] | @nh | `-` |
 | 2026-09-11 | [[experiments/nh-2026-09-11-harness-over-model-loyalty|Decouple Agent Harness from Model Provider to Enable Swappable Brains]] | @nh | `-` |
 | 2026-09-11 | [[experiments/nb-2026-09-11-omarchy-scoped-agent-desktop-changes|Run Scoped Agent Tasks Against Documented OS Configuration Handles]] | @nb | `-` |
