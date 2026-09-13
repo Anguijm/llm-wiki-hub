@@ -2639,6 +2639,11 @@
     "slug": "mk-2026-09-08-astra-effort-level-benchmark",
     "synced_at": "2026-09-08T23:50:58.947710+00:00"
   },
+  "phase4:mk-2026-09-13-3d-immersive-learning-world-astra-blender": {
+    "hash": "e9244007c574e71a75f3cb11da032df675ac8183ac2a74795d8278048f2a3a8f",
+    "slug": "mk-2026-09-13-3d-immersive-learning-world-astra-blender",
+    "synced_at": "2026-09-13T23:53:53.141394+00:00"
+  },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
     "slug": "mlops-2026-03-17-durable-execution-agents",
@@ -4303,6 +4308,16 @@
     "hash": "d447b8d2e823f784cb30dc15fa9c73131af7dceb91707c3e4a4413b084de18ee",
     "slug": "nh-2026-09-11-skill-decay-rotation",
     "synced_at": "2026-09-11T23:53:17.275136+00:00"
+  },
+  "phase4:nh-2026-09-13-skill-based-agent-architecture": {
+    "hash": "c6b8220d6750f6573a421b20d9c6709a47195eb6e96ba042cb43faf5676e6e28",
+    "slug": "nh-2026-09-13-skill-based-agent-architecture",
+    "synced_at": "2026-09-13T23:53:53.140909+00:00"
+  },
+  "phase4:nh-2026-09-13-skill-self-verification-personas": {
+    "hash": "e25f2e924057a3a85bb3f45257fa3b3f91a52b7d87d5398f57bda8a5dfb3cbfb",
+    "slug": "nh-2026-09-13-skill-self-verification-personas",
+    "synced_at": "2026-09-13T23:53:53.141166+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

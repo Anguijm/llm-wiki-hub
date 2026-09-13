@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**868 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**871 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 566 |
+| `backlog` | 569 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 638 |
+| `(none)` | 641 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -34,10 +34,10 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 |---|---|
 | @aie | 401 |
 | @nb | 135 |
-| @nh | 130 |
+| @nh | 132 |
 | @mlops | 64 |
 | @do | 58 |
-| @mk | 36 |
+| @mk | 37 |
 | @aij | 18 |
 | @st | 13 |
 | @up | 5 |
@@ -53,6 +53,9 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-13 | [[experiments/nh-2026-09-13-skill-self-verification-personas|Embed Multi-Persona Sub-Agent Review Loop Inside Skills Before Output Surfaces to Human]] | @nh | `-` |
+| 2026-09-13 | [[experiments/nh-2026-09-13-skill-based-agent-architecture|Replace Monolithic Agents with Skill-Based Architecture Using Progressive Disclosure]] | @nh | `-` |
+| 2026-09-13 | [[experiments/mk-2026-09-13-3d-immersive-learning-world-astra-blender|Use Astra + Blender Plugin to Auto-Generate Hosted 3D Interactive Learning Environments from a Topic Brief]] | @mk | `-` |
 | 2026-09-12 | [[experiments/do-2026-09-12-deferred-tool-loading|Implement Deferred Tool Loading via Interleaved System Messages]] | @do | `-` |
 | 2026-09-12 | [[experiments/do-2026-09-12-bash-first-agentic-harness|Replace Custom Tool Calls with Bash-First Agent Harness]] | @do | `-` |
 | 2026-09-11 | [[experiments/nh-2026-09-11-skill-decay-rotation|Audit and Prune Agent Skills Every Six Months to Prevent Harness Bloat]] | @nh | `-` |
