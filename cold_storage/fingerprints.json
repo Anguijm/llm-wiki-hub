@@ -2034,6 +2034,46 @@
     "slug": "aie-2026-09-11-architecture-first-agent-coding",
     "synced_at": "2026-09-11T23:53:17.275421+00:00"
   },
+  "phase4:aie-2026-09-14-agents-as-files": {
+    "hash": "452561273bd8ac0e98964d0cd75bf968c78187b07aecd59f0d25ca2220e7ac73",
+    "slug": "aie-2026-09-14-agents-as-files",
+    "synced_at": "2026-09-15T00:19:10.309768+00:00"
+  },
+  "phase4:aie-2026-09-14-aws-harness-engineering": {
+    "hash": "33fe2eb72f28521440ccce791a9f510c57e6758798a7d3e08a1beed7f5030572",
+    "slug": "aie-2026-09-14-aws-harness-engineering",
+    "synced_at": "2026-09-15T00:19:10.311515+00:00"
+  },
+  "phase4:aie-2026-09-14-loophole-adversarial-agents": {
+    "hash": "d49d0952821473cd183b861325bf7ba1c936fae3526ab4ec276d77dd16e3c718",
+    "slug": "aie-2026-09-14-loophole-adversarial-agents",
+    "synced_at": "2026-09-15T00:19:10.311217+00:00"
+  },
+  "phase4:aie-2026-09-14-oracle-agent-memory": {
+    "hash": "d1f83a6f64bf1da896e3b7522b4f8448a39336bf414aa262159873b286d0c61c",
+    "slug": "aie-2026-09-14-oracle-agent-memory",
+    "synced_at": "2026-09-15T00:19:10.310358+00:00"
+  },
+  "phase4:aie-2026-09-14-posthog-warlock-security": {
+    "hash": "a741cf02bea052c2734fa56f2909740a7ee61b50ab22641bebae20ccbb4664f0",
+    "slug": "aie-2026-09-14-posthog-warlock-security",
+    "synced_at": "2026-09-15T00:19:10.310650+00:00"
+  },
+  "phase4:aie-2026-09-14-restate-durable-agents": {
+    "hash": "f1879daef04f52702659d34b2f1a7f43869091b1521f7cf2cd33335173305469",
+    "slug": "aie-2026-09-14-restate-durable-agents",
+    "synced_at": "2026-09-15T00:19:10.310930+00:00"
+  },
+  "phase4:aie-2026-09-14-tokens-have-jobs": {
+    "hash": "8b33c3e0d884f38c278bc1f7d09fba91657301905c16ee327836e500d7c9e8e7",
+    "slug": "aie-2026-09-14-tokens-have-jobs",
+    "synced_at": "2026-09-15T00:19:10.311790+00:00"
+  },
+  "phase4:aie-2026-09-14-vercel-eve-agent-files": {
+    "hash": "c33ae37568f6a83ed0b35c514888e5bf40e39d34e8d845590e1118a25ed3d719",
+    "slug": "aie-2026-09-14-vercel-eve-agent-files",
+    "synced_at": "2026-09-15T00:19:10.310060+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -4308,6 +4348,11 @@
     "hash": "d447b8d2e823f784cb30dc15fa9c73131af7dceb91707c3e4a4413b084de18ee",
     "slug": "nh-2026-09-11-skill-decay-rotation",
     "synced_at": "2026-09-11T23:53:17.275136+00:00"
+  },
+  "phase4:nh-2026-09-13-ai-risk-10pct": {
+    "hash": "e28b19dc0b9880e47147aa485da2f7ab78e7a0185eb88ecd09487805114f5b93",
+    "slug": "nh-2026-09-13-ai-risk-10pct",
+    "synced_at": "2026-09-15T00:19:10.309432+00:00"
   },
   "phase4:nh-2026-09-13-skill-based-agent-architecture": {
     "hash": "c6b8220d6750f6573a421b20d9c6709a47195eb6e96ba042cb43faf5676e6e28",
