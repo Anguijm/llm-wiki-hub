@@ -2074,6 +2074,51 @@
     "slug": "aie-2026-09-14-vercel-eve-agent-files",
     "synced_at": "2026-09-15T00:19:10.310060+00:00"
   },
+  "phase4:aie-2026-09-15-act-confirm-stop-decision-model": {
+    "hash": "86730f623b6403079d67dc2e3556b9036d77c3b8c058cacbfb61e5cd01e76837",
+    "slug": "aie-2026-09-15-act-confirm-stop-decision-model",
+    "synced_at": "2026-09-15T23:58:23.562911+00:00"
+  },
+  "phase4:aie-2026-09-15-gemini-speech-to-speech-research": {
+    "hash": "08b300384d575eebfbbe7de0933399056de51a92447ae710fcaf81e44766cadb",
+    "slug": "aie-2026-09-15-gemini-speech-to-speech-research",
+    "synced_at": "2026-09-15T23:58:23.565527+00:00"
+  },
+  "phase4:aie-2026-09-15-hybrid-speech-to-speech-architecture": {
+    "hash": "5296e009e76c292d7ad0b47041666aa689d16ad0be315812b61c0ca0f9eae66f",
+    "slug": "aie-2026-09-15-hybrid-speech-to-speech-architecture",
+    "synced_at": "2026-09-15T23:58:23.564866+00:00"
+  },
+  "phase4:aie-2026-09-15-linguistic-framework-voice-agent": {
+    "hash": "2e8ac50972b6693db111b5e7594fb6669588661a8920f8d32c128813d2dbd82a",
+    "slug": "aie-2026-09-15-linguistic-framework-voice-agent",
+    "synced_at": "2026-09-15T23:58:23.563266+00:00"
+  },
+  "phase4:aie-2026-09-15-streaming-speculative-transcriber": {
+    "hash": "7684fbce0a170d70faaf33ff46b60c6353905fd1876858f4a8d5d1803ecd7761",
+    "slug": "aie-2026-09-15-streaming-speculative-transcriber",
+    "synced_at": "2026-09-15T23:58:23.563599+00:00"
+  },
+  "phase4:aie-2026-09-15-tolan-voice-companion-engineering": {
+    "hash": "ad35040785eb1e535f6b9184341bb10d75d3cb56b7b4cf3bc55656e9e5528abb",
+    "slug": "aie-2026-09-15-tolan-voice-companion-engineering",
+    "synced_at": "2026-09-15T23:58:23.564560+00:00"
+  },
+  "phase4:aie-2026-09-15-voice-agent-failure-modes-production": {
+    "hash": "a742fa81b1cf2fbe77149cd02a977a3624a80a85d26d7276bd54ce839180ae1b",
+    "slug": "aie-2026-09-15-voice-agent-failure-modes-production",
+    "synced_at": "2026-09-15T23:58:23.563912+00:00"
+  },
+  "phase4:aie-2026-09-15-voice-agent-red-teaming-monitoring": {
+    "hash": "a9b07f5699b4cb0025034a26f163f0f8680595902d391f9e54d2658a425a42c2",
+    "slug": "aie-2026-09-15-voice-agent-red-teaming-monitoring",
+    "synced_at": "2026-09-15T23:58:23.564244+00:00"
+  },
+  "phase4:aie-2026-09-15-voice-agent-speech-to-action-modes": {
+    "hash": "7cffd5ee76e808236c0329acc594e9d1d3e2495fc94fb2755bee52903c4ed416",
+    "slug": "aie-2026-09-15-voice-agent-speech-to-action-modes",
+    "synced_at": "2026-09-15T23:58:23.565201+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2168,6 +2213,11 @@
     "hash": "45ed147cb696e7d876339001798da6affdbbbc0f7fbe485947b3faff755150c8",
     "slug": "aij-2026-08-25-event-loop-trigger-pattern",
     "synced_at": "2026-08-25T22:25:25.272807+00:00"
+  },
+  "phase4:aij-2026-09-15-ai-ugc-workflow": {
+    "hash": "6bfc5bfdf40dab8ba8f4a46f7c6cb9baf940bc7ed7fc0545a532055077f5df56",
+    "slug": "aij-2026-09-15-ai-ugc-workflow",
+    "synced_at": "2026-09-15T23:58:23.562593+00:00"
   },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "0527033834fe3f49b58f4d9e2c508620ed78f8ba268bccaba81263b6ef3c4afa",
@@ -3688,6 +3738,16 @@
     "hash": "3581db8af7a5b016005640f831871ac448e780ef59af9ad13fdd12fc4e44b7b1",
     "slug": "nb-2026-09-11-omarchy-scoped-agent-desktop-changes",
     "synced_at": "2026-09-11T23:53:17.274484+00:00"
+  },
+  "phase4:nb-2026-09-15-ambient-intelligence-no-arms-race": {
+    "hash": "5bf588a3de927b384a5576b0d01b7189fe04aa26c61702cac7c04a097add687b",
+    "slug": "nb-2026-09-15-ambient-intelligence-no-arms-race",
+    "synced_at": "2026-09-15T23:58:23.561867+00:00"
+  },
+  "phase4:nb-2026-09-15-device-vs-agent-trust-split": {
+    "hash": "49315d10123be5c1289ea91a68b1e90251c9a700ae1023dc5da1c8bbf952da9e",
+    "slug": "nb-2026-09-15-device-vs-agent-trust-split",
+    "synced_at": "2026-09-15T23:58:23.562271+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",

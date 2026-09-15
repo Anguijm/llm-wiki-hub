@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**880 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**892 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 578 |
+| `backlog` | 590 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 650 |
+| `(none)` | 662 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,13 +32,13 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 409 |
-| @nb | 135 |
+| @aie | 418 |
+| @nb | 137 |
 | @nh | 133 |
 | @mlops | 64 |
 | @do | 58 |
 | @mk | 37 |
-| @aij | 18 |
+| @aij | 19 |
 | @st | 13 |
 | @up | 5 |
 | @eh | 5 |
@@ -53,6 +53,18 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-15 | [[experiments/nb-2026-09-15-device-vs-agent-trust-split|Audit which parts of our AI dev loop accumulate irreplaceable user context and assess switching cost]] | @nb | `-` |
+| 2026-09-15 | [[experiments/nb-2026-09-15-ambient-intelligence-no-arms-race|Reframe AI roadmap around ambient/commoditized intelligence rather than frontier-only dependency]] | @nb | `-` |
+| 2026-09-15 | [[experiments/aij-2026-09-15-ai-ugc-workflow|Build an agent-driven UGC video pipeline using Kling 2.5 + fish audio + Track for $2-3 per clip]] | @aij | `-` |
+| 2026-09-15 | [[experiments/aie-2026-09-15-voice-agent-speech-to-action-modes|Design voice agent interactions around three distinct modes (speech-to-speech, speech-to-action, event-to-speech) and use GPT Realtime 2 with preambles for tool-calling latency management]] | @aie | `-` |
+| 2026-09-15 | [[experiments/aie-2026-09-15-voice-agent-red-teaming-monitoring|Implement pre-deployment adversarial red-teaming + continuous per-call monitoring loop for voice agents before production launch]] | @aie | `-` |
+| 2026-09-15 | [[experiments/aie-2026-09-15-voice-agent-failure-modes-production|Add a TTS normalization layer between LLM output and speech synthesis to prevent production pronunciation failures]] | @aie | `-` |
+| 2026-09-15 | [[experiments/aie-2026-09-15-tolan-voice-companion-engineering|Implement a tone-routing classifier to dynamically select model tier per conversation turn based on emotional stakes, not cost]] | @aie | `-` |
+| 2026-09-15 | [[experiments/aie-2026-09-15-streaming-speculative-transcriber|Implement streaming speculative transcription + background tool-calling + TTS prefix caching to minimize voice agent latency]] | @aie | `-` |
+| 2026-09-15 | [[experiments/aie-2026-09-15-linguistic-framework-voice-agent|Audit voice agent pipeline against a six-component linguistic framework (sounds/words/interaction × listen/speak) to find failure layers]] | @aie | `-` |
+| 2026-09-15 | [[experiments/aie-2026-09-15-hybrid-speech-to-speech-architecture|Prototype a hybrid voice architecture: small full-duplex on-device speech interface delegating to a background text LLM for reasoning]] | @aie | `-` |
+| 2026-09-15 | [[experiments/aie-2026-09-15-gemini-speech-to-speech-research|Evaluate Gemini natively multimodal speech-to-speech API for real-time translation and proactive audio features in production voice agent pipeline]] | @aie | `-` |
+| 2026-09-15 | [[experiments/aie-2026-09-15-act-confirm-stop-decision-model|Add a confidence-threshold decision layer (Act / Confirm / Stop) to agent actions to reduce user ouch without changing model accuracy]] | @aie | `-` |
 | 2026-09-14 | [[experiments/aie-2026-09-14-vercel-eve-agent-files|Build a File-Based Agent Harness with Company-Specific Domain Knowledge]] | @aie | `-` |
 | 2026-09-14 | [[experiments/aie-2026-09-14-tokens-have-jobs|Test Advise/Grade/Dream Token Strategies Against a Pure Execution Baseline on Fixed Budget]] | @aie | `-` |
 | 2026-09-14 | [[experiments/aie-2026-09-14-restate-durable-agents|Add Durable Execution Infrastructure to Long-Running Agents Using Restate]] | @aie | `-` |
