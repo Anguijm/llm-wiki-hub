@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**892 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**904 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 590 |
+| `backlog` | 602 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 662 |
+| `(none)` | 674 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,12 +32,12 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 418 |
+| @aie | 427 |
 | @nb | 137 |
-| @nh | 133 |
+| @nh | 135 |
 | @mlops | 64 |
 | @do | 58 |
-| @mk | 37 |
+| @mk | 38 |
 | @aij | 19 |
 | @st | 13 |
 | @up | 5 |
@@ -53,6 +53,18 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-16 | [[experiments/nh-2026-09-16-grokbot-agentmail-inbox|Give AI Agents Their Own Email Address via AgentMail to Enable Webhook-Triggered Workflows]] | @nh | `-` |
+| 2026-09-16 | [[experiments/nh-2026-09-16-codex-to-triggerdev-automations|Offload Codex-Built Automations to Trigger.dev to Preserve Usage Quota]] | @nh | `-` |
+| 2026-09-16 | [[experiments/mk-2026-09-16-ollama-codex-cheaper-models|Route Routine Codex Tasks to Local or Cheap Cloud Models via Ollama to Reduce Token Spend]] | @mk | `-` |
+| 2026-09-16 | [[experiments/aie-2026-09-16-turbopuffer-cold-index-cost|Use a Storage-First Vector DB (turbopuffer) for Long-Tail Cold Indexes to Cut Search Infrastructure Cost]] | @aie | `-` |
+| 2026-09-16 | [[experiments/aie-2026-09-16-rl-search-subagent|Delegate All Search to a Specialized RL-Trained Sub-Agent to Reduce Main Agent Token Spend by 30-50%]] | @aie | `-` |
+| 2026-09-16 | [[experiments/aie-2026-09-16-pinecone-nexus-knowledge-layer|Build a Persistent Company Knowledge Layer to Give Agents Tribal Knowledge, Not Just Document Retrieval]] | @aie | `-` |
+| 2026-09-16 | [[experiments/aie-2026-09-16-neatron-table-extraction|Use a Purpose-Built VLM for Table Extraction from Documents Instead of Generic OCR]] | @aie | `-` |
+| 2026-09-16 | [[experiments/aie-2026-09-16-multi-chunk-size-rr|Index Documents at Multiple Chunk Sizes and Fuse Results with RRF to Improve RAG Recall by 20-40%]] | @aie | `-` |
+| 2026-09-16 | [[experiments/aie-2026-09-16-mcp-apps-agentic-web|Query the Aura Directory for Agent-Ready MCP and API Resources Instead of Relying on Web Search]] | @aie | `-` |
+| 2026-09-16 | [[experiments/aie-2026-09-16-knowledge-agent-parallel-searchers|Decompose Complex Queries into Parallel Sub-Queries via Specialist Searcher Agents to Close the Oracle Gap]] | @aie | `-` |
+| 2026-09-16 | [[experiments/aie-2026-09-16-exa-neural-search-agents|Replace Keyword-Based Web Search with Neural Search (Exa) for Agent External Lookups]] | @aie | `-` |
+| 2026-09-16 | [[experiments/aie-2026-09-16-bm25-agentic-search-primitive|Expose BM25 as an Explicit Tool Primitive to Coding Agents Alongside Semantic Search]] | @aie | `-` |
 | 2026-09-15 | [[experiments/nb-2026-09-15-device-vs-agent-trust-split|Audit which parts of our AI dev loop accumulate irreplaceable user context and assess switching cost]] | @nb | `-` |
 | 2026-09-15 | [[experiments/nb-2026-09-15-ambient-intelligence-no-arms-race|Reframe AI roadmap around ambient/commoditized intelligence rather than frontier-only dependency]] | @nb | `-` |
 | 2026-09-15 | [[experiments/aij-2026-09-15-ai-ugc-workflow|Build an agent-driven UGC video pipeline using Kling 2.5 + fish audio + Track for $2-3 per clip]] | @aij | `-` |

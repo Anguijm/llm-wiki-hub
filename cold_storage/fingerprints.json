@@ -2119,6 +2119,51 @@
     "slug": "aie-2026-09-15-voice-agent-speech-to-action-modes",
     "synced_at": "2026-09-15T23:58:23.565201+00:00"
   },
+  "phase4:aie-2026-09-16-bm25-agentic-search-primitive": {
+    "hash": "40684e9b4121d8205ad2cbc4dbb4069d5b7c90a5fed109de7208117b257009e7",
+    "slug": "aie-2026-09-16-bm25-agentic-search-primitive",
+    "synced_at": "2026-09-17T00:07:10.673834+00:00"
+  },
+  "phase4:aie-2026-09-16-exa-neural-search-agents": {
+    "hash": "a35a3c496219fcefd6d55aa48a198685b7d3b9503197a3e0d08922509450f75e",
+    "slug": "aie-2026-09-16-exa-neural-search-agents",
+    "synced_at": "2026-09-17T00:07:10.673478+00:00"
+  },
+  "phase4:aie-2026-09-16-knowledge-agent-parallel-searchers": {
+    "hash": "d48b05a2fbae95662c72e8303e9cd4b455a3d87fd56a8c7073d9cc7523c70575",
+    "slug": "aie-2026-09-16-knowledge-agent-parallel-searchers",
+    "synced_at": "2026-09-17T00:07:10.672867+00:00"
+  },
+  "phase4:aie-2026-09-16-mcp-apps-agentic-web": {
+    "hash": "2779d3e89d4fe481a9ed49d0bef1277f951bb17d649c4e9912a4c4479aa12492",
+    "slug": "aie-2026-09-16-mcp-apps-agentic-web",
+    "synced_at": "2026-09-17T00:07:10.673172+00:00"
+  },
+  "phase4:aie-2026-09-16-multi-chunk-size-rr\u0641": {
+    "hash": "ffcbf47b2d1f5992469d6ae4ed879bf46b5a0b34ede6f100d1939900164bacaf",
+    "slug": "aie-2026-09-16-multi-chunk-size-rr",
+    "synced_at": "2026-09-17T00:07:10.671526+00:00"
+  },
+  "phase4:aie-2026-09-16-neatron-table-extraction": {
+    "hash": "2cc3c190eb338b1e3e9ba38e87c5f65268dee5686d6d7c3229cd8d4d36b80ded",
+    "slug": "aie-2026-09-16-neatron-table-extraction",
+    "synced_at": "2026-09-17T00:07:10.672525+00:00"
+  },
+  "phase4:aie-2026-09-16-pinecone-nexus-knowledge-layer": {
+    "hash": "4067d4047cd3768b9552e99c851b7f7602ef3c55f544f0ffe2eae03c1c8c8cfd",
+    "slug": "aie-2026-09-16-pinecone-nexus-knowledge-layer",
+    "synced_at": "2026-09-17T00:07:10.674147+00:00"
+  },
+  "phase4:aie-2026-09-16-rl-search-subagent": {
+    "hash": "13aae77106f3da14cc9eadadae32e92e25cb035cb00e5cf21dacbffaa3a9b1dd",
+    "slug": "aie-2026-09-16-rl-search-subagent",
+    "synced_at": "2026-09-17T00:07:10.671890+00:00"
+  },
+  "phase4:aie-2026-09-16-turbopuffer-cold-index-cost": {
+    "hash": "d33952898dc7e8b78f171e6889f6391965de66c665d81669cbffcdf9189e231f",
+    "slug": "aie-2026-09-16-turbopuffer-cold-index-cost",
+    "synced_at": "2026-09-17T00:07:10.672213+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2733,6 +2778,11 @@
     "hash": "e9244007c574e71a75f3cb11da032df675ac8183ac2a74795d8278048f2a3a8f",
     "slug": "mk-2026-09-13-3d-immersive-learning-world-astra-blender",
     "synced_at": "2026-09-13T23:53:53.141394+00:00"
+  },
+  "phase4:mk-2026-09-16-ollama-codex-cheaper-models": {
+    "hash": "b4428775cecc0aacb1701e28e1057a75639668d69ef0a24bc3fbfe38cda09761",
+    "slug": "mk-2026-09-16-ollama-codex-cheaper-models",
+    "synced_at": "2026-09-17T00:07:10.671205+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
@@ -4423,6 +4473,16 @@
     "hash": "e25f2e924057a3a85bb3f45257fa3b3f91a52b7d87d5398f57bda8a5dfb3cbfb",
     "slug": "nh-2026-09-13-skill-self-verification-personas",
     "synced_at": "2026-09-13T23:53:53.141166+00:00"
+  },
+  "phase4:nh-2026-09-16-codex-to-triggerdev-automations": {
+    "hash": "eaba9ed88f6b7cecca44ae7f2d7205eec4dbd056a79fc37c70960076fa4c5165",
+    "slug": "nh-2026-09-16-codex-to-triggerdev-automations",
+    "synced_at": "2026-09-17T00:07:10.670503+00:00"
+  },
+  "phase4:nh-2026-09-16-grokbot-agentmail-inbox": {
+    "hash": "8eea3637c94671a593240b935f93a37d01effd1a851b98ec8d6f1814915cd14d",
+    "slug": "nh-2026-09-16-grokbot-agentmail-inbox",
+    "synced_at": "2026-09-17T00:07:10.670884+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
