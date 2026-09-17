@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**904 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**908 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 602 |
+| `backlog` | 606 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 674 |
+| `(none)` | 678 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,11 +32,11 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 427 |
-| @nb | 137 |
+| @aie | 428 |
+| @nb | 139 |
 | @nh | 135 |
 | @mlops | 64 |
-| @do | 58 |
+| @do | 59 |
 | @mk | 38 |
 | @aij | 19 |
 | @st | 13 |
@@ -53,6 +53,10 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-17 | [[experiments/nb-2026-09-17-agent-wallet-trust-budget|Give an agent a scoped wallet with a hard spend limit for routine purchases]] | @nb | `-` |
+| 2026-09-17 | [[experiments/nb-2026-09-17-agent-fraud-pre-transaction|Instrument agent sessions to detect pre-transaction token theft before payment calls]] | @nb | `-` |
+| 2026-09-17 | [[experiments/do-2026-09-17-agent-prompts-human-yes-no|Invert the prompt direction: let the agent surface action proposals and humans approve with yes/no]] | @do | `-` |
+| 2026-09-17 | [[experiments/aie-2026-09-17-homa-tail-latency-inference|Benchmark Homa vs TCP tail latency for small coordination messages in a multi-node inference setup]] | @aie | `-` |
 | 2026-09-16 | [[experiments/nh-2026-09-16-grokbot-agentmail-inbox|Give AI Agents Their Own Email Address via AgentMail to Enable Webhook-Triggered Workflows]] | @nh | `-` |
 | 2026-09-16 | [[experiments/nh-2026-09-16-codex-to-triggerdev-automations|Offload Codex-Built Automations to Trigger.dev to Preserve Usage Quota]] | @nh | `-` |
 | 2026-09-16 | [[experiments/mk-2026-09-16-ollama-codex-cheaper-models|Route Routine Codex Tasks to Local or Cheap Cloud Models via Ollama to Reduce Token Spend]] | @mk | `-` |

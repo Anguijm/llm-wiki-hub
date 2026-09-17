@@ -2164,6 +2164,11 @@
     "slug": "aie-2026-09-16-turbopuffer-cold-index-cost",
     "synced_at": "2026-09-17T00:07:10.672213+00:00"
   },
+  "phase4:aie-2026-09-17-homa-tail-latency-inference": {
+    "hash": "4ce512177033e8ce2db0d222cd39b4fe3fa90243a2f010c19a66826f71c5af5a",
+    "slug": "aie-2026-09-17-homa-tail-latency-inference",
+    "synced_at": "2026-09-17T23:54:50.944267+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2558,6 +2563,11 @@
     "hash": "1d164ef5fc18ee3f4316fcec73bef289d91f25111cb2a139931bc97bc3f5221a",
     "slug": "do-2026-09-12-deferred-tool-loading",
     "synced_at": "2026-09-12T23:45:42.114930+00:00"
+  },
+  "phase4:do-2026-09-17-agent-prompts-human-yes-no": {
+    "hash": "d02d00cf8fe7225490fca4589f27b46cc368b5f9ff7599f79ae1a4cef45979a1",
+    "slug": "do-2026-09-17-agent-prompts-human-yes-no",
+    "synced_at": "2026-09-17T23:54:50.943953+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
@@ -3798,6 +3808,16 @@
     "hash": "49315d10123be5c1289ea91a68b1e90251c9a700ae1023dc5da1c8bbf952da9e",
     "slug": "nb-2026-09-15-device-vs-agent-trust-split",
     "synced_at": "2026-09-15T23:58:23.562271+00:00"
+  },
+  "phase4:nb-2026-09-17-agent-fraud-pre-transaction": {
+    "hash": "fbfc292467223460cc54faddb9fb96f96a7f63814503bb80088a573cc2bd5eb1",
+    "slug": "nb-2026-09-17-agent-fraud-pre-transaction",
+    "synced_at": "2026-09-17T23:54:50.943587+00:00"
+  },
+  "phase4:nb-2026-09-17-agent-wallet-trust-budget": {
+    "hash": "452e0bda8bc9fc5241c6694d5c050949716f4a9003671f39197f049865cd7511",
+    "slug": "nb-2026-09-17-agent-wallet-trust-budget",
+    "synced_at": "2026-09-17T23:54:50.943226+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
