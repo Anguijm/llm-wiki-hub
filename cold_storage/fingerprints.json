@@ -4504,6 +4504,16 @@
     "slug": "nh-2026-09-16-grokbot-agentmail-inbox",
     "synced_at": "2026-09-17T00:07:10.670884+00:00"
   },
+  "phase4:nh-2026-09-18-agent-report-card-qas": {
+    "hash": "5127929c2e26c88bc1a49ce0714218f8193f7a047bbec64cb26df88cd60e4a17",
+    "slug": "nh-2026-09-18-agent-report-card-qas",
+    "synced_at": "2026-09-18T23:53:25.364916+00:00"
+  },
+  "phase4:nh-2026-09-18-higgsfield-api-codex-integration": {
+    "hash": "bd918757cfe943ef57fe6bfe4200fa65740bdfb93d01c946b58b46836dfc2507",
+    "slug": "nh-2026-09-18-higgsfield-api-codex-integration",
+    "synced_at": "2026-09-18T23:53:25.365094+00:00"
+  },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
     "slug": "st-2026-04-05-skill-creator-meta-agent",

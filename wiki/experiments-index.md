@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**908 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**910 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 606 |
+| `backlog` | 608 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 678 |
+| `(none)` | 680 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -34,7 +34,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 |---|---|
 | @aie | 428 |
 | @nb | 139 |
-| @nh | 135 |
+| @nh | 137 |
 | @mlops | 64 |
 | @do | 59 |
 | @mk | 38 |
@@ -53,6 +53,8 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-18 | [[experiments/nh-2026-09-18-higgsfield-api-codex-integration|Connect Higgsfield Video/Image API to Codex via .env Skill for Pay-Per-Use Generation]] | @nh | `-` |
+| 2026-09-18 | [[experiments/nh-2026-09-18-agent-report-card-qas|Build an AI Agent QA Stress-Tester with Claude]] | @nh | `-` |
 | 2026-09-17 | [[experiments/nb-2026-09-17-agent-wallet-trust-budget|Give an agent a scoped wallet with a hard spend limit for routine purchases]] | @nb | `-` |
 | 2026-09-17 | [[experiments/nb-2026-09-17-agent-fraud-pre-transaction|Instrument agent sessions to detect pre-transaction token theft before payment calls]] | @nb | `-` |
 | 2026-09-17 | [[experiments/do-2026-09-17-agent-prompts-human-yes-no|Invert the prompt direction: let the agent surface action proposals and humans approve with yes/no]] | @do | `-` |
