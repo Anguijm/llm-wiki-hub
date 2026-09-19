@@ -2169,6 +2169,16 @@
     "slug": "aie-2026-09-17-homa-tail-latency-inference",
     "synced_at": "2026-09-17T23:54:50.944267+00:00"
   },
+  "phase4:aie-2026-09-19-agent-memory-harness-engineering": {
+    "hash": "cad5d0fb8339464d69dd514dc23dd4c9de23ecf55a75deef20dc7d72f6d10b79",
+    "slug": "aie-2026-09-19-agent-memory-harness-engineering",
+    "synced_at": "2026-09-19T23:54:36.770375+00:00"
+  },
+  "phase4:aie-2026-09-19-weight-folding-cuda-streams": {
+    "hash": "bb95565f9597ea4f83db0b482dd6f438f426448634a0b1ad29cb429258d4362f",
+    "slug": "aie-2026-09-19-weight-folding-cuda-streams",
+    "synced_at": "2026-09-19T23:54:36.770031+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2569,6 +2579,11 @@
     "slug": "do-2026-09-17-agent-prompts-human-yes-no",
     "synced_at": "2026-09-17T23:54:50.943953+00:00"
   },
+  "phase4:do-2026-09-19-jev-lead-qualification-app": {
+    "hash": "d3030e3e8ac89d7a7985f80d194b128a5a79e27061d12cea8d99e4ccb7b06e2a",
+    "slug": "do-2026-09-19-jev-lead-qualification-app",
+    "synced_at": "2026-09-19T23:54:36.768329+00:00"
+  },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
     "slug": "eh-2026-06-13-interactive-geometry-watercolor-visualizer",
@@ -2593,6 +2608,11 @@
     "hash": "8f28919f2fd6d5857e483e701dda9d4feb3df155a99c9581622135a1ba294569",
     "slug": "eh-2026-09-08-deep-talk-buddy-interrupting-ai",
     "synced_at": "2026-09-08T23:50:58.947355+00:00"
+  },
+  "phase4:eh-2026-09-19-astra-creative-prompt-sequence": {
+    "hash": "d6673e7312acffbd3f18d907b1371f53ee04bffda773ecb022789822ef6e321c",
+    "slug": "eh-2026-09-19-astra-creative-prompt-sequence",
+    "synced_at": "2026-09-19T23:54:36.769386+00:00"
   },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
@@ -2793,6 +2813,11 @@
     "hash": "b4428775cecc0aacb1701e28e1057a75639668d69ef0a24bc3fbfe38cda09761",
     "slug": "mk-2026-09-16-ollama-codex-cheaper-models",
     "synced_at": "2026-09-17T00:07:10.671205+00:00"
+  },
+  "phase4:mk-2026-09-19-jev-llm-judge-replacement": {
+    "hash": "de55c9e275cefffbe558fbe8f4fba6126e31d01ba4122aedcb66dd1c1008f318",
+    "slug": "mk-2026-09-19-jev-llm-judge-replacement",
+    "synced_at": "2026-09-19T23:54:36.769709+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
@@ -4513,6 +4538,16 @@
     "hash": "bd918757cfe943ef57fe6bfe4200fa65740bdfb93d01c946b58b46836dfc2507",
     "slug": "nh-2026-09-18-higgsfield-api-codex-integration",
     "synced_at": "2026-09-18T23:53:25.365094+00:00"
+  },
+  "phase4:nh-2026-09-19-codex-skill-reverse-engineering": {
+    "hash": "beb39a47182a2f2b1c9bca5d86ca5c60a00d86c39f60dcaf78538ee3bf288ac1",
+    "slug": "nh-2026-09-19-codex-skill-reverse-engineering",
+    "synced_at": "2026-09-19T23:54:36.769023+00:00"
+  },
+  "phase4:nh-2026-09-19-jev-chrome-extension-tweet-classifier": {
+    "hash": "808bfa429e3df1306da1eb6fda2816656aa7cfa2422543e35e5863cce2d695d9",
+    "slug": "nh-2026-09-19-jev-chrome-extension-tweet-classifier",
+    "synced_at": "2026-09-19T23:54:36.768691+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
