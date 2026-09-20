@@ -2179,6 +2179,41 @@
     "slug": "aie-2026-09-19-weight-folding-cuda-streams",
     "synced_at": "2026-09-19T23:54:36.770031+00:00"
   },
+  "phase4:aie-2026-09-20-distributed-inference-meta": {
+    "hash": "487cb982388c3e002ff13114936fad4b6e869b4da3fc574f5899dc2e29b527c5",
+    "slug": "aie-2026-09-20-distributed-inference-meta",
+    "synced_at": "2026-09-20T23:51:51.047612+00:00"
+  },
+  "phase4:aie-2026-09-20-friendli-agent-inference": {
+    "hash": "68cee9adf86cdc8abce6d15e84c4e7502dc17bead26b5c559e6b446318ee99ef",
+    "slug": "aie-2026-09-20-friendli-agent-inference",
+    "synced_at": "2026-09-20T23:51:51.046025+00:00"
+  },
+  "phase4:aie-2026-09-20-large-clusters-small-models": {
+    "hash": "066777119d8ba239a593f8d610a6f47b2552384039eddac8161bfd64ca55a720",
+    "slug": "aie-2026-09-20-large-clusters-small-models",
+    "synced_at": "2026-09-20T23:51:51.046331+00:00"
+  },
+  "phase4:aie-2026-09-20-llm-benchmark-reliability": {
+    "hash": "063d41f2a06918160ab404893ba7dbd546d2fea38ec8b0e5190cee45ba791fc1",
+    "slug": "aie-2026-09-20-llm-benchmark-reliability",
+    "synced_at": "2026-09-20T23:51:51.046981+00:00"
+  },
+  "phase4:aie-2026-09-20-llm-routing-production": {
+    "hash": "e29da7fd8402c01e78b2bc9e159365c7889973e64a4603da4e56a243741297d9",
+    "slug": "aie-2026-09-20-llm-routing-production",
+    "synced_at": "2026-09-20T23:51:51.047281+00:00"
+  },
+  "phase4:aie-2026-09-20-vllm-bugs-plain-sight": {
+    "hash": "9bfe167e7e9b55220f501881ed26750caa79a1e10b26576d68d486c13471b615",
+    "slug": "aie-2026-09-20-vllm-bugs-plain-sight",
+    "synced_at": "2026-09-20T23:51:51.045699+00:00"
+  },
+  "phase4:aie-2026-09-20-whats-new-inference-engineering": {
+    "hash": "858b35bc408ee018598a0e4db9f4c22a5ae2dde3319ee6632c039775663b2a12",
+    "slug": "aie-2026-09-20-whats-new-inference-engineering",
+    "synced_at": "2026-09-20T23:51:51.046659+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -3843,6 +3878,11 @@
     "hash": "452e0bda8bc9fc5241c6694d5c050949716f4a9003671f39197f049865cd7511",
     "slug": "nb-2026-09-17-agent-wallet-trust-budget",
     "synced_at": "2026-09-17T23:54:50.943226+00:00"
+  },
+  "phase4:nb-2026-09-20-ambitious-low-token": {
+    "hash": "290ad34b7981d6353c2a488ec9bd40daf29c6f16fed872dc4fb93d78ae0f9890",
+    "slug": "nb-2026-09-20-ambitious-low-token",
+    "synced_at": "2026-09-20T23:51:51.045335+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",

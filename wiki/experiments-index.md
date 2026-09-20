@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**917 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**925 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 615 |
+| `backlog` | 623 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 687 |
+| `(none)` | 695 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,8 +32,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 430 |
-| @nb | 139 |
+| @aie | 437 |
+| @nb | 140 |
 | @nh | 139 |
 | @mlops | 64 |
 | @do | 60 |
@@ -53,6 +53,14 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-20 | [[experiments/nb-2026-09-20-ambitious-low-token|Reduce token costs with targeted prompt and context compression strategies]] | @nb | `-` |
+| 2026-09-20 | [[experiments/aie-2026-09-20-whats-new-inference-engineering|Audit current inference stack against latest inference engineering best practices]] | @aie | `-` |
+| 2026-09-20 | [[experiments/aie-2026-09-20-vllm-bugs-plain-sight|Add vLLM-specific observability probes to catch silent inference correctness bugs]] | @aie | `-` |
+| 2026-09-20 | [[experiments/aie-2026-09-20-llm-routing-production|Implement signal-driven LLM routing to balance cost and quality across loop steps]] | @aie | `-` |
+| 2026-09-20 | [[experiments/aie-2026-09-20-llm-benchmark-reliability|Replace reliance on public LLM benchmarks with task-specific internal evals for model selection]] | @aie | `-` |
+| 2026-09-20 | [[experiments/aie-2026-09-20-large-clusters-small-models|Scale embedding/small-model inference horizontally to unlock throughput gains]] | @aie | `-` |
+| 2026-09-20 | [[experiments/aie-2026-09-20-friendli-agent-inference|Evaluate agent-optimized inference endpoints vs. generic LLM APIs for loop latency]] | @aie | `-` |
+| 2026-09-20 | [[experiments/aie-2026-09-20-distributed-inference-meta|Apply Meta's distributed inference operational patterns to multi-replica self-hosted setups]] | @aie | `-` |
 | 2026-09-19 | [[experiments/nh-2026-09-19-jev-chrome-extension-tweet-classifier|Use Jev as a real-time stream classifier inside a Chrome extension to label content on screen]] | @nh | `-` |
 | 2026-09-19 | [[experiments/nh-2026-09-19-codex-skill-reverse-engineering|Reverse-engineer a desired output into a Codex skill file using the BIKE feedback loop]] | @nh | `-` |
 | 2026-09-19 | [[experiments/mk-2026-09-19-jev-llm-judge-replacement|Replace LLM-as-judge quality-control checks with Jev binary/multi-choice classifiers to eliminate hallucinated verdicts and compounding judge errors]] | @mk | `-` |
