@@ -2214,6 +2214,11 @@
     "slug": "aie-2026-09-20-whats-new-inference-engineering",
     "synced_at": "2026-09-20T23:51:51.046659+00:00"
   },
+  "phase4:aie-2026-09-22-skill-engineering-dark-arts": {
+    "hash": "5b7c557d2e2e7111dcd7783f8bcf5a7bfc286f4e945540e23a45b6b4588ec51d",
+    "slug": "aie-2026-09-22-skill-engineering-dark-arts",
+    "synced_at": "2026-09-22T00:36:09.000072+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2313,6 +2318,11 @@
     "hash": "6bfc5bfdf40dab8ba8f4a46f7c6cb9baf940bc7ed7fc0545a532055077f5df56",
     "slug": "aij-2026-09-15-ai-ugc-workflow",
     "synced_at": "2026-09-15T23:58:23.562593+00:00"
+  },
+  "phase4:aij-2026-09-22-jev-treg-automation-combo": {
+    "hash": "4e69bad86aa612fcee254553686ce1170283c15f1253591e34e40a9cb675c971",
+    "slug": "aij-2026-09-22-jev-treg-automation-combo",
+    "synced_at": "2026-09-22T00:36:08.999856+00:00"
   },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "0527033834fe3f49b58f4d9e2c508620ed78f8ba268bccaba81263b6ef3c4afa",
@@ -3178,6 +3188,11 @@
     "hash": "ecb741afa01a34bc48149e46f495d7188900e728c255ff0354bf72a2f7f6dee0",
     "slug": "mlops-2026-09-10-forged-chain-of-thought-injection",
     "synced_at": "2026-09-10T23:44:23.612038+00:00"
+  },
+  "phase4:mlops-2026-09-22-split-prompt-token-reduction": {
+    "hash": "a351ae793a408bdb84490a1faaa46b60c708b245d3db0964a98d0b894c7a6df3",
+    "slug": "mlops-2026-09-22-split-prompt-token-reduction",
+    "synced_at": "2026-09-22T00:36:08.999436+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",
@@ -4588,6 +4603,11 @@
     "hash": "808bfa429e3df1306da1eb6fda2816656aa7cfa2422543e35e5863cce2d695d9",
     "slug": "nh-2026-09-19-jev-chrome-extension-tweet-classifier",
     "synced_at": "2026-09-19T23:54:36.768691+00:00"
+  },
+  "phase4:nh-2026-09-22-codex-build-and-sell": {
+    "hash": "923fead0a889ef7d38129279e1c9f1aa4d3c04b5a98f03911aa697723a7110d5",
+    "slug": "nh-2026-09-22-codex-build-and-sell",
+    "synced_at": "2026-09-22T00:36:08.999667+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
