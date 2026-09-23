@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**929 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**932 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 627 |
+| `backlog` | 630 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 699 |
+| `(none)` | 702 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,8 +32,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 438 |
-| @nb | 140 |
+| @aie | 439 |
+| @nb | 142 |
 | @nh | 140 |
 | @mlops | 65 |
 | @do | 60 |
@@ -54,8 +54,11 @@ Ordered by published date, most recent first.
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
 | 2026-09-22 | [[experiments/nh-2026-09-22-codex-build-and-sell|Use OpenAI Codex as Primary Code-Generation Backend in Dev Loop]] | @nh | `-` |
+| 2026-09-22 | [[experiments/nb-2026-09-22-codex-computer-ownership|Audit Codex Agent Permissions and Sandboxing Boundaries]] | @nb | `-` |
+| 2026-09-22 | [[experiments/nb-2026-09-22-ai-cant-write-developer-frustration|Benchmark AI Code Agents on Documentation and Comment Writing Quality]] | @nb | `-` |
 | 2026-09-22 | [[experiments/mlops-2026-09-22-split-prompt-token-reduction|Test Prompt Splitting to Reduce Token Consumption]] | @mlops | `-` |
 | 2026-09-22 | [[experiments/aij-2026-09-22-jev-treg-automation-combo|Combine Jev and Treg Tools for Multi-Step Automation Pipelines]] | @aij | `-` |
+| 2026-09-22 | [[experiments/aie-2026-09-22-vertical-mobility-inference-scaling|Design Inference Infrastructure with Vertical Scaling Headroom from Day One]] | @aie | `-` |
 | 2026-09-22 | [[experiments/aie-2026-09-22-skill-engineering-dark-arts|Apply Skill Engineering Techniques to Modularize Agent Capabilities]] | @aie | `-` |
 | 2026-09-20 | [[experiments/nb-2026-09-20-ambitious-low-token|Reduce token costs with targeted prompt and context compression strategies]] | @nb | `-` |
 | 2026-09-20 | [[experiments/aie-2026-09-20-whats-new-inference-engineering|Audit current inference stack against latest inference engineering best practices]] | @aie | `-` |

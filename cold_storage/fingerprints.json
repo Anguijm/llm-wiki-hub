@@ -2219,6 +2219,11 @@
     "slug": "aie-2026-09-22-skill-engineering-dark-arts",
     "synced_at": "2026-09-22T00:36:09.000072+00:00"
   },
+  "phase4:aie-2026-09-22-vertical-mobility-inference-scaling": {
+    "hash": "664a35f0a7644f07cbb6aa52459ed0bc656020983312152773be65eaf2dd69d1",
+    "slug": "aie-2026-09-22-vertical-mobility-inference-scaling",
+    "synced_at": "2026-09-23T00:00:35.284839+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -3898,6 +3903,16 @@
     "hash": "290ad34b7981d6353c2a488ec9bd40daf29c6f16fed872dc4fb93d78ae0f9890",
     "slug": "nb-2026-09-20-ambitious-low-token",
     "synced_at": "2026-09-20T23:51:51.045335+00:00"
+  },
+  "phase4:nb-2026-09-22-ai-cant-write-developer-frustration": {
+    "hash": "9888da584a99f4d1255a15d451c7680176d3ddf6a2ae93b6b758404c811bb35a",
+    "slug": "nb-2026-09-22-ai-cant-write-developer-frustration",
+    "synced_at": "2026-09-23T00:00:35.284681+00:00"
+  },
+  "phase4:nb-2026-09-22-codex-computer-ownership": {
+    "hash": "ee33bd1e97d32619cbd8d93eccb9275a9579bc9dc440b9c56e58157c9a90485e",
+    "slug": "nb-2026-09-22-codex-computer-ownership",
+    "synced_at": "2026-09-23T00:00:35.284478+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
