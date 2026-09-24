@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**932 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**945 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 630 |
+| `backlog` | 643 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 702 |
+| `(none)` | 715 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,13 +32,13 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 439 |
+| @aie | 448 |
 | @nb | 142 |
-| @nh | 140 |
+| @nh | 142 |
 | @mlops | 65 |
 | @do | 60 |
-| @mk | 39 |
-| @aij | 20 |
+| @mk | 40 |
+| @aij | 21 |
 | @st | 13 |
 | @eh | 6 |
 | @up | 5 |
@@ -53,6 +53,19 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-23 | [[experiments/nh-2026-09-23-opus55-vs-gpt6-sol-10-cases|Benchmark Opus 5.5 vs GPT-6 Sol Across 10 Real Tasks]] | @nh | `-` |
+| 2026-09-23 | [[experiments/nh-2026-09-23-opus55-vs-gpt6-astra-12-cases|Benchmark Opus 5.5 vs GPT-6 Astra Across Diverse Real Tasks]] | @nh | `-` |
+| 2026-09-23 | [[experiments/mk-2026-09-23-build-jev-claude-opus55|Build a Persistent Persona Agent (Jev-style) Using Claude Opus 5.5]] | @mk | `-` |
+| 2026-09-23 | [[experiments/aij-2026-09-23-gpt6-hyperframe-expert-videos|Combine GPT-6 with Hyperframe to Generate Expert-Quality Video Content]] | @aij | `-` |
+| 2026-09-23 | [[experiments/aie-2026-09-23-vlm-vla-embodied-agents-perceptron|Extend VLM/VLA Architectures Into Embodied Agent Control Loops]] | @aie | `-` |
+| 2026-09-23 | [[experiments/aie-2026-09-23-skills-layer-vlm-deployment-huggingface|Wrap VLMs in a Skills Layer Instead of Deploying Raw Models]] | @aie | `-` |
+| 2026-09-23 | [[experiments/aie-2026-09-23-models-reason-like-toddlers-elorian|Audit Frontier Model Reasoning Failures Using Toddler-Style Edge Cases]] | @aie | `-` |
+| 2026-09-23 | [[experiments/aie-2026-09-23-modality-misalignment-short-form-video-meta|Detect Modality Misalignment in Multimodal AI Outputs for Quality Gating]] | @aie | `-` |
+| 2026-09-23 | [[experiments/aie-2026-09-23-food-systems-ai-agents-firecrawl|Use Firecrawl-Powered Agents to Orchestrate Large-Scale Domain Data Pipelines]] | @aie | `-` |
+| 2026-09-23 | [[experiments/aie-2026-09-23-document-intelligence-agents-reducto|Build a Document Intelligence Pipeline from Ingestion to Agent Actions Using Reducto]] | @aie | `-` |
+| 2026-09-23 | [[experiments/aie-2026-09-23-document-context-layer-agents-llamaindex|Implement a Dedicated Document Context Layer Between Agents and Raw Documents]] | @aie | `-` |
+| 2026-09-23 | [[experiments/aie-2026-09-23-ai-embodied-physical-form-mit-media-lab|Ground an AI Agent in Physical Embodiment to Improve Spatial Reasoning]] | @aie | `-` |
+| 2026-09-23 | [[experiments/aie-2026-09-23-3b-state-space-vision-model-sarvam|Train a 3B State-Space Vision Model from Scratch to SOTA]] | @aie | `-` |
 | 2026-09-22 | [[experiments/nh-2026-09-22-codex-build-and-sell|Use OpenAI Codex as Primary Code-Generation Backend in Dev Loop]] | @nh | `-` |
 | 2026-09-22 | [[experiments/nb-2026-09-22-codex-computer-ownership|Audit Codex Agent Permissions and Sandboxing Boundaries]] | @nb | `-` |
 | 2026-09-22 | [[experiments/nb-2026-09-22-ai-cant-write-developer-frustration|Benchmark AI Code Agents on Documentation and Comment Writing Quality]] | @nb | `-` |

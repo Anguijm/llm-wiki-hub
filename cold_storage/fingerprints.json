@@ -2224,6 +2224,51 @@
     "slug": "aie-2026-09-22-vertical-mobility-inference-scaling",
     "synced_at": "2026-09-23T00:00:35.284839+00:00"
   },
+  "phase4:aie-2026-09-23-3b-state-space-vision-model-sarvam": {
+    "hash": "e59787e9140c7d3cb341efe92720afdb1dbcd284841ca0644c6d57543b54f290",
+    "slug": "aie-2026-09-23-3b-state-space-vision-model-sarvam",
+    "synced_at": "2026-09-24T00:14:50.529205+00:00"
+  },
+  "phase4:aie-2026-09-23-ai-embodied-physical-form-mit-media-lab": {
+    "hash": "82615b485e2078cc5fdc7c98b3ddc6a9c7c972535b68ff8d46892ddd10e5c895",
+    "slug": "aie-2026-09-23-ai-embodied-physical-form-mit-media-lab",
+    "synced_at": "2026-09-24T00:14:50.531865+00:00"
+  },
+  "phase4:aie-2026-09-23-document-context-layer-agents-llamaindex": {
+    "hash": "a0132da8b8658a3d153b650f50894c0ed9d46d25db9c15c904ea0711e4fb756b",
+    "slug": "aie-2026-09-23-document-context-layer-agents-llamaindex",
+    "synced_at": "2026-09-24T00:14:50.531521+00:00"
+  },
+  "phase4:aie-2026-09-23-document-intelligence-agents-reducto": {
+    "hash": "ba69bbef4197575b85b20f359ede2ce72980cca85822b2a6581db5dec6e31ad2",
+    "slug": "aie-2026-09-23-document-intelligence-agents-reducto",
+    "synced_at": "2026-09-24T00:14:50.530577+00:00"
+  },
+  "phase4:aie-2026-09-23-food-systems-ai-agents-firecrawl": {
+    "hash": "ca8a3cd1545b9838b819e84d4530e4dab42e8b0732d23ac83dfe91b6bd7b4749",
+    "slug": "aie-2026-09-23-food-systems-ai-agents-firecrawl",
+    "synced_at": "2026-09-24T00:14:50.529851+00:00"
+  },
+  "phase4:aie-2026-09-23-modality-misalignment-short-form-video-meta": {
+    "hash": "06fda590a36046892e8b3509b82fd1dc3cbe62962e346f527eb4e7ea66d0b3ca",
+    "slug": "aie-2026-09-23-modality-misalignment-short-form-video-meta",
+    "synced_at": "2026-09-24T00:14:50.530905+00:00"
+  },
+  "phase4:aie-2026-09-23-models-reason-like-toddlers-elorian": {
+    "hash": "6717888a25e0db0b36c8218c053199019e13b25082f17e9be48148506a715d49",
+    "slug": "aie-2026-09-23-models-reason-like-toddlers-elorian",
+    "synced_at": "2026-09-24T00:14:50.530263+00:00"
+  },
+  "phase4:aie-2026-09-23-skills-layer-vlm-deployment-huggingface": {
+    "hash": "ede712b74efb862ce47d4c23d07af7d107ffbb35253f1182ffef4ad8d5b03b2f",
+    "slug": "aie-2026-09-23-skills-layer-vlm-deployment-huggingface",
+    "synced_at": "2026-09-24T00:14:50.531210+00:00"
+  },
+  "phase4:aie-2026-09-23-vlm-vla-embodied-agents-perceptron": {
+    "hash": "c4bca9d9c15dbf0435f2e803776c64608d6b0da485df05800389a7014b0858f9",
+    "slug": "aie-2026-09-23-vlm-vla-embodied-agents-perceptron",
+    "synced_at": "2026-09-24T00:14:50.529513+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2328,6 +2373,11 @@
     "hash": "4e69bad86aa612fcee254553686ce1170283c15f1253591e34e40a9cb675c971",
     "slug": "aij-2026-09-22-jev-treg-automation-combo",
     "synced_at": "2026-09-22T00:36:08.999856+00:00"
+  },
+  "phase4:aij-2026-09-23-gpt6-hyperframe-expert-videos": {
+    "hash": "860366284aba42dbd938dc7fa09dd9fdf948dacb6a7312b8dba2af3219377913",
+    "slug": "aij-2026-09-23-gpt6-hyperframe-expert-videos",
+    "synced_at": "2026-09-24T00:14:50.528551+00:00"
   },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "0527033834fe3f49b58f4d9e2c508620ed78f8ba268bccaba81263b6ef3c4afa",
@@ -2868,6 +2918,11 @@
     "hash": "de55c9e275cefffbe558fbe8f4fba6126e31d01ba4122aedcb66dd1c1008f318",
     "slug": "mk-2026-09-19-jev-llm-judge-replacement",
     "synced_at": "2026-09-19T23:54:36.769709+00:00"
+  },
+  "phase4:mk-2026-09-23-build-jev-claude-opus55": {
+    "hash": "746aa177510de811d68e9b972199f5a27b04548240e7cd6f493c416559c51e59",
+    "slug": "mk-2026-09-23-build-jev-claude-opus55",
+    "synced_at": "2026-09-24T00:14:50.528883+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
@@ -4623,6 +4678,16 @@
     "hash": "923fead0a889ef7d38129279e1c9f1aa4d3c04b5a98f03911aa697723a7110d5",
     "slug": "nh-2026-09-22-codex-build-and-sell",
     "synced_at": "2026-09-22T00:36:08.999667+00:00"
+  },
+  "phase4:nh-2026-09-23-opus55-vs-gpt6-astra-12-cases": {
+    "hash": "1338f1274d39d581b6b704cf19f812449324ba975ff92166e7087d308c15b8a1",
+    "slug": "nh-2026-09-23-opus55-vs-gpt6-astra-12-cases",
+    "synced_at": "2026-09-24T00:14:50.527888+00:00"
+  },
+  "phase4:nh-2026-09-23-opus55-vs-gpt6-sol-10-cases": {
+    "hash": "d4bd5c01b1437fa9900cb6fffed53024e564f1aaa12c9bebf816fa3638302071",
+    "slug": "nh-2026-09-23-opus55-vs-gpt6-sol-10-cases",
+    "synced_at": "2026-09-24T00:14:50.528233+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
