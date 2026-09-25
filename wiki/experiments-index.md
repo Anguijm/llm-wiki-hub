@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**945 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**953 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 643 |
+| `backlog` | 651 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 715 |
+| `(none)` | 723 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,15 +32,15 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 448 |
-| @nb | 142 |
-| @nh | 142 |
+| @aie | 453 |
+| @nb | 143 |
+| @nh | 143 |
 | @mlops | 65 |
 | @do | 60 |
 | @mk | 40 |
 | @aij | 21 |
 | @st | 13 |
-| @eh | 6 |
+| @eh | 7 |
 | @up | 5 |
 | @fs | 2 |
 | @tmp | 1 |
@@ -53,6 +53,14 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-24 | [[experiments/nh-2026-09-24-opus-55-effort-levels|Sweep Opus 5.5 Effort Levels on a Fixed Task Suite to Find Cost-Quality Frontier]] | @nh | `-` |
+| 2026-09-24 | [[experiments/nb-2026-09-24-nvidia-robot-kitchen|Benchmark NVIDIA's Physical AI Stack Against a Real Kitchen Task]] | @nb | `-` |
+| 2026-09-24 | [[experiments/eh-2026-09-24-idea-to-map-app|Build a Single-Prompt-to-Mind-Map Generator Using LLM + Graph Rendering]] | @eh | `-` |
+| 2026-09-24 | [[experiments/aie-2026-09-24-skydio-one-operator-many-drones|Apply Skydio's 1:N Operator Pattern to AI Agent Supervision]] | @aie | `-` |
+| 2026-09-24 | [[experiments/aie-2026-09-24-skild-ai-generalist-robot|Evaluate Generalist Agent Foundation Model vs. Task-Specific Fine-Tunes]] | @aie | `-` |
+| 2026-09-24 | [[experiments/aie-2026-09-24-moonlake-world-models-causality|Add Causal Structure to Agent World Model Representations]] | @aie | `-` |
+| 2026-09-24 | [[experiments/aie-2026-09-24-dyna-robotics-reliability|Define a Reliability Metric Beyond Demo Success Rate for Agent Pipelines]] | @aie | `-` |
+| 2026-09-24 | [[experiments/aie-2026-09-24-bright-data-video-for-physical-ai|Prototype a Targeted Video Data Pipeline for Task-Specific Robot Training]] | @aie | `-` |
 | 2026-09-23 | [[experiments/nh-2026-09-23-opus55-vs-gpt6-sol-10-cases|Benchmark Opus 5.5 vs GPT-6 Sol Across 10 Real Tasks]] | @nh | `-` |
 | 2026-09-23 | [[experiments/nh-2026-09-23-opus55-vs-gpt6-astra-12-cases|Benchmark Opus 5.5 vs GPT-6 Astra Across Diverse Real Tasks]] | @nh | `-` |
 | 2026-09-23 | [[experiments/mk-2026-09-23-build-jev-claude-opus55|Build a Persistent Persona Agent (Jev-style) Using Claude Opus 5.5]] | @mk | `-` |

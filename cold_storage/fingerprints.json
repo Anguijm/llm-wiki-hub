@@ -2269,6 +2269,31 @@
     "slug": "aie-2026-09-23-vlm-vla-embodied-agents-perceptron",
     "synced_at": "2026-09-24T00:14:50.529513+00:00"
   },
+  "phase4:aie-2026-09-24-bright-data-video-for-physical-ai": {
+    "hash": "2efe48b3f7fc911c6b667d1f8d0e5d529ba5b883a467c8399d5204a54d017bd8",
+    "slug": "aie-2026-09-24-bright-data-video-for-physical-ai",
+    "synced_at": "2026-09-25T00:17:14.632908+00:00"
+  },
+  "phase4:aie-2026-09-24-dyna-robotics-reliability": {
+    "hash": "c040d82244305325d5df193f207c3db657d421c6f9b908c37c439147cc0b3005",
+    "slug": "aie-2026-09-24-dyna-robotics-reliability",
+    "synced_at": "2026-09-25T00:17:14.632561+00:00"
+  },
+  "phase4:aie-2026-09-24-moonlake-world-models-causality": {
+    "hash": "6fc482d86eb97cd91aa7b2974285aa08b7555efcd87b665f26a3d87aedb6f1e1",
+    "slug": "aie-2026-09-24-moonlake-world-models-causality",
+    "synced_at": "2026-09-25T00:17:14.633219+00:00"
+  },
+  "phase4:aie-2026-09-24-skild-ai-generalist-robot": {
+    "hash": "ba4bf6d7383eeca2fd3de26560d190a3a5cb9e141165cf1245426723ee1c5a5c",
+    "slug": "aie-2026-09-24-skild-ai-generalist-robot",
+    "synced_at": "2026-09-25T00:17:14.633523+00:00"
+  },
+  "phase4:aie-2026-09-24-skydio-one-operator-many-drones": {
+    "hash": "2aa80dfb7544e7d11d01a634b91e86091bdb921f647aa335f4896540bb6b7989",
+    "slug": "aie-2026-09-24-skydio-one-operator-many-drones",
+    "synced_at": "2026-09-25T00:17:14.632230+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2713,6 +2738,11 @@
     "hash": "d6673e7312acffbd3f18d907b1371f53ee04bffda773ecb022789822ef6e321c",
     "slug": "eh-2026-09-19-astra-creative-prompt-sequence",
     "synced_at": "2026-09-19T23:54:36.769386+00:00"
+  },
+  "phase4:eh-2026-09-24-idea-to-map-app": {
+    "hash": "48364b0af1248de03f476416092adaa009b5d8bd8794f31fb59498e573b634e0",
+    "slug": "eh-2026-09-24-idea-to-map-app",
+    "synced_at": "2026-09-25T00:17:14.631905+00:00"
   },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
@@ -3969,6 +3999,11 @@
     "slug": "nb-2026-09-22-codex-computer-ownership",
     "synced_at": "2026-09-23T00:00:35.284478+00:00"
   },
+  "phase4:nb-2026-09-24-nvidia-robot-kitchen": {
+    "hash": "5551e2bc64766a0288ec8f409def30c3ac99b6ab9215eaa75314f67434057dd7",
+    "slug": "nb-2026-09-24-nvidia-robot-kitchen",
+    "synced_at": "2026-09-25T00:17:14.631184+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -4688,6 +4723,11 @@
     "hash": "d4bd5c01b1437fa9900cb6fffed53024e564f1aaa12c9bebf816fa3638302071",
     "slug": "nh-2026-09-23-opus55-vs-gpt6-sol-10-cases",
     "synced_at": "2026-09-24T00:14:50.528233+00:00"
+  },
+  "phase4:nh-2026-09-24-opus-55-effort-levels": {
+    "hash": "3a2b88bf83a55961c3017b9424e534c36c8655d4d9400e0fa7a105a3e6575d15",
+    "slug": "nh-2026-09-24-opus-55-effort-levels",
+    "synced_at": "2026-09-25T00:17:14.631547+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
