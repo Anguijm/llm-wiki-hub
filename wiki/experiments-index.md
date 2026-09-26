@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**953 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**958 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 651 |
+| `backlog` | 656 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 723 |
+| `(none)` | 728 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,9 +32,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 453 |
-| @nb | 143 |
-| @nh | 143 |
+| @aie | 456 |
+| @nb | 144 |
+| @nh | 144 |
 | @mlops | 65 |
 | @do | 60 |
 | @mk | 40 |
@@ -53,6 +53,11 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-26 | [[experiments/nh-2026-09-26-opus-55-video-editing|Use Opus 5.5 model for automated video editing and clip selection]] | @nh | `-` |
+| 2026-09-26 | [[experiments/nb-2026-09-26-chatgpt-work-beginner-workflow|Build a structured ChatGPT work workflow for common dev tasks]] | @nb | `-` |
+| 2026-09-26 | [[experiments/aie-2026-09-26-spotify-llm-music-language|Fine-tune or prompt-engineer an LLM with domain-specific entity vocabulary]] | @aie | `-` |
+| 2026-09-26 | [[experiments/aie-2026-09-26-llm-recommender-consumer-app|Prototype an LLM-powered recommendation layer on top of existing content]] | @aie | `-` |
+| 2026-09-26 | [[experiments/aie-2026-09-26-doordash-distill-llm-search|Distill LLM reasoning into a lightweight model for low-latency search ranking]] | @aie | `-` |
 | 2026-09-24 | [[experiments/nh-2026-09-24-opus-55-effort-levels|Sweep Opus 5.5 Effort Levels on a Fixed Task Suite to Find Cost-Quality Frontier]] | @nh | `-` |
 | 2026-09-24 | [[experiments/nb-2026-09-24-nvidia-robot-kitchen|Benchmark NVIDIA's Physical AI Stack Against a Real Kitchen Task]] | @nb | `-` |
 | 2026-09-24 | [[experiments/eh-2026-09-24-idea-to-map-app|Build a Single-Prompt-to-Mind-Map Generator Using LLM + Graph Rendering]] | @eh | `-` |

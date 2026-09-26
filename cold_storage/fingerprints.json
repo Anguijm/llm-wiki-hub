@@ -2294,6 +2294,21 @@
     "slug": "aie-2026-09-24-skydio-one-operator-many-drones",
     "synced_at": "2026-09-25T00:17:14.632230+00:00"
   },
+  "phase4:aie-2026-09-26-doordash-distill-llm-search": {
+    "hash": "ae7f9a9454621edf32864a388ff9f3860af7597033c39d4aca965301591f9756",
+    "slug": "aie-2026-09-26-doordash-distill-llm-search",
+    "synced_at": "2026-09-26T00:22:35.593174+00:00"
+  },
+  "phase4:aie-2026-09-26-llm-recommender-consumer-app": {
+    "hash": "8a1d2d67ac4b900f6d48448350ec2cbcedf8317ccec13e12304c37474ca1fedc",
+    "slug": "aie-2026-09-26-llm-recommender-consumer-app",
+    "synced_at": "2026-09-26T00:22:35.592859+00:00"
+  },
+  "phase4:aie-2026-09-26-spotify-llm-music-language": {
+    "hash": "98a92f06986c096b72dca187ae96d258282786d33c37daadffa20b6188ed2d46",
+    "slug": "aie-2026-09-26-spotify-llm-music-language",
+    "synced_at": "2026-09-26T00:22:35.592536+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -4004,6 +4019,11 @@
     "slug": "nb-2026-09-24-nvidia-robot-kitchen",
     "synced_at": "2026-09-25T00:17:14.631184+00:00"
   },
+  "phase4:nb-2026-09-26-chatgpt-work-beginner-workflow": {
+    "hash": "3f2b52c805d933cb36fdcdbc56cd51242c7313a93effc8ba37f742709f05d449",
+    "slug": "nb-2026-09-26-chatgpt-work-beginner-workflow",
+    "synced_at": "2026-09-26T00:22:35.591870+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -4728,6 +4748,11 @@
     "hash": "3a2b88bf83a55961c3017b9424e534c36c8655d4d9400e0fa7a105a3e6575d15",
     "slug": "nh-2026-09-24-opus-55-effort-levels",
     "synced_at": "2026-09-25T00:17:14.631547+00:00"
+  },
+  "phase4:nh-2026-09-26-opus-55-video-editing": {
+    "hash": "b2b095ddd3df0de27b0e15b383eb3b1264178c67f9399942613f61ae20649e4a",
+    "slug": "nh-2026-09-26-opus-55-video-editing",
+    "synced_at": "2026-09-26T00:22:35.592210+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
