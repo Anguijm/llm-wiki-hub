@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**958 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**968 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 656 |
+| `backlog` | 666 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 728 |
+| `(none)` | 738 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,15 +32,15 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 456 |
+| @aie | 464 |
 | @nb | 144 |
 | @nh | 144 |
 | @mlops | 65 |
 | @do | 60 |
-| @mk | 40 |
+| @mk | 41 |
 | @aij | 21 |
 | @st | 13 |
-| @eh | 7 |
+| @eh | 8 |
 | @up | 5 |
 | @fs | 2 |
 | @tmp | 1 |
@@ -55,9 +55,19 @@ Ordered by published date, most recent first.
 |---|---|---|---|
 | 2026-09-26 | [[experiments/nh-2026-09-26-opus-55-video-editing|Use Opus 5.5 model for automated video editing and clip selection]] | @nh | `-` |
 | 2026-09-26 | [[experiments/nb-2026-09-26-chatgpt-work-beginner-workflow|Build a structured ChatGPT work workflow for common dev tasks]] | @nb | `-` |
+| 2026-09-26 | [[experiments/mk-2026-09-26-opus-gpt6-workflow-upgrade|Integrate Opus 5.5 and GPT-6 Astra Into Dev Workflow at Specific Handoff Points]] | @mk | `-` |
+| 2026-09-26 | [[experiments/eh-2026-09-26-stop-asking-ai-for-original-ideas|Prompt AI to Recombine Existing Ideas Instead of Generating Novel Ones]] | @eh | `-` |
 | 2026-09-26 | [[experiments/aie-2026-09-26-spotify-llm-music-language|Fine-tune or prompt-engineer an LLM with domain-specific entity vocabulary]] | @aie | `-` |
+| 2026-09-26 | [[experiments/aie-2026-09-26-self-improving-agent-wandb|Implement a Self-Improving Agent Loop Using Logged Traces as Training Signal]] | @aie | `-` |
+| 2026-09-26 | [[experiments/aie-2026-09-26-loop-is-the-product|Redesign Product Architecture So the Feedback Loop Itself Is the Core Deliverable]] | @aie | `-` |
+| 2026-09-26 | [[experiments/aie-2026-09-26-long-horizon-agents-need-experiments|Replace Ad-Hoc Prompt Tuning With Structured Experiment Tracking for Long-Horizon Agents]] | @aie | `-` |
 | 2026-09-26 | [[experiments/aie-2026-09-26-llm-recommender-consumer-app|Prototype an LLM-powered recommendation layer on top of existing content]] | @aie | `-` |
+| 2026-09-26 | [[experiments/aie-2026-09-26-gepa-reflection-beats-rl|Use GEPA-Style Reflection Loops to Optimize Agent Behavior Without RL]] | @aie | `-` |
 | 2026-09-26 | [[experiments/aie-2026-09-26-doordash-distill-llm-search|Distill LLM reasoning into a lightweight model for low-latency search ranking]] | @aie | `-` |
+| 2026-09-26 | [[experiments/aie-2026-09-26-claude-codex-vs-human-researchers|Benchmark AI Coding Agents Against Human Researchers on Real Research Tasks]] | @aie | `-` |
+| 2026-09-26 | [[experiments/aie-2026-09-26-autoresearch-3x-faster|Apply Automated Research Loops to Accelerate Model Iteration Cycles]] | @aie | `-` |
+| 2026-09-26 | [[experiments/aie-2026-09-26-ai-research-agent-runs-experiments|Deploy a W&B-Instrumented AI Agent to Autonomously Execute and Log Research Experiments]] | @aie | `-` |
+| 2026-09-26 | [[experiments/aie-2026-09-26-ai-code-competing-with-humans|Measure AI vs. Human Code Quality on Production Codebases Using Greptile-Style Evaluation]] | @aie | `-` |
 | 2026-09-24 | [[experiments/nh-2026-09-24-opus-55-effort-levels|Sweep Opus 5.5 Effort Levels on a Fixed Task Suite to Find Cost-Quality Frontier]] | @nh | `-` |
 | 2026-09-24 | [[experiments/nb-2026-09-24-nvidia-robot-kitchen|Benchmark NVIDIA's Physical AI Stack Against a Real Kitchen Task]] | @nb | `-` |
 | 2026-09-24 | [[experiments/eh-2026-09-24-idea-to-map-app|Build a Single-Prompt-to-Mind-Map Generator Using LLM + Graph Rendering]] | @eh | `-` |

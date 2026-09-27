@@ -2294,15 +2294,55 @@
     "slug": "aie-2026-09-24-skydio-one-operator-many-drones",
     "synced_at": "2026-09-25T00:17:14.632230+00:00"
   },
+  "phase4:aie-2026-09-26-ai-code-competing-with-humans": {
+    "hash": "7138647ee4ded1a71934f3713857c016a6f4ccc56edf5b74dedac8ed00fba921",
+    "slug": "aie-2026-09-26-ai-code-competing-with-humans",
+    "synced_at": "2026-09-27T00:16:04.102954+00:00"
+  },
+  "phase4:aie-2026-09-26-ai-research-agent-runs-experiments": {
+    "hash": "9900bbc025396cf2f83163209c29d210492e53f5a6da53ee09f6c8625b39fea3",
+    "slug": "aie-2026-09-26-ai-research-agent-runs-experiments",
+    "synced_at": "2026-09-27T00:16:04.102543+00:00"
+  },
+  "phase4:aie-2026-09-26-autoresearch-3x-faster": {
+    "hash": "fb24dedbc6823a61411eb454f3f3c8a6bc9d6cb3974a4c5bc90c46f8be184b12",
+    "slug": "aie-2026-09-26-autoresearch-3x-faster",
+    "synced_at": "2026-09-27T00:16:04.102318+00:00"
+  },
+  "phase4:aie-2026-09-26-claude-codex-vs-human-researchers": {
+    "hash": "401751ad55d2c2e52fe68a5a725b82bf716ac87d9205b758a943d5c666cfb9f4",
+    "slug": "aie-2026-09-26-claude-codex-vs-human-researchers",
+    "synced_at": "2026-09-27T00:16:04.101446+00:00"
+  },
   "phase4:aie-2026-09-26-doordash-distill-llm-search": {
     "hash": "ae7f9a9454621edf32864a388ff9f3860af7597033c39d4aca965301591f9756",
     "slug": "aie-2026-09-26-doordash-distill-llm-search",
     "synced_at": "2026-09-26T00:22:35.593174+00:00"
   },
+  "phase4:aie-2026-09-26-gepa-reflection-beats-rl": {
+    "hash": "eb01a25efdb3e2291b17b300a4f8b808c19b3f8f8134cec46f6f026c7062724f",
+    "slug": "aie-2026-09-26-gepa-reflection-beats-rl",
+    "synced_at": "2026-09-27T00:16:04.101680+00:00"
+  },
   "phase4:aie-2026-09-26-llm-recommender-consumer-app": {
     "hash": "8a1d2d67ac4b900f6d48448350ec2cbcedf8317ccec13e12304c37474ca1fedc",
     "slug": "aie-2026-09-26-llm-recommender-consumer-app",
     "synced_at": "2026-09-26T00:22:35.592859+00:00"
+  },
+  "phase4:aie-2026-09-26-long-horizon-agents-need-experiments": {
+    "hash": "917b1154f8d4760a3ff62774f0f45b243bbfbfe77de642049699a5052a1c7206",
+    "slug": "aie-2026-09-26-long-horizon-agents-need-experiments",
+    "synced_at": "2026-09-27T00:16:04.101894+00:00"
+  },
+  "phase4:aie-2026-09-26-loop-is-the-product": {
+    "hash": "8fafec6c40628580b878ee1c4861f897bb8aabd63f017a55a235ace5377a1dbe",
+    "slug": "aie-2026-09-26-loop-is-the-product",
+    "synced_at": "2026-09-27T00:16:04.102747+00:00"
+  },
+  "phase4:aie-2026-09-26-self-improving-agent-wandb": {
+    "hash": "d10b752af4f64f9768815baaec8f1c13c99fea500ff76fdcf911027cc33f1800",
+    "slug": "aie-2026-09-26-self-improving-agent-wandb",
+    "synced_at": "2026-09-27T00:16:04.102108+00:00"
   },
   "phase4:aie-2026-09-26-spotify-llm-music-language": {
     "hash": "98a92f06986c096b72dca187ae96d258282786d33c37daadffa20b6188ed2d46",
@@ -2759,6 +2799,11 @@
     "slug": "eh-2026-09-24-idea-to-map-app",
     "synced_at": "2026-09-25T00:17:14.631905+00:00"
   },
+  "phase4:eh-2026-09-26-stop-asking-ai-for-original-ideas": {
+    "hash": "f31b7c6fe5530ae7d686fd409dbb359117359ff31b0626f3f529b0f31f61b758",
+    "slug": "eh-2026-09-26-stop-asking-ai-for-original-ideas",
+    "synced_at": "2026-09-27T00:16:04.100950+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -2968,6 +3013,11 @@
     "hash": "746aa177510de811d68e9b972199f5a27b04548240e7cd6f493c416559c51e59",
     "slug": "mk-2026-09-23-build-jev-claude-opus55",
     "synced_at": "2026-09-24T00:14:50.528883+00:00"
+  },
+  "phase4:mk-2026-09-26-opus-gpt6-workflow-upgrade": {
+    "hash": "cdc66899d9619051b614d2bb6d16c13c7846d06928092cfeb5729294c5b120d4",
+    "slug": "mk-2026-09-26-opus-gpt6-workflow-upgrade",
+    "synced_at": "2026-09-27T00:16:04.101203+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
