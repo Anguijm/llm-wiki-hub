@@ -2349,6 +2349,51 @@
     "slug": "aie-2026-09-26-spotify-llm-music-language",
     "synced_at": "2026-09-26T00:22:35.592536+00:00"
   },
+  "phase4:aie-2026-09-27-build-software-factory-tereza-tizkova": {
+    "hash": "0d1c2a48847ec1e4a7987b2374cdc4107f8e9eb88b358e912238b8e7d93831ba",
+    "slug": "aie-2026-09-27-build-software-factory-tereza-tizkova",
+    "synced_at": "2026-09-28T00:18:16.607027+00:00"
+  },
+  "phase4:aie-2026-09-27-coding-agents-strategy-game-ido-salomon": {
+    "hash": "c97c248ccd593c78a2bd4fb711b8720e91c9e406c029a06db140e922f0745e75",
+    "slug": "aie-2026-09-27-coding-agents-strategy-game-ido-salomon",
+    "synced_at": "2026-09-28T00:18:16.607347+00:00"
+  },
+  "phase4:aie-2026-09-27-get-out-of-models-way-kevin-hou": {
+    "hash": "05f6cd9fdaf9067916fc00ceb1da8d1e704e6e2d97078c93b3f6abb548f393af",
+    "slug": "aie-2026-09-27-get-out-of-models-way-kevin-hou",
+    "synced_at": "2026-09-28T00:18:16.605097+00:00"
+  },
+  "phase4:aie-2026-09-27-glm52-open-weights-frontier": {
+    "hash": "5f9a5dfe1405c37d97ebb192eb047fd992779ecbfa3e8be26966c5974df94886",
+    "slug": "aie-2026-09-27-glm52-open-weights-frontier",
+    "synced_at": "2026-09-28T00:18:16.605730+00:00"
+  },
+  "phase4:aie-2026-09-27-not-a-software-factory-ryan-cooke": {
+    "hash": "5a0ce8c249061bc19714cbaa4c9f760d3e997fd67b95a9353413aa37c21e96aa",
+    "slug": "aie-2026-09-27-not-a-software-factory-ryan-cooke",
+    "synced_at": "2026-09-28T00:18:16.606710+00:00"
+  },
+  "phase4:aie-2026-09-27-orchestras-not-factories-charlie-holtz": {
+    "hash": "18968b98b2b951229b3469bd9832b82b570fdcbb834c66e40b41e455c259af07",
+    "slug": "aie-2026-09-27-orchestras-not-factories-charlie-holtz",
+    "synced_at": "2026-09-28T00:18:16.606044+00:00"
+  },
+  "phase4:aie-2026-09-27-scale-judgment-not-model-reddit": {
+    "hash": "72d6f0409fea730331fc9ddc3da474f6d838012e20676d7298a98ec75e19f0b2",
+    "slug": "aie-2026-09-27-scale-judgment-not-model-reddit",
+    "synced_at": "2026-09-28T00:18:16.606350+00:00"
+  },
+  "phase4:aie-2026-09-27-software-factories-self-improve-suraj-gupta": {
+    "hash": "b149ce0168559c2abc21ad572b89b0291cffcd05e1a3dfdc2f2bbbea4a911d32",
+    "slug": "aie-2026-09-27-software-factories-self-improve-suraj-gupta",
+    "synced_at": "2026-09-28T00:18:16.607644+00:00"
+  },
+  "phase4:aie-2026-09-27-software-factory-engineering-zach-lloyd": {
+    "hash": "990dd293780e6282889ba217274804d3fbad7cd42b4243583ab50d9c3b31fe51",
+    "slug": "aie-2026-09-27-software-factory-engineering-zach-lloyd",
+    "synced_at": "2026-09-28T00:18:16.605407+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2764,6 +2809,11 @@
     "slug": "do-2026-09-19-jev-lead-qualification-app",
     "synced_at": "2026-09-19T23:54:36.768329+00:00"
   },
+  "phase4:do-2026-09-27-agentic-engineering-workflow-ex-apple": {
+    "hash": "59b133852a07cbd3a422bc78ba781d92dfbd90da33a56bd040f1a4811b2d2cbb",
+    "slug": "do-2026-09-27-agentic-engineering-workflow-ex-apple",
+    "synced_at": "2026-09-28T00:18:16.604089+00:00"
+  },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
     "slug": "eh-2026-06-13-interactive-geometry-watercolor-visualizer",
@@ -2803,6 +2853,11 @@
     "hash": "f31b7c6fe5530ae7d686fd409dbb359117359ff31b0626f3f529b0f31f61b758",
     "slug": "eh-2026-09-26-stop-asking-ai-for-original-ideas",
     "synced_at": "2026-09-27T00:16:04.100950+00:00"
+  },
+  "phase4:eh-2026-09-27-prompt-stop-ai-shortcuts": {
+    "hash": "abcd6f3f42322380f6b8d55680309386b2ba2a77e7fda607a33f5e36ace9a9b1",
+    "slug": "eh-2026-09-27-prompt-stop-ai-shortcuts",
+    "synced_at": "2026-09-28T00:18:16.604741+00:00"
   },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
@@ -4074,6 +4129,11 @@
     "slug": "nb-2026-09-26-chatgpt-work-beginner-workflow",
     "synced_at": "2026-09-26T00:22:35.591870+00:00"
   },
+  "phase4:nb-2026-09-27-fix-ai-bottleneck-team-shipping": {
+    "hash": "24d45ca4e29901f1bd79158cd3f2c7210ef530c0173b69f6fde7ebc9a6f8bfb6",
+    "slug": "nb-2026-09-27-fix-ai-bottleneck-team-shipping",
+    "synced_at": "2026-09-28T00:18:16.603723+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -4803,6 +4863,11 @@
     "hash": "b2b095ddd3df0de27b0e15b383eb3b1264178c67f9399942613f61ae20649e4a",
     "slug": "nh-2026-09-26-opus-55-video-editing",
     "synced_at": "2026-09-26T00:22:35.592210+00:00"
+  },
+  "phase4:nh-2026-09-27-claude-code-dangerous-capability": {
+    "hash": "417bca027bcde5731163ac929c1e18909f12e1e20429819d858e24618a56d57e",
+    "slug": "nh-2026-09-27-claude-code-dangerous-capability",
+    "synced_at": "2026-09-28T00:18:16.604410+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

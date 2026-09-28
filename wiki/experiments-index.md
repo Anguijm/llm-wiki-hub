@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**968 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**981 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 666 |
+| `backlog` | 679 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 738 |
+| `(none)` | 751 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,15 +32,15 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 464 |
-| @nb | 144 |
-| @nh | 144 |
+| @aie | 473 |
+| @nb | 145 |
+| @nh | 145 |
 | @mlops | 65 |
-| @do | 60 |
+| @do | 61 |
 | @mk | 41 |
 | @aij | 21 |
 | @st | 13 |
-| @eh | 8 |
+| @eh | 9 |
 | @up | 5 |
 | @fs | 2 |
 | @tmp | 1 |
@@ -53,6 +53,19 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-09-27 | [[experiments/nh-2026-09-27-claude-code-dangerous-capability|Stress-test Claude Code on a complex autonomous coding task to benchmark current capability ceiling]] | @nh | `-` |
+| 2026-09-27 | [[experiments/nb-2026-09-27-fix-ai-bottleneck-team-shipping|Audit and remove human-review bottlenecks slowing AI-generated output]] | @nb | `-` |
+| 2026-09-27 | [[experiments/eh-2026-09-27-prompt-stop-ai-shortcuts|Test an anti-shortcut system prompt to force thorough AI reasoning]] | @eh | `-` |
+| 2026-09-27 | [[experiments/do-2026-09-27-agentic-engineering-workflow-ex-apple|Adopt a structured agentic engineering workflow modeled on professional software practice]] | @do | `-` |
+| 2026-09-27 | [[experiments/aie-2026-09-27-software-factory-engineering-zach-lloyd|Reframe the dev loop as a production pipeline with throughput and yield metrics]] | @aie | `-` |
+| 2026-09-27 | [[experiments/aie-2026-09-27-software-factories-self-improve-suraj-gupta|Add a self-improvement feedback loop that lets the agent pipeline update its own prompts and tools based on failure patterns]] | @aie | `-` |
+| 2026-09-27 | [[experiments/aie-2026-09-27-scale-judgment-not-model-reddit|Build a lightweight judgment layer that evaluates and routes agent outputs rather than scaling model size]] | @aie | `-` |
+| 2026-09-27 | [[experiments/aie-2026-09-27-orchestras-not-factories-charlie-holtz|Restructure multi-agent coordination as dynamic orchestration rather than fixed pipelines]] | @aie | `-` |
+| 2026-09-27 | [[experiments/aie-2026-09-27-not-a-software-factory-ryan-cooke|Identify where the software factory metaphor breaks down in your specific AI dev workflow]] | @aie | `-` |
+| 2026-09-27 | [[experiments/aie-2026-09-27-glm52-open-weights-frontier|Benchmark GLM-5.2 as a local/open-weight drop-in for coding agent tasks]] | @aie | `-` |
+| 2026-09-27 | [[experiments/aie-2026-09-27-get-out-of-models-way-kevin-hou|Reduce human micro-interventions in agent runs to test if less guidance yields better outcomes]] | @aie | `-` |
+| 2026-09-27 | [[experiments/aie-2026-09-27-coding-agents-strategy-game-ido-salomon|Use game-theoretic resource and role allocation to orchestrate multiple coding agents]] | @aie | `-` |
+| 2026-09-27 | [[experiments/aie-2026-09-27-build-software-factory-tereza-tizkova|Implement a task-decomposition and agent-dispatch layer modeled on factory production planning]] | @aie | `-` |
 | 2026-09-26 | [[experiments/nh-2026-09-26-opus-55-video-editing|Use Opus 5.5 model for automated video editing and clip selection]] | @nh | `-` |
 | 2026-09-26 | [[experiments/nb-2026-09-26-chatgpt-work-beginner-workflow|Build a structured ChatGPT work workflow for common dev tasks]] | @nb | `-` |
 | 2026-09-26 | [[experiments/mk-2026-09-26-opus-gpt6-workflow-upgrade|Integrate Opus 5.5 and GPT-6 Astra Into Dev Workflow at Specific Handoff Points]] | @mk | `-` |
