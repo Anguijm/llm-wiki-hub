@@ -2859,6 +2859,16 @@
     "slug": "eh-2026-09-27-prompt-stop-ai-shortcuts",
     "synced_at": "2026-09-28T00:18:16.604741+00:00"
   },
+  "phase4:eh-2026-09-29-cited-ai-insights-research-app": {
+    "hash": "d1177860e2f5f712e7a95f09607f8e18ffb34edcb71d2fcabc5c9800e5f57615",
+    "slug": "eh-2026-09-29-cited-ai-insights-research-app",
+    "synced_at": "2026-09-29T01:29:11.418386+00:00"
+  },
+  "phase4:eh-2026-09-29-question-to-knowledge-map": {
+    "hash": "0bfe659c892e31a53b5e633734b6447b8669769a3277bc2b6a441a9b1727c52a",
+    "slug": "eh-2026-09-29-question-to-knowledge-map",
+    "synced_at": "2026-09-29T01:29:11.418179+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -4868,6 +4878,16 @@
     "hash": "417bca027bcde5731163ac929c1e18909f12e1e20429819d858e24618a56d57e",
     "slug": "nh-2026-09-27-claude-code-dangerous-capability",
     "synced_at": "2026-09-28T00:18:16.604410+00:00"
+  },
+  "phase4:nh-2026-09-29-gpt6-astra-stock-trading": {
+    "hash": "9399595e903e0fc3414441728a09264e3d6b139dd8ce060a6c87e6eab2f6aff0",
+    "slug": "nh-2026-09-29-gpt6-astra-stock-trading",
+    "synced_at": "2026-09-29T01:29:11.417936+00:00"
+  },
+  "phase4:nh-2026-09-29-sonnet-vs-opus-55-benchmark": {
+    "hash": "125aaaded1777234f263c50b75ab0b67d58c211617439c1f3a7215812a15b348",
+    "slug": "nh-2026-09-29-sonnet-vs-opus-55-benchmark",
+    "synced_at": "2026-09-29T01:29:11.417677+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
