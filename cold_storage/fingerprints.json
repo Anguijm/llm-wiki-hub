@@ -2869,6 +2869,11 @@
     "slug": "eh-2026-09-29-question-to-knowledge-map",
     "synced_at": "2026-09-29T01:29:11.418179+00:00"
   },
+  "phase4:eh-2026-09-30-ai-misclassification-diagnosis": {
+    "hash": "95d1af79fb1af8a2639575ce11c56132261b59f834e4f30da057ce8e7731ce95",
+    "slug": "eh-2026-09-30-ai-misclassification-diagnosis",
+    "synced_at": "2026-09-30T01:06:01.471576+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -3083,6 +3088,11 @@
     "hash": "cdc66899d9619051b614d2bb6d16c13c7846d06928092cfeb5729294c5b120d4",
     "slug": "mk-2026-09-26-opus-gpt6-workflow-upgrade",
     "synced_at": "2026-09-27T00:16:04.101203+00:00"
+  },
+  "phase4:mk-2026-09-30-gpt61-sol-vs-astra-comparison": {
+    "hash": "14fab857f1806c846df013b5db1863c4435b07b5f2be276add032a790c321b7d",
+    "slug": "mk-2026-09-30-gpt61-sol-vs-astra-comparison",
+    "synced_at": "2026-09-30T01:06:01.471917+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
@@ -4143,6 +4153,11 @@
     "hash": "24d45ca4e29901f1bd79158cd3f2c7210ef530c0173b69f6fde7ebc9a6f8bfb6",
     "slug": "nb-2026-09-27-fix-ai-bottleneck-team-shipping",
     "synced_at": "2026-09-28T00:18:16.603723+00:00"
+  },
+  "phase4:nb-2026-09-30-meta-muse-cost-savings": {
+    "hash": "c5a3cec20da7e851620576480e9e7e9105ba54d28f003139746052a47e85ccee",
+    "slug": "nb-2026-09-30-meta-muse-cost-savings",
+    "synced_at": "2026-09-30T01:06:01.471225+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
