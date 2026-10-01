@@ -2394,6 +2394,16 @@
     "slug": "aie-2026-09-27-software-factory-engineering-zach-lloyd",
     "synced_at": "2026-09-28T00:18:16.605407+00:00"
   },
+  "phase4:aie-2026-10-01-agent-isolation-mcp-a2a": {
+    "hash": "f0228a15b2b96eb76721fbbea585693efaf1270971bc3ff0f975f359e7a90f6c",
+    "slug": "aie-2026-10-01-agent-isolation-mcp-a2a",
+    "synced_at": "2026-10-01T01:04:17.850368+00:00"
+  },
+  "phase4:aie-2026-10-01-ai-software-dev-org-data": {
+    "hash": "840a65a91bc85578badf1dd502068581dc999bdb9a41a06afe039f101a52877e",
+    "slug": "aie-2026-10-01-ai-software-dev-org-data",
+    "synced_at": "2026-10-01T01:04:17.850158+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2874,6 +2884,16 @@
     "slug": "eh-2026-09-30-ai-misclassification-diagnosis",
     "synced_at": "2026-09-30T01:06:01.471576+00:00"
   },
+  "phase4:eh-2026-10-01-codex-claude-code-tips": {
+    "hash": "9c6897c007e29e906aa8d68b28c4c3dc81c6f21d87b61476c8d17fc320cf6bce",
+    "slug": "eh-2026-10-01-codex-claude-code-tips",
+    "synced_at": "2026-10-01T01:04:17.849505+00:00"
+  },
+  "phase4:eh-2026-10-01-gemini-argon-capabilities": {
+    "hash": "53d01f700ae1712da282356b02f52c2b26f77ea54e3e9e2b2644fc75bf24cfa0",
+    "slug": "eh-2026-10-01-gemini-argon-capabilities",
+    "synced_at": "2026-10-01T01:04:17.849716+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -3093,6 +3113,11 @@
     "hash": "14fab857f1806c846df013b5db1863c4435b07b5f2be276add032a790c321b7d",
     "slug": "mk-2026-09-30-gpt61-sol-vs-astra-comparison",
     "synced_at": "2026-09-30T01:06:01.471917+00:00"
+  },
+  "phase4:mk-2026-10-01-openai-dots-honest-take": {
+    "hash": "9f4d3e951b176d914d4aa75262d9577e7383fc9df3a7cdd60428db43e11b7195",
+    "slug": "mk-2026-10-01-openai-dots-honest-take",
+    "synced_at": "2026-10-01T01:04:17.849922+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
@@ -4159,6 +4184,11 @@
     "slug": "nb-2026-09-30-meta-muse-cost-savings",
     "synced_at": "2026-09-30T01:06:01.471225+00:00"
   },
+  "phase4:nb-2026-10-01-opus-55-benchmark-comparison": {
+    "hash": "997f1fb2f91e8ec2c7873f9c5c2deb966a284deafcf865978ca67ac9d3613a2c",
+    "slug": "nb-2026-10-01-opus-55-benchmark-comparison",
+    "synced_at": "2026-10-01T01:04:17.849003+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -4903,6 +4933,11 @@
     "hash": "125aaaded1777234f263c50b75ab0b67d58c211617439c1f3a7215812a15b348",
     "slug": "nh-2026-09-29-sonnet-vs-opus-55-benchmark",
     "synced_at": "2026-09-29T01:29:11.417677+00:00"
+  },
+  "phase4:nh-2026-10-01-openai-dots-vs-meta-muse": {
+    "hash": "dbda55b219c6132a29990962145cca067e7a6bdb3c03e5b4460549e72a403932",
+    "slug": "nh-2026-10-01-openai-dots-vs-meta-muse",
+    "synced_at": "2026-10-01T01:04:17.849271+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

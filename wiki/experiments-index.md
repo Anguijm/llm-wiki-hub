@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**988 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**995 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 686 |
+| `backlog` | 693 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 758 |
+| `(none)` | 765 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,15 +32,15 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 473 |
-| @nh | 147 |
-| @nb | 146 |
+| @aie | 475 |
+| @nh | 148 |
+| @nb | 147 |
 | @mlops | 65 |
 | @do | 61 |
-| @mk | 42 |
+| @mk | 43 |
 | @aij | 21 |
+| @eh | 14 |
 | @st | 13 |
-| @eh | 12 |
 | @up | 5 |
 | @fs | 2 |
 | @tmp | 1 |
@@ -53,6 +53,13 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-10-01 | [[experiments/nh-2026-10-01-openai-dots-vs-meta-muse|Evaluate OpenAI Dots and Meta Muse for Agentic Memory Integration]] | @nh | `-` |
+| 2026-10-01 | [[experiments/nb-2026-10-01-opus-55-benchmark-comparison|Benchmark Opus 5.5 Against Current Stack Models on Real Dev Tasks]] | @nb | `-` |
+| 2026-10-01 | [[experiments/mk-2026-10-01-openai-dots-honest-take|Stress-Test OpenAI Dots for Persistent Context in Multi-Session Dev Work]] | @mk | `-` |
+| 2026-10-01 | [[experiments/eh-2026-10-01-gemini-argon-capabilities|Evaluate Gemini Argon as an Alternative Backbone for Code Generation Tasks]] | @eh | `-` |
+| 2026-10-01 | [[experiments/eh-2026-10-01-codex-claude-code-tips|Adopt Top Codex and Claude Code Workflow Tricks Into the YOLO Loop]] | @eh | `-` |
+| 2026-10-01 | [[experiments/aie-2026-10-01-ai-software-dev-org-data|Audit Our AI Dev Tooling Against Industry Adoption Patterns from 400+ Org Dataset]] | @aie | `-` |
+| 2026-10-01 | [[experiments/aie-2026-10-01-agent-isolation-mcp-a2a|Prototype an Inter-Agent Communication Layer Beyond MCP and A2A]] | @aie | `-` |
 | 2026-09-30 | [[experiments/nb-2026-09-30-meta-muse-cost-savings|Assign a Repetitive Dev Task to an AI Agent and Audit for Hidden Savings]] | @nb | `-` |
 | 2026-09-30 | [[experiments/mk-2026-09-30-gpt61-sol-vs-astra-comparison|Run a Head-to-Head Task Battery on GPT-6.1 Sol and Astra to Pick a Default Model]] | @mk | `-` |
 | 2026-09-30 | [[experiments/eh-2026-09-30-ai-misclassification-diagnosis|Deliberately Probe Model Misclassification to Expose Reasoning Failure Modes]] | @eh | `-` |
