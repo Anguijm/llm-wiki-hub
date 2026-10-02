@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**995 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1001 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 693 |
+| `backlog` | 699 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 765 |
+| `(none)` | 771 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,14 +32,14 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 475 |
-| @nh | 148 |
+| @aie | 476 |
+| @nh | 149 |
 | @nb | 147 |
-| @mlops | 65 |
+| @mlops | 66 |
 | @do | 61 |
 | @mk | 43 |
 | @aij | 21 |
-| @eh | 14 |
+| @eh | 17 |
 | @st | 13 |
 | @up | 5 |
 | @fs | 2 |
@@ -53,6 +53,12 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-10-02 | [[experiments/nh-2026-10-02-codex-ultrafast-quality-cost-tradeoff|Compare Codex Ultrafast vs Standard on Output Quality per Unit of Weekly Usage]] | @nh | `-` |
+| 2026-10-02 | [[experiments/mlops-2026-10-02-caveman-prompting-benchmark|Benchmark the Quality Cliff of Minimal 'Caveman' Prompts]] | @mlops | `-` |
+| 2026-10-02 | [[experiments/eh-2026-10-02-sycophancy-reversal-prompting|Reduce AI Sycophancy by Inverting Opinion-Leading Prompt Patterns]] | @eh | `-` |
+| 2026-10-02 | [[experiments/eh-2026-10-02-overfitting-seven-levels-drift|Use Hierarchical 'Level' Prompting to Decompose Complex ML Concepts with an AI Research App]] | @eh | `-` |
+| 2026-10-02 | [[experiments/eh-2026-10-02-hidden-instruction-injection-test|Test Agent Susceptibility to Indirect Prompt Injection via Hidden Page Instructions]] | @eh | `-` |
+| 2026-10-02 | [[experiments/aie-2026-10-02-automated-review-harness-over-pr-review|Replace Line-by-Line PR Review with a Codified Automated Review Harness]] | @aie | `-` |
 | 2026-10-01 | [[experiments/nh-2026-10-01-openai-dots-vs-meta-muse|Evaluate OpenAI Dots and Meta Muse for Agentic Memory Integration]] | @nh | `-` |
 | 2026-10-01 | [[experiments/nb-2026-10-01-opus-55-benchmark-comparison|Benchmark Opus 5.5 Against Current Stack Models on Real Dev Tasks]] | @nb | `-` |
 | 2026-10-01 | [[experiments/mk-2026-10-01-openai-dots-honest-take|Stress-Test OpenAI Dots for Persistent Context in Multi-Session Dev Work]] | @mk | `-` |

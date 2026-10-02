@@ -2404,6 +2404,11 @@
     "slug": "aie-2026-10-01-ai-software-dev-org-data",
     "synced_at": "2026-10-01T01:04:17.850158+00:00"
   },
+  "phase4:aie-2026-10-02-automated-review-harness-over-pr-review": {
+    "hash": "263a7456315a6f2da287c16fca183f51ef1226d99c1d756e8615e73a98ec8748",
+    "slug": "aie-2026-10-02-automated-review-harness-over-pr-review",
+    "synced_at": "2026-10-02T01:17:38.193093+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2893,6 +2898,21 @@
     "hash": "53d01f700ae1712da282356b02f52c2b26f77ea54e3e9e2b2644fc75bf24cfa0",
     "slug": "eh-2026-10-01-gemini-argon-capabilities",
     "synced_at": "2026-10-01T01:04:17.849716+00:00"
+  },
+  "phase4:eh-2026-10-02-hidden-instruction-injection-test": {
+    "hash": "d69a5e029b520e69485b75b53c2128421ae370942ff923ec4f0577b961d1923f",
+    "slug": "eh-2026-10-02-hidden-instruction-injection-test",
+    "synced_at": "2026-10-02T01:17:38.192415+00:00"
+  },
+  "phase4:eh-2026-10-02-overfitting-seven-levels-drift": {
+    "hash": "3d166f36fe08d67b83315efbbfcbee1101bc0e0291f8fb2cc4a3c46152fe40cb",
+    "slug": "eh-2026-10-02-overfitting-seven-levels-drift",
+    "synced_at": "2026-10-02T01:17:38.192098+00:00"
+  },
+  "phase4:eh-2026-10-02-sycophancy-reversal-prompting": {
+    "hash": "95a38109bcea9e7141667335bb7ae29341dd5a4be5b496e0840a31d08f70a07c",
+    "slug": "eh-2026-10-02-sycophancy-reversal-prompting",
+    "synced_at": "2026-10-02T01:17:38.192768+00:00"
   },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
@@ -3448,6 +3468,11 @@
     "hash": "a351ae793a408bdb84490a1faaa46b60c708b245d3db0964a98d0b894c7a6df3",
     "slug": "mlops-2026-09-22-split-prompt-token-reduction",
     "synced_at": "2026-09-22T00:36:08.999436+00:00"
+  },
+  "phase4:mlops-2026-10-02-caveman-prompting-benchmark": {
+    "hash": "2cec9cd8191a3d17b36995bdcfea18dc1676a4d6bdffb852536350605d314ac2",
+    "slug": "mlops-2026-10-02-caveman-prompting-benchmark",
+    "synced_at": "2026-10-02T01:17:38.191398+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",
@@ -4938,6 +4963,11 @@
     "hash": "dbda55b219c6132a29990962145cca067e7a6bdb3c03e5b4460549e72a403932",
     "slug": "nh-2026-10-01-openai-dots-vs-meta-muse",
     "synced_at": "2026-10-01T01:04:17.849271+00:00"
+  },
+  "phase4:nh-2026-10-02-codex-ultrafast-quality-cost-tradeoff": {
+    "hash": "d9086f811ac8eb475a9fa801549d23b6c8417e08036583c4b32ad4edc632fd60",
+    "slug": "nh-2026-10-02-codex-ultrafast-quality-cost-tradeoff",
+    "synced_at": "2026-10-02T01:17:38.191776+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
