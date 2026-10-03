@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1001 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1020 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 699 |
+| `backlog` | 718 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 771 |
+| `(none)` | 790 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,14 +32,14 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 476 |
-| @nh | 149 |
-| @nb | 147 |
+| @aie | 485 |
+| @nh | 152 |
+| @nb | 149 |
 | @mlops | 66 |
-| @do | 61 |
-| @mk | 43 |
+| @do | 62 |
+| @mk | 45 |
 | @aij | 21 |
-| @eh | 17 |
+| @eh | 19 |
 | @st | 13 |
 | @up | 5 |
 | @fs | 2 |
@@ -53,6 +53,25 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-10-03 | [[experiments/nh-2026-10-03-non-techie-software-selling|Use AI Agents to Cross Language Boundaries in a Single Project]] | @nh | `-` |
+| 2026-10-03 | [[experiments/nh-2026-10-03-claude-code-mods-collision-guard|Implement a Multi-Agent File Collision Guard Mod in Claude Code]] | @nh | `-` |
+| 2026-10-03 | [[experiments/nh-2026-10-03-claude-code-mods-cache-monitor|Add a Cache-Expiry and Session-Cost Monitor Mod to Claude Code]] | @nh | `-` |
+| 2026-10-03 | [[experiments/nb-2026-10-03-autopilot-recurring-assignments|Convert One-Off Agent Tasks Into Recurring Assignments With Inspect Steps]] | @nb | `-` |
+| 2026-10-03 | [[experiments/nb-2026-10-03-autopilot-define-good-output|Define 'What Good Looks Like' Before Every Agent Assignment]] | @nb | `-` |
+| 2026-10-03 | [[experiments/mk-2026-10-03-claude-code-mods-output-tray-bookmark|Add Output-Tray and Session-Bookmark Mods for Artifact Tracking Across Claude Code Sessions]] | @mk | `-` |
+| 2026-10-03 | [[experiments/mk-2026-10-03-claude-code-mods-auto-handoff|Install an Auto-Handoff Mod That Triggers Session Refresh at a Token Threshold]] | @mk | `-` |
+| 2026-10-03 | [[experiments/eh-2026-10-03-branch-recursive-article-explorer|Build a Recursive Link-Following Research Tool That Traces Every Insight to Its Source]] | @eh | `-` |
+| 2026-10-03 | [[experiments/eh-2026-10-03-ai-security-culture-of-paranoia|Implement Least-Privilege + Immutable Evidence Logging for All Agentic Tool Calls]] | @eh | `-` |
+| 2026-10-03 | [[experiments/do-2026-10-03-model-selection-taste-benchmark|Build a Personal Model Benchmark Suite From Tasks You Actually Do]] | @do | `-` |
+| 2026-10-03 | [[experiments/aie-2026-10-03-traversal-causal-rca-five-levels|Replace Symptom-Correlation Alerting With Causal Graph Search for Production Incidents]] | @aie | `-` |
+| 2026-10-03 | [[experiments/aie-2026-10-03-meticulous-screenshot-diff-verification|Replace Assertion-Based Frontend Tests With Screenshot-Diff Replay Tests Keyed to Code Coverage]] | @aie | `-` |
+| 2026-10-03 | [[experiments/aie-2026-10-03-local-vector-memory-for-ai-agents|Add Local Qdrant Vector Memory to Agent Loop]] | @aie | `-` |
+| 2026-10-03 | [[experiments/aie-2026-10-03-kimchi-model-routing-harness|Build an Automated Model-Routing Harness That Selects the Cheapest Model Meeting Quality Bar Per Task]] | @aie | `-` |
+| 2026-10-03 | [[experiments/aie-2026-10-03-exa-web-search-knowledge-cutoff|Add Explicit Web-Search Rules to Coding Agents for Dependency Bump and Breaking-Change Detection]] | @aie | `-` |
+| 2026-10-03 | [[experiments/aie-2026-10-03-datology-synthetic-data-rephrase|Use High-Quality Document Rephrasing to Generate Synthetic Fine-Tuning Data Instead of Free-Form Generation]] | @aie | `-` |
+| 2026-10-03 | [[experiments/aie-2026-10-03-caio-scientist-architect-coach-framework|Structure AI Dev Effort Across Scientist, Architect, and Coach Roles]] | @aie | `-` |
+| 2026-10-03 | [[experiments/aie-2026-10-03-browserbase-deterministic-skill-wrapping|Wrap Browser Agent Steps in Deterministic Tool Calls to Reduce Compound Failure Rate]] | @aie | `-` |
+| 2026-10-03 | [[experiments/aie-2026-10-03-apify-mcpc-progressive-tool-discovery|Implement Progressive MCP Tool Discovery to Prevent Context Bloat From Large Tool Registries]] | @aie | `-` |
 | 2026-10-02 | [[experiments/nh-2026-10-02-codex-ultrafast-quality-cost-tradeoff|Compare Codex Ultrafast vs Standard on Output Quality per Unit of Weekly Usage]] | @nh | `-` |
 | 2026-10-02 | [[experiments/mlops-2026-10-02-caveman-prompting-benchmark|Benchmark the Quality Cliff of Minimal 'Caveman' Prompts]] | @mlops | `-` |
 | 2026-10-02 | [[experiments/eh-2026-10-02-sycophancy-reversal-prompting|Reduce AI Sycophancy by Inverting Opinion-Leading Prompt Patterns]] | @eh | `-` |

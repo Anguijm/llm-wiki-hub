@@ -2409,6 +2409,51 @@
     "slug": "aie-2026-10-02-automated-review-harness-over-pr-review",
     "synced_at": "2026-10-02T01:17:38.193093+00:00"
   },
+  "phase4:aie-2026-10-03-apify-mcpc-progressive-tool-discovery": {
+    "hash": "405b1327a855481309b24211b590d081728ec8dffc4e914cccd2ffe98708fcbc",
+    "slug": "aie-2026-10-03-apify-mcpc-progressive-tool-discovery",
+    "synced_at": "2026-10-03T00:56:49.702358+00:00"
+  },
+  "phase4:aie-2026-10-03-browserbase-deterministic-skill-wrapping": {
+    "hash": "1b7a06fcf52a623e1c908f5a4ccfaa87ce5a741098339b6a71adbe59940348de",
+    "slug": "aie-2026-10-03-browserbase-deterministic-skill-wrapping",
+    "synced_at": "2026-10-03T00:56:49.701931+00:00"
+  },
+  "phase4:aie-2026-10-03-caio-scientist-architect-coach-framework": {
+    "hash": "debcb735a6bcc68f2b526d5287488c682718e365c974a15b8b8a5ba8716cb2b0",
+    "slug": "aie-2026-10-03-caio-scientist-architect-coach-framework",
+    "synced_at": "2026-10-03T00:56:49.702637+00:00"
+  },
+  "phase4:aie-2026-10-03-datology-synthetic-data-rephrase": {
+    "hash": "9874c54e905ef20fe90c89dd8c15706f9a88dacae6a24414b50031f0e83d0bfc",
+    "slug": "aie-2026-10-03-datology-synthetic-data-rephrase",
+    "synced_at": "2026-10-03T00:56:49.701656+00:00"
+  },
+  "phase4:aie-2026-10-03-exa-web-search-knowledge-cutoff": {
+    "hash": "27728eaa3f13e2d772675d7e74aebf0d75a8d5b59bfb1edb07f71de7805c846f",
+    "slug": "aie-2026-10-03-exa-web-search-knowledge-cutoff",
+    "synced_at": "2026-10-03T00:56:49.702199+00:00"
+  },
+  "phase4:aie-2026-10-03-kimchi-model-routing-harness": {
+    "hash": "d34e60145cd41d9d7bcf4bb2a69eb61c6cf88b8b6927d17ff5e4ab65870b02a5",
+    "slug": "aie-2026-10-03-kimchi-model-routing-harness",
+    "synced_at": "2026-10-03T00:56:49.702065+00:00"
+  },
+  "phase4:aie-2026-10-03-local-vector-memory-for-ai-agents": {
+    "hash": "e5e77e9bb4fbf28c19bb37ee79448edaa534b75bae81d616be1b5bb86cb6304d",
+    "slug": "aie-2026-10-03-local-vector-memory-for-ai-agents",
+    "synced_at": "2026-10-03T00:56:49.702500+00:00"
+  },
+  "phase4:aie-2026-10-03-meticulous-screenshot-diff-verification": {
+    "hash": "03f38d5fbf5a4679093919e157a8a6400a54efe2c0b3fb970faa60309167ef39",
+    "slug": "aie-2026-10-03-meticulous-screenshot-diff-verification",
+    "synced_at": "2026-10-03T00:56:49.701792+00:00"
+  },
+  "phase4:aie-2026-10-03-traversal-causal-rca-five-levels": {
+    "hash": "63b6e0aa6ce6cc9b2a0a33c2828771ec0181cb2dfad66e8aa8ec26f4f479e4e7",
+    "slug": "aie-2026-10-03-traversal-causal-rca-five-levels",
+    "synced_at": "2026-10-03T00:56:49.701517+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2829,6 +2874,11 @@
     "slug": "do-2026-09-27-agentic-engineering-workflow-ex-apple",
     "synced_at": "2026-09-28T00:18:16.604089+00:00"
   },
+  "phase4:do-2026-10-03-model-selection-taste-benchmark": {
+    "hash": "9600e6bcdcb7a50d110eb749fae79c1f137bc5e49ed0d18875b60b0a911a6a66",
+    "slug": "do-2026-10-03-model-selection-taste-benchmark",
+    "synced_at": "2026-10-03T00:56:49.700360+00:00"
+  },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
     "slug": "eh-2026-06-13-interactive-geometry-watercolor-visualizer",
@@ -2913,6 +2963,16 @@
     "hash": "95a38109bcea9e7141667335bb7ae29341dd5a4be5b496e0840a31d08f70a07c",
     "slug": "eh-2026-10-02-sycophancy-reversal-prompting",
     "synced_at": "2026-10-02T01:17:38.192768+00:00"
+  },
+  "phase4:eh-2026-10-03-ai-security-culture-of-paranoia": {
+    "hash": "21be1a6d02bb0017bbe8ad285a9e37a0e0da04455ab29d81c181760f97ecb7d3",
+    "slug": "eh-2026-10-03-ai-security-culture-of-paranoia",
+    "synced_at": "2026-10-03T00:56:49.701079+00:00"
+  },
+  "phase4:eh-2026-10-03-branch-recursive-article-explorer": {
+    "hash": "bc6f6cbf91e6785adaf136657661d23e15fd473b73d815219084bd63427de1bb",
+    "slug": "eh-2026-10-03-branch-recursive-article-explorer",
+    "synced_at": "2026-10-03T00:56:49.700935+00:00"
   },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
@@ -3138,6 +3198,16 @@
     "hash": "9f4d3e951b176d914d4aa75262d9577e7383fc9df3a7cdd60428db43e11b7195",
     "slug": "mk-2026-10-01-openai-dots-honest-take",
     "synced_at": "2026-10-01T01:04:17.849922+00:00"
+  },
+  "phase4:mk-2026-10-03-claude-code-mods-auto-handoff": {
+    "hash": "7fabbb34ef07c700612a89f3d7ef4d5d2058dfaeeb31a8de87a913a61d62ebc6",
+    "slug": "mk-2026-10-03-claude-code-mods-auto-handoff",
+    "synced_at": "2026-10-03T00:56:49.701215+00:00"
+  },
+  "phase4:mk-2026-10-03-claude-code-mods-output-tray-bookmark": {
+    "hash": "b8014bb113290a907359c79d0dd6be5746af83c27841ca8423190027cb43dd0f",
+    "slug": "mk-2026-10-03-claude-code-mods-output-tray-bookmark",
+    "synced_at": "2026-10-03T00:56:49.701368+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
@@ -4214,6 +4284,16 @@
     "slug": "nb-2026-10-01-opus-55-benchmark-comparison",
     "synced_at": "2026-10-01T01:04:17.849003+00:00"
   },
+  "phase4:nb-2026-10-03-autopilot-define-good-output": {
+    "hash": "de593e91c5bde7a8f5d0501663d9cbb021e89bf8f9f3f693bd3f8d49a70dcec0",
+    "slug": "nb-2026-10-03-autopilot-define-good-output",
+    "synced_at": "2026-10-03T00:56:49.699985+00:00"
+  },
+  "phase4:nb-2026-10-03-autopilot-recurring-assignments": {
+    "hash": "7492b60729b2c966b5ea837f69ea955f3929bf1b85065a9e431d80b6921fbee1",
+    "slug": "nb-2026-10-03-autopilot-recurring-assignments",
+    "synced_at": "2026-10-03T00:56:49.700187+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -4968,6 +5048,21 @@
     "hash": "d9086f811ac8eb475a9fa801549d23b6c8417e08036583c4b32ad4edc632fd60",
     "slug": "nh-2026-10-02-codex-ultrafast-quality-cost-tradeoff",
     "synced_at": "2026-10-02T01:17:38.191776+00:00"
+  },
+  "phase4:nh-2026-10-03-claude-code-mods-cache-monitor": {
+    "hash": "0da7e93f2031965a038ac1ab0e0fabc6c3f35d71dfd71c08749435697b994885",
+    "slug": "nh-2026-10-03-claude-code-mods-cache-monitor",
+    "synced_at": "2026-10-03T00:56:49.700507+00:00"
+  },
+  "phase4:nh-2026-10-03-claude-code-mods-collision-guard": {
+    "hash": "d8157bc9e0c671210ca2bab8523f6c66693093e7c0b63d0f4c42b7caadbe5821",
+    "slug": "nh-2026-10-03-claude-code-mods-collision-guard",
+    "synced_at": "2026-10-03T00:56:49.700660+00:00"
+  },
+  "phase4:nh-2026-10-03-non-techie-software-selling": {
+    "hash": "368f7c36fe2926a417edeb630c55cb7dee951b913d64e9b8fdff4e2a77e15b1b",
+    "slug": "nh-2026-10-03-non-techie-software-selling",
+    "synced_at": "2026-10-03T00:56:49.700798+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
