@@ -2454,6 +2454,41 @@
     "slug": "aie-2026-10-03-traversal-causal-rca-five-levels",
     "synced_at": "2026-10-03T00:56:49.701517+00:00"
   },
+  "phase4:aie-2026-10-04-autocluster-gpu-failure-remediation": {
+    "hash": "3ce62ae1e84102438b92e17312f786ea640be1725b964b21fa1f9566c065eb0d",
+    "slug": "aie-2026-10-04-autocluster-gpu-failure-remediation",
+    "synced_at": "2026-10-04T00:21:44.929699+00:00"
+  },
+  "phase4:aie-2026-10-04-interactions-api-unified-agent-endpoint": {
+    "hash": "a9db03efca325232e94ad13e5f9b39ceb972e31a6e85816ddcc6ed0d6c7706f3",
+    "slug": "aie-2026-10-04-interactions-api-unified-agent-endpoint",
+    "synced_at": "2026-10-04T00:21:44.929946+00:00"
+  },
+  "phase4:aie-2026-10-04-kv-cache-offload-gpu-memory": {
+    "hash": "b1af1a3fa094ca43a6a2e90503c2bc5d8c658fb74b5e4bf611b607e2ad2ab5b5",
+    "slug": "aie-2026-10-04-kv-cache-offload-gpu-memory",
+    "synced_at": "2026-10-04T00:21:44.929481+00:00"
+  },
+  "phase4:aie-2026-10-04-llm-observability-cost-quality-safety": {
+    "hash": "0fce5b1103d776d04e16847920f8f4f2d4dc4f4b567eac4595fdb51b48da8901",
+    "slug": "aie-2026-10-04-llm-observability-cost-quality-safety",
+    "synced_at": "2026-10-04T00:21:44.930576+00:00"
+  },
+  "phase4:aie-2026-10-04-microvm-sandbox-agent-isolation": {
+    "hash": "a59f327960b1461af23953e330a8cd6043284536d365b2f297de9e5b268a7d65",
+    "slug": "aie-2026-10-04-microvm-sandbox-agent-isolation",
+    "synced_at": "2026-10-04T00:21:44.930805+00:00"
+  },
+  "phase4:aie-2026-10-04-raspberry-pi-graph-agent-memory": {
+    "hash": "c1fc76f1c7412a5c7fcf07514ebf62ee044af23a0c8cd1f6bf91c1885cd6dbee",
+    "slug": "aie-2026-10-04-raspberry-pi-graph-agent-memory",
+    "synced_at": "2026-10-04T00:21:44.930155+00:00"
+  },
+  "phase4:aie-2026-10-04-vscode-agents-md-accessibility-skill": {
+    "hash": "b2caca8e9cda858c6d9660d2a5bceae4c7d4725c413aa3ace99579c73fa0e850",
+    "slug": "aie-2026-10-04-vscode-agents-md-accessibility-skill",
+    "synced_at": "2026-10-04T00:21:44.930359+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2973,6 +3008,11 @@
     "hash": "bc6f6cbf91e6785adaf136657661d23e15fd473b73d815219084bd63427de1bb",
     "slug": "eh-2026-10-03-branch-recursive-article-explorer",
     "synced_at": "2026-10-03T00:56:49.700935+00:00"
+  },
+  "phase4:eh-2026-10-04-judgment-as-bottleneck-thought-experiment": {
+    "hash": "d79f9d14f8a58386fd9fe3409dc152a3b4361b1d76a10f9cc004576351883d56",
+    "slug": "eh-2026-10-04-judgment-as-bottleneck-thought-experiment",
+    "synced_at": "2026-10-04T00:21:44.929271+00:00"
   },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
@@ -4294,6 +4334,16 @@
     "slug": "nb-2026-10-03-autopilot-recurring-assignments",
     "synced_at": "2026-10-03T00:56:49.700187+00:00"
   },
+  "phase4:nb-2026-10-04-dots-agent-ongoing-responsibilities": {
+    "hash": "48726f794309d254a2e42a62d28f546ce7ba183378cb99530ca80308c8109686",
+    "slug": "nb-2026-10-04-dots-agent-ongoing-responsibilities",
+    "synced_at": "2026-10-04T00:21:44.928318+00:00"
+  },
+  "phase4:nb-2026-10-04-soul-61-cost-vs-capability-triage": {
+    "hash": "edf63e7d5b3b134938ee801760b45cd08f2588a89793229aaa6191e532911945",
+    "slug": "nb-2026-10-04-soul-61-cost-vs-capability-triage",
+    "synced_at": "2026-10-04T00:21:44.928577+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -5063,6 +5113,16 @@
     "hash": "368f7c36fe2926a417edeb630c55cb7dee951b913d64e9b8fdff4e2a77e15b1b",
     "slug": "nh-2026-10-03-non-techie-software-selling",
     "synced_at": "2026-10-03T00:56:49.700798+00:00"
+  },
+  "phase4:nh-2026-10-04-agents-md-routing-map": {
+    "hash": "8d367586e0519d2a54b58dffe383d01ba48a7d772f34e2c9140b3f0ab446de4f",
+    "slug": "nh-2026-10-04-agents-md-routing-map",
+    "synced_at": "2026-10-04T00:21:44.928822+00:00"
+  },
+  "phase4:nh-2026-10-04-voice-multi-agent-coordination": {
+    "hash": "222b30721f722c343a726c30614dce293da2d83ea05b5059f415051e139ca330",
+    "slug": "nh-2026-10-04-voice-multi-agent-coordination",
+    "synced_at": "2026-10-04T00:21:44.929056+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1020 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1032 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 718 |
+| `backlog` | 730 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 790 |
+| `(none)` | 802 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,14 +32,14 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 485 |
-| @nh | 152 |
-| @nb | 149 |
+| @aie | 492 |
+| @nh | 154 |
+| @nb | 151 |
 | @mlops | 66 |
 | @do | 62 |
 | @mk | 45 |
 | @aij | 21 |
-| @eh | 19 |
+| @eh | 20 |
 | @st | 13 |
 | @up | 5 |
 | @fs | 2 |
@@ -53,6 +53,18 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-10-04 | [[experiments/nh-2026-10-04-voice-multi-agent-coordination|Use Voice Mode to Coordinate Multiple Concurrent Codex Threads Hands-Free]] | @nh | `-` |
+| 2026-10-04 | [[experiments/nh-2026-10-04-agents-md-routing-map|Build a Routing-Map agents.md to Eliminate Per-Session Context Re-Explanation]] | @nh | `-` |
+| 2026-10-04 | [[experiments/nb-2026-10-04-soul-61-cost-vs-capability-triage|Route Complex-but-Not-Frontier Tasks to GPT-6.1 Soul to Preserve Plan Quota]] | @nb | `-` |
+| 2026-10-04 | [[experiments/nb-2026-10-04-dots-agent-ongoing-responsibilities|Assign Ongoing Calendar and Scheduling Responsibilities to a Dots Agent]] | @nb | `-` |
+| 2026-10-04 | [[experiments/eh-2026-10-04-judgment-as-bottleneck-thought-experiment|Use High-Speed Generation to Produce a Star-Map of Options, Then Apply Human Judgment to Select]] | @eh | `-` |
+| 2026-10-04 | [[experiments/aie-2026-10-04-vscode-agents-md-accessibility-skill|Encode Domain Expert Knowledge as a Reusable Agent Skill to Unblock Specialist Review Bottlenecks]] | @aie | `-` |
+| 2026-10-04 | [[experiments/aie-2026-10-04-raspberry-pi-graph-agent-memory|Use a Local Graph Database as Agent Long-Term Memory with Offline Fallback]] | @aie | `-` |
+| 2026-10-04 | [[experiments/aie-2026-10-04-microvm-sandbox-agent-isolation|Wrap All Agent Invocations in a MicroVM Sandbox to Prevent Host File System and Credential Exfiltration]] | @aie | `-` |
+| 2026-10-04 | [[experiments/aie-2026-10-04-llm-observability-cost-quality-safety|Add Cost, Safety, and Quality Metric Layers to Agent Observability Beyond Traditional Golden Signals]] | @aie | `-` |
+| 2026-10-04 | [[experiments/aie-2026-10-04-kv-cache-offload-gpu-memory|Implement KV Cache Offload from GPU to CPU Memory to Sustain 5-10x Inference Speedups Without Cache Eviction]] | @aie | `-` |
+| 2026-10-04 | [[experiments/aie-2026-10-04-interactions-api-unified-agent-endpoint|Migrate Agent Orchestration to a Unified Interactions API to Support Both Instant and Long-Running Agent Calls]] | @aie | `-` |
+| 2026-10-04 | [[experiments/aie-2026-10-04-autocluster-gpu-failure-remediation|Run Slurm on Top of Kubernetes to Enable Automated GPU Node Replacement Without Engineer Intervention]] | @aie | `-` |
 | 2026-10-03 | [[experiments/nh-2026-10-03-non-techie-software-selling|Use AI Agents to Cross Language Boundaries in a Single Project]] | @nh | `-` |
 | 2026-10-03 | [[experiments/nh-2026-10-03-claude-code-mods-collision-guard|Implement a Multi-Agent File Collision Guard Mod in Claude Code]] | @nh | `-` |
 | 2026-10-03 | [[experiments/nh-2026-10-03-claude-code-mods-cache-monitor|Add a Cache-Expiry and Session-Cost Monitor Mod to Claude Code]] | @nh | `-` |
