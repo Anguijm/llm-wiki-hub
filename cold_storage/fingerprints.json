@@ -2489,6 +2489,41 @@
     "slug": "aie-2026-10-04-vscode-agents-md-accessibility-skill",
     "synced_at": "2026-10-04T00:21:44.930359+00:00"
   },
+  "phase4:aie-2026-10-05-catalog-enrichment-for-agent-retrieval": {
+    "hash": "3bcc817eb52f621ca0f80da16056dd541c4d8f0eaae338fef1d2a18c3e3e8b4b",
+    "slug": "aie-2026-10-05-catalog-enrichment-for-agent-retrieval",
+    "synced_at": "2026-10-05T00:27:02.315415+00:00"
+  },
+  "phase4:aie-2026-10-05-codebase-graph-for-agent-context": {
+    "hash": "3efe107ad2a7bc53fed51d9f59ca636c86af880022e4433062242429a3c3ebb6",
+    "slug": "aie-2026-10-05-codebase-graph-for-agent-context",
+    "synced_at": "2026-10-05T00:27:02.315296+00:00"
+  },
+  "phase4:aie-2026-10-05-composio-mcp-agent-native-interface": {
+    "hash": "e1b3319eec6322f61a0321e0ac2fdef8d96b080cd535704c5512c4d995eafae6",
+    "slug": "aie-2026-10-05-composio-mcp-agent-native-interface",
+    "synced_at": "2026-10-05T00:27:02.315763+00:00"
+  },
+  "phase4:aie-2026-10-05-human-async-api-durable-workflows": {
+    "hash": "e8387bdb4298f62b09f589212912b6964ffec58d1b14f5d54ad2261451e41318",
+    "slug": "aie-2026-10-05-human-async-api-durable-workflows",
+    "synced_at": "2026-10-05T00:27:02.315534+00:00"
+  },
+  "phase4:aie-2026-10-05-meta-tooling-runtime-tool-generation": {
+    "hash": "207dd2ad2b2018e7f128e2279bf0876b66efab33a1cca6635cdb263a072fbf09",
+    "slug": "aie-2026-10-05-meta-tooling-runtime-tool-generation",
+    "synced_at": "2026-10-05T00:27:02.315169+00:00"
+  },
+  "phase4:aie-2026-10-05-prompt-memory-weights-routing": {
+    "hash": "a4b0597434fb41e4d49d1c5fc7d0b121306f825eed45b0cfcb10437486b79d7c",
+    "slug": "aie-2026-10-05-prompt-memory-weights-routing",
+    "synced_at": "2026-10-05T00:27:02.315873+00:00"
+  },
+  "phase4:aie-2026-10-05-support-agent-dogfood-build": {
+    "hash": "f0f9edc74169caeaa03a4cc3807cefc254a9662fe28ffdc9050e275d1afe92d1",
+    "slug": "aie-2026-10-05-support-agent-dogfood-build",
+    "synced_at": "2026-10-05T00:27:02.315650+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -4344,6 +4379,11 @@
     "slug": "nb-2026-10-04-soul-61-cost-vs-capability-triage",
     "synced_at": "2026-10-04T00:21:44.928577+00:00"
   },
+  "phase4:nb-2026-10-05-agent-stack-layer-mapping": {
+    "hash": "65138f3f8f7eb0310997e3e440ba0d88b7e80f1687f886c267415577ad27c39c",
+    "slug": "nb-2026-10-05-agent-stack-layer-mapping",
+    "synced_at": "2026-10-05T00:27:02.314825+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -5188,6 +5228,11 @@
     "hash": "99bd34fa43d4e5a2d9da59ead5d1a63f901b8395e2b49fcb208a1cf654191071",
     "slug": "st-2026-08-30-four-stage-ai-adoption-roadmap",
     "synced_at": "2026-08-31T00:12:40.924659+00:00"
+  },
+  "phase4:st-2026-10-05-claude-cowork-onboarding-workflow": {
+    "hash": "3ac3384a4b60b073490d228097a7d9f668b76d2ae7a64b8d90095e7db46950f4",
+    "slug": "st-2026-10-05-claude-cowork-onboarding-workflow",
+    "synced_at": "2026-10-05T00:27:02.315001+00:00"
   },
   "phase4:tmp-2026-04-01-quantized-local-inference": {
     "hash": "acff2ffb5b52096bc966a39fe8851f9a222cb9dcbcbb9a8420c2b33752962921",

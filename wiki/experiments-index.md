@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1032 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1041 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 730 |
+| `backlog` | 739 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 802 |
+| `(none)` | 811 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,15 +32,15 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 492 |
+| @aie | 499 |
 | @nh | 154 |
-| @nb | 151 |
+| @nb | 152 |
 | @mlops | 66 |
 | @do | 62 |
 | @mk | 45 |
 | @aij | 21 |
 | @eh | 20 |
-| @st | 13 |
+| @st | 14 |
 | @up | 5 |
 | @fs | 2 |
 | @tmp | 1 |
@@ -53,6 +53,15 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-10-05 | [[experiments/st-2026-10-05-claude-cowork-onboarding-workflow|Use Claude Projects (co-work mode) with a long back-and-forth session to generate a reusable workflow template from a single successful run]] | @st | `-` |
+| 2026-10-05 | [[experiments/nb-2026-10-05-agent-stack-layer-mapping|Map your AI workflow stack into four explicit layers: data, structured workflows, application interface, and agentic layer]] | @nb | `-` |
+| 2026-10-05 | [[experiments/aie-2026-10-05-support-agent-dogfood-build|Build a domain-specific support agent using your own product's API to simultaneously dogfood the product and automate tier-1 support]] | @aie | `-` |
+| 2026-10-05 | [[experiments/aie-2026-10-05-prompt-memory-weights-routing|Audit every piece of knowledge in your agent system against a prompt/memory/weights decision matrix and fix misplaced artifacts]] | @aie | `-` |
+| 2026-10-05 | [[experiments/aie-2026-10-05-meta-tooling-runtime-tool-generation|Implement meta-tooling: give an agent an editor, shell, and load-tool primitive so it can write and register new tools at runtime without restart]] | @aie | `-` |
+| 2026-10-05 | [[experiments/aie-2026-10-05-human-async-api-durable-workflows|Implement durable workflow primitives (wait condition + signal) for human-in-the-loop steps in multi-agent pipelines]] | @aie | `-` |
+| 2026-10-05 | [[experiments/aie-2026-10-05-composio-mcp-agent-native-interface|Replace multi-dashboard workflows with a unified MCP layer that exposes agent-optimized tool interfaces with stateful search and context-saving]] | @aie | `-` |
+| 2026-10-05 | [[experiments/aie-2026-10-05-codebase-graph-for-agent-context|Build or integrate a codebase graph index as infrastructure context for coding agents operating on large repos]] | @aie | `-` |
+| 2026-10-05 | [[experiments/aie-2026-10-05-catalog-enrichment-for-agent-retrieval|Enrich structured knowledge artifacts (docs, specs, catalogs) with semantic attributes and buyer context before indexing for agent retrieval]] | @aie | `-` |
 | 2026-10-04 | [[experiments/nh-2026-10-04-voice-multi-agent-coordination|Use Voice Mode to Coordinate Multiple Concurrent Codex Threads Hands-Free]] | @nh | `-` |
 | 2026-10-04 | [[experiments/nh-2026-10-04-agents-md-routing-map|Build a Routing-Map agents.md to Eliminate Per-Session Context Re-Explanation]] | @nh | `-` |
 | 2026-10-04 | [[experiments/nb-2026-10-04-soul-61-cost-vs-capability-triage|Route Complex-but-Not-Frontier Tasks to GPT-6.1 Soul to Preserve Plan Quota]] | @nb | `-` |
