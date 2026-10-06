@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1041 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1043 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 739 |
+| `backlog` | 741 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 811 |
+| `(none)` | 813 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -33,7 +33,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Channel | Experiments |
 |---|---|
 | @aie | 499 |
-| @nh | 154 |
+| @nh | 156 |
 | @nb | 152 |
 | @mlops | 66 |
 | @do | 62 |
@@ -53,6 +53,8 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-10-06 | [[experiments/nh-2026-10-06-teaching-rules-system-prompt|Encode Expert Teaching Rules as Mandatory Agent Behaviors to Fix AI's Explain-vs-Code Imbalance]] | @nh | `-` |
+| 2026-10-06 | [[experiments/nh-2026-10-06-karpathy-wiki-agent|Build a Domain-Expert Agent by Crawling Public Sources into a Structured Wiki]] | @nh | `-` |
 | 2026-10-05 | [[experiments/st-2026-10-05-claude-cowork-onboarding-workflow|Use Claude Projects (co-work mode) with a long back-and-forth session to generate a reusable workflow template from a single successful run]] | @st | `-` |
 | 2026-10-05 | [[experiments/nb-2026-10-05-agent-stack-layer-mapping|Map your AI workflow stack into four explicit layers: data, structured workflows, application interface, and agentic layer]] | @nb | `-` |
 | 2026-10-05 | [[experiments/aie-2026-10-05-support-agent-dogfood-build|Build a domain-specific support agent using your own product's API to simultaneously dogfood the product and automate tier-1 support]] | @aie | `-` |

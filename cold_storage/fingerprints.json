@@ -5164,6 +5164,16 @@
     "slug": "nh-2026-10-04-voice-multi-agent-coordination",
     "synced_at": "2026-10-04T00:21:44.929056+00:00"
   },
+  "phase4:nh-2026-10-06-karpathy-wiki-agent": {
+    "hash": "9bba29e078388bc388595583eb818e114c170885e9c79f5e291d2ffeedd3f0cb",
+    "slug": "nh-2026-10-06-karpathy-wiki-agent",
+    "synced_at": "2026-10-06T02:04:08.391119+00:00"
+  },
+  "phase4:nh-2026-10-06-teaching-rules-system-prompt": {
+    "hash": "591eb7265a435bed5c4c2e3af2d2dbc2fe2c256f9aba2573220559ad626a21ae",
+    "slug": "nh-2026-10-06-teaching-rules-system-prompt",
+    "synced_at": "2026-10-06T02:04:08.391299+00:00"
+  },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
     "slug": "st-2026-04-05-skill-creator-meta-agent",
