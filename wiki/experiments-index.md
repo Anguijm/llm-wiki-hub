@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1043 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1063 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 741 |
+| `backlog` | 761 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 813 |
+| `(none)` | 833 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,14 +32,14 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 499 |
+| @aie | 514 |
 | @nh | 156 |
 | @nb | 152 |
-| @mlops | 66 |
+| @mlops | 68 |
 | @do | 62 |
-| @mk | 45 |
+| @mk | 47 |
 | @aij | 21 |
-| @eh | 20 |
+| @eh | 21 |
 | @st | 14 |
 | @up | 5 |
 | @fs | 2 |
@@ -53,6 +53,26 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-10-08 | [[experiments/mlops-2026-10-08-gcp-vertex-data-residency|Route Sensitive Workloads Through GCP Vertex as a Data-Residency Broker]] | @mlops | `-` |
+| 2026-10-08 | [[experiments/mlops-2026-10-08-ai-usage-observability-cost-tracking|Use AI to Hunt Its Own Cost-Saving Metrics Inside Your Observability Platform]] | @mlops | `-` |
+| 2026-10-08 | [[experiments/mk-2026-10-08-decisions-api-vs-jev-classifier|Benchmark OpenAI Decisions API vs Jev for Structured Classification Tasks]] | @mk | `-` |
+| 2026-10-08 | [[experiments/mk-2026-10-08-claude-code-mod-codex-computer-use|Build a Claude Code Mod That Delegates Computer-Use Actions to Codex via MCP Bridge]] | @mk | `-` |
+| 2026-10-08 | [[experiments/eh-2026-10-08-instant-video-pipeline-claude-grok|Build a Real-Time Narrated Film Generator by Chaining Claude, Grok CLI, and Local TTS]] | @eh | `-` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-speculative-decoding-vllm-blackwell|Profile Speculative Decoding Acceptance Rate by Task Type to Decide Whether to Enable It]] | @aie | `-` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-software-factory-incremental-agent-trust|Measure Software Factory Outcomes With Signal-to-Production Time and Cost-per-PR Instead of Token Usage]] | @aie | `-` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-six-pillars-agentic-harness|Build a Multi-Agent Investigation Harness That Reasons Across Code, Infra, Observability, and Knowledge Bases]] | @aie | `-` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-self-improving-skill-distillation-flywheel|Auto-Distill Successful Agent Runs Into Reusable Skills to Create a Self-Improving Org Flywheel]] | @aie | `-` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-self-improving-oss-agent-stack|Run a Cron-Based Agent Loop That Mines Production Traces to Propose and Backtest Agent Improvements]] | @aie | `-` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-sdlc-agent-maturity-operating-model|Implement Incremental Trust-Building Automation Gates From PR Review to Auto-Merge]] | @aie | `-` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-hybrid-grep-embeddings-agent-retrieval|Add Hybrid Grep + Vector Search Toolset to Document-Heavy Agents to Replace Full-File Downloads]] | @aie | `-` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-harness-engineering-software-factory|Track Autonomy and Automation Separately as Leading Indicators on the Path to a Software Factory]] | @aie | `-` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-gemini-sandbox-managed-agent|Run Agents in Isolated Remote Sandboxes via Gemini Interactions API to Eliminate Local Environment Conflicts]] | @aie | `-` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-eval-platform-systems-problem|Close the Production-to-Eval Loop by Letting Coding Agents Auto-Generate Eval Cases from Failure Traces]] | @aie | `-` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-database-isolation-redundancy-agents|Give AI Agents Git-Branching Parity for Database Schema Changes with One-Click Revert]] | @aie | `-` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-continuous-ai-pentesting|Add Continuous AI-Driven Pentest Step to CI/CD Pipeline for LLM-Generated Code]] | @aie | `-` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-context-window-management-strands|Implement Sliding-Window + Summarization Context Management in Agent Loops Using Strands]] | @aie | `-` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-ai-spend-pre-flight-entitlement-check|Implement Pre-Flight Entitlement Checks and Budget Reservation Before Agent Inference Calls]] | @aie | `-` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-agent-to-agent-stateful-communication|Replace Manual Agent Message Routing With a Stateful Agent Communication Layer]] | @aie | `-` |
 | 2026-10-06 | [[experiments/nh-2026-10-06-teaching-rules-system-prompt|Encode Expert Teaching Rules as Mandatory Agent Behaviors to Fix AI's Explain-vs-Code Imbalance]] | @nh | `-` |
 | 2026-10-06 | [[experiments/nh-2026-10-06-karpathy-wiki-agent|Build a Domain-Expert Agent by Crawling Public Sources into a Structured Wiki]] | @nh | `-` |
 | 2026-10-05 | [[experiments/st-2026-10-05-claude-cowork-onboarding-workflow|Use Claude Projects (co-work mode) with a long back-and-forth session to generate a reusable workflow template from a single successful run]] | @st | `-` |

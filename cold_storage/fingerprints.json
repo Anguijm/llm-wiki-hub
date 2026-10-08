@@ -2524,6 +2524,81 @@
     "slug": "aie-2026-10-05-support-agent-dogfood-build",
     "synced_at": "2026-10-05T00:27:02.315650+00:00"
   },
+  "phase4:aie-2026-10-08-agent-to-agent-stateful-communication": {
+    "hash": "2bee3d47b2e623eda11fbae53621b1fb522250deffa88d837531a7c4e68c8395",
+    "slug": "aie-2026-10-08-agent-to-agent-stateful-communication",
+    "synced_at": "2026-10-08T01:34:21.648689+00:00"
+  },
+  "phase4:aie-2026-10-08-ai-spend-pre-flight-entitlement-check": {
+    "hash": "ceb22e0308ff92a114dce87691b6dbee31eda06d1e2e7577de1670d611637fa4",
+    "slug": "aie-2026-10-08-ai-spend-pre-flight-entitlement-check",
+    "synced_at": "2026-10-08T01:34:21.649784+00:00"
+  },
+  "phase4:aie-2026-10-08-context-window-management-strands": {
+    "hash": "c5dc432de5acdc25e730dc4ecdbbb2356ae7f18b33e1a31de717daf5b6d0b5fb",
+    "slug": "aie-2026-10-08-context-window-management-strands",
+    "synced_at": "2026-10-08T01:34:21.648048+00:00"
+  },
+  "phase4:aie-2026-10-08-continuous-ai-pentesting": {
+    "hash": "c83ee4cac0b61d66fe3be9ea5b3f492ce39c60bfce18db3243d0fd31e7fbf0ef",
+    "slug": "aie-2026-10-08-continuous-ai-pentesting",
+    "synced_at": "2026-10-08T01:34:21.648258+00:00"
+  },
+  "phase4:aie-2026-10-08-database-isolation-redundancy-agents": {
+    "hash": "75b45efc84105ebc44553107b9e6679f14a19d6c3c507c5dd983868092249816",
+    "slug": "aie-2026-10-08-database-isolation-redundancy-agents",
+    "synced_at": "2026-10-08T01:34:21.650431+00:00"
+  },
+  "phase4:aie-2026-10-08-eval-platform-systems-problem": {
+    "hash": "cf4b118e6b6029690c0ed944a166ebf4a08a9011fac8cf3e310e9c07ace373a9",
+    "slug": "aie-2026-10-08-eval-platform-systems-problem",
+    "synced_at": "2026-10-08T01:34:21.650635+00:00"
+  },
+  "phase4:aie-2026-10-08-gemini-sandbox-managed-agent": {
+    "hash": "d4d45c9ddd4e6cf5c27c450271657c58552e454f432d58aa28ee601f055f36ea",
+    "slug": "aie-2026-10-08-gemini-sandbox-managed-agent",
+    "synced_at": "2026-10-08T01:34:21.648902+00:00"
+  },
+  "phase4:aie-2026-10-08-harness-engineering-software-factory": {
+    "hash": "db5d982283dabef923d066d9cbf030dd6507642a25855f9a203443185440ba5e",
+    "slug": "aie-2026-10-08-harness-engineering-software-factory",
+    "synced_at": "2026-10-08T01:34:21.651133+00:00"
+  },
+  "phase4:aie-2026-10-08-hybrid-grep-embeddings-agent-retrieval": {
+    "hash": "eee8c04fabdee302b494dabddef3a54463c1efa628e38c8839b7431c1a5d0245",
+    "slug": "aie-2026-10-08-hybrid-grep-embeddings-agent-retrieval",
+    "synced_at": "2026-10-08T01:34:21.649574+00:00"
+  },
+  "phase4:aie-2026-10-08-sdlc-agent-maturity-operating-model": {
+    "hash": "dac3236392b1aa3ae5d6b0b9a7496a42a863a9bc65b5cd0d9b35d1cd74b89b16",
+    "slug": "aie-2026-10-08-sdlc-agent-maturity-operating-model",
+    "synced_at": "2026-10-08T01:34:21.649146+00:00"
+  },
+  "phase4:aie-2026-10-08-self-improving-oss-agent-stack": {
+    "hash": "60deafaf797c7bd3dd9a48ff1810a9f64427171421856fd43f7da9f647a6060c",
+    "slug": "aie-2026-10-08-self-improving-oss-agent-stack",
+    "synced_at": "2026-10-08T01:34:21.650841+00:00"
+  },
+  "phase4:aie-2026-10-08-self-improving-skill-distillation-flywheel": {
+    "hash": "befef5cab00656186bc7f11d36dbab5c10f0911c4d652781bb2c98e8b4e719d4",
+    "slug": "aie-2026-10-08-self-improving-skill-distillation-flywheel",
+    "synced_at": "2026-10-08T01:34:21.649359+00:00"
+  },
+  "phase4:aie-2026-10-08-six-pillars-agentic-harness": {
+    "hash": "5700bb50a2ccdcba1c40a7cbcc7a1ed5fe5f52b688f407fb2506c2fcb17b61ca",
+    "slug": "aie-2026-10-08-six-pillars-agentic-harness",
+    "synced_at": "2026-10-08T01:34:21.650005+00:00"
+  },
+  "phase4:aie-2026-10-08-software-factory-incremental-agent-trust": {
+    "hash": "91b4c958284a72c89496f70b4b8fec1622569929d8e4be718c8c61708327ecb9",
+    "slug": "aie-2026-10-08-software-factory-incremental-agent-trust",
+    "synced_at": "2026-10-08T01:34:21.648475+00:00"
+  },
+  "phase4:aie-2026-10-08-speculative-decoding-vllm-blackwell": {
+    "hash": "96ae20fe54d03930a1689056320c8253ba4ba2cca6226b0fddc4ab17f59a298a",
+    "slug": "aie-2026-10-08-speculative-decoding-vllm-blackwell",
+    "synced_at": "2026-10-08T01:34:21.650225+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -3049,6 +3124,11 @@
     "slug": "eh-2026-10-04-judgment-as-bottleneck-thought-experiment",
     "synced_at": "2026-10-04T00:21:44.929271+00:00"
   },
+  "phase4:eh-2026-10-08-instant-video-pipeline-claude-grok": {
+    "hash": "d5c59a91c38eab599559612082f2e5aae4bb0503f48ed6ddc6eed57d4e513636",
+    "slug": "eh-2026-10-08-instant-video-pipeline-claude-grok",
+    "synced_at": "2026-10-08T01:34:21.647381+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -3283,6 +3363,16 @@
     "hash": "b8014bb113290a907359c79d0dd6be5746af83c27841ca8423190027cb43dd0f",
     "slug": "mk-2026-10-03-claude-code-mods-output-tray-bookmark",
     "synced_at": "2026-10-03T00:56:49.701368+00:00"
+  },
+  "phase4:mk-2026-10-08-claude-code-mod-codex-computer-use": {
+    "hash": "f21e56d6c20de9a33b01672fc072068fa42dc9d166a43e36bf71517604e2d418",
+    "slug": "mk-2026-10-08-claude-code-mod-codex-computer-use",
+    "synced_at": "2026-10-08T01:34:21.647809+00:00"
+  },
+  "phase4:mk-2026-10-08-decisions-api-vs-jev-classifier": {
+    "hash": "8bdf91626b4e7e58e45538ef5bf2e788a41c3b034c204df668b42ef50ec34f51",
+    "slug": "mk-2026-10-08-decisions-api-vs-jev-classifier",
+    "synced_at": "2026-10-08T01:34:21.647595+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
@@ -3618,6 +3708,16 @@
     "hash": "2cec9cd8191a3d17b36995bdcfea18dc1676a4d6bdffb852536350605d314ac2",
     "slug": "mlops-2026-10-02-caveman-prompting-benchmark",
     "synced_at": "2026-10-02T01:17:38.191398+00:00"
+  },
+  "phase4:mlops-2026-10-08-ai-usage-observability-cost-tracking": {
+    "hash": "76f253e04f77c839495673ffff34aac6114e48e960479e7f9ebe3b35032d4181",
+    "slug": "mlops-2026-10-08-ai-usage-observability-cost-tracking",
+    "synced_at": "2026-10-08T01:34:21.646844+00:00"
+  },
+  "phase4:mlops-2026-10-08-gcp-vertex-data-residency": {
+    "hash": "d12dbbeee8e7a82a6552217debba6c233490dabb024aada909e3025e18058b83",
+    "slug": "mlops-2026-10-08-gcp-vertex-data-residency",
+    "synced_at": "2026-10-08T01:34:21.647156+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",
