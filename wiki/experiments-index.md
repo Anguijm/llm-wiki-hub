@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1063 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1078 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 761 |
+| `backlog` | 776 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 833 |
+| `(none)` | 848 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,14 +32,14 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 514 |
-| @nh | 156 |
-| @nb | 152 |
-| @mlops | 68 |
+| @aie | 523 |
+| @nh | 158 |
+| @nb | 154 |
+| @mlops | 69 |
 | @do | 62 |
 | @mk | 47 |
+| @eh | 22 |
 | @aij | 21 |
-| @eh | 21 |
 | @st | 14 |
 | @up | 5 |
 | @fs | 2 |
@@ -53,6 +53,21 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-10-09 | [[experiments/nh-2026-10-09-scheduled-doctor-self-cleaning|Schedule a monthly self-cleaning agent audit that proposes CLAUDE.md changes for human approval]] | @nh | `-` |
+| 2026-10-09 | [[experiments/nh-2026-10-09-minimal-context-claude|Run /doctor audit then delete 80%+ of Claude system prompt and CLAUDE.md rules]] | @nh | `-` |
+| 2026-10-09 | [[experiments/nb-2026-10-09-knowledge-work-data-value|Audit agent outputs to distinguish real work from performance of work]] | @nb | `-` |
+| 2026-10-09 | [[experiments/nb-2026-10-09-customer-obsession-benchmark|Replace leaderboard evals with a tracked personal use-case log as primary quality signal]] | @nb | `-` |
+| 2026-10-09 | [[experiments/mlops-2026-10-09-agent-npcs-mmo|Deploy always-on background agents as synthetic load testers for your agent harness]] | @mlops | `-` |
+| 2026-10-09 | [[experiments/eh-2026-10-09-parallel-scene-generation|Parallelize multi-part artifact generation with a single sequential plan step]] | @eh | `-` |
+| 2026-10-09 | [[experiments/aie-2026-10-09-procedural-memory-update-loop|Build a supervised procedural memory update pipeline that promotes trace-derived rule changes to human review before committing]] | @aie | `-` |
+| 2026-10-09 | [[experiments/aie-2026-10-09-mcp-legibility-agent-first|Rebuild MCP tools with scoped capabilities and human verification checkpoints instead of full API exposure]] | @aie | `-` |
+| 2026-10-09 | [[experiments/aie-2026-10-09-internal-app-platform-non-engineers|Build a CLI + catalog platform so non-engineers can deploy authenticated internal apps without engineer help]] | @aie | `-` |
+| 2026-10-09 | [[experiments/aie-2026-10-09-eval-flywheel-customer-signals|Implement an eval flywheel that ingests production failures into new eval scenarios weekly]] | @aie | `-` |
+| 2026-10-09 | [[experiments/aie-2026-10-09-environment-context-agent-briefing|Brief coding agents with live production observability context before they write or fix code]] | @aie | `-` |
+| 2026-10-09 | [[experiments/aie-2026-10-09-deterministic-harness-nondeterministic-llm|Separate agent reasoning from execution by compiling LLM plans into deterministic workflow graphs]] | @aie | `-` |
+| 2026-10-09 | [[experiments/aie-2026-10-09-context-graph-skill-distillation|Distill agent decision traces into versioned skills via a graph-based memory service]] | @aie | `-` |
+| 2026-10-09 | [[experiments/aie-2026-10-09-automattic-ai-enablement-cohorts|Run two-week immersive AI cohorts with 50% facilitated learning and 50% real project work]] | @aie | `-` |
+| 2026-10-09 | [[experiments/aie-2026-10-09-api-context-graph-coding-agents|Build an API context graph grounded in source code to give coding agents cross-service awareness]] | @aie | `-` |
 | 2026-10-08 | [[experiments/mlops-2026-10-08-gcp-vertex-data-residency|Route Sensitive Workloads Through GCP Vertex as a Data-Residency Broker]] | @mlops | `-` |
 | 2026-10-08 | [[experiments/mlops-2026-10-08-ai-usage-observability-cost-tracking|Use AI to Hunt Its Own Cost-Saving Metrics Inside Your Observability Platform]] | @mlops | `-` |
 | 2026-10-08 | [[experiments/mk-2026-10-08-decisions-api-vs-jev-classifier|Benchmark OpenAI Decisions API vs Jev for Structured Classification Tasks]] | @mk | `-` |

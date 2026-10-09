@@ -2599,6 +2599,51 @@
     "slug": "aie-2026-10-08-speculative-decoding-vllm-blackwell",
     "synced_at": "2026-10-08T01:34:21.650225+00:00"
   },
+  "phase4:aie-2026-10-09-api-context-graph-coding-agents": {
+    "hash": "a3f0e06bf1f9a96ef0df556a34ae3d196572df455d6a0e6f4181d2bf21f980b3",
+    "slug": "aie-2026-10-09-api-context-graph-coding-agents",
+    "synced_at": "2026-10-09T01:45:00.868136+00:00"
+  },
+  "phase4:aie-2026-10-09-automattic-ai-enablement-cohorts": {
+    "hash": "aa0fbd70c48e1ee7731bc6ec1fdcceeacde3d18e4db4095c92f2e1237b1a8d6a",
+    "slug": "aie-2026-10-09-automattic-ai-enablement-cohorts",
+    "synced_at": "2026-10-09T01:45:00.867721+00:00"
+  },
+  "phase4:aie-2026-10-09-context-graph-skill-distillation": {
+    "hash": "3fa260f1a1b5cbf8a747f8c7616935bf03c6a9f1368051722f077edd5050df81",
+    "slug": "aie-2026-10-09-context-graph-skill-distillation",
+    "synced_at": "2026-10-09T01:45:00.868347+00:00"
+  },
+  "phase4:aie-2026-10-09-deterministic-harness-nondeterministic-llm": {
+    "hash": "9090edb1b7b12af9a6803ee03b72a57c6ccd75f61da148e22808de917b4e1faf",
+    "slug": "aie-2026-10-09-deterministic-harness-nondeterministic-llm",
+    "synced_at": "2026-10-09T01:45:00.867930+00:00"
+  },
+  "phase4:aie-2026-10-09-environment-context-agent-briefing": {
+    "hash": "492af4c008976c0616e3881ca99a70ee2534c43f53defa046b9b004fe1b1f32e",
+    "slug": "aie-2026-10-09-environment-context-agent-briefing",
+    "synced_at": "2026-10-09T01:45:00.868556+00:00"
+  },
+  "phase4:aie-2026-10-09-eval-flywheel-customer-signals": {
+    "hash": "0df33c1d4673233042c07a7abd0006792b03371e8b4004dbb27fce1de250d738",
+    "slug": "aie-2026-10-09-eval-flywheel-customer-signals",
+    "synced_at": "2026-10-09T01:45:00.867499+00:00"
+  },
+  "phase4:aie-2026-10-09-internal-app-platform-non-engineers": {
+    "hash": "8e42da7ee6126039da516d1e4149f2572912fbdac969191d1ef32106fbff02e7",
+    "slug": "aie-2026-10-09-internal-app-platform-non-engineers",
+    "synced_at": "2026-10-09T01:45:00.868990+00:00"
+  },
+  "phase4:aie-2026-10-09-mcp-legibility-agent-first": {
+    "hash": "6a13723f864db384ffbcc6e807884ce2c89fadcbb2cb418fd5fa6535f53d032f",
+    "slug": "aie-2026-10-09-mcp-legibility-agent-first",
+    "synced_at": "2026-10-09T01:45:00.868779+00:00"
+  },
+  "phase4:aie-2026-10-09-procedural-memory-update-loop": {
+    "hash": "e765ff744bbfa823a616a74b5b9a983a3bd0ced0a5a8e2e2c65b9b9b9ab25595",
+    "slug": "aie-2026-10-09-procedural-memory-update-loop",
+    "synced_at": "2026-10-09T01:45:00.869205+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -3128,6 +3173,11 @@
     "hash": "d5c59a91c38eab599559612082f2e5aae4bb0503f48ed6ddc6eed57d4e513636",
     "slug": "eh-2026-10-08-instant-video-pipeline-claude-grok",
     "synced_at": "2026-10-08T01:34:21.647381+00:00"
+  },
+  "phase4:eh-2026-10-09-parallel-scene-generation": {
+    "hash": "f288904febea4a3c34b61e995f97b5aadb2c755575526d09ccfd7be9263ec078",
+    "slug": "eh-2026-10-09-parallel-scene-generation",
+    "synced_at": "2026-10-09T01:45:00.867281+00:00"
   },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
@@ -3718,6 +3768,11 @@
     "hash": "d12dbbeee8e7a82a6552217debba6c233490dabb024aada909e3025e18058b83",
     "slug": "mlops-2026-10-08-gcp-vertex-data-residency",
     "synced_at": "2026-10-08T01:34:21.647156+00:00"
+  },
+  "phase4:mlops-2026-10-09-agent-npcs-mmo": {
+    "hash": "1a8da5fc45f032009d34a65e5606c6dda0d34329e5105b155881d902c0997353",
+    "slug": "mlops-2026-10-09-agent-npcs-mmo",
+    "synced_at": "2026-10-09T01:45:00.866622+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",
@@ -4483,6 +4538,16 @@
     "hash": "65138f3f8f7eb0310997e3e440ba0d88b7e80f1687f886c267415577ad27c39c",
     "slug": "nb-2026-10-05-agent-stack-layer-mapping",
     "synced_at": "2026-10-05T00:27:02.314825+00:00"
+  },
+  "phase4:nb-2026-10-09-customer-obsession-benchmark": {
+    "hash": "a44bcd6d2ec29f9a95b309136434c45e5863abb5078b528bc709ef15a6c18d3a",
+    "slug": "nb-2026-10-09-customer-obsession-benchmark",
+    "synced_at": "2026-10-09T01:45:00.866404+00:00"
+  },
+  "phase4:nb-2026-10-09-knowledge-work-data-value": {
+    "hash": "81ebf0ef01086091d3445c6c2d1fd98b3eb8d157768b84472b458b413de66e34",
+    "slug": "nb-2026-10-09-knowledge-work-data-value",
+    "synced_at": "2026-10-09T01:45:00.866149+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
@@ -5273,6 +5338,16 @@
     "hash": "591eb7265a435bed5c4c2e3af2d2dbc2fe2c256f9aba2573220559ad626a21ae",
     "slug": "nh-2026-10-06-teaching-rules-system-prompt",
     "synced_at": "2026-10-06T02:04:08.391299+00:00"
+  },
+  "phase4:nh-2026-10-09-minimal-context-claude": {
+    "hash": "fbad88de837b2dc495ba1f09a5c187875be61b15d6ebe7f04b7e629415410da5",
+    "slug": "nh-2026-10-09-minimal-context-claude",
+    "synced_at": "2026-10-09T01:45:00.866854+00:00"
+  },
+  "phase4:nh-2026-10-09-scheduled-doctor-self-cleaning": {
+    "hash": "dc07c06fe39af734879391a5fbb785ec1e692281b353b4817f12cbf9cb047b19",
+    "slug": "nh-2026-10-09-scheduled-doctor-self-cleaning",
+    "synced_at": "2026-10-09T01:45:00.867064+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
