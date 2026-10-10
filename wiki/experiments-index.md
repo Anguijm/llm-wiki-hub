@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1078 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1089 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 776 |
+| `backlog` | 787 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 848 |
+| `(none)` | 859 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,13 +32,13 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 523 |
-| @nh | 158 |
+| @aie | 530 |
+| @nh | 160 |
 | @nb | 154 |
 | @mlops | 69 |
 | @do | 62 |
 | @mk | 47 |
-| @eh | 22 |
+| @eh | 24 |
 | @aij | 21 |
 | @st | 14 |
 | @up | 5 |
@@ -53,6 +53,17 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-10-10 | [[experiments/nh-2026-10-10-grokbot-native-x-search-migration|Migrate Grokbot X-search routines from paid API to built-in free X access]] | @nh | `-` |
+| 2026-10-10 | [[experiments/nh-2026-10-10-grokbot-cloud-code-cli-in-cloud-computer|Install Claude Code CLI inside a Grokbot cloud computer to get always-on agentic coding]] | @nh | `-` |
+| 2026-10-10 | [[experiments/eh-2026-10-10-gpt6-intelligent-ui-interactive-answers|Test GPT-6 Intelligent UI for generating interactive outputs instead of static text responses]] | @eh | `-` |
+| 2026-10-10 | [[experiments/eh-2026-10-10-claude-docs-decks-free-meeting-notes|Use Claude's free Docs/Decks feature to auto-generate slide decks from meeting notes]] | @eh | `-` |
+| 2026-10-10 | [[experiments/aie-2026-10-10-small-model-rl-finetuning-finance-agent|Fine-tune a 4B parameter model with RL on domain-specific tool-use data to outperform large generalist models]] | @aie | `-` |
+| 2026-10-10 | [[experiments/aie-2026-10-10-context-graph-sync-layer-for-agents|Build a tiered context graph with live MCP lookups for simple queries and synced vector cache for semantic/analytical queries]] | @aie | `-` |
+| 2026-10-10 | [[experiments/aie-2026-10-10-codify-agent-rules-as-linters-and-policies|Replace repeated agent re-prompting with custom linters and policy agents to enforce code quality deterministically]] | @aie | `-` |
+| 2026-10-10 | [[experiments/aie-2026-10-10-codex-app-server-custom-harness-client|Build a custom Codex harness client using the open-source App Server protocol for parallel agent threads and custom interfaces]] | @aie | `-` |
+| 2026-10-10 | [[experiments/aie-2026-10-10-cli-design-for-agents-olaf-and-skills|Redesign agent-facing CLIs to use non-interactive flags, small tool counts, and skills for progressive discovery]] | @aie | `-` |
+| 2026-10-10 | [[experiments/aie-2026-10-10-automated-pr-validation-agent-with-autofix-an|Add an agentic PR validation layer that auto-reviews, auto-fixes CI failures, and progressively unlocks auto-merge as trust is established]] | @aie | `-` |
+| 2026-10-10 | [[experiments/aie-2026-10-10-agent-memory-layer-with-typed-storage-and-fee|Implement a governed agent memory layer with typed facts, hybrid retrieval, and feedback scoring to eliminate repeated work across sessions]] | @aie | `-` |
 | 2026-10-09 | [[experiments/nh-2026-10-09-scheduled-doctor-self-cleaning|Schedule a monthly self-cleaning agent audit that proposes CLAUDE.md changes for human approval]] | @nh | `-` |
 | 2026-10-09 | [[experiments/nh-2026-10-09-minimal-context-claude|Run /doctor audit then delete 80%+ of Claude system prompt and CLAUDE.md rules]] | @nh | `-` |
 | 2026-10-09 | [[experiments/nb-2026-10-09-knowledge-work-data-value|Audit agent outputs to distinguish real work from performance of work]] | @nb | `-` |

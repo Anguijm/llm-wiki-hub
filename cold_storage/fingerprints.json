@@ -2644,6 +2644,41 @@
     "slug": "aie-2026-10-09-procedural-memory-update-loop",
     "synced_at": "2026-10-09T01:45:00.869205+00:00"
   },
+  "phase4:aie-2026-10-10-agent-memory-layer-with-typed-storage-and-feedback": {
+    "hash": "53657a4a36e7110c5e6caa494ff3828afcb724decfea8a010dc6124e80c830b2",
+    "slug": "aie-2026-10-10-agent-memory-layer-with-typed-storage-and-fee",
+    "synced_at": "2026-10-10T01:31:24.565867+00:00"
+  },
+  "phase4:aie-2026-10-10-automated-pr-validation-agent-with-autofix-and-automerge": {
+    "hash": "90dc789567a9664283dea8c45a0c7c63e5b5843d682fd9ba5708100328faf092",
+    "slug": "aie-2026-10-10-automated-pr-validation-agent-with-autofix-an",
+    "synced_at": "2026-10-10T01:31:24.566287+00:00"
+  },
+  "phase4:aie-2026-10-10-cli-design-for-agents-olaf-and-skills": {
+    "hash": "7f6c8158d68cd4ce3ae7a396b4e6b07d86eae62a1c5847f010d6e7de4cefb987",
+    "slug": "aie-2026-10-10-cli-design-for-agents-olaf-and-skills",
+    "synced_at": "2026-10-10T01:31:24.566014+00:00"
+  },
+  "phase4:aie-2026-10-10-codex-app-server-custom-harness-client": {
+    "hash": "602eb0050e0b675b31275cb6f57e2bec58ac1e586e53230983da4a7f68470bd1",
+    "slug": "aie-2026-10-10-codex-app-server-custom-harness-client",
+    "synced_at": "2026-10-10T01:31:24.566148+00:00"
+  },
+  "phase4:aie-2026-10-10-codify-agent-rules-as-linters-and-policies": {
+    "hash": "41e60595e792441b65022b1f2c9a3b72f65a03f9eee5847960281299d205db3f",
+    "slug": "aie-2026-10-10-codify-agent-rules-as-linters-and-policies",
+    "synced_at": "2026-10-10T01:31:24.565735+00:00"
+  },
+  "phase4:aie-2026-10-10-context-graph-sync-layer-for-agents": {
+    "hash": "74a9ef6d06a60f831da954639dd1601243c1ada58f9689edb7c5f8786632f8e2",
+    "slug": "aie-2026-10-10-context-graph-sync-layer-for-agents",
+    "synced_at": "2026-10-10T01:31:24.565597+00:00"
+  },
+  "phase4:aie-2026-10-10-small-model-rl-finetuning-finance-agent": {
+    "hash": "ca8279b47336424219a3641dd0296e49f1d53a6bb956b7065f0085aad3a7c7e6",
+    "slug": "aie-2026-10-10-small-model-rl-finetuning-finance-agent",
+    "synced_at": "2026-10-10T01:31:24.565456+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -3178,6 +3213,16 @@
     "hash": "f288904febea4a3c34b61e995f97b5aadb2c755575526d09ccfd7be9263ec078",
     "slug": "eh-2026-10-09-parallel-scene-generation",
     "synced_at": "2026-10-09T01:45:00.867281+00:00"
+  },
+  "phase4:eh-2026-10-10-claude-docs-decks-free-meeting-notes": {
+    "hash": "9893fd6e5c9aa7079d1d371d860b039b578e7442dcb7a4d421984ccd21ba90b8",
+    "slug": "eh-2026-10-10-claude-docs-decks-free-meeting-notes",
+    "synced_at": "2026-10-10T01:31:24.565312+00:00"
+  },
+  "phase4:eh-2026-10-10-gpt6-intelligent-ui-interactive-answers": {
+    "hash": "2d2b7796fe5db9c722953e5a8bc6f010519c206f618c47e8c316340cc9c6bb45",
+    "slug": "eh-2026-10-10-gpt6-intelligent-ui-interactive-answers",
+    "synced_at": "2026-10-10T01:31:24.565171+00:00"
   },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
@@ -5348,6 +5393,16 @@
     "hash": "dc07c06fe39af734879391a5fbb785ec1e692281b353b4817f12cbf9cb047b19",
     "slug": "nh-2026-10-09-scheduled-doctor-self-cleaning",
     "synced_at": "2026-10-09T01:45:00.867064+00:00"
+  },
+  "phase4:nh-2026-10-10-grokbot-cloud-code-cli-in-cloud-computer": {
+    "hash": "6702a9cbe52233efb00948697b4340152dbb0fadc0f8c24454e2a2bb612aa156",
+    "slug": "nh-2026-10-10-grokbot-cloud-code-cli-in-cloud-computer",
+    "synced_at": "2026-10-10T01:31:24.565019+00:00"
+  },
+  "phase4:nh-2026-10-10-grokbot-native-x-search-migration": {
+    "hash": "0515471e8faa696be764038e811d2c92ef2ef128f12759a8fea91786ae32e494",
+    "slug": "nh-2026-10-10-grokbot-native-x-search-migration",
+    "synced_at": "2026-10-10T01:31:24.564809+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
