@@ -4594,6 +4594,11 @@
     "slug": "nb-2026-10-09-knowledge-work-data-value",
     "synced_at": "2026-10-09T01:45:00.866149+00:00"
   },
+  "phase4:nb-2026-10-12-taste-agency-focus-resourcefulness-followthrough": {
+    "hash": "fdcacf5c005c021d9210e668882f47a76627b251d715b92146902c8f51d777af",
+    "slug": "nb-2026-10-12-taste-agency-focus-resourcefulness-followthrou",
+    "synced_at": "2026-10-12T01:01:01.228836+00:00"
+  },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
     "slug": "nh-2026-03-29-boring-automation-products",
@@ -5403,6 +5408,11 @@
     "hash": "0515471e8faa696be764038e811d2c92ef2ef128f12759a8fea91786ae32e494",
     "slug": "nh-2026-10-10-grokbot-native-x-search-migration",
     "synced_at": "2026-10-10T01:31:24.564809+00:00"
+  },
+  "phase4:nh-2026-10-12-claude-github-repos-workflow": {
+    "hash": "0cd3b05844903425b6dd9ee5092faf5112334dafc361e08023a7142a9ace7e6c",
+    "slug": "nh-2026-10-12-claude-github-repos-workflow",
+    "synced_at": "2026-10-12T01:01:01.229216+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

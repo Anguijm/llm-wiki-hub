@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1089 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1091 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 787 |
+| `backlog` | 789 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 859 |
+| `(none)` | 861 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -33,8 +33,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Channel | Experiments |
 |---|---|
 | @aie | 530 |
-| @nh | 160 |
-| @nb | 154 |
+| @nh | 161 |
+| @nb | 155 |
 | @mlops | 69 |
 | @do | 62 |
 | @mk | 47 |
@@ -53,6 +53,8 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-10-12 | [[experiments/nh-2026-10-12-claude-github-repos-workflow|Integrate Playwright CLI and Claude Security into the YOLO Loop Quality Gate]] | @nh | `-` |
+| 2026-10-12 | [[experiments/nb-2026-10-12-taste-agency-focus-resourcefulness-followthrou|Apply the Five-Skill Framework to Audit Backlog Projects]] | @nb | `-` |
 | 2026-10-10 | [[experiments/nh-2026-10-10-grokbot-native-x-search-migration|Migrate Grokbot X-search routines from paid API to built-in free X access]] | @nh | `-` |
 | 2026-10-10 | [[experiments/nh-2026-10-10-grokbot-cloud-code-cli-in-cloud-computer|Install Claude Code CLI inside a Grokbot cloud computer to get always-on agentic coding]] | @nh | `-` |
 | 2026-10-10 | [[experiments/eh-2026-10-10-gpt6-intelligent-ui-interactive-answers|Test GPT-6 Intelligent UI for generating interactive outputs instead of static text responses]] | @eh | `-` |
