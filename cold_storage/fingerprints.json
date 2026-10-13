@@ -2679,6 +2679,76 @@
     "slug": "aie-2026-10-10-small-model-rl-finetuning-finance-agent",
     "synced_at": "2026-10-10T01:31:24.565456+00:00"
   },
+  "phase4:aie-2026-10-13-agent-email-identity-persistent-inbox": {
+    "hash": "26f66929c8b8412f0c97dc7e5e6de81e27150522648fe54d5342155acf79815a",
+    "slug": "aie-2026-10-13-agent-email-identity-persistent-inbox",
+    "synced_at": "2026-10-13T02:50:32.290081+00:00"
+  },
+  "phase4:aie-2026-10-13-auth-md-agent-signup": {
+    "hash": "4df68d0276485ee7115dcd03d87e2b8cfe7fe092d255c73ea7168f4fac92d762",
+    "slug": "aie-2026-10-13-auth-md-agent-signup",
+    "synced_at": "2026-10-13T02:50:32.290388+00:00"
+  },
+  "phase4:aie-2026-10-13-claude-managed-agents-decoupled-harness": {
+    "hash": "ace9ded610589af60fdf2ad75a32c16481bcd7bf543e6c8cd065449474e5cf76",
+    "slug": "aie-2026-10-13-claude-managed-agents-decoupled-harness",
+    "synced_at": "2026-10-13T02:50:32.289118+00:00"
+  },
+  "phase4:aie-2026-10-13-cma-dreaming-memory-self-improvement": {
+    "hash": "d197f534f49294aab42dbcd9e3936d7fdfe8478886e50b49c92e62ed3019f556",
+    "slug": "aie-2026-10-13-cma-dreaming-memory-self-improvement",
+    "synced_at": "2026-10-13T02:50:32.289753+00:00"
+  },
+  "phase4:aie-2026-10-13-cma-multi-agent-map-reduce-sec": {
+    "hash": "bf0c50038acbfc3655fbb85f6f73afdc3136aa0d49d9ac46492417d306182d69",
+    "slug": "aie-2026-10-13-cma-multi-agent-map-reduce-sec",
+    "synced_at": "2026-10-13T02:50:32.289435+00:00"
+  },
+  "phase4:aie-2026-10-13-deterministic-flow-llm-boundary-finance": {
+    "hash": "e65c0179d7b3fe1fb93c302223ec593fd959192caca4f608281e2a83fc924f66",
+    "slug": "aie-2026-10-13-deterministic-flow-llm-boundary-finance",
+    "synced_at": "2026-10-13T02:50:32.287219+00:00"
+  },
+  "phase4:aie-2026-10-13-domain-expert-written-agent-skills": {
+    "hash": "73a48a872e87482764a9a2e2e2f4fec1cbdad063eb247012f1a7a3f449e0d60f",
+    "slug": "aie-2026-10-13-domain-expert-written-agent-skills",
+    "synced_at": "2026-10-13T02:50:32.288792+00:00"
+  },
+  "phase4:aie-2026-10-13-gpu-timing-side-channel-shared-tenancy": {
+    "hash": "e6ebd93d97952bc969a1c610d5d6caf3badcb12624ef0ce13f6d6d68e34de759",
+    "slug": "aie-2026-10-13-gpu-timing-side-channel-shared-tenancy",
+    "synced_at": "2026-10-13T02:50:32.288173+00:00"
+  },
+  "phase4:aie-2026-10-13-just-in-time-ontology-burrito-surfing": {
+    "hash": "8b189855d968a8bf06be11ec57288bcf5225faa80bcb39eaa7104e94b24d1988",
+    "slug": "aie-2026-10-13-just-in-time-ontology-burrito-surfing",
+    "synced_at": "2026-10-13T02:50:32.287533+00:00"
+  },
+  "phase4:aie-2026-10-13-kv-cache-inference-optimization": {
+    "hash": "590150cd5f9fa43b844060e6e76069590c59a7dcf5048638c9c081340dc73ff6",
+    "slug": "aie-2026-10-13-kv-cache-inference-optimization",
+    "synced_at": "2026-10-13T02:50:32.290692+00:00"
+  },
+  "phase4:aie-2026-10-13-orbit-golden-dataset-eval-loop": {
+    "hash": "78510aec4ee1c5743411c1167a977678e02d0b0940c30c9e4be4755bfc270714",
+    "slug": "aie-2026-10-13-orbit-golden-dataset-eval-loop",
+    "synced_at": "2026-10-13T02:50:32.286910+00:00"
+  },
+  "phase4:aie-2026-10-13-orbit-yaml-workflow-deterministic": {
+    "hash": "ee75a213482bbe7469ef80867c43e2f5ffe6180e19406b4351e8c64e901ff7cf",
+    "slug": "aie-2026-10-13-orbit-yaml-workflow-deterministic",
+    "synced_at": "2026-10-13T02:50:32.286557+00:00"
+  },
+  "phase4:aie-2026-10-13-polished-internal-tools-agent-skills": {
+    "hash": "f3890216f8e4fb8bd7a2d56ff306e5fb6329e441c5659572b9a34bed993a0aaa",
+    "slug": "aie-2026-10-13-polished-internal-tools-agent-skills",
+    "synced_at": "2026-10-13T02:50:32.287856+00:00"
+  },
+  "phase4:aie-2026-10-13-sts-token-exchange-agent-access-control": {
+    "hash": "3d15f2cfeffd6fc2dadef805a9f7e810102c8e37847fd0c16c1ff0ce0f650546",
+    "slug": "aie-2026-10-13-sts-token-exchange-agent-access-control",
+    "synced_at": "2026-10-13T02:50:32.288490+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -3818,6 +3888,16 @@
     "hash": "1a8da5fc45f032009d34a65e5606c6dda0d34329e5105b155881d902c0997353",
     "slug": "mlops-2026-10-09-agent-npcs-mmo",
     "synced_at": "2026-10-09T01:45:00.866622+00:00"
+  },
+  "phase4:mlops-2026-10-13-benchmark-agent-policy-compliance": {
+    "hash": "63ac4f069799930d50fa405add616ff1bc51b1c3238b9f4e0b3c69dcebd9a025",
+    "slug": "mlops-2026-10-13-benchmark-agent-policy-compliance",
+    "synced_at": "2026-10-13T02:50:32.285875+00:00"
+  },
+  "phase4:mlops-2026-10-13-domain-expert-sop-task-generation": {
+    "hash": "4d36e6a1c45d3727175f68ece5ba09af54875387afa7cee72d15172d3bfb16b3",
+    "slug": "mlops-2026-10-13-domain-expert-sop-task-generation",
+    "synced_at": "2026-10-13T02:50:32.286231+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",

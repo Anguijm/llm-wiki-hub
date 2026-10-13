@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1091 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1107 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 789 |
+| `backlog` | 805 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 861 |
+| `(none)` | 877 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,10 +32,10 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 530 |
+| @aie | 544 |
 | @nh | 161 |
 | @nb | 155 |
-| @mlops | 69 |
+| @mlops | 71 |
 | @do | 62 |
 | @mk | 47 |
 | @eh | 24 |
@@ -53,6 +53,22 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-10-13 | [[experiments/mlops-2026-10-13-domain-expert-sop-task-generation|Generate eval tasks from domain-expert SOPs rather than synthetic prompts]] | @mlops | `-` |
+| 2026-10-13 | [[experiments/mlops-2026-10-13-benchmark-agent-policy-compliance|Benchmark agent compliance with non-gated MEMORY.md / CLAUDE.md instructions]] | @mlops | `-` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-sts-token-exchange-agent-access-control|Replace static API keys with a Security Token Service issuing task-scoped ephemeral credentials]] | @aie | `-` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-polished-internal-tools-agent-skills|Package UX opinions as agent skills so every new feature inherits consistent polish]] | @aie | `-` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-orbit-yaml-workflow-deterministic|Define agent workflows as YAML files with deterministic steps and LLM-only-where-needed policy]] | @aie | `-` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-orbit-golden-dataset-eval-loop|Build a golden dataset from real production traces and run it before each prompt/model change]] | @aie | `-` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-kv-cache-inference-optimization|Profile and reduce KV cache memory pressure in long-context agent runs by tuning batching strategy]] | @aie | `-` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-just-in-time-ontology-burrito-surfing|Replace pre-built schemas with just-in-time ontologies generated at decision time by cheap models]] | @aie | `-` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-gpu-timing-side-channel-shared-tenancy|Audit shared-GPU deployments for timing side-channel leakage of model identity and workload type]] | @aie | `-` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-domain-expert-written-agent-skills|Have domain experts author agent skills via narrated walkthroughs rather than engineering spec]] | @aie | `-` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-deterministic-flow-llm-boundary-finance|Draw an explicit determinism boundary: state-machine controls flow/side-effects, LLM only interprets]] | @aie | `-` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-cma-multi-agent-map-reduce-sec|Implement a map-reduce agent pattern where a coordinator dispatches sub-agents per entity and aggregates results]] | @aie | `-` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-cma-dreaming-memory-self-improvement|Run a 'dreaming' pass over recent session transcripts to update memory stores and improve skill instructions]] | @aie | `-` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-claude-managed-agents-decoupled-harness|Decouple session log and harness from the sandbox container to make agents cattle not pets]] | @aie | `-` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-auth-md-agent-signup|Implement auth.md (OMD) so agents can autonomously register for and access external services]] | @aie | `-` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-agent-email-identity-persistent-inbox|Give agents a persistent email identity for two-way async communication with external services]] | @aie | `-` |
 | 2026-10-12 | [[experiments/nh-2026-10-12-claude-github-repos-workflow|Integrate Playwright CLI and Claude Security into the YOLO Loop Quality Gate]] | @nh | `-` |
 | 2026-10-12 | [[experiments/nb-2026-10-12-taste-agency-focus-resourcefulness-followthrou|Apply the Five-Skill Framework to Audit Backlog Projects]] | @nb | `-` |
 | 2026-10-10 | [[experiments/nh-2026-10-10-grokbot-native-x-search-migration|Migrate Grokbot X-search routines from paid API to built-in free X access]] | @nh | `-` |
