@@ -1,0 +1,25 @@
+# GitHub Pages build for the wiki. Rendered by .github/workflows/pages.yml;
+# [[wiki-links]] are resolved by mkdocs-roamlinks-plugin.
+site_name: LLM Wiki Hub
+site_url: https://anguijm.github.io/llm-wiki-hub/
+repo_url: https://github.com/Anguijm/llm-wiki-hub
+edit_uri: edit/main/wiki/
+docs_dir: wiki
+theme:
+  name: material
+  features:
+    - navigation.top
+    - search.suggest
+nav:
+  - Home: index.md
+  - Experiments: experiments-index.md
+  - Articles: articles-index.md
+  - Videos: videos-index.md
+  - Project overview: project-overview.md
+  - Architecture: architecture.md
+  - Automation: automation.md
+  - yolo-phase4 integration: yolo-phase4-integration.md
+  - Brain garden: https://anguijm.github.io/brain-garden/
+plugins:
+  - search
+  - roamlinks

@@ -1,0 +1,50 @@
+name: Publish wiki to GitHub Pages
+
+# Builds wiki/ with MkDocs (mkdocs.yml at the repo root) and deploys it to
+# https://anguijm.github.io/llm-wiki-hub/. Runs on every push to main, after
+# the nightly sync and scan workflows (their bot commits do not fire `push`),
+# and on demand.
+
+on:
+  push:
+    branches: [main]
+  workflow_run:
+    workflows:
+      - "Sync yolo-phase4 experiments"
+      - "Scan Tracked YouTube Channels"
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install mkdocs==1.6.1 mkdocs-material==9.7.7 mkdocs-roamlinks-plugin==0.3.2
+      - run: mkdocs build --site-dir _site
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
