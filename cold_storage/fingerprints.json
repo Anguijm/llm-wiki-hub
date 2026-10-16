@@ -29,6 +29,11 @@
     "fetched_at": "2026-06-27T22:15:56.162103+00:00",
     "video_id": "nQwJVHCtDDY"
   },
+  "phase4:aez-2026-10-15-ue5-inventory-item-actions": {
+    "hash": "04c708931dc3a1dd14fa7100fe658bc12b150a36eb6b5de791ba3db9140dde97",
+    "slug": "aez-2026-10-15-ue5-inventory-item-actions",
+    "synced_at": "2026-10-16T00:05:13.887025+00:00"
+  },
   "phase4:aie-2026-05-09-agent-observability-raindrop": {
     "hash": "548c377f80ec106751cf67883b46089daedcd4618ee97e84a703d86ad2a15662",
     "slug": "aie-2026-05-09-agent-observability-raindrop",
@@ -2749,6 +2754,86 @@
     "slug": "aie-2026-10-13-sts-token-exchange-agent-access-control",
     "synced_at": "2026-10-13T02:50:32.288490+00:00"
   },
+  "phase4:aie-2026-10-15-accessibility-skill-reduces-agent-cost": {
+    "hash": "1cd7edd6eb6e95faf2e90de37542250ae981f708e054915c13539e82233ca701",
+    "slug": "aie-2026-10-15-accessibility-skill-reduces-agent-cost",
+    "synced_at": "2026-10-16T00:05:13.881187+00:00"
+  },
+  "phase4:aie-2026-10-15-agent-infrastructure-controls-lethal-trifecta": {
+    "hash": "01401ce2446a3c00c36d96e155de1eb3910c8c69ef022209c5d5879c8e39a90e",
+    "slug": "aie-2026-10-15-agent-infrastructure-controls-lethal-trifecta",
+    "synced_at": "2026-10-16T00:05:13.880773+00:00"
+  },
+  "phase4:aie-2026-10-15-agent-trust-autonomy-scorecard": {
+    "hash": "4882ac7746d72dea149eee5f9ee90ab83c765acf93e7e580ca46beb0eb8fa69a",
+    "slug": "aie-2026-10-15-agent-trust-autonomy-scorecard",
+    "synced_at": "2026-10-16T00:05:13.882294+00:00"
+  },
+  "phase4:aie-2026-10-15-ai-automation-due-diligence-checks": {
+    "hash": "f2f6c1240125f92ff285da18fcdd1735b4a7ce94d42f56896b325177a93a9a5f",
+    "slug": "aie-2026-10-15-ai-automation-due-diligence-checks",
+    "synced_at": "2026-10-16T00:05:13.881836+00:00"
+  },
+  "phase4:aie-2026-10-15-ai-engineer-nyc-day3": {
+    "hash": "91ff9f526a9c77b9aa6442eef72ca04eb434776376790c065d2758ef38329047",
+    "slug": "aie-2026-10-15-ai-engineer-nyc-day3",
+    "synced_at": "2026-10-16T00:05:13.883975+00:00"
+  },
+  "phase4:aie-2026-10-15-bank-ai-discovery-week-one": {
+    "hash": "6947444ca26cd31f1e8f785ca5a1110a06fd7ddd5d0c6d33f768619861e36749",
+    "slug": "aie-2026-10-15-bank-ai-discovery-week-one",
+    "synced_at": "2026-10-16T00:05:13.882503+00:00"
+  },
+  "phase4:aie-2026-10-15-bridgewater-vault-unstructured-data": {
+    "hash": "f54c33bcf1d9b310faaf9aed53c507dccf6323a1b01f1974225a5f81940f72f9",
+    "slug": "aie-2026-10-15-bridgewater-vault-unstructured-data",
+    "synced_at": "2026-10-16T00:05:13.884377+00:00"
+  },
+  "phase4:aie-2026-10-15-ceiling-test-for-prompt-optimization": {
+    "hash": "d55fb0f30167b17316c2193ed0ff63234453aa7360ad3fbe416080915fdf344b",
+    "slug": "aie-2026-10-15-ceiling-test-for-prompt-optimization",
+    "synced_at": "2026-10-16T00:05:13.880322+00:00"
+  },
+  "phase4:aie-2026-10-15-cost-per-merged-pr-as-ai-spend-metric": {
+    "hash": "3076509297329aaec0c49e64a2f7da07e1394b276321edc1dfeebe800aedd8f6",
+    "slug": "aie-2026-10-15-cost-per-merged-pr-as-ai-spend-metric",
+    "synced_at": "2026-10-16T00:05:13.882041+00:00"
+  },
+  "phase4:aie-2026-10-15-gnn-graph-fraud-detection": {
+    "hash": "eb37dc1259ecf099f7c946a41176beef18116504bb7d4be70a2e5bc484050fa2",
+    "slug": "aie-2026-10-15-gnn-graph-fraud-detection",
+    "synced_at": "2026-10-16T00:05:13.882940+00:00"
+  },
+  "phase4:aie-2026-10-15-mcp-gateway-with-pii-blocking-and-context-optimizer": {
+    "hash": "0ddac768f0816c9b03ae5c28620f11b454c11fb8c40fe2943d44279fb9d7149f",
+    "slug": "aie-2026-10-15-mcp-gateway-with-pii-blocking-and-context-opt",
+    "synced_at": "2026-10-16T00:05:13.880552+00:00"
+  },
+  "phase4:aie-2026-10-15-median-novelty-above-median": {
+    "hash": "e7dbcecbadb2379bbee3a780e3e7d82643f8af3b3034368fd22255d93c10063e",
+    "slug": "aie-2026-10-15-median-novelty-above-median",
+    "synced_at": "2026-10-16T00:05:13.884176+00:00"
+  },
+  "phase4:aie-2026-10-15-parallel-merge-queue-for-ai-commit-volume": {
+    "hash": "d60008d00c464d5064c0b1adde310ec123724b0c0fd384bf60d29d52f1f72e77",
+    "slug": "aie-2026-10-15-parallel-merge-queue-for-ai-commit-volume",
+    "synced_at": "2026-10-16T00:05:13.880975+00:00"
+  },
+  "phase4:aie-2026-10-15-rag-agentic-retrieval-zoom-levels": {
+    "hash": "f226e53ba208899eaea82570cb56a3878a2b884b4c49298eaea551100344ff51",
+    "slug": "aie-2026-10-15-rag-agentic-retrieval-zoom-levels",
+    "synced_at": "2026-10-16T00:05:13.881629+00:00"
+  },
+  "phase4:aie-2026-10-15-rag-table-csv-chunking": {
+    "hash": "7978e38e08be139cda58d754f0556a23920ff3b4c578cff64a40373a366d4df5",
+    "slug": "aie-2026-10-15-rag-table-csv-chunking",
+    "synced_at": "2026-10-16T00:05:13.881397+00:00"
+  },
+  "phase4:aie-2026-10-15-spatial-graph-building-memory": {
+    "hash": "9dd80b4d9511bc2d32cad8db56df008332ad357a55822f84ffa588e824c5f969",
+    "slug": "aie-2026-10-15-spatial-graph-building-memory",
+    "synced_at": "2026-10-16T00:05:13.882735+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2858,6 +2943,31 @@
     "hash": "860366284aba42dbd938dc7fa09dd9fdf948dacb6a7312b8dba2af3219377913",
     "slug": "aij-2026-09-23-gpt6-hyperframe-expert-videos",
     "synced_at": "2026-09-24T00:14:50.528551+00:00"
+  },
+  "phase4:ail-2026-10-15-rea-five-use-cases": {
+    "hash": "5644819c21db256efcd201618b4f109da0d62ae9d66c742159c4c525148d6c6f",
+    "slug": "ail-2026-10-15-rea-five-use-cases",
+    "synced_at": "2026-10-16T00:05:13.885229+00:00"
+  },
+  "phase4:ail-2026-10-15-stitch-cli-scrollytelling-workflow": {
+    "hash": "0f54a066cff5f874263ef19f72d944c2a3f3d0c04b43b28d309daea7a95a759e",
+    "slug": "ail-2026-10-15-stitch-cli-scrollytelling-workflow",
+    "synced_at": "2026-10-16T00:05:13.885437+00:00"
+  },
+  "phase4:az-2026-10-15-kv-cache-agents-lmcache": {
+    "hash": "fb82757f9104e5e9768e288d78b2bf4f8622cabdd8bf60921523cf30f444c913",
+    "slug": "az-2026-10-15-kv-cache-agents-lmcache",
+    "synced_at": "2026-10-16T00:05:13.886752+00:00"
+  },
+  "phase4:cm-2026-10-15-ai-content-engine-signal-filter": {
+    "hash": "8ae04effd52e6a473f1f59f52a8b4226ca5c2746e043e522c6be601fb9934314",
+    "slug": "cm-2026-10-15-ai-content-engine-signal-filter",
+    "synced_at": "2026-10-16T00:05:13.884819+00:00"
+  },
+  "phase4:cm-2026-10-15-intent-engineering-harness-design": {
+    "hash": "96c288f699d0176899aee8493df0dd744991424de993ff328e663a92a0da20e1",
+    "slug": "cm-2026-10-15-intent-engineering-harness-design",
+    "synced_at": "2026-10-16T00:05:13.885024+00:00"
   },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "0527033834fe3f49b58f4d9e2c508620ed78f8ba268bccaba81263b6ef3c4afa",
@@ -3174,6 +3284,16 @@
     "slug": "do-2026-10-03-model-selection-taste-benchmark",
     "synced_at": "2026-10-03T00:56:49.700360+00:00"
   },
+  "phase4:do-2026-10-15-agent-feedback-tool-to-founder": {
+    "hash": "17031e12bf4142402a84cb232cb3e20af636ae35f451b58126781c14eb2439cf",
+    "slug": "do-2026-10-15-agent-feedback-tool-to-founder",
+    "synced_at": "2026-10-16T00:05:13.878775+00:00"
+  },
+  "phase4:do-2026-10-15-isolated-sandbox-per-agent": {
+    "hash": "37680b2c0f8cab7ab7c95d8f293321c0505121cf8924a75930898dd80951f72c",
+    "slug": "do-2026-10-15-isolated-sandbox-per-agent",
+    "synced_at": "2026-10-16T00:05:13.878567+00:00"
+  },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
     "slug": "eh-2026-06-13-interactive-geometry-watercolor-visualizer",
@@ -3294,6 +3414,21 @@
     "slug": "eh-2026-10-10-gpt6-intelligent-ui-interactive-answers",
     "synced_at": "2026-10-10T01:31:24.565171+00:00"
   },
+  "phase4:eh-2026-10-15-altitude-goal-behind-the-goal": {
+    "hash": "3d5405fbf6ffe7d4e7eb73ba08a12a9b5cb7aa92614b2910656cfa8ee56af9fe",
+    "slug": "eh-2026-10-15-altitude-goal-behind-the-goal",
+    "synced_at": "2026-10-16T00:05:13.879455+00:00"
+  },
+  "phase4:eh-2026-10-15-external-judge-for-model-output": {
+    "hash": "ba9af53f2d88a4799c250ab844c62ad13fbd4f8f04634a569c15db28fa9c6da5",
+    "slug": "eh-2026-10-15-external-judge-for-model-output",
+    "synced_at": "2026-10-16T00:05:13.879689+00:00"
+  },
+  "phase4:eh-2026-10-15-five-habits-for-ai-collaboration": {
+    "hash": "3a3ebc1221f429beccdd57ca47e5497b9e89341f0ee3f6be84d41c1dc9feb705",
+    "slug": "eh-2026-10-15-five-habits-for-ai-collaboration",
+    "synced_at": "2026-10-16T00:05:13.879904+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -3303,6 +3438,36 @@
     "hash": "8eca346dda753285c1f83f60044fcbbf8c189a474532103e6a020fed777ff390",
     "slug": "fs-2026-04-02-pretext-text-measurement",
     "synced_at": "2026-06-11T23:21:26.847922+00:00"
+  },
+  "phase4:idd-2026-10-15-pi-durable-proactive-agents": {
+    "hash": "9138ba162fb111919aa4e9e99eb9e68e05942c53c6c7784f41a6373b4ad8d2a9",
+    "slug": "idd-2026-10-15-pi-durable-proactive-agents",
+    "synced_at": "2026-10-16T00:05:13.884605+00:00"
+  },
+  "phase4:lc-2026-10-15-stripe-kai-deep-agents": {
+    "hash": "08aa509da0bc76be0f9f85884f57ee3bd4676702db9d56ef76da7837d65bf57b",
+    "slug": "lc-2026-10-15-stripe-kai-deep-agents",
+    "synced_at": "2026-10-16T00:05:13.886311+00:00"
+  },
+  "phase4:lc-2026-10-15-vanta-langsmith-compliance": {
+    "hash": "705779d921fd5532bc5fe4c5ed302e1450dd71c50c7dd4714f2cbcffcc1f55e7",
+    "slug": "lc-2026-10-15-vanta-langsmith-compliance",
+    "synced_at": "2026-10-16T00:05:13.886105+00:00"
+  },
+  "phase4:lc-2026-10-15-what-is-deep-agents": {
+    "hash": "d1b33fab14199178414e9ba56a0ddc9774b5442c5279f262a5f5b00c4a955186",
+    "slug": "lc-2026-10-15-what-is-deep-agents",
+    "synced_at": "2026-10-16T00:05:13.886530+00:00"
+  },
+  "phase4:ls-2026-10-15-kill-saas-with-agents": {
+    "hash": "85e1502c6f8bb153bbc8b7f42b83c36e4033ba0ad69cbeb9328d0cae439861b5",
+    "slug": "ls-2026-10-15-kill-saas-with-agents",
+    "synced_at": "2026-10-16T00:05:13.885905+00:00"
+  },
+  "phase4:ls-2026-10-15-leash-bio-dell-ml-pipeline": {
+    "hash": "11dc2763a6d23e5789f3a1141a1feabe0af1b3465d9b50cd8881ef5742cebcbc",
+    "slug": "ls-2026-10-15-leash-bio-dell-ml-pipeline",
+    "synced_at": "2026-10-16T00:05:13.885661+00:00"
   },
   "phase4:mk-2026-04-16-replace-openclaw-hermes-claude-code": {
     "hash": "e68a56d4494f545c78cb9de703346b0f91f4f971647a67c4ea64b76f6e6ef7a9",
@@ -3538,6 +3703,11 @@
     "hash": "8bdf91626b4e7e58e45538ef5bf2e788a41c3b034c204df668b42ef50ec34f51",
     "slug": "mk-2026-10-08-decisions-api-vs-jev-classifier",
     "synced_at": "2026-10-08T01:34:21.647595+00:00"
+  },
+  "phase4:mk-2026-10-15-uncensored-model-with-rea-for-app-cloning": {
+    "hash": "2928bb054e98c2fb68ecd215a726af00366f0d6409da429384a60c390487bb40",
+    "slug": "mk-2026-10-15-uncensored-model-with-rea-for-app-cloning",
+    "synced_at": "2026-10-16T00:05:13.880111+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
@@ -3898,6 +4068,21 @@
     "hash": "4d36e6a1c45d3727175f68ece5ba09af54875387afa7cee72d15172d3bfb16b3",
     "slug": "mlops-2026-10-13-domain-expert-sop-task-generation",
     "synced_at": "2026-10-13T02:50:32.286231+00:00"
+  },
+  "phase4:mlops-2026-10-15-domain-expert-agent-authoring": {
+    "hash": "40626d66e3ac8f263699831f8f8b3e953ed47436e8bc233102510a076de3f59d",
+    "slug": "mlops-2026-10-15-domain-expert-agent-authoring",
+    "synced_at": "2026-10-16T00:05:13.878331+00:00"
+  },
+  "phase4:mlops-2026-10-15-domain-specific-agent-standards": {
+    "hash": "b099af0c60f425e3823b950696347c186cbc9f1e74fa335cabf6f73177d14b24",
+    "slug": "mlops-2026-10-15-domain-specific-agent-standards",
+    "synced_at": "2026-10-16T00:05:13.878069+00:00"
+  },
+  "phase4:mlops-2026-10-15-webmcp-agent-safe-actions": {
+    "hash": "a160e2fc88a7e83b9e3bc492d603cf372cc049a8961df175e623fbda913da057",
+    "slug": "mlops-2026-10-15-webmcp-agent-safe-actions",
+    "synced_at": "2026-10-16T00:05:13.883565+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",
@@ -4678,6 +4863,16 @@
     "hash": "fdcacf5c005c021d9210e668882f47a76627b251d715b92146902c8f51d777af",
     "slug": "nb-2026-10-12-taste-agency-focus-resourcefulness-followthrou",
     "synced_at": "2026-10-12T01:01:01.228836+00:00"
+  },
+  "phase4:nb-2026-10-15-narrow-superintelligence-skill-framing": {
+    "hash": "7b84f4f28af4c9cf480955b03fd6b1b77d1e0f601561362daf4507c41806c1b4",
+    "slug": "nb-2026-10-15-narrow-superintelligence-skill-framing",
+    "synced_at": "2026-10-16T00:05:13.883341+00:00"
+  },
+  "phase4:nb-2026-10-15-rea-xray-vision-workflow": {
+    "hash": "f7c1e942e7dda8df7eec07b1fccf49d791a3442ffd6fc083a50de682a1439f3f",
+    "slug": "nb-2026-10-15-rea-xray-vision-workflow",
+    "synced_at": "2026-10-16T00:05:13.883141+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
@@ -5493,6 +5688,31 @@
     "hash": "0cd3b05844903425b6dd9ee5092faf5112334dafc361e08023a7142a9ace7e6c",
     "slug": "nh-2026-10-12-claude-github-repos-workflow",
     "synced_at": "2026-10-12T01:01:01.229216+00:00"
+  },
+  "phase4:nh-2026-10-15-multiplayer-ai-kylon": {
+    "hash": "27aaea6e410232ad021b7ba11382c303f4e9beddc028d217848cffcb1274eb99",
+    "slug": "nh-2026-10-15-multiplayer-ai-kylon",
+    "synced_at": "2026-10-16T00:05:13.883772+00:00"
+  },
+  "phase4:nh-2026-10-15-reverse-engineer-existing-app-as-prd": {
+    "hash": "fdd83f2cf496588a003a9d176312c413df9c34064f52d89dfb7e182f15ce54b0",
+    "slug": "nh-2026-10-15-reverse-engineer-existing-app-as-prd",
+    "synced_at": "2026-10-16T00:05:13.878990+00:00"
+  },
+  "phase4:nh-2026-10-15-roast-room-multi-persona-decision-council": {
+    "hash": "637550bf15fd8ca7209935a56ad25ed48597c572fc514ba8ace12127a6fa274e",
+    "slug": "nh-2026-10-15-roast-room-multi-persona-decision-council",
+    "synced_at": "2026-10-16T00:05:13.879201+00:00"
+  },
+  "phase4:pa-2026-10-15-ai-image-to-3d-print-local": {
+    "hash": "b8a224d1721998ceaa4e1ab0905354a080d47aef4ccddf4599e882e8eec22cf0",
+    "slug": "pa-2026-10-15-ai-image-to-3d-print-local",
+    "synced_at": "2026-10-16T00:05:13.887447+00:00"
+  },
+  "phase4:pl-2026-10-15-ai-code-review-strategy": {
+    "hash": "8fbabc1f7afdaf935b30adfdf5912f144f3b6059805070cb7f876b28f009996b",
+    "slug": "pl-2026-10-15-ai-code-review-strategy",
+    "synced_at": "2026-10-16T00:05:13.887239+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",

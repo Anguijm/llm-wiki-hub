@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1107 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1151 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 805 |
+| `backlog` | 849 |
 | `discarded` | 92 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 877 |
+| `(none)` | 921 |
 | `adopt` | 128 |
 | `discard` | 102 |
 
@@ -32,18 +32,27 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 544 |
-| @nh | 161 |
-| @nb | 155 |
-| @mlops | 71 |
-| @do | 62 |
-| @mk | 47 |
-| @eh | 24 |
+| @aie | 560 |
+| @nh | 164 |
+| @nb | 157 |
+| @mlops | 74 |
+| @do | 64 |
+| @mk | 48 |
+| @eh | 27 |
 | @aij | 21 |
 | @st | 14 |
 | @up | 5 |
+| @lc | 3 |
 | @fs | 2 |
+| @cm | 2 |
+| @ail | 2 |
+| @ls | 2 |
 | @tmp | 1 |
+| @idd | 1 |
+| @az | 1 |
+| @aez | 1 |
+| @pl | 1 |
+| @pa | 1 |
 
 ---
 
@@ -53,6 +62,50 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-10-15 | [[experiments/pl-2026-10-15-ai-code-review-strategy|Replace line-by-line AI PR review with a verification-infrastructure-first review strategy]] | @pl | `-` |
+| 2026-10-15 | [[experiments/pa-2026-10-15-ai-image-to-3d-print-local|Run a fully local ComfyUI pipeline from text prompt through Trellis 2 to watertight 3D print STL]] | @pa | `-` |
+| 2026-10-15 | [[experiments/nh-2026-10-15-roast-room-multi-persona-decision-council|Build a multi-persona debate council skill (Roast Room) for high-stakes decisions]] | @nh | `-` |
+| 2026-10-15 | [[experiments/nh-2026-10-15-reverse-engineer-existing-app-as-prd|Use an existing app or artifact as a living PRD instead of writing one from scratch]] | @nh | `-` |
+| 2026-10-15 | [[experiments/nh-2026-10-15-multiplayer-ai-kylon|Pilot Kylon as a shared team workspace where human members and Claude Code subscriptions collaborate on the same agent channel]] | @nh | `-` |
+| 2026-10-15 | [[experiments/nb-2026-10-15-rea-xray-vision-workflow|Use REA (Reverse Engineer Anything) MCP to audit and inform Claude Code harness design]] | @nb | `-` |
+| 2026-10-15 | [[experiments/nb-2026-10-15-narrow-superintelligence-skill-framing|Apply the 'narrow superintelligence' lens to decide where to keep vs. remove human judgment in agent workflows]] | @nb | `-` |
+| 2026-10-15 | [[experiments/mlops-2026-10-15-webmcp-agent-safe-actions|Add WebMCP annotations (read-only, user-generated-content, consequential hints) to web app surfaces before wiring agent automation]] | @mlops | `-` |
+| 2026-10-15 | [[experiments/mlops-2026-10-15-domain-specific-agent-standards|Pin agent efficacy metadata (model + prompt + provider) as a deployable spec]] | @mlops | `-` |
+| 2026-10-15 | [[experiments/mlops-2026-10-15-domain-expert-agent-authoring|Let domain experts author their own narrow agents via a no-code harness scaffold]] | @mlops | `-` |
+| 2026-10-15 | [[experiments/mk-2026-10-15-uncensored-model-with-rea-for-app-cloning|Substitute an uncensored model in the REA harness to reduce guardrail friction on app decompilation tasks]] | @mk | `-` |
+| 2026-10-15 | [[experiments/ls-2026-10-15-leash-bio-dell-ml-pipeline|Apply Leash Bio's 'train on exhaust, get sociology not physics' warning to audit any ML training pipeline for label leakage from human behavior patterns]] | @ls | `-` |
+| 2026-10-15 | [[experiments/ls-2026-10-15-kill-saas-with-agents|Run a structured 'Kill My SaaS' challenge to replace a mid-tier SaaS with an agent-built custom tool]] | @ls | `-` |
+| 2026-10-15 | [[experiments/lc-2026-10-15-what-is-deep-agents|Adopt a swappable-backend agent harness to run the same agent locally, in sandbox, or in cloud without code changes]] | @lc | `-` |
+| 2026-10-15 | [[experiments/lc-2026-10-15-vanta-langsmith-compliance|Use LangSmith's Align Evaluators and full-text trace search to accelerate agent quality assessment]] | @lc | `-` |
+| 2026-10-15 | [[experiments/lc-2026-10-15-stripe-kai-deep-agents|Structure agent skills so each skill declares its own allowed tool subset to avoid context overflow at scale]] | @lc | `-` |
+| 2026-10-15 | [[experiments/idd-2026-10-15-pi-durable-proactive-agents|Build a proactive Pi durable agent triggered by a Jev classifier on a live event stream to handle on-call incident response without human initiation]] | @idd | `-` |
+| 2026-10-15 | [[experiments/eh-2026-10-15-five-habits-for-ai-collaboration|Encode five interaction habits into a team AI usage protocol and test against default prompting]] | @eh | `-` |
+| 2026-10-15 | [[experiments/eh-2026-10-15-external-judge-for-model-output|Route agent output through an independent external judge before accepting it]] | @eh | `-` |
+| 2026-10-15 | [[experiments/eh-2026-10-15-altitude-goal-behind-the-goal|Prompt Claude with the outcome goal rather than the task, backed by groundwork infrastructure]] | @eh | `-` |
+| 2026-10-15 | [[experiments/do-2026-10-15-isolated-sandbox-per-agent|Run each coding agent in its own isolated cloud VM rather than a shared environment]] | @do | `-` |
+| 2026-10-15 | [[experiments/do-2026-10-15-agent-feedback-tool-to-founder|Give agents a built-in feedback tool that routes user-observed issues directly to a dev triage queue]] | @do | `-` |
+| 2026-10-15 | [[experiments/cm-2026-10-15-intent-engineering-harness-design|Audit current Claude Code workflow for 'meat proxy' failure modes and add explicit intent-engineering harness steps at planning and validation boundaries]] | @cm | `-` |
+| 2026-10-15 | [[experiments/cm-2026-10-15-ai-content-engine-signal-filter|Build a personal AI signal engine using the 'Build Signal Engine' skill to generate a daily filtered digest from hundreds of sources]] | @cm | `-` |
+| 2026-10-15 | [[experiments/az-2026-10-15-kv-cache-agents-lmcache|Enable LM Cache (external KV cache server) for multi-agent vLLM workloads that exceed GPU memory]] | @az | `-` |
+| 2026-10-15 | [[experiments/ail-2026-10-15-stitch-cli-scrollytelling-workflow|Wire Google Stitch CLI into a Claude Code skill workflow alongside a domain-specific skill (e.g., scrollytelling) to produce fully designed and animated web pages without leaving the terminal]] | @ail | `-` |
+| 2026-10-15 | [[experiments/ail-2026-10-15-rea-five-use-cases|Run REA security audit on a vibe-coded app before multi-user launch to find exposed keys and client-side data leaks]] | @ail | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-spatial-graph-building-memory|Store multi-temporal spatial scans as a graph to enable change-detection queries over physical environments]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-rag-table-csv-chunking|Convert PDF tables to CSV chunks with preserved row/column context for RAG]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-rag-agentic-retrieval-zoom-levels|Give a RAG agent multiple zoom levels (chunk → section → full document) via metadata-driven tool calls]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-parallel-merge-queue-for-ai-commit-volume|Replace serialized CI merge queues with speculative parallel combination testing for agent-generated PRs]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-median-novelty-above-median|Apply the 'novelty forcing questions' framework before starting any new agent-built feature to screen for above-median differentiation]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-mcp-gateway-with-pii-blocking-and-context-opt|Add a centralized MCP gateway with PII blocking and context optimizer to reduce token cost 70-90%]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-gnn-graph-fraud-detection|Feed GNN neighborhood embeddings into an existing gradient-boosted model rather than replacing it]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-cost-per-merged-pr-as-ai-spend-metric|Track cost-per-merged-PR (salary + AI spend) as the primary AI investment metric instead of token bill]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-ceiling-test-for-prompt-optimization|Run a ceiling test (AA test on prod model) before evaluating any prompt optimization candidate]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-bridgewater-vault-unstructured-data|Design a 'Vault' pattern for the Markdown knowledge vault — separate human agent needs from automated agent needs at the data layer]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-bank-ai-discovery-week-one|Run a week-one discovery checklist to surface deployment blockers before building in regulated environments]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-ai-engineer-nyc-day3|Apply Ramp's 'bitter lesson' unit-economics tracking to agent workflow cost management]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-ai-automation-due-diligence-checks|Apply a three-check diligence card to any AI automation claim before trusting the metric]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-agent-trust-autonomy-scorecard|Gate agent autonomy expansion with a four-stage scorecard tied to pre-defined value and control metrics]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-agent-infrastructure-controls-lethal-trifecta|Audit agent permissions against the lethal trifecta (private data + untrusted content + external comms) and add sandboxing and a model proxy layer]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-accessibility-skill-reduces-agent-cost|Add a mandatory accessibility skill to UI-generating agents]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aez-2026-10-15-ue5-inventory-item-actions|Implement a gameplay-tag-driven item action system in UE5 so inventory interactions are context-aware and data-driven]] | @aez | `-` |
 | 2026-10-13 | [[experiments/mlops-2026-10-13-domain-expert-sop-task-generation|Generate eval tasks from domain-expert SOPs rather than synthetic prompts]] | @mlops | `-` |
 | 2026-10-13 | [[experiments/mlops-2026-10-13-benchmark-agent-policy-compliance|Benchmark agent compliance with non-gated MEMORY.md / CLAUDE.md instructions]] | @mlops | `-` |
 | 2026-10-13 | [[experiments/aie-2026-10-13-sts-token-exchange-agent-access-control|Replace static API keys with a Security Token Service issuing task-scoped ephemeral credentials]] | @aie | `-` |
