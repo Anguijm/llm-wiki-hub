@@ -4,7 +4,7 @@
 
 Source: **[SimulationMaxxing: How Nubank ships agents 20× faster with simulations — Shreya Rajpal, Snowglobe](https://www.youtube.com/watch?v=KMR_RBoCa4M)** · aie · 2026-07-29
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Nubank and Snowglobe built a simulation framework where synthetic multi-turn cus
 
 The YOLO loop could adopt simulation-first eval for agent prompt or tool changes, generating synthetic coding task trajectories to validate harness changes before testing on real workloads.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: Push to Talk already has Piper-made test WAVs and cleanup_cases.json with a scorer (push-to-talk.md), which is the simulation-first loop at his scale.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-29 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

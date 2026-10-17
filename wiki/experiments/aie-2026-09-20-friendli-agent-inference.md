@@ -4,7 +4,7 @@
 
 Source: **[The Frontier AI Inference Cloud for Agents — Byung-Gon (Gon) Chun, FriendliAI](https://www.youtube.com/watch?v=Hvb2LfMH58c)** · aie · 2026-09-20
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Gon Chun described FriendliAI's inference cloud architecture designed specifical
 
 The YOLO loop is an agentic system making many sequential LLM calls; an inference backend tuned for this pattern could reduce per-step latency and overall wall-clock time.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: FriendliAI's own inference cloud.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-20 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

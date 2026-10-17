@@ -4,7 +4,7 @@
 
 Source: **[Codex vs Fable: Which AI Agent Picked the Better Problem?](https://www.youtube.com/watch?v=uCWKXIyvM_8)** · nb · 2026-07-17
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly applicable as a loop-initialization step: before writing any code or pr
 
 Key prompt design constraint from transcript: explicitly remind the agent not to think small and to build completely through to security and auth if needed. Codex Ultra burns significantly more tokens—budget accordingly. Nate ended up preferring Fable's problem framing but Codex's daily-driver ergonomics; the recommended pattern is parallel runs then cherry-pick.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the project audit (project-audit-2026-10.md) already has 63 cards and a kill list, and his durable-rules ruling means an agent-nominated change still waits for him.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-17 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

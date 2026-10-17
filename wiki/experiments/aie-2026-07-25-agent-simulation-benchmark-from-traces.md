@@ -4,7 +4,7 @@
 
 Source: **[From Agent Traces to Agent Simulations — Rustem Feyzkhanov, Snorkel AI](https://www.youtube.com/watch?v=Ib5t2RLtxvM)** · aie · 2026-07-25
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Core infrastructure for our loop: we need exactly this to confidently swap model
 
 Rustem noted SME review should focus on disagreement cases between agent and verifier, not blanket review of everything. Fine-tuning a small planner model using simulation-generated traces was mentioned as a concrete outcome; link to Snorkel website example shared in talk.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: grounding_ab.py already compares settings on frozen cases (engine.md), covering the overlap.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-25 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

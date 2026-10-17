@@ -4,7 +4,7 @@
 
 Source: **[LLM Knowledge Bases: a practical guide — Ben Holmes, Warp](https://www.youtube.com/watch?v=I3bpdgFJCUY)** · aie · 2026-08-12
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Ben Holmes from Warp walked through a four-stage pipeline for LLM knowledge base
 
 Our dev loop generates decisions, experiment notes, and code context that currently lives in scattered files. Applying this enrichment pipeline to our existing markdown docs would make the knowledge base more navigable for both team members and agents operating in future sessions.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the garden already has backlinks and a graph; auto pages for recurring yards and programs is an incremental addition and the repeat-check gate already uses grep.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-12 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

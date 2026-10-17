@@ -4,7 +4,7 @@
 
 Source: **[Content Is Code - Matt Palmer, Conductor](https://www.youtube.com/watch?v=yv6xovSsB1U)** · aie · 2026-07-18
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Matt Palmer argued that code is now the cheapest medium for producing any conten
 
 The YOLO loop already generates code changes; adding structured PR tagging and design tokens would unlock automated changelog and documentation generation as a downstream artifact of the loop with minimal extra work.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: dup of aie-2026-07-21-html-native-video-agents; he already has HyperFrames skills so the idea lives there.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-18 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

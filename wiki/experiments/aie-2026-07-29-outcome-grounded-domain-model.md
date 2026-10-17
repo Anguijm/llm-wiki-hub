@@ -4,7 +4,7 @@
 
 Source: **[Why Off-the-Shelf AI Doesn't Understand Money — Udi Menkes, Intuit](https://www.youtube.com/watch?v=Owb8g3yDyzo)** · aie · 2026-07-29
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Intuit studied 100,000 small businesses across time frames and found frontier mo
 
 The principle — that a smaller model grounded in verified outcomes beats a larger general model — applies to any domain-specific agent in the YOLO loop. Collecting outcome-labeled traces from our own dev loop could seed a domain-specific reward signal for fine-tuning.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the Intuit and Princeton claims are second-hand and unchecked, and predictions.tsv is too small to train a reward model.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-29 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

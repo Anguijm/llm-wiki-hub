@@ -4,7 +4,7 @@
 
 Source: **[Tell the Robot What You Want — Sandhya Subramani, AWS](https://www.youtube.com/watch?v=S6aSoQ6_u5A)** · aie · 2026-08-29
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Sandhya demonstrated Scout, a rover running three simultaneous Strands agents (t
 
 Illustrates the tool-call abstraction pattern at the hardware level: the same agent-orchestrates-tools model used in software YOLO loops applies directly to physical actuators, suggesting the loop architecture is substrate-agnostic.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: needs a Raspberry Pi and robot hardware he does not have in his machine list; a weekend toy with no tie to his projects.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-29 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

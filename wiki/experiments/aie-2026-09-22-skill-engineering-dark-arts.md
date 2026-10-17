@@ -4,7 +4,7 @@
 
 Source: **[The Dark Arts of Skill Engineering — Paul Bakaus, Renaissance Geek (Impeccable)](https://www.youtube.com/watch?v=SQMCtZX3trg)** · aie · 2026-09-22
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Paul Bakaus presented advanced skill engineering practices for AI agents — cov
 
 Directly applicable to how the YOLO loop's agent selects and executes actions — refactoring our agent's toolset into well-defined skills with clear interfaces could make the loop more reliable, debuggable, and extensible.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: title-only card by the Impeccable author with no content; skills are covered by Claude Code itself.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-22 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

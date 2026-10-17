@@ -4,7 +4,7 @@
 
 Source: **[Why AI Agents Should Have Their Own Sandbox — Philipp Schmid, Google DeepMind](https://www.youtube.com/watch?v=oWTEiYpxl80)** · aie · 2026-10-08
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Offloading agent execution to a managed sandbox removes the local environment ma
 
 Access via ai.google.dev or toi.dev. No setup required for free tier, Gmail login. Budget controls available inside AI Studio without going to Google Cloud. Anti-gravity agent templates available in model picker. agents.md file pattern is compatible with existing Claude/Codex agent file conventions.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: a Google API and sandbox feature tour with pricing and sign-up; nothing left without the product.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-08 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

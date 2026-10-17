@@ -4,7 +4,7 @@
 
 Source: **[I Built The Ultimate Claude Website Design Skill (steal this)](https://www.youtube.com/watch?v=QUI6Ug4cHnE)** · nh · 2026-08-22
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly applicable: we can encode our own UI/UX design principles into a Claude
 
 Skill is available free in Nate's School community classroom under 'All YouTube Resources'. Can be installed as a plugin or dropped in as folders/files.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a landing-page skill that sits in a course classroom, and the garden is Quartz with tokens already in design-tokens.css.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-22 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

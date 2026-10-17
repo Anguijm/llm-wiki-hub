@@ -4,7 +4,7 @@
 
 Source: **[MCPs for Observability Stacks](https://www.youtube.com/watch?v=aQHg6db9wRs)** · mlops · 2026-08-19
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Diana (VictoriaMetrics) demonstrated an MCP server connecting an AI assistant to
 
 Applicable to our monitoring/alerting layer: replacing manual dashboard triage with an MCP-connected agent shortens the feedback loop between a production anomaly and a diagnosed root cause, which is critical for fast iteration in the YOLO loop.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a VictoriaMetrics vendor demo with no method beyond wiring an MCP server to a metrics store; netmon is a small script, not a metrics stack.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-19 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

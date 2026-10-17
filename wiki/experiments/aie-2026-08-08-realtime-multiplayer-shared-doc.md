@@ -4,7 +4,7 @@
 
 Source: **[Realtime multiplayer, automation, and you! — Idan Gazit, GitHub](https://www.youtube.com/watch?v=iQ5xldZ9StU)** · aie · 2026-08-08
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Addresses the coordination layer of our loop when multiple agents or developers 
 
 Aces is in technical preview. Core insight: editing a markdown doc and telling the agent 'make the code true to this doc' may become the primary development interaction pattern, superseding direct code editing.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a team co-editing feature in technical preview; he is a single editor.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-08 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

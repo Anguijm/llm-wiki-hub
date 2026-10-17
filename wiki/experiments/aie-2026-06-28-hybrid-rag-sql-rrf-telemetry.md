@@ -4,7 +4,7 @@
 
 Source: **[Bypassing the Multimodal Tax: Hybrid RAG, SQL RRF & UI Telemetry - Abed Matini, Ogilvy](https://www.youtube.com/watch?v=Akm1sqvWG4A)** · aie · 2026-06-28
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ The ingest-once, retrieve-many pattern maps directly to providing the YOLO loop 
 
 Key finding: with well-vetted pre-processed data, the smallest quantised models produce accurate, low-hallucination answers. Rule-based safety filtering in Python before LLM is more reliable than prompting the LLM to police itself.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: _scripts/signal-channel already drops untrusted messages before the model by a gating rule (README line 14), so the rule-based filter half exists; the RRF search half overlaps brain...
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-28 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

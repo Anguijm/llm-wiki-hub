@@ -4,7 +4,7 @@
 
 Source: **[The Universal Remote Control for AI — Alex Hancock, Block](https://www.youtube.com/watch?v=YkNulwcc5jk)** · aie · 2026-09-09
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly addresses the client↔harness interface in our dev loop. Adopting ACP 
 
 ACP site linked in talk. Goose is donated to Linux Foundation. Rust SDK maintained by speaker. Custom methods convention: prefix with underscore, allowing ecosystem-driven protocol evolution. Worth pairing with MCP remote transport experiment.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: relevant only if he wants a phone client other than Claude remote control, which already works for him.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Your AI Product Will Fail Unless You Can Explain It - Veronica Hylak, Hey AI](https://www.youtube.com/watch?v=d_Ftrl3vfV0)** · aie · 2026-07-05
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Veronica presented a three-part messaging framework for AI products. Step 1 (Wou
 
 Applies to how we document and pitch the yolo-loop itself to internal stakeholders or in READMEs. Running the wound-click-transformation pass on loop documentation or experiment cards could increase adoption and stakeholder buy-in without any engineering changes.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: his CLAUDE.md already carries a stricter opening rule ('open on the most interesting fact', tell a story a reader can follow); a pain-first rubric would conflict with it.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-05 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

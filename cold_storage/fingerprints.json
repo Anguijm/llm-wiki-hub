@@ -30,9 +30,9 @@
     "video_id": "nQwJVHCtDDY"
   },
   "phase4:aez-2026-10-15-ue5-inventory-item-actions": {
-    "hash": "04c708931dc3a1dd14fa7100fe658bc12b150a36eb6b5de791ba3db9140dde97",
+    "hash": "0d8b2c98fcfc02f94aa26f08dfec2804ee40ffe34721e429192bbe7e567a287b",
     "slug": "aez-2026-10-15-ue5-inventory-item-actions",
-    "synced_at": "2026-10-16T00:05:13.887025+00:00"
+    "synced_at": "2026-10-17T00:09:46.923007+00:00"
   },
   "phase4:aie-2026-05-09-agent-observability-raindrop": {
     "hash": "548c377f80ec106751cf67883b46089daedcd4618ee97e84a703d86ad2a15662",
@@ -265,19 +265,19 @@
     "synced_at": "2026-06-28T23:01:24.776187+00:00"
   },
   "phase4:aie-2026-06-28-agents-building-agents-live-trace-clustering": {
-    "hash": "ba9c4e0521ff927827fcf8f16dd47860e69f2bb22cc52d90e17b52d98340d20b",
+    "hash": "42d3c72f58cb3047ef8275a85121ec17581b6dd48660cfb76bac425cc9fcc218",
     "slug": "aie-2026-06-28-agents-building-agents-live-trace-clustering",
-    "synced_at": "2026-06-28T23:01:24.776489+00:00"
+    "synced_at": "2026-10-17T00:09:46.846960+00:00"
   },
   "phase4:aie-2026-06-28-ai-system-design-framework": {
-    "hash": "3f764720a1cf72675592b5ee58947650d69fa46b67262913106f040c64879566",
+    "hash": "5c445fbf115f1567e15cd8121a275ef83c956ec46b0dbfbf5efb6588cddeb2da",
     "slug": "aie-2026-06-28-ai-system-design-framework",
-    "synced_at": "2026-06-28T23:01:24.773294+00:00"
+    "synced_at": "2026-10-17T00:09:46.845814+00:00"
   },
   "phase4:aie-2026-06-28-autonomous-engineering-org-maturity": {
-    "hash": "8386388a012e715b6a0ee35dccb764c6902abac49a61d34aea705f3422537c62",
+    "hash": "969e46897dfdf798dc66b4cf9d7478fe23a4469a2d34c5a0b92be690f623d60e",
     "slug": "aie-2026-06-28-autonomous-engineering-org-maturity",
-    "synced_at": "2026-06-28T23:01:24.774260+00:00"
+    "synced_at": "2026-10-17T00:09:46.846362+00:00"
   },
   "phase4:aie-2026-06-28-browser-agent-compressed-dom": {
     "hash": "25d8f7d51d56405f84563416df8447ed72539b2137d8c776ac2e35efe66acdd6",
@@ -290,9 +290,9 @@
     "synced_at": "2026-06-28T23:01:24.775891+00:00"
   },
   "phase4:aie-2026-06-28-extended-cache-augmented-generation": {
-    "hash": "3632bf5cded5472c75493da4e8c7c1073e8ec4652f039ac301411e5759f38427",
+    "hash": "90a9913ef9987de0eb8e48bd525e1d680aac9ffee249fff1f573de29640e8be4",
     "slug": "aie-2026-06-28-extended-cache-augmented-generation",
-    "synced_at": "2026-06-28T23:01:24.773597+00:00"
+    "synced_at": "2026-10-17T00:09:46.846073+00:00"
   },
   "phase4:aie-2026-06-28-five-agent-token-optimisations": {
     "hash": "d0bea9a339491d8610974e706d0adee35bb45370061972095663bfe0eee9ebde",
@@ -305,14 +305,14 @@
     "synced_at": "2026-06-28T23:01:24.774614+00:00"
   },
   "phase4:aie-2026-06-28-hybrid-rag-sql-rrf-telemetry": {
-    "hash": "fe3869cd64709606585ad2fada60d094f894dbcb4dd3aaab5eaf3a31d9676080",
+    "hash": "c03c595a53cb41a71a7620cad98c09276fac527d3ef317974470d9731d0e534d",
     "slug": "aie-2026-06-28-hybrid-rag-sql-rrf-telemetry",
-    "synced_at": "2026-06-28T23:01:24.772991+00:00"
+    "synced_at": "2026-10-17T00:09:46.845515+00:00"
   },
   "phase4:aie-2026-06-28-local-code-index-token-reduction": {
-    "hash": "822a9ee9dab95a474d54ad4d23e20be2d723936417366de045342b1fc083bde1",
+    "hash": "61b8cdd1a2eb49c24278df3fb8cbeed0f9b995586c6390805aabb9cdfaa80ea5",
     "slug": "aie-2026-06-28-local-code-index-token-reduction",
-    "synced_at": "2026-06-28T23:01:24.772024+00:00"
+    "synced_at": "2026-10-17T00:09:46.845196+00:00"
   },
   "phase4:aie-2026-06-28-openclaw-physical-ai-terminal": {
     "hash": "6a814ece60a24b6dd1eb75105632832ae7ed8d78d18c64c2c697104aa6a37e9a",
@@ -330,9 +330,9 @@
     "synced_at": "2026-06-28T23:01:24.775255+00:00"
   },
   "phase4:aie-2026-06-28-turboquant-embedding-compression": {
-    "hash": "506f98ff3dfa9790845e36a60483981a1f09d13b81513110ffb610a6e20b2772",
+    "hash": "567ac78fd3324b6c9ee074f4f27b85970f7a7cff00d6a4ff9b4cf4adf5e08341",
     "slug": "aie-2026-06-28-turboquant-embedding-compression",
-    "synced_at": "2026-06-28T23:01:24.774952+00:00"
+    "synced_at": "2026-10-17T00:09:46.846639+00:00"
   },
   "phase4:aie-2026-06-29-agent-replayability-boundary-tracing": {
     "hash": "5a7921ece58b10cc69ef4cbb01460eaf7c25396895834bcab1c4d70ff10132ad",
@@ -340,9 +340,9 @@
     "synced_at": "2026-06-29T22:57:05.458677+00:00"
   },
   "phase4:aie-2026-06-29-agentic-engineer-spec-eval-loop": {
-    "hash": "646d10c867b0c30bbf11423466ada823cc1a01e410b3137c1b6c212485af9130",
+    "hash": "163ff2a5de0734b0b45a3739d6a569f140a81b9f58e2ae8e046eb3e4b156708e",
     "slug": "aie-2026-06-29-agentic-engineer-spec-eval-loop",
-    "synced_at": "2026-06-29T22:57:05.458236+00:00"
+    "synced_at": "2026-10-17T00:09:46.847585+00:00"
   },
   "phase4:aie-2026-06-29-deterministic-infra-agentic-control-plane": {
     "hash": "f5700590067084c5daed6e5bb9401a7a229be646b627ef7dc34dabacf6f3eb41",
@@ -360,9 +360,9 @@
     "synced_at": "2026-06-29T22:57:05.459140+00:00"
   },
   "phase4:aie-2026-06-29-simulation-driven-spec-for-distributed-agents": {
-    "hash": "0215a09d7869f62a046ab27a93f7c1a2d4bfed9cd2f508a65b40bab7f7f65699",
+    "hash": "417004d2dce6f17459f590fa1214689dc9e8c4ff73de3080514027d63f6c1b42",
     "slug": "aie-2026-06-29-simulation-driven-spec-for-distributed-agents",
-    "synced_at": "2026-06-29T22:57:05.458447+00:00"
+    "synced_at": "2026-10-17T00:09:46.847850+00:00"
   },
   "phase4:aie-2026-06-29-skill-quality-checklist": {
     "hash": "1d96772c6ba305d2ad7ad1773be5ab19a0d3bcc7e450e03d1d61b79a44260925",
@@ -395,9 +395,9 @@
     "synced_at": "2026-07-01T23:14:51.246550+00:00"
   },
   "phase4:aie-2026-07-02-ambient-ai-in-conversation": {
-    "hash": "39c07fbaa8e84dee362cf4a4d7c00a3e00982c1b312b7a1f8d40a493fe1ed7c6",
+    "hash": "55183f1e3c7e0f9bc93231b73e3ddf8a8b2e2d88d566ee2590354a27f14a33d3",
     "slug": "aie-2026-07-02-ambient-ai-in-conversation",
-    "synced_at": "2026-07-02T23:06:02.606733+00:00"
+    "synced_at": "2026-10-17T00:09:46.848804+00:00"
   },
   "phase4:aie-2026-07-03-fable-agentic-traces-model-selection": {
     "hash": "353f51a077fad11af2fa97be64ce4733c97917c6ccd7a9a1cd3263a9db720a0e",
@@ -405,9 +405,9 @@
     "synced_at": "2026-07-03T23:02:44.025538+00:00"
   },
   "phase4:aie-2026-07-03-harness-engineering-dspy": {
-    "hash": "436b88186ec6ccd675a082269d5ddf9cd52f8a7720773bb3db25ed24149eed22",
+    "hash": "0f8896604dff982d419fad506f1a801e0c88ed9914a8b2547d2cdf36a42ea242",
     "slug": "aie-2026-07-03-harness-engineering-dspy",
-    "synced_at": "2026-07-03T23:02:44.025214+00:00"
+    "synced_at": "2026-10-17T00:09:46.849332+00:00"
   },
   "phase4:aie-2026-07-05-continual-learning-replayable-envs": {
     "hash": "6a9b2beb3d4b547a51b049f5f5ff06eeb32d5859815d54f4d65ece6f1beaa4bb",
@@ -420,14 +420,14 @@
     "synced_at": "2026-07-05T23:00:04.806109+00:00"
   },
   "phase4:aie-2026-07-05-post-launch-agent-observability": {
-    "hash": "3e86b4f4ca10748e9cd6242875c0943c9beda3432f64e5219647370feb0e678f",
+    "hash": "b6760707841860a57d70cd6ff535171777ce8cbdecab1c2ef9184d178077a93c",
     "slug": "aie-2026-07-05-post-launch-agent-observability",
-    "synced_at": "2026-07-05T23:00:04.805437+00:00"
+    "synced_at": "2026-10-17T00:09:46.850142+00:00"
   },
   "phase4:aie-2026-07-05-wound-click-transform-pitch": {
-    "hash": "c9c2aff2a8b9ab60541557d556c04f426dba76e21abe443f9ab0c5da9f74af8f",
+    "hash": "93a0adac5a5483d5351be2ec502f6959a10b58535593d2e571730796b56e9f1f",
     "slug": "aie-2026-07-05-wound-click-transform-pitch",
-    "synced_at": "2026-07-05T23:00:04.806419+00:00"
+    "synced_at": "2026-10-17T00:09:46.850429+00:00"
   },
   "phase4:aie-2026-07-06-capability-overhang-audit": {
     "hash": "fb5dd583d050536a83e235e10b5a0f5070b10c11094a3e949ef771170ced8a3f",
@@ -445,9 +445,9 @@
     "synced_at": "2026-07-07T23:00:44.382510+00:00"
   },
   "phase4:aie-2026-07-07-radical-speed-month-vibe-coding-org": {
-    "hash": "607e6c1cb6144b42732e42d2b068ebe28eaa0958b3354d1a47b93851b95dec12",
+    "hash": "1723aecb8726aa5a6b90c5a077cfd04b2ed99d1d5f1160db0b02f25459ececc2",
     "slug": "aie-2026-07-07-radical-speed-month-vibe-coding-org",
-    "synced_at": "2026-07-07T23:00:44.382800+00:00"
+    "synced_at": "2026-10-17T00:09:46.851087+00:00"
   },
   "phase4:aie-2026-07-07-swe-marathon-long-horizon-eval": {
     "hash": "e1a4d4c277fb34d827f3f7d8207ae56979901a4c8bd70b66719741f4a07cb0da",
@@ -505,9 +505,9 @@
     "synced_at": "2026-07-08T23:06:33.382748+00:00"
   },
   "phase4:aie-2026-07-08-markdown-cron-daily-planner-agent": {
-    "hash": "19ffa60627633cc296f04bb352754a03a6ed70e5aa9a568671578a5467b8e6a6",
+    "hash": "8e04830603b83295a1e037e2f125a4193a661c6e7d8bf21ee7c1d93567537c71",
     "slug": "aie-2026-07-08-markdown-cron-daily-planner-agent",
-    "synced_at": "2026-07-08T23:06:33.382436+00:00"
+    "synced_at": "2026-10-17T00:09:46.851863+00:00"
   },
   "phase4:aie-2026-07-08-repl-tool-replaces-15-tools": {
     "hash": "d8d53d9590bd1687cee9fa44327bcc59f850524f9dd65aee58d3721210fca471",
@@ -515,9 +515,9 @@
     "synced_at": "2026-07-08T23:06:33.383698+00:00"
   },
   "phase4:aie-2026-07-09-forward-deployed-mvp-in-days": {
-    "hash": "f7dc65e191a15f2bc7001427a67540d1d4466a248249762eca44922efec2077f",
+    "hash": "5a6123cce77f76420ef4a7fa01a93d66268129811020a7d3a6621de5258a2d6d",
     "slug": "aie-2026-07-09-forward-deployed-mvp-in-days",
-    "synced_at": "2026-07-09T23:10:32.283379+00:00"
+    "synced_at": "2026-10-17T00:09:46.852544+00:00"
   },
   "phase4:aie-2026-07-09-manager-agent-outer-loop": {
     "hash": "76eac375e2b87d4566502d9bc7d18b2139c4e2eea96d708bb08f77a5b176d875",
@@ -555,9 +555,9 @@
     "synced_at": "2026-07-11T22:47:29.094203+00:00"
   },
   "phase4:aie-2026-07-11-jury-judge-multi-agent-validation": {
-    "hash": "c35f60aa829d35f5ff343ba35c7f4e6cadca9a28bddf304fccc93d69a7c42d38",
+    "hash": "2cc80a8fa5c89d8bf070c6328ab4094d2d9301efbfe6efbe36608064f11d7343",
     "slug": "aie-2026-07-11-jury-judge-multi-agent-validation",
-    "synced_at": "2026-07-11T22:47:29.095562+00:00"
+    "synced_at": "2026-10-17T00:09:46.853454+00:00"
   },
   "phase4:aie-2026-07-11-multi-agent-dream-cycle": {
     "hash": "a608066be42d63aa0b70ca7b6b639461cb8365034ab66e6d33dfe37173973b5e",
@@ -610,9 +610,9 @@
     "synced_at": "2026-07-12T22:47:13.000517+00:00"
   },
   "phase4:aie-2026-07-12-review-debt-scorer": {
-    "hash": "d16e87caf2e5f61d5a06826205ac5855e717737d039872e9ad3e542d6f0243c3",
+    "hash": "985156aa779699a12d9583d4f39cd0a8dc8c88d55b37c0bf1fa85059cd3e1072",
     "slug": "aie-2026-07-12-review-debt-scorer",
-    "synced_at": "2026-07-12T22:47:13.000200+00:00"
+    "synced_at": "2026-10-17T00:09:46.854032+00:00"
   },
   "phase4:aie-2026-07-12-semantic-blindness-hierarchical-tool": {
     "hash": "5413fe00ed358180b72a4a37f5b88fcd0ce8d704bd1535efff45c642fb894eb5",
@@ -625,19 +625,19 @@
     "synced_at": "2026-07-12T22:47:12.999927+00:00"
   },
   "phase4:aie-2026-07-13-microvm-sandbox-snapshot-restore": {
-    "hash": "b7d36c9f761dd17176d7f44b9b37e2c9176cb8787405cd300e9439399f2ee1fe",
+    "hash": "85d7506dd6bf337467297e925574ea41bb7591627a9f916a088c7556ae9c9f13",
     "slug": "aie-2026-07-13-microvm-sandbox-snapshot-restore",
-    "synced_at": "2026-07-13T22:55:22.915425+00:00"
+    "synced_at": "2026-10-17T00:09:46.854616+00:00"
   },
   "phase4:aie-2026-07-13-proof-carrying-agents": {
-    "hash": "c6996cbb83c474f8d01c1c1926696ae06a9324e8938cb19d7539c79cdf172f68",
+    "hash": "52bd6cbfd8f0325a04b1b791bb766c01ffbca9a0c9cbfb101c786cdc88f3cb5f",
     "slug": "aie-2026-07-13-proof-carrying-agents",
-    "synced_at": "2026-07-13T22:55:22.915096+00:00"
+    "synced_at": "2026-10-17T00:09:46.854350+00:00"
   },
   "phase4:aie-2026-07-13-rlm-recursive-context-management": {
-    "hash": "49dbd8b3291200142c6645e6655b27d817c12e1a4d37972e4efc1eb0e830ac64",
+    "hash": "c442af23aed9bd19098fb39f7bfdef8b315e8e8d330c34b4304a136cae223b50",
     "slug": "aie-2026-07-13-rlm-recursive-context-management",
-    "synced_at": "2026-07-13T22:55:22.916080+00:00"
+    "synced_at": "2026-10-17T00:09:46.854941+00:00"
   },
   "phase4:aie-2026-07-13-verifiers-async-rl-post-training": {
     "hash": "8afd8f8712bebe9c0d8966119242a4f5f1207eb2d24436b650e4282d6e92f4a0",
@@ -650,14 +650,14 @@
     "synced_at": "2026-07-14T22:55:53.450654+00:00"
   },
   "phase4:aie-2026-07-14-fde-motion-matrix": {
-    "hash": "54a1ecfd64809d657cabe06ce4d4849bcb834911f9902399f1473a20117f5070",
+    "hash": "0ecd9f7f5abc70fdf3ac92731618e5a116c2b37bc4fec4d08d9a68d8757660f0",
     "slug": "aie-2026-07-14-fde-motion-matrix",
-    "synced_at": "2026-07-14T22:55:53.450310+00:00"
+    "synced_at": "2026-10-17T00:09:46.855818+00:00"
   },
   "phase4:aie-2026-07-14-irt-llm-benchmarking": {
-    "hash": "da11bee127188f96b7099c9f7f01f3a374a3d87949574d212dde8beff280ae40",
+    "hash": "cda31c602c2c5b205da2837a431b03dbefc3f1aa5adb0287ab02a4626414a3cf",
     "slug": "aie-2026-07-14-irt-llm-benchmarking",
-    "synced_at": "2026-07-14T22:55:53.450970+00:00"
+    "synced_at": "2026-10-17T00:09:46.856101+00:00"
   },
   "phase4:aie-2026-07-14-loops-debate-spec-gated-slices": {
     "hash": "1353cbc50352122aba97ca1e72a93ed33c8260d7528da1743dd34bc0e10f7cfa",
@@ -685,9 +685,9 @@
     "synced_at": "2026-07-15T22:57:21.037670+00:00"
   },
   "phase4:aie-2026-07-16-agent-eval-as-loss-function": {
-    "hash": "d12fdfb66c79eb1511efc3cb563403c0f2baa53bba6cb1a4fae3692ecfee25d9",
+    "hash": "6e8304c8d409bbf585f86259088d9f136a7dc1ba757c1b2ed6a1344236ee487b",
     "slug": "aie-2026-07-16-agent-eval-as-loss-function",
-    "synced_at": "2026-07-16T22:55:57.130297+00:00"
+    "synced_at": "2026-10-17T00:09:46.856483+00:00"
   },
   "phase4:aie-2026-07-16-ai-agent-top-contributor-parameter-golf": {
     "hash": "00c97a533d6a0ea4aa1c02f12189f4ec327dcefcbf7c4347c898fa1991e30825",
@@ -695,9 +695,9 @@
     "synced_at": "2026-07-16T22:55:57.130044+00:00"
   },
   "phase4:aie-2026-07-16-background-computer-use-quad-driver": {
-    "hash": "63db3cc97fb2df229e14f7374385eae1ba34ac446ba1412ee2575a6ffc6c8f2b",
+    "hash": "b31eaf6d569d9b76ec43e93a1160d98e21cbd3b105f3624187e3dcc0aca6c5c8",
     "slug": "aie-2026-07-16-background-computer-use-quad-driver",
-    "synced_at": "2026-07-16T22:55:57.130515+00:00"
+    "synced_at": "2026-10-17T00:09:46.856778+00:00"
   },
   "phase4:aie-2026-07-17-deepmind-chain-of-code-reasoning": {
     "hash": "e2b9ed735fc32369383f50eb7ba7747460cdfdcb664055c878c5163a6b6d6cbc",
@@ -725,9 +725,9 @@
     "synced_at": "2026-07-17T22:49:26.346641+00:00"
   },
   "phase4:aie-2026-07-18-agent-checkpoint-replay-cohort-evals": {
-    "hash": "c0cddaaff1da6e61264f155a7c1cd9c58bb8226634bc4df307488483008b4097",
+    "hash": "5698f25a35180ef18b7e9432f8e8c1a29d3f554aa1ea95aa96c5dbe97b2764b6",
     "slug": "aie-2026-07-18-agent-checkpoint-replay-cohort-evals",
-    "synced_at": "2026-07-18T22:48:55.933873+00:00"
+    "synced_at": "2026-10-17T00:09:46.858154+00:00"
   },
   "phase4:aie-2026-07-18-agent-feature-flags-six-surfaces": {
     "hash": "f27088acbc5bf7b09103fa8fd8b971c57316bbc625c840e519d0673959a33d86",
@@ -740,9 +740,9 @@
     "synced_at": "2026-07-18T22:48:55.933088+00:00"
   },
   "phase4:aie-2026-07-18-content-as-code-structured-pipelines": {
-    "hash": "77caea2ac5b36d2cf73252269b0bfe341172fd99d0df821a044ee6760c5692c7",
+    "hash": "e53369ec08a6895920530c9e268a30618a9517bdefa4ea8953c7813c1d02771d",
     "slug": "aie-2026-07-18-content-as-code-structured-pipelines",
-    "synced_at": "2026-07-18T22:48:55.933593+00:00"
+    "synced_at": "2026-10-17T00:09:46.857807+00:00"
   },
   "phase4:aie-2026-07-18-domain-expert-evaluators-before-auto-optimization": {
     "hash": "a7296867178588f1901ae67e4db68fd2b54c3fd6e1e34d8c446ca894d50569c1",
@@ -765,9 +765,9 @@
     "synced_at": "2026-07-18T22:48:55.932764+00:00"
   },
   "phase4:aie-2026-07-18-subgraph-pattern-matching-context-retrieval": {
-    "hash": "424a926784f526c8f14362a061071ac8ecef9c5a63de1aa0257a6a24e5ccded5",
+    "hash": "9f988b59fc1d848947ce5879788caa449ed1ab857f546b5a6e1dfd58dc92408d",
     "slug": "aie-2026-07-18-subgraph-pattern-matching-context-retrieval",
-    "synced_at": "2026-07-18T22:48:55.932932+00:00"
+    "synced_at": "2026-10-17T00:09:46.857484+00:00"
   },
   "phase4:aie-2026-07-19-agent-auth-least-privilege": {
     "hash": "a8434bfd61bdc87c42e4a5df6f8a914003167d8562925ac9fd8a39fe50bce53d",
@@ -785,14 +785,14 @@
     "synced_at": "2026-07-19T22:50:58.603447+00:00"
   },
   "phase4:aie-2026-07-19-hierarchical-hypothesis-generation": {
-    "hash": "95189328f248c3998be5d3e88d515c7be437868ddf909e02d220a652c65700b3",
+    "hash": "c0e8bedcdddda89d05f09e5c3446407a4a8ea209727fdce21b8e331950714eea",
     "slug": "aie-2026-07-19-hierarchical-hypothesis-generation",
-    "synced_at": "2026-07-19T22:50:58.603693+00:00"
+    "synced_at": "2026-10-17T00:09:46.859048+00:00"
   },
   "phase4:aie-2026-07-19-single-cell-foundation-models": {
-    "hash": "aca5f4d3ab90410de8f1156cf4f9ba53e9c4a81a886d27bbdaefb23a8b20a362",
+    "hash": "69f765e3569dbf24befd92b3bd3f6d28e1ffa7420e5bb27f7908957e0e336f52",
     "slug": "aie-2026-07-19-single-cell-foundation-models",
-    "synced_at": "2026-07-19T22:50:58.602777+00:00"
+    "synced_at": "2026-10-17T00:09:46.858758+00:00"
   },
   "phase4:aie-2026-07-20-agent-jurassic-four-layer-sandbox": {
     "hash": "092146a4d3e34a45b64332bbecc5d5a3953f06a981bf6fed57f6eef72de7b6b7",
@@ -800,19 +800,19 @@
     "synced_at": "2026-07-20T22:59:26.361490+00:00"
   },
   "phase4:aie-2026-07-20-deterministic-wrapper-limits-agent-blast-radius": {
-    "hash": "3f6ef91db6d212b23b6d399dddf93259d069d942613e780ce974d57cc3f86383",
+    "hash": "1fe54d08104e1bbed72fe1e84e0a63530cc7754fce64292221f8e943304f8a4c",
     "slug": "aie-2026-07-20-deterministic-wrapper-limits-agent-blast-radi",
-    "synced_at": "2026-07-20T22:59:26.362470+00:00"
+    "synced_at": "2026-10-17T00:09:46.859985+00:00"
   },
   "phase4:aie-2026-07-20-e2e-encryption-personal-agent": {
-    "hash": "f213a37aa1c56b55251dfa6e98c3e9c07b9e86398c6d602406bc101ddd730bfc",
+    "hash": "025b4d909301b8e31afd88de149d0dbcc350f07e8dc3a6375a097b0e3c4eee9d",
     "slug": "aie-2026-07-20-e2e-encryption-personal-agent",
-    "synced_at": "2026-07-20T22:59:26.362164+00:00"
+    "synced_at": "2026-10-17T00:09:46.859716+00:00"
   },
   "phase4:aie-2026-07-20-enterprise-agent-source-hierarchy": {
-    "hash": "c9d4a7218e68f189a470840870e60964d45b4aba6a1d3554132584c8c97ec497",
+    "hash": "f57bbd40cc5de2f0c8fe6d1d13abb6fc6662958d08321b562f8de8aaa5a4861d",
     "slug": "aie-2026-07-20-enterprise-agent-source-hierarchy",
-    "synced_at": "2026-07-20T22:59:26.364946+00:00"
+    "synced_at": "2026-10-17T00:09:46.860875+00:00"
   },
   "phase4:aie-2026-07-20-episodic-semantic-memory-agent-consistency": {
     "hash": "b79a7aed24e5ae7e0cfd1788a2b26b59247922e06e053dfe85f3167a7d843cf7",
@@ -825,9 +825,9 @@
     "synced_at": "2026-07-20T22:59:26.361172+00:00"
   },
   "phase4:aie-2026-07-20-harness-state-machine-voice-tutor": {
-    "hash": "94cae9ae9a09c374675fd273dc8956d51b60d03b30826519631a972ff6c9ffea",
+    "hash": "f7dd3dd8fb82c73d7e2521ab083ba873e523c0dbb19d778f486d5e39bf963091",
     "slug": "aie-2026-07-20-harness-state-machine-voice-tutor",
-    "synced_at": "2026-07-20T22:59:26.364364+00:00"
+    "synced_at": "2026-10-17T00:09:46.860313+00:00"
   },
   "phase4:aie-2026-07-20-inloop-verification-three-loop-sdlc": {
     "hash": "fbe0719d985a9c1ce423beb39b37c76954f5b0d4688011ed41daab0e6d21c934",
@@ -845,9 +845,9 @@
     "synced_at": "2026-07-20T22:59:26.362777+00:00"
   },
   "phase4:aie-2026-07-20-physical-data-harness-knowledge-base": {
-    "hash": "80252ee5e258fadb6961c07903167f565b200c89abbf1a401345d5393e844343",
+    "hash": "92f3ca883aeb14cde85f7a8c95ceae6d09cceaaea4b0451d6bcfc20f88471cd4",
     "slug": "aie-2026-07-20-physical-data-harness-knowledge-base",
-    "synced_at": "2026-07-20T22:59:26.365292+00:00"
+    "synced_at": "2026-10-17T00:09:46.861152+00:00"
   },
   "phase4:aie-2026-07-20-slop-squatting-supply-chain-detection": {
     "hash": "907e1981bfc6f0b692683c1a6e30a17fd1a9bf068f1b9eb5da0bcfb5fd807041",
@@ -855,9 +855,9 @@
     "synced_at": "2026-07-20T22:59:26.363412+00:00"
   },
   "phase4:aie-2026-07-20-small-model-voice-latency": {
-    "hash": "867c140d05b7b9187ddfde60e707c41d52284d0692ac065f54d00f9f3879df2b",
+    "hash": "fbb610e5f0663d8a42455b49cbf41d91f3928369d82b9ce3cb458d5b9cb4462a",
     "slug": "aie-2026-07-20-small-model-voice-latency",
-    "synced_at": "2026-07-20T22:59:26.364653+00:00"
+    "synced_at": "2026-10-17T00:09:46.860592+00:00"
   },
   "phase4:aie-2026-07-20-snyk-hooks-skills-agent-code-security": {
     "hash": "31ecb7c79e7c5d494f177a8284f0440601a0cfa7825c272bf258fcb16b46a34b",
@@ -865,9 +865,9 @@
     "synced_at": "2026-07-20T22:59:26.363092+00:00"
   },
   "phase4:aie-2026-07-21-desktop-local-model-sovereign": {
-    "hash": "af70ac627d44efb641c9fb59c649fd955cc1b4e71db33c7c609cd5f7cb055410",
+    "hash": "c0c12f65b523fa1e357dbe93fedab02512553e70b241257ce68194e82c138413",
     "slug": "aie-2026-07-21-desktop-local-model-sovereign",
-    "synced_at": "2026-07-21T22:55:45.320644+00:00"
+    "synced_at": "2026-10-17T00:09:46.861758+00:00"
   },
   "phase4:aie-2026-07-21-execution-layer-decoupling": {
     "hash": "bf3c66c20df921ec806e6acf381108868a4767e4536e8a974480d95ad002d69e",
@@ -885,9 +885,9 @@
     "synced_at": "2026-07-21T22:55:45.319296+00:00"
   },
   "phase4:aie-2026-07-21-outcome-based-agent-scoring": {
-    "hash": "5c444cc520b26f55fbd8c3395f0bb59dd033673dcb03129bd5d52f57609a80b5",
+    "hash": "c56cd89ff1d6e27e60bd827d88ac4a3277fd82006a8ef3db8056e37f3c99bffb",
     "slug": "aie-2026-07-21-outcome-based-agent-scoring",
-    "synced_at": "2026-07-21T22:55:45.319964+00:00"
+    "synced_at": "2026-10-17T00:09:46.861458+00:00"
   },
   "phase4:aie-2026-07-21-state-of-ai-eng-audio-modality": {
     "hash": "b9c06612787e76df6a330e74083030663246a0006507ae4c5212787a7947cc7b",
@@ -930,14 +930,14 @@
     "synced_at": "2026-07-23T22:55:49.752046+00:00"
   },
   "phase4:aie-2026-07-23-execution-dag-anomaly-detection": {
-    "hash": "499141ac2e11396b425ff9284820cf8a819bb9fdc29502e8df97b572cfccaecf",
+    "hash": "a50a76b466e422b1588b830b12c68b9bc05bc00f39052dec613d37562d927a72",
     "slug": "aie-2026-07-23-execution-dag-anomaly-detection",
-    "synced_at": "2026-07-23T22:55:49.754788+00:00"
+    "synced_at": "2026-10-17T00:09:46.863360+00:00"
   },
   "phase4:aie-2026-07-23-graph-provenance-for-llm-facts": {
-    "hash": "f4e2e794b4128c8661cdd46b9019c629623178ab49c8628da87f9ac69a46bf97",
+    "hash": "4de1d4d2db413157acc12e11f23cfecdd2ec1de897a936f93762e19d50be3df8",
     "slug": "aie-2026-07-23-graph-provenance-for-llm-facts",
-    "synced_at": "2026-07-23T22:55:49.754140+00:00"
+    "synced_at": "2026-10-17T00:09:46.862813+00:00"
   },
   "phase4:aie-2026-07-23-graph-shapes-for-agent-context": {
     "hash": "f786f5baaefd971fc81a1148afacd2da4882f16f2b5a42de7706f51dca222977",
@@ -945,9 +945,9 @@
     "synced_at": "2026-07-23T22:55:49.753389+00:00"
   },
   "phase4:aie-2026-07-23-knowledge-graph-as-agent-control-plane": {
-    "hash": "3355ba696f52e7536be84beaf41d8ccca8ae10945bc0914e1305fdef91908864",
+    "hash": "434df9f042adff64decd9bed3916a0e9bce819d9b8d02419ff5324a07f7b5a9d",
     "slug": "aie-2026-07-23-knowledge-graph-as-agent-control-plane",
-    "synced_at": "2026-07-23T22:55:49.753818+00:00"
+    "synced_at": "2026-10-17T00:09:46.862526+00:00"
   },
   "phase4:aie-2026-07-23-notion-token-cost-model-routing": {
     "hash": "c7e477b55691866ce6ee63c544987d2896ec2948c285281a410b531aec23e95a",
@@ -955,14 +955,14 @@
     "synced_at": "2026-07-23T22:55:49.752393+00:00"
   },
   "phase4:aie-2026-07-23-offline-context-precomputation": {
-    "hash": "92352f869f78475b05a43a5a44afda615c0f528f8096748c35a3a065f9e184eb",
+    "hash": "6c458df79b32f6bf3654a895a1fefdbfe670b109ab0fb02e512d2f2f5c4a255e",
     "slug": "aie-2026-07-23-offline-context-precomputation",
-    "synced_at": "2026-07-23T22:55:49.755421+00:00"
+    "synced_at": "2026-10-17T00:09:46.863929+00:00"
   },
   "phase4:aie-2026-07-23-ontology-validator-for-agent-tool-outputs": {
-    "hash": "8c886a3b44e222ae880404e5cf4411d177f448a53d36bcce6f31bdb365af499f",
+    "hash": "14b89db84f62692021d229942cfa35c0fd09951834a1dc74ce1e54ff3e43afbd",
     "slug": "aie-2026-07-23-ontology-validator-for-agent-tool-outputs",
-    "synced_at": "2026-07-23T22:55:49.754451+00:00"
+    "synced_at": "2026-10-17T00:09:46.863058+00:00"
   },
   "phase4:aie-2026-07-23-perception-agent-shared-screen-context": {
     "hash": "c92c523866d619dd2cc46220176126a9d5f540c6ec271addf83e4ced0f7a8b8d",
@@ -980,14 +980,14 @@
     "synced_at": "2026-07-23T22:55:49.755756+00:00"
   },
   "phase4:aie-2026-07-23-video-spatial-temporal-memory-layer": {
-    "hash": "b336c3ecb5064e8ad138ece8591af4f6a769df3bf3cf2ca9fbc69ba3c28e8a48",
+    "hash": "bf4cd0b398aca203fbaf9bb08a554ae1a282afed23c70e664c1b7c131d59d41a",
     "slug": "aie-2026-07-23-video-spatial-temporal-memory-layer",
-    "synced_at": "2026-07-23T22:55:49.755104+00:00"
+    "synced_at": "2026-10-17T00:09:46.863641+00:00"
   },
   "phase4:aie-2026-07-24-agent-as-judge-for-agentic-evals": {
-    "hash": "484ee5d4cff637e18fa2d27e7f2371a48eab0367fe6b0b30b8c9fceec57bf4c3",
+    "hash": "945a6ef7e9095002ad609310278c0f33ef4076ef9643b7ec51abfc45e553ba36",
     "slug": "aie-2026-07-24-agent-as-judge-for-agentic-evals",
-    "synced_at": "2026-07-24T23:00:13.502792+00:00"
+    "synced_at": "2026-10-17T00:09:46.865487+00:00"
   },
   "phase4:aie-2026-07-24-arize-signal-to-pr-self-improving-agent": {
     "hash": "ee7fffb08ba41f7a50e56e48af74dbe4c4c850d84fb2171fc32bcd4882392d88",
@@ -1000,9 +1000,9 @@
     "synced_at": "2026-07-24T23:00:13.503789+00:00"
   },
   "phase4:aie-2026-07-24-cyber-benchmark-dynamic-world-model": {
-    "hash": "c4c8a42f06221cbae3278a5fe04020abb48a4641cdc844bb3d668fb76a163b57",
+    "hash": "c514d56d5e4462b1391807e88035f25c0bc41c1831411a340492271f3f2d5175",
     "slug": "aie-2026-07-24-cyber-benchmark-dynamic-world-model",
-    "synced_at": "2026-07-24T23:00:13.504248+00:00"
+    "synced_at": "2026-10-17T00:09:46.866066+00:00"
   },
   "phase4:aie-2026-07-24-harbor-agent-dev-as-ml-paradigm": {
     "hash": "efcd9942295b093bc2c7eb3e79430b8641c6d51eb0d0723947249c71ea608436",
@@ -1015,9 +1015,9 @@
     "synced_at": "2026-07-24T23:00:13.501817+00:00"
   },
   "phase4:aie-2026-07-24-vending-bench-emergent-misbehavior-evals": {
-    "hash": "1ef96076680921f57d00b5729bcaccebd6ebde8a3215c3a8554034220301e2ad",
+    "hash": "d1f5ae76f1c7a6d21a3c7dc884f3d0a0a2e65f4c76c29ee4f567965f9f6c7135",
     "slug": "aie-2026-07-24-vending-bench-emergent-misbehavior-evals",
-    "synced_at": "2026-07-24T23:00:13.503437+00:00"
+    "synced_at": "2026-10-17T00:09:46.865802+00:00"
   },
   "phase4:aie-2026-07-24-youtube-ads-vibe-first-then-scale-evals": {
     "hash": "359df3361beed4c88dbbdc666b21fc5d2d63aea9d9e3eba85108446f03af0090",
@@ -1025,9 +1025,9 @@
     "synced_at": "2026-07-24T23:00:13.502180+00:00"
   },
   "phase4:aie-2026-07-25-agent-simulation-benchmark-from-traces": {
-    "hash": "e931f98ce4c14b43049e6c86d454e56931028ae85b24d975154a3089bcf2e1d1",
+    "hash": "6c8708226bb0da36573c3ed76f5b95beb00a9baaaf7bb780a315e1084b03db42",
     "slug": "aie-2026-07-25-agent-simulation-benchmark-from-traces",
-    "synced_at": "2026-07-25T22:55:22.947228+00:00"
+    "synced_at": "2026-10-17T00:09:46.866682+00:00"
   },
   "phase4:aie-2026-07-25-control-loop-pr-flow-control": {
     "hash": "7bb6c36acda568026afe26c226e81667c3cdacf0dced02e57bad219ca0021b9b",
@@ -1055,9 +1055,9 @@
     "synced_at": "2026-07-26T22:57:50.700385+00:00"
   },
   "phase4:aie-2026-07-27-synthetic-data-rephrasing-for-token-uniqueness": {
-    "hash": "e82e63f4601a0af5394ee07328e4d61801f12b249ee90de6587d141181115b0c",
+    "hash": "f38fb6d28cc35979332e2a371b18c606d3bfe62ed1dc5a7ef59dc5c3f51539d1",
     "slug": "aie-2026-07-27-synthetic-data-rephrasing-for-token-uniquenes",
-    "synced_at": "2026-07-27T23:00:37.061043+00:00"
+    "synced_at": "2026-10-17T00:09:46.867099+00:00"
   },
   "phase4:aie-2026-07-27-type1-vs-type2-data-pipeline-audit": {
     "hash": "9f76104dc13ade85eecf608d68033fc7a4ef3f37e69cc27635ab28755f91ae5d",
@@ -1100,9 +1100,9 @@
     "synced_at": "2026-07-28T22:57:10.946652+00:00"
   },
   "phase4:aie-2026-07-28-netflix-perf-agent-profiling-pipeline": {
-    "hash": "f3e8b8ab8cd33d3da6e0d856b69766ab7a915ba09a5a0a1a50878436785097cb",
+    "hash": "6ae02381f6ff50f3608ab973d03f559d847a94171ecee5f27757f6f0a65f3892",
     "slug": "aie-2026-07-28-netflix-perf-agent-profiling-pipeline",
-    "synced_at": "2026-07-28T22:57:10.947545+00:00"
+    "synced_at": "2026-10-17T00:09:46.868047+00:00"
   },
   "phase4:aie-2026-07-28-ramp-agentic-spec-pipeline": {
     "hash": "8d35c74837a3d71f93189fcc7ff277a61f92b12ce27634b0ad2a52548948d6e3",
@@ -1110,14 +1110,14 @@
     "synced_at": "2026-07-28T22:57:10.946106+00:00"
   },
   "phase4:aie-2026-07-28-ramp-scoping-agent-intake": {
-    "hash": "117faf0837300563d42e9103935baefa71fea74a3470c64ce2043496ea3a7ccd",
+    "hash": "efb19e48d2a6b6e96ab804c389b063c967907feb403f1e7908737868d0a56efe",
     "slug": "aie-2026-07-28-ramp-scoping-agent-intake",
-    "synced_at": "2026-07-28T22:57:10.945797+00:00"
+    "synced_at": "2026-10-17T00:09:46.867733+00:00"
   },
   "phase4:aie-2026-07-28-varick-knowledge-graph-process-extraction": {
-    "hash": "558ff756a6cc2d95b5b2fc27a15ba788474064e79450d0f8a04411652665321e",
+    "hash": "cff14e3b06df59de1cf359cacb038fc1dcea13f2e80394f9a4e75bfde966f1a3",
     "slug": "aie-2026-07-28-varick-knowledge-graph-process-extraction",
-    "synced_at": "2026-07-28T22:57:10.945196+00:00"
+    "synced_at": "2026-10-17T00:09:46.867387+00:00"
   },
   "phase4:aie-2026-07-29-ai-skill-security-review": {
     "hash": "1b051e1abd95e1e93666dce6732be0393208a89dcc591c3db3b3cd41e7e3d62d",
@@ -1125,9 +1125,9 @@
     "synced_at": "2026-07-29T22:58:36.920497+00:00"
   },
   "phase4:aie-2026-07-29-alphalab-strict-eval-environment": {
-    "hash": "8d32857acc2b58586a50254c44de1e61e80e7621a564a3b6271ccdd7ef735fa1",
+    "hash": "21b648c6118a061ed8065fdd0226fe14184b43753be7461124b1c83292e85bab",
     "slug": "aie-2026-07-29-alphalab-strict-eval-environment",
-    "synced_at": "2026-07-29T22:58:36.923789+00:00"
+    "synced_at": "2026-10-17T00:09:46.869254+00:00"
   },
   "phase4:aie-2026-07-29-harness-receipt-audit": {
     "hash": "e5935fa223f4ccd341cfadf2127170a5b6baa9a0c35e723abd14a2c7e5e46ca5",
@@ -1135,14 +1135,14 @@
     "synced_at": "2026-07-29T22:58:36.924333+00:00"
   },
   "phase4:aie-2026-07-29-outcome-grounded-domain-model": {
-    "hash": "5954ff38aaf90bf2c5487122b7945c4cf4ea32a50b9b9f82aa9622215be94122",
+    "hash": "990297b5a4815813d26eae16447eda32ec917c999e68e4ae1da04d659451e0b9",
     "slug": "aie-2026-07-29-outcome-grounded-domain-model",
-    "synced_at": "2026-07-29T22:58:36.922118+00:00"
+    "synced_at": "2026-10-17T00:09:46.868672+00:00"
   },
   "phase4:aie-2026-07-29-simulation-eval-data-generation": {
-    "hash": "fbe52d71a6fb967044d9c622285ab688be436d53c6d3463a6d41f2adabeece70",
+    "hash": "39e2fc14f602476ef10690b4c5b42b9e1a0c5ff9740f9704744e17afb9c6158e",
     "slug": "aie-2026-07-29-simulation-eval-data-generation",
-    "synced_at": "2026-07-29T22:58:36.922660+00:00"
+    "synced_at": "2026-10-17T00:09:46.868946+00:00"
   },
   "phase4:aie-2026-07-29-skill-centric-harness": {
     "hash": "58a0bde0de7696d65171f35db67de236db01152bae682a3028ba5f7274522c43",
@@ -1155,9 +1155,9 @@
     "synced_at": "2026-07-29T22:58:36.921572+00:00"
   },
   "phase4:aie-2026-07-29-verifiable-provenance-chain": {
-    "hash": "63d2bcc9539dec079e78069d39e89156d40afc6091cba76c6988551a44621046",
+    "hash": "97b1f5379bbbf512d7dbdc4ad6bd9b61309aaea7ccb8e1cdd7565b134793b92e",
     "slug": "aie-2026-07-29-verifiable-provenance-chain",
-    "synced_at": "2026-07-29T22:58:36.921039+00:00"
+    "synced_at": "2026-10-17T00:09:46.868379+00:00"
   },
   "phase4:aie-2026-07-30-automated-ai-research-open-ended-evolution": {
     "hash": "461aa14878f859137075f15010b696feb93020f4ff78529c002c19a901e3ec57",
@@ -1165,9 +1165,9 @@
     "synced_at": "2026-07-30T23:06:12.445789+00:00"
   },
   "phase4:aie-2026-07-30-event-sourced-agent-semantic-layer": {
-    "hash": "8b1b2e6abcc960dcade46da29bc9a78a8606c8f2e013dbd4e4f8847315018548",
+    "hash": "347933233a3ce3917817ddc8ce0d8aa85daf59137acd079f338558b399db5acc",
     "slug": "aie-2026-07-30-event-sourced-agent-semantic-layer",
-    "synced_at": "2026-07-30T23:06:12.446746+00:00"
+    "synced_at": "2026-10-17T00:09:46.869936+00:00"
   },
   "phase4:aie-2026-07-30-finance-agent-dev-loop-velocity": {
     "hash": "d795146b51d91e7073c098d13fafa9b7d6d9caa1c864950b786583607214ff95",
@@ -1175,9 +1175,9 @@
     "synced_at": "2026-07-30T23:06:12.446107+00:00"
   },
   "phase4:aie-2026-07-30-group-agent-memory-security-routing": {
-    "hash": "70a7c598d9b17fd451cafa12d3be80b8b8ab13ae8498c2784326c7e2324ea1c6",
+    "hash": "350db952a6c0ffd8e92f9e115e852d858111fc67e2a020a0236b7d9d38302fba",
     "slug": "aie-2026-07-30-group-agent-memory-security-routing",
-    "synced_at": "2026-07-30T23:06:12.447034+00:00"
+    "synced_at": "2026-10-17T00:09:46.870212+00:00"
   },
   "phase4:aie-2026-07-30-memo-trust-source-citation": {
     "hash": "838973563f6b1b4bb0eca4c10d6db13859e0edb523a8e56653bb624295e41aa9",
@@ -1200,14 +1200,14 @@
     "synced_at": "2026-07-31T22:59:01.117413+00:00"
   },
   "phase4:aie-2026-07-31-benchmark-task-quality-principles": {
-    "hash": "35be74223ba59fae3a30c5ebae2d6b75d01010e5f1a1f6ffd087a516ec2b7a60",
+    "hash": "d700728d90af7608444aee6b43b787cd8e3f54cf07b4b71418e0e9f049e088f1",
     "slug": "aie-2026-07-31-benchmark-task-quality-principles",
-    "synced_at": "2026-07-31T22:59:01.118189+00:00"
+    "synced_at": "2026-10-17T00:09:46.871176+00:00"
   },
   "phase4:aie-2026-07-31-biology-data-analysis-verifiable-substrate": {
-    "hash": "1d1bf900c20675dc27848a6921f351cc3b4f0dccf07d4fa0b1aafcf00ab90293",
+    "hash": "b3615bb04670b759faea9222f9bba53ae9074670e3cc5a7170980d38b2b11a4a",
     "slug": "aie-2026-07-31-biology-data-analysis-verifiable-substrate",
-    "synced_at": "2026-07-31T22:59:01.117725+00:00"
+    "synced_at": "2026-10-17T00:09:46.870853+00:00"
   },
   "phase4:aie-2026-07-31-curator-synthetic-data-pipeline": {
     "hash": "7d04f0d31d8c445cf249b5c39690d65fa8d5f8b928cac5d6eccc05efa15f860b",
@@ -1215,9 +1215,9 @@
     "synced_at": "2026-07-31T22:59:01.116365+00:00"
   },
   "phase4:aie-2026-07-31-emulated-multi-node-infra-sandbox": {
-    "hash": "b5f1a3564aa1cb0c65b01aa625c2ab1e2a1be2366a7fd4e8989d84355c3d6e1d",
+    "hash": "6ad00fddf21762bec4cd9815aa80d5b838bf43014f5d5d1960f32b2a4dae30f2",
     "slug": "aie-2026-07-31-emulated-multi-node-infra-sandbox",
-    "synced_at": "2026-07-31T22:59:01.117113+00:00"
+    "synced_at": "2026-10-17T00:09:46.870506+00:00"
   },
   "phase4:aie-2026-07-31-environment-supervised-learning-signal": {
     "hash": "7518223dae2e2fee86956c266985c023db0ffaad3e979701dab255497bbad7ae",
@@ -1235,9 +1235,9 @@
     "synced_at": "2026-07-31T22:59:01.117574+00:00"
   },
   "phase4:aie-2026-07-31-minimax-self-evolution-harness": {
-    "hash": "89ef2d19aa9bb16706a1599f6a42026f6480f06b7a936d1c6741421a4e74cca6",
+    "hash": "05d8aba298bfe2ef008159185827b2ce8f34176c019efc232ad282acd458464f",
     "slug": "aie-2026-07-31-minimax-self-evolution-harness",
-    "synced_at": "2026-07-31T22:59:01.118652+00:00"
+    "synced_at": "2026-10-17T00:09:46.871464+00:00"
   },
   "phase4:aie-2026-07-31-multi-sandbox-parallel-rollouts": {
     "hash": "4218db6fc9d031e9ef542f3a9bbb5520b62ce3de7fe7dc71cc5a5d1401782365",
@@ -1275,14 +1275,14 @@
     "synced_at": "2026-08-02T22:55:48.544450+00:00"
   },
   "phase4:aie-2026-08-02-custom-harness-post-training": {
-    "hash": "7c068d16731c4d0937de36ab9c2fe0bf879102e52731277a0a7e4eae107fface",
+    "hash": "66b47a0e12bc2cdb1f126bdec48feb833cd7caa3892267e1586ad45d4beb351c",
     "slug": "aie-2026-08-02-custom-harness-post-training",
-    "synced_at": "2026-08-02T22:55:48.546071+00:00"
+    "synced_at": "2026-10-17T00:09:46.872211+00:00"
   },
   "phase4:aie-2026-08-02-cybersec-rl-difficulty-ladder": {
-    "hash": "46dc4ec651dcbbde2d6ee8b414bcdbb6311d205e69e44c6db8119ad9762a763c",
+    "hash": "0f6a65034e993d61a77b97312c367b900af446638066fb4e78909c3189d3d57e",
     "slug": "aie-2026-08-02-cybersec-rl-difficulty-ladder",
-    "synced_at": "2026-08-02T22:55:48.544792+00:00"
+    "synced_at": "2026-10-17T00:09:46.871865+00:00"
   },
   "phase4:aie-2026-08-02-data-quality-compute-multiplier": {
     "hash": "8dd270c49402cd8fac0098daa109fa2e328c0d4dc4b44247cdd7249259608d24",
@@ -1305,14 +1305,14 @@
     "synced_at": "2026-08-02T22:55:48.545420+00:00"
   },
   "phase4:aie-2026-08-03-mcp-apps-interactive-ui-over-mcp": {
-    "hash": "38e313a4c87bb4a8c053298525552a991de09596a2945e60ed858d4ee0f2022b",
+    "hash": "5183f9f0ad9f24768e6588070eebb186a6ee349366ad48fe0bb5f5587be30726",
     "slug": "aie-2026-08-03-mcp-apps-interactive-ui-over-mcp",
-    "synced_at": "2026-08-03T22:58:52.717412+00:00"
+    "synced_at": "2026-10-17T00:09:46.872501+00:00"
   },
   "phase4:aie-2026-08-03-turbopuffer-campfire-async-collab": {
-    "hash": "50f03fd94ab12a7c73fc013bfc696b8d25d830f0ffa0e691e743ea454a9121b9",
+    "hash": "6dc68ca843f3f4c865d9e044222530d33e4a820110b3fb24e8f52b50ce5bf01a",
     "slug": "aie-2026-08-03-turbopuffer-campfire-async-collab",
-    "synced_at": "2026-08-03T22:58:52.717788+00:00"
+    "synced_at": "2026-10-17T00:09:46.872867+00:00"
   },
   "phase4:aie-2026-08-07-dynamic-quantization-layer-selection": {
     "hash": "c438b7b26a64f07b9abf8f85bb2904ba18f11744fe58447a77a25323c6b0bde3",
@@ -1320,14 +1320,14 @@
     "synced_at": "2026-08-07T22:33:24.479783+00:00"
   },
   "phase4:aie-2026-08-07-frontier-delegates-to-impl-model": {
-    "hash": "79e6c21b6cf51da6a4e00926dd8288cffb6fd2225ef8e22a1dcefa9462d16f95",
+    "hash": "fa9630409586e65c075dd9876fcaf5bffc7efa0783ca9171dbdb0e4facd581a1",
     "slug": "aie-2026-08-07-frontier-delegates-to-impl-model",
-    "synced_at": "2026-08-07T01:29:11.325220+00:00"
+    "synced_at": "2026-10-17T00:09:46.873445+00:00"
   },
   "phase4:aie-2026-08-07-sandboxed-vibe-coded-gadgets": {
-    "hash": "971796491c34e30a42a244720133f3364b978214abadd1825fbbed349672b2b8",
+    "hash": "e8c5e62504cce6ce8c4d81c2598ade2815f94dd4289c03b040b614ec35522f60",
     "slug": "aie-2026-08-07-sandboxed-vibe-coded-gadgets",
-    "synced_at": "2026-08-07T01:29:11.325548+00:00"
+    "synced_at": "2026-10-17T00:09:46.873711+00:00"
   },
   "phase4:aie-2026-08-08-agentic-workflow-natural-language": {
     "hash": "6c8939921d41b351c4b58b1e3bf8d3b6f12c3cc0d1a69e6a8c2995d295cfaca9",
@@ -1350,14 +1350,14 @@
     "synced_at": "2026-08-08T22:27:50.977129+00:00"
   },
   "phase4:aie-2026-08-08-realtime-multiplayer-shared-doc": {
-    "hash": "bbe544d65f6db8650dbced89507ffb7395d453528c5992d4b7d764403816fc13",
+    "hash": "fbe131a9c8dd87eaa64f7f0c821c58ac250ac834d50b6e52755ed4fcda3c1bbc",
     "slug": "aie-2026-08-08-realtime-multiplayer-shared-doc",
-    "synced_at": "2026-08-08T22:27:50.976468+00:00"
+    "synced_at": "2026-10-17T00:09:46.874349+00:00"
   },
   "phase4:aie-2026-08-09-ai-native-primitives": {
-    "hash": "d0f12a1b1a9934e37b0bf0a61dce09b283541498c0d185435e4acc55e7efe91e",
+    "hash": "71492283c4daa4c582f4f85f87a0ebc13e8527405755f38eaf0216b81fe792ce",
     "slug": "aie-2026-08-09-ai-native-primitives",
-    "synced_at": "2026-08-09T22:29:14.510618+00:00"
+    "synced_at": "2026-10-17T00:09:46.875304+00:00"
   },
   "phase4:aie-2026-08-09-always-on-oncall-agent": {
     "hash": "bd43571e1e9c13b4f688d383e2096acfaf29e217925e6dd0371c8dbcc524379e",
@@ -1390,9 +1390,9 @@
     "synced_at": "2026-08-09T22:29:14.510939+00:00"
   },
   "phase4:aie-2026-08-09-model-agnostic-benchmarking": {
-    "hash": "e27511346d08b9eb7d7c91fd6abb9a79b3e625a8db18d537b2d2295e46fda216",
+    "hash": "76614937a48a121bce445b95d5e82ce01fc809806adee4539a70946c27d99ae2",
     "slug": "aie-2026-08-09-model-agnostic-benchmarking",
-    "synced_at": "2026-08-09T22:29:14.508363+00:00"
+    "synced_at": "2026-10-17T00:09:46.874984+00:00"
   },
   "phase4:aie-2026-08-09-multiplayer-agent-sessions": {
     "hash": "c09b555edfea234d42bfbb4d22b6f8265dbb9bfb15b7c7534fb7ecd6a5d05f6d",
@@ -1440,24 +1440,24 @@
     "synced_at": "2026-08-12T22:38:55.751903+00:00"
   },
   "phase4:aie-2026-08-12-llm-knowledge-base-enrichment": {
-    "hash": "058c0cb90d09a29d3a0d319d759cb97b9563a0c4f46b8fe841fdc4a1ecfd59ab",
+    "hash": "94c776538c85927b58e19461f7a92656fa9ccea5a5a1a457f0abe3b344c93a78",
     "slug": "aie-2026-08-12-llm-knowledge-base-enrichment",
-    "synced_at": "2026-08-12T22:38:55.751495+00:00"
+    "synced_at": "2026-10-17T00:09:46.876933+00:00"
   },
   "phase4:aie-2026-08-12-online-per-step-hinting-distillation": {
-    "hash": "294a93bb473100ef5e1019dc71b46a10b44f1620b2713a640cd356caa1c0ebf9",
+    "hash": "2702d30fe0ad144d027926eb829e274694f2bd21843881af7f4a85979e3dafa1",
     "slug": "aie-2026-08-12-online-per-step-hinting-distillation",
-    "synced_at": "2026-08-12T22:38:55.752291+00:00"
+    "synced_at": "2026-10-17T00:09:46.877217+00:00"
   },
   "phase4:aie-2026-08-12-ranked-recall-policy-memory-harness": {
-    "hash": "f391b2db262ae11c3e15e07ebe9dbfef41c67bea53793e34b327c370c5f8fdd2",
+    "hash": "742c7367c8b4b1d662c15fb7f57263642f5bb8e23fa903731d2fe5c7c53f9d4e",
     "slug": "aie-2026-08-12-ranked-recall-policy-memory-harness",
-    "synced_at": "2026-08-12T22:38:55.751095+00:00"
+    "synced_at": "2026-10-17T00:09:46.876659+00:00"
   },
   "phase4:aie-2026-08-13-autoscientist-gradient-free-continual-learning": {
-    "hash": "ea2ad0a47a435c31d6587e6863e4fe6ddc3eae1220c0960a35ecf74285025636",
+    "hash": "7ab28d330d96a1c026c8126e2b4714a48d45fc363f51791e20dc35fc1acd3e9c",
     "slug": "aie-2026-08-13-autoscientist-gradient-free-continual-learnin",
-    "synced_at": "2026-08-13T22:39:38.534817+00:00"
+    "synced_at": "2026-10-17T00:09:46.877542+00:00"
   },
   "phase4:aie-2026-08-13-continual-learning-benchmark-design": {
     "hash": "388d277071e9b9ab6d6e998eef03b45963e454c34a5a4bf7c51d0dbab15c7c68",
@@ -1490,9 +1490,9 @@
     "synced_at": "2026-08-14T22:20:54.121169+00:00"
   },
   "phase4:aie-2026-08-14-caas-owned-vs-rented-context": {
-    "hash": "21f3fbe029b45d0472290aaa3096f5d89445932a1c8ed3f9a60a17b497bbe82b",
+    "hash": "e063b0b29700b12b711f24ede22d5bd0f1ae9347695a52ef52315a47853bcbaa",
     "slug": "aie-2026-08-14-caas-owned-vs-rented-context",
-    "synced_at": "2026-08-14T22:20:54.120348+00:00"
+    "synced_at": "2026-10-17T00:09:46.878218+00:00"
   },
   "phase4:aie-2026-08-14-cdp-meatbag-ladder-captcha": {
     "hash": "f5f5f31b80c1b3d61c12d9c35c07a2c0d592252cf1170f43b071b760c440d884",
@@ -1505,9 +1505,9 @@
     "synced_at": "2026-08-14T22:20:54.121739+00:00"
   },
   "phase4:aie-2026-08-14-cu-benchmark-stochastic-envs": {
-    "hash": "987109588b93ffd5e4bf4f67ac1c1204603deea41d47281690226c04128cab40",
+    "hash": "65ef3d2b8a25b8cb972d8042dfc8434760a1b38863142eec2ca6784a4179ae18",
     "slug": "aie-2026-08-14-cu-benchmark-stochastic-envs",
-    "synced_at": "2026-08-14T22:20:54.121440+00:00"
+    "synced_at": "2026-10-17T00:09:46.878520+00:00"
   },
   "phase4:aie-2026-08-14-rl-agent-real-world-harness": {
     "hash": "c0b707383fdf5825152fd5828aa7ba7a12b30993fd21bed36321d72371441bf4",
@@ -1515,14 +1515,14 @@
     "synced_at": "2026-08-14T22:20:54.120624+00:00"
   },
   "phase4:aie-2026-08-14-web-data-pipeline-multimodal": {
-    "hash": "b50c4e9542ef55391ac307a735df92fba99ba3dc74f22e06c62523535910896f",
+    "hash": "cc6b53a5b307d6461a811fd864ff4b3a6c407b1ac015d077b96d9e1bed9d2249",
     "slug": "aie-2026-08-14-web-data-pipeline-multimodal",
-    "synced_at": "2026-08-14T22:20:54.120078+00:00"
+    "synced_at": "2026-10-17T00:09:46.877903+00:00"
   },
   "phase4:aie-2026-08-17-agent-network-firewall": {
-    "hash": "8dcd09e74a9bc9b194c1b6c4a8842d47220f29838c7f88b3371475078c50b5a5",
+    "hash": "33d8834c2f804fb79afbcd29114a7749f6931583e3d18811b0e5a8c7ab3a5813",
     "slug": "aie-2026-08-17-agent-network-firewall",
-    "synced_at": "2026-08-17T22:22:28.535719+00:00"
+    "synced_at": "2026-10-17T00:09:46.878928+00:00"
   },
   "phase4:aie-2026-08-17-ai-slot-register": {
     "hash": "7fd70a6cb6be6f2d24e697adf15c41f03a7da788cd708e84c21310c4bce33e60",
@@ -1535,9 +1535,9 @@
     "synced_at": "2026-08-17T22:22:28.535852+00:00"
   },
   "phase4:aie-2026-08-18-agentic-video-editor-remotion": {
-    "hash": "2d3047b3e4c4c04242b77cf77bd5c158cae6f41d2fc8b80313d5de8317a14164",
+    "hash": "d35b9d4482d479cc74d02c96b0d92c7dd88459cff30e6280941669235ff87b94",
     "slug": "aie-2026-08-18-agentic-video-editor-remotion",
-    "synced_at": "2026-08-18T22:21:44.809680+00:00"
+    "synced_at": "2026-10-17T00:09:46.879859+00:00"
   },
   "phase4:aie-2026-08-18-large-scale-training-infra-metrics": {
     "hash": "64afaf05e380817d79d9d25936be0e2ec196d260fc79f38a1649dabdfbf880f7",
@@ -1555,9 +1555,9 @@
     "synced_at": "2026-08-18T22:21:44.810650+00:00"
   },
   "phase4:aie-2026-08-18-realtime-interactive-video-integration": {
-    "hash": "a4a7065f855cbe294df4789db45e117967935f071f2c0115d49792d178e4f5ea",
+    "hash": "0546a7fea3cffcb8c124e3a8c027597eba918fbaf4b007a902d284a8230abd52",
     "slug": "aie-2026-08-18-realtime-interactive-video-integration",
-    "synced_at": "2026-08-18T22:21:44.809043+00:00"
+    "synced_at": "2026-10-17T00:09:46.879537+00:00"
   },
   "phase4:aie-2026-08-18-stylistic-diversity-data-curation": {
     "hash": "83db6a15aba8c5ed0a1bf1c7450cb2ca9ecc62478736c57687fbecfa02474798",
@@ -1580,9 +1580,9 @@
     "synced_at": "2026-08-19T22:22:49.317800+00:00"
   },
   "phase4:aie-2026-08-19-deterministic-code-layer-above-model": {
-    "hash": "6a55a305da89862fb0d5b43b85084c3d5efc0d391283f76e53623f0ab4ac9030",
+    "hash": "848c05bc91d3c472c90d6c4463ea3f256c11aced7b71ca4b3170c60290a6ef33",
     "slug": "aie-2026-08-19-deterministic-code-layer-above-model",
-    "synced_at": "2026-08-19T22:22:49.317497+00:00"
+    "synced_at": "2026-10-17T00:09:46.881882+00:00"
   },
   "phase4:aie-2026-08-19-hippocratic-latency-intelligence-tradeoff": {
     "hash": "b7bda41b35c0d7c46c06d231dd8f8f9396458d2b9a9b18461067460e3693276f",
@@ -1590,9 +1590,9 @@
     "synced_at": "2026-08-19T22:22:49.316560+00:00"
   },
   "phase4:aie-2026-08-19-immutable-ledger-audit-trail": {
-    "hash": "4076a30287bbe3dcd256269ca91a9348135f8a77c2c7f778d6e36750cda7e803",
+    "hash": "313acf4ebd2012772e4d8ac71a5c3f66b799eca47414b803f107bf12e19e424a",
     "slug": "aie-2026-08-19-immutable-ledger-audit-trail",
-    "synced_at": "2026-08-19T22:22:49.314257+00:00"
+    "synced_at": "2026-10-17T00:09:46.881236+00:00"
   },
   "phase4:aie-2026-08-19-object-storage-privacy-evals": {
     "hash": "a53cc26a91b065aa5938bc46333a7219fcf81fe8ff2ce77b34ddf3c3d6e920d7",
@@ -1600,9 +1600,9 @@
     "synced_at": "2026-08-19T22:22:49.314604+00:00"
   },
   "phase4:aie-2026-08-19-realtime-generative-video-inference": {
-    "hash": "aec0b13d9105c65e2bfb15496fa3562e82e1ccc92cd48f922d5159f4fe89ee02",
+    "hash": "58eda7041e2121eac906b01f8203b1583d8e3883ca90802cb255b12faa24e490",
     "slug": "aie-2026-08-19-realtime-generative-video-inference",
-    "synced_at": "2026-08-19T22:22:49.318098+00:00"
+    "synced_at": "2026-10-17T00:09:46.882178+00:00"
   },
   "phase4:aie-2026-08-19-reverse-inference-synthetic-data": {
     "hash": "e114eb17162e9121cb2d505165f6c515d29a9b8eee321f57aeff6882e3bcd095",
@@ -1615,9 +1615,9 @@
     "synced_at": "2026-08-19T22:22:49.317169+00:00"
   },
   "phase4:aie-2026-08-19-skills-based-domain-expert-pipeline": {
-    "hash": "27c3443f15861123728539a518d68e47e5bcd8fe2f231582bad7a9c09ed0fa84",
+    "hash": "ae21ee3e11d48972a956f287f042b665358b7fc4a3255cd3e3ab6d82695d4b2a",
     "slug": "aie-2026-08-19-skills-based-domain-expert-pipeline",
-    "synced_at": "2026-08-19T22:22:49.315217+00:00"
+    "synced_at": "2026-10-17T00:09:46.881505+00:00"
   },
   "phase4:aie-2026-08-19-vertical-ai-seven-step-recipe": {
     "hash": "9f6f90a7a1c9dcc2dbc159b964f6f5270debbb9443bd4c63ab4b60c4407273f2",
@@ -1625,9 +1625,9 @@
     "synced_at": "2026-08-19T22:22:49.315857+00:00"
   },
   "phase4:aie-2026-08-19-world-model-avatar-eq-iq-split": {
-    "hash": "13b44a02475dd897ea7a675391dc775ec0f35788421eab6aeaa119830687c9a0",
+    "hash": "9be2aa6487fad447b2376e3566a19470a99ec07ef592f56516bfec34df8a0227",
     "slug": "aie-2026-08-19-world-model-avatar-eq-iq-split",
-    "synced_at": "2026-08-19T22:22:49.318411+00:00"
+    "synced_at": "2026-10-17T00:09:46.882471+00:00"
   },
   "phase4:aie-2026-08-19-x12-standard-schema-agent-harness": {
     "hash": "0c61de21f0e6a1319a3f623a6dfa4324cfb64d1f3c63aa3f778cdf7099d2740b",
@@ -1650,9 +1650,9 @@
     "synced_at": "2026-08-20T22:25:52.869158+00:00"
   },
   "phase4:aie-2026-08-20-cto-prototyping-overnight-agent-runs": {
-    "hash": "eb6d22113572aa801ddbe693df9ecea0ff847ecda832db39a666790c2705cfc1",
+    "hash": "b9533522ceeb4d9e8e135d7b15104718f863f849ffcbf6e8cdf710a7559761f3",
     "slug": "aie-2026-08-20-cto-prototyping-overnight-agent-runs",
-    "synced_at": "2026-08-20T22:25:52.869756+00:00"
+    "synced_at": "2026-10-17T00:09:46.883183+00:00"
   },
   "phase4:aie-2026-08-20-decawork-agent-identity-lifecycle": {
     "hash": "e519cf7302e8fc5535c408db5fefd25b17bdec24b54daeb887f1e5cfb2e2175d",
@@ -1670,9 +1670,9 @@
     "synced_at": "2026-08-20T22:25:52.868329+00:00"
   },
   "phase4:aie-2026-08-20-huggingface-research-outreach-agent": {
-    "hash": "7c61dbe3ed2405b2afeca1734ca22b1cc17df165b70777ad7b68c318c361ef05",
+    "hash": "df3103afc522d2514e43c26652e1d017f958dcf710ca74a2199b4d898f69bc07",
     "slug": "aie-2026-08-20-huggingface-research-outreach-agent",
-    "synced_at": "2026-08-20T22:25:52.868612+00:00"
+    "synced_at": "2026-10-17T00:09:46.882848+00:00"
   },
   "phase4:aie-2026-08-20-qodo-ai-code-review-context-codification": {
     "hash": "5458018b7a199f617c24c22a7cb539616382894ae46ddda015cbe8a3ec3bfcd8",
@@ -1690,9 +1690,9 @@
     "synced_at": "2026-08-21T22:23:08.441913+00:00"
   },
   "phase4:aie-2026-08-21-uber-agentic-sdlc-inner-outer-loop": {
-    "hash": "68b1aa2bc3180e111e63945aa142e4fc9ed689eab188166ac9f446dd33144f5c",
+    "hash": "ed31cbdc9ff2b8a781e0086b5a8da91af9d81bd5116db366c0dbe5073008305c",
     "slug": "aie-2026-08-21-uber-agentic-sdlc-inner-outer-loop",
-    "synced_at": "2026-08-21T22:23:08.442130+00:00"
+    "synced_at": "2026-10-17T00:09:46.883545+00:00"
   },
   "phase4:aie-2026-08-22-agent-budget-primitives": {
     "hash": "865192b42f11a5d0f6300bcbcc552459cbb68b3c1a1a0cc00703b6afd12ff64a",
@@ -1700,9 +1700,9 @@
     "synced_at": "2026-08-22T22:20:03.221831+00:00"
   },
   "phase4:aie-2026-08-22-agent-frameworks-yaml-first": {
-    "hash": "4cbcfee3353f578d95e094c6d964a508e2a3fde86fe3bc58f98e413cebedaaf4",
+    "hash": "898133778360ab58aac116b8c780131158801bc910be4d17101316ded2b569f0",
     "slug": "aie-2026-08-22-agent-frameworks-yaml-first",
-    "synced_at": "2026-08-22T22:20:03.220716+00:00"
+    "synced_at": "2026-10-17T00:09:46.884409+00:00"
   },
   "phase4:aie-2026-08-22-chip-design-shared-nervous-system": {
     "hash": "1c97852a362eb0896df1afe32d3635a64971469d988d9590f3a09b1d6da83b86",
@@ -1730,14 +1730,14 @@
     "synced_at": "2026-08-22T22:20:03.221570+00:00"
   },
   "phase4:aie-2026-08-22-warp-cloud-agent-platform": {
-    "hash": "9b8febfc1094b7db43c2d17a85cbd16ce7caf82bb2ededa16b015251ffeb4a9d",
+    "hash": "dffb2791ee4b23dd3ae098daaa9ced436200ce7b4164d51f7749208682714271",
     "slug": "aie-2026-08-22-warp-cloud-agent-platform",
-    "synced_at": "2026-08-22T22:20:03.220271+00:00"
+    "synced_at": "2026-10-17T00:09:46.884114+00:00"
   },
   "phase4:aie-2026-08-25-einstein-arena-environment-design": {
-    "hash": "0277ac74b1f77a22c880e0ea1e2b741c43cdbc9fc6a48c7cbf5cfc6052425222",
+    "hash": "053b45fddc75db5e0eed12b61e864c4b925dbddb67a945cdbe0206c3d99754e2",
     "slug": "aie-2026-08-25-einstein-arena-environment-design",
-    "synced_at": "2026-08-25T22:25:25.273083+00:00"
+    "synced_at": "2026-10-17T00:09:46.885683+00:00"
   },
   "phase4:aie-2026-08-27-agent-advocate-devrel-evals": {
     "hash": "7621fb680bd758eb560086be67f3d88ae9f852e582f399d59629c0e61537db50",
@@ -1800,14 +1800,14 @@
     "synced_at": "2026-08-29T23:53:45.987710+00:00"
   },
   "phase4:aie-2026-08-29-air-gapped-ai-data-diode": {
-    "hash": "69c8ee31cc240bea392e566a88ea6f95f89ccb7fa14a8e7423b915b28ad43038",
+    "hash": "869a73d6d3b843366dca301bed88c920576eb89c860657c5a0dc16f37588282c",
     "slug": "aie-2026-08-29-air-gapped-ai-data-diode",
-    "synced_at": "2026-08-29T23:53:45.988801+00:00"
+    "synced_at": "2026-10-17T00:09:46.887670+00:00"
   },
   "phase4:aie-2026-08-29-amazon-frontier-dev-parallel-agents": {
-    "hash": "96486bec36de24ccdd358a3660d01575fbf6ed5a19c74d74a543bc39ed409242",
+    "hash": "40b0b55c2701e13fb539a814b29bb8d103619fdd9cf8a37be4b0a664ebc01d11",
     "slug": "aie-2026-08-29-amazon-frontier-dev-parallel-agents",
-    "synced_at": "2026-08-29T23:53:45.990780+00:00"
+    "synced_at": "2026-10-17T00:09:46.888371+00:00"
   },
   "phase4:aie-2026-08-29-distributed-systems-agent-guardrails": {
     "hash": "2b6786ec04e410522897bb87180cff30d9924ff73ebb5cac6ac0c74f29196a72",
@@ -1840,9 +1840,9 @@
     "synced_at": "2026-08-29T23:53:45.987148+00:00"
   },
   "phase4:aie-2026-08-29-six-month-infra-review-cycle": {
-    "hash": "603c8de75bd092ea7b8542044bfe138d733a5c099d058911390cf47bc29479a9",
+    "hash": "782ef392f4567b364c67e86fcfad10e53eb8e58ba4e0f0c69febe0e536e4f4ee",
     "slug": "aie-2026-08-29-six-month-infra-review-cycle",
-    "synced_at": "2026-08-29T23:53:45.989091+00:00"
+    "synced_at": "2026-10-17T00:09:46.887944+00:00"
   },
   "phase4:aie-2026-08-29-skills-registry-governance": {
     "hash": "279bbebf4effb4da46acf9054f4978e1498bea534e70e67e66c0523d14459a09",
@@ -1855,9 +1855,9 @@
     "synced_at": "2026-08-29T23:53:45.987430+00:00"
   },
   "phase4:aie-2026-08-29-strands-robot-agentic-layer": {
-    "hash": "fb5c2d552d494aa579df6150a18f99df9d950f5558c5748283cdc26fdf594fad",
+    "hash": "f1a6b6580a77dadac4baa14418b517823eeda0847c1feb6acd7d1eabe1acec05",
     "slug": "aie-2026-08-29-strands-robot-agentic-layer",
-    "synced_at": "2026-08-29T23:53:45.986842+00:00"
+    "synced_at": "2026-10-17T00:09:46.887266+00:00"
   },
   "phase4:aie-2026-08-29-trusted-throughput-token-roi": {
     "hash": "5411868fabee2a69f71e8b981b4f7a73f98cc02e0f0f7e3ade9f6a0e851dcf3a",
@@ -1865,9 +1865,9 @@
     "synced_at": "2026-08-29T23:53:45.988533+00:00"
   },
   "phase4:aie-2026-08-30-omni-flash-multimodal-input-video-output-api": {
-    "hash": "fc8cc1f2354bcb330a27d19444066df5401dc23378e55fb7833b352c66cfe4da",
+    "hash": "288a2b43f79f1d88e3ead45c9cebddeb4a6cbaa9d1db6ba3083776aaa8d27ff1",
     "slug": "aie-2026-08-30-omni-flash-multimodal-input-video-output-api",
-    "synced_at": "2026-08-31T00:12:40.924825+00:00"
+    "synced_at": "2026-10-17T00:09:46.889212+00:00"
   },
   "phase4:aie-2026-09-01-agent-authorization-stakes-matrix": {
     "hash": "943760e9af53bfcf93fd3b2ebf3ede8d345face19cb0e0837071444836027a71",
@@ -1875,24 +1875,24 @@
     "synced_at": "2026-09-01T23:48:33.172183+00:00"
   },
   "phase4:aie-2026-09-01-agent-payment-compliance-screening": {
-    "hash": "38f0e4a77b2e16dcd51b9b3050ee3b1a753f6cd1f1c055e30783624d3669058b",
+    "hash": "4d0e821007d514b92cdd4b348a9f021ea39a88cb27f4674a49a618827a5432e1",
     "slug": "aie-2026-09-01-agent-payment-compliance-screening",
-    "synced_at": "2026-09-01T23:48:33.171530+00:00"
+    "synced_at": "2026-10-17T00:09:46.890421+00:00"
   },
   "phase4:aie-2026-09-01-circle-agent-wallet-nanopayments": {
-    "hash": "9a82a96bd4381f86ef2dc780f636b4b507e4fe2e30d406d193ad274965a27eb0",
+    "hash": "58351710dab73b923be3e024a7d9ffd405bf022ff6e7d1fd2e148d31c1cbc43b",
     "slug": "aie-2026-09-01-circle-agent-wallet-nanopayments",
-    "synced_at": "2026-09-01T23:48:33.172809+00:00"
+    "synced_at": "2026-10-17T00:09:46.891030+00:00"
   },
   "phase4:aie-2026-09-01-duna-agentic-identity-registry": {
-    "hash": "aac99b838cd11f3a836b477becdf1e4c62e9dab4bd0728a80f902a72b1beb633",
+    "hash": "0cd352f6065e0b08801c1da4dd7df50c5ac1861a3b574973c5e55268eef19eee",
     "slug": "aie-2026-09-01-duna-agentic-identity-registry",
-    "synced_at": "2026-09-01T23:48:33.170869+00:00"
+    "synced_at": "2026-10-17T00:09:46.889886+00:00"
   },
   "phase4:aie-2026-09-01-intent-driven-ux-component-hierarchy": {
-    "hash": "415a1001f63330df26765caa39f946b82d0bfdf8161af569d02c939b5916a75e",
+    "hash": "80b8425c1f2527923612542a0c6ea6a13b9830a5a9d1e593ab95a75fb2324220",
     "slug": "aie-2026-09-01-intent-driven-ux-component-hierarchy",
-    "synced_at": "2026-09-01T23:48:33.171220+00:00"
+    "synced_at": "2026-10-17T00:09:46.890157+00:00"
   },
   "phase4:aie-2026-09-01-multimodal-fuzzy-intent-shopping-loop": {
     "hash": "97d5c8717dc8b43a289a2c7efa8dc1bc90d69aaae071b8079482df8b59907466",
@@ -1900,14 +1900,14 @@
     "synced_at": "2026-09-01T23:48:33.173137+00:00"
   },
   "phase4:aie-2026-09-01-ucp-merchant-capabilities-manifest": {
-    "hash": "61f7e0314c6e9a26165886aff666e06742540703d5ca28b70e9e473a5473baf2",
+    "hash": "37c5fff7af457f705f449722612ce344e23725871e1f546aaed9ccb0c0b4be21",
     "slug": "aie-2026-09-01-ucp-merchant-capabilities-manifest",
-    "synced_at": "2026-09-01T23:48:33.173457+00:00"
+    "synced_at": "2026-10-17T00:09:46.891317+00:00"
   },
   "phase4:aie-2026-09-01-x402-aws-edge-paywall-monetization": {
-    "hash": "69a4add1b9647ad7cf0199d023b56706511ae1bf7098da90778f39c481886386",
+    "hash": "effcaf283410843b75e56af7df14d414f3ef87564c40aa3b89eb163734b93ed4",
     "slug": "aie-2026-09-01-x402-aws-edge-paywall-monetization",
-    "synced_at": "2026-09-01T23:48:33.172501+00:00"
+    "synced_at": "2026-10-17T00:09:46.890747+00:00"
   },
   "phase4:aie-2026-09-01-x402-rough-edges-agi-interface": {
     "hash": "073795897939c78620718dab5113dc6c90c44aa7c142173d729d49aa1d774ed1",
@@ -1915,9 +1915,9 @@
     "synced_at": "2026-09-01T23:48:33.171848+00:00"
   },
   "phase4:aie-2026-09-03-composio-knowledge-work-six-primitives": {
-    "hash": "4493b5f452f53b6902fd4cbfca1ba76dbf1e55c07790a748d9ad84e03bbb4043",
+    "hash": "488b43701a747971bdf06e79c9827dc31491834fc0d03d9d3f4e73a143e3032c",
     "slug": "aie-2026-09-03-composio-knowledge-work-six-primitives",
-    "synced_at": "2026-09-03T23:47:27.993868+00:00"
+    "synced_at": "2026-10-17T00:09:46.892281+00:00"
   },
   "phase4:aie-2026-09-03-composio-sandbox-reversibility": {
     "hash": "1fa28f85d749de34b1cecda31ecd4dfd1c0ef68e904ec2957ace5132a0136f4e",
@@ -1945,14 +1945,14 @@
     "synced_at": "2026-09-03T23:47:27.995535+00:00"
   },
   "phase4:aie-2026-09-03-twosigma-xlm-agent-header-attribution": {
-    "hash": "3de072b822b00d7d07df97d8e761f56246671cb71bf74dbfb92e3e01adfe740e",
+    "hash": "4f56c951f6284134a40e64a829f7d1b14d72322fd8af16ca990611bf69f8b74a",
     "slug": "aie-2026-09-03-twosigma-xlm-agent-header-attribution",
-    "synced_at": "2026-09-03T23:47:27.995870+00:00"
+    "synced_at": "2026-10-17T00:09:46.892620+00:00"
   },
   "phase4:aie-2026-09-03-zo-personal-cloud-agent-hosting": {
-    "hash": "336ee4dc1eb74f3c0326b5cd222a33bebd11cd3fd7541e1272a17af9976dee80",
+    "hash": "7dcf097a8058814b995d2e76ceb67d293a4065f670fa2924ec50b1eec8207685",
     "slug": "aie-2026-09-03-zo-personal-cloud-agent-hosting",
-    "synced_at": "2026-09-03T23:47:27.996171+00:00"
+    "synced_at": "2026-10-17T00:09:46.892888+00:00"
   },
   "phase4:aie-2026-09-04-minimax-sparse-attention-long-context-agents": {
     "hash": "65a4106449821353ab79d03afc540b8142a549bd002e89f48c7003ffbf87c394",
@@ -1960,14 +1960,14 @@
     "synced_at": "2026-09-04T23:44:18.788886+00:00"
   },
   "phase4:aie-2026-09-08-llm-inference-at-scale-workshop": {
-    "hash": "dbd589ab5fe94fc9c166584112bf1a3c441d26de9dfb5bc765ff13570a201f30",
+    "hash": "6553222f25621ca7568630d984010e6004eb3f5f387fd6f5e7e6e2bc948aa7cd",
     "slug": "aie-2026-09-08-llm-inference-at-scale-workshop",
-    "synced_at": "2026-09-08T23:50:58.948027+00:00"
+    "synced_at": "2026-10-17T00:09:46.894990+00:00"
   },
   "phase4:aie-2026-09-09-acp-universal-agent-client-protocol": {
-    "hash": "c087a02b0dd2fc087a054e81cca3136dc073b616b22aa7e7f852496ad7540dad",
+    "hash": "79032851fef4162610aba42f9e832d52df10a46233c5617cb777bec86ef67da2",
     "slug": "aie-2026-09-09-acp-universal-agent-client-protocol",
-    "synced_at": "2026-09-09T23:50:53.077346+00:00"
+    "synced_at": "2026-10-17T00:09:46.895626+00:00"
   },
   "phase4:aie-2026-09-09-ifscale-instruction-following-ceiling": {
     "hash": "b4913eacb3d9d542b2e04283138b913a11a2d723b1a56a1b1e080ecca6b9745a",
@@ -2030,14 +2030,14 @@
     "synced_at": "2026-09-10T23:44:23.612623+00:00"
   },
   "phase4:aie-2026-09-10-tldraw-agent-canvas-spatial-coordination": {
-    "hash": "dc9de18befe9fcafbf9a4db0a706d2cb805e0531a839183f49a73b01eadffef2",
+    "hash": "645e5b3d12af68331b25eb3d527fce7860276de73d5fac359a29da2fa17f2cbe",
     "slug": "aie-2026-09-10-tldraw-agent-canvas-spatial-coordination",
-    "synced_at": "2026-09-10T23:44:23.614013+00:00"
+    "synced_at": "2026-10-17T00:09:46.896386+00:00"
   },
   "phase4:aie-2026-09-11-architecture-first-agent-coding": {
-    "hash": "fd8f495d6a2101bfffe0cd46441e94ec4848821aa8470d560d26f000072015ba",
+    "hash": "9a1bf167dd829da816e0c9fe1351de54ed7b2600da1b3b93641dc9cd63dec985",
     "slug": "aie-2026-09-11-architecture-first-agent-coding",
-    "synced_at": "2026-09-11T23:53:17.275421+00:00"
+    "synced_at": "2026-10-17T00:09:46.896951+00:00"
   },
   "phase4:aie-2026-09-14-agents-as-files": {
     "hash": "452561273bd8ac0e98964d0cd75bf968c78187b07aecd59f0d25ca2220e7ac73",
@@ -2045,9 +2045,9 @@
     "synced_at": "2026-09-15T00:19:10.309768+00:00"
   },
   "phase4:aie-2026-09-14-aws-harness-engineering": {
-    "hash": "33fe2eb72f28521440ccce791a9f510c57e6758798a7d3e08a1beed7f5030572",
+    "hash": "812fe8d03d211403379356252f9b982188c4b250855a70686f7e392f1c82a323",
     "slug": "aie-2026-09-14-aws-harness-engineering",
-    "synced_at": "2026-09-15T00:19:10.311515+00:00"
+    "synced_at": "2026-10-17T00:09:46.897980+00:00"
   },
   "phase4:aie-2026-09-14-loophole-adversarial-agents": {
     "hash": "d49d0952821473cd183b861325bf7ba1c936fae3526ab4ec276d77dd16e3c718",
@@ -2065,9 +2065,9 @@
     "synced_at": "2026-09-15T00:19:10.310650+00:00"
   },
   "phase4:aie-2026-09-14-restate-durable-agents": {
-    "hash": "f1879daef04f52702659d34b2f1a7f43869091b1521f7cf2cd33335173305469",
+    "hash": "7fd00f5b75b062fb37f42a9e0c72288e179d28a3897776d5322d85ccb9b8be8c",
     "slug": "aie-2026-09-14-restate-durable-agents",
-    "synced_at": "2026-09-15T00:19:10.310930+00:00"
+    "synced_at": "2026-10-17T00:09:46.897655+00:00"
   },
   "phase4:aie-2026-09-14-tokens-have-jobs": {
     "hash": "8b33c3e0d884f38c278bc1f7d09fba91657301905c16ee327836e500d7c9e8e7",
@@ -2085,14 +2085,14 @@
     "synced_at": "2026-09-15T23:58:23.562911+00:00"
   },
   "phase4:aie-2026-09-15-gemini-speech-to-speech-research": {
-    "hash": "08b300384d575eebfbbe7de0933399056de51a92447ae710fcaf81e44766cadb",
+    "hash": "802288641d7e739524c78ef4908e6fd3dfe4339aa50b9d6ea93a79b4384ce9b8",
     "slug": "aie-2026-09-15-gemini-speech-to-speech-research",
-    "synced_at": "2026-09-15T23:58:23.565527+00:00"
+    "synced_at": "2026-10-17T00:09:46.899243+00:00"
   },
   "phase4:aie-2026-09-15-hybrid-speech-to-speech-architecture": {
-    "hash": "5296e009e76c292d7ad0b47041666aa689d16ad0be315812b61c0ca0f9eae66f",
+    "hash": "ae1bd5362c4cc8b55080474bd4959d20f546601a0872fab3d84594bf7e9909d7",
     "slug": "aie-2026-09-15-hybrid-speech-to-speech-architecture",
-    "synced_at": "2026-09-15T23:58:23.564866+00:00"
+    "synced_at": "2026-10-17T00:09:46.898940+00:00"
   },
   "phase4:aie-2026-09-15-linguistic-framework-voice-agent": {
     "hash": "2e8ac50972b6693db111b5e7594fb6669588661a8920f8d32c128813d2dbd82a",
@@ -2115,9 +2115,9 @@
     "synced_at": "2026-09-15T23:58:23.563912+00:00"
   },
   "phase4:aie-2026-09-15-voice-agent-red-teaming-monitoring": {
-    "hash": "a9b07f5699b4cb0025034a26f163f0f8680595902d391f9e54d2658a425a42c2",
+    "hash": "1688157c25c48c13ec7d80f218bf0d7dd0a4e660dccd12367c40615360c43d73",
     "slug": "aie-2026-09-15-voice-agent-red-teaming-monitoring",
-    "synced_at": "2026-09-15T23:58:23.564244+00:00"
+    "synced_at": "2026-10-17T00:09:46.898650+00:00"
   },
   "phase4:aie-2026-09-15-voice-agent-speech-to-action-modes": {
     "hash": "7cffd5ee76e808236c0329acc594e9d1d3e2495fc94fb2755bee52903c4ed416",
@@ -2130,9 +2130,9 @@
     "synced_at": "2026-09-17T00:07:10.673834+00:00"
   },
   "phase4:aie-2026-09-16-exa-neural-search-agents": {
-    "hash": "a35a3c496219fcefd6d55aa48a198685b7d3b9503197a3e0d08922509450f75e",
+    "hash": "ecfa15543b65063446846a4a0181e4b1cd09364f6751fc8f9e14b9568f81158b",
     "slug": "aie-2026-09-16-exa-neural-search-agents",
-    "synced_at": "2026-09-17T00:07:10.673478+00:00"
+    "synced_at": "2026-10-17T00:09:46.900127+00:00"
   },
   "phase4:aie-2026-09-16-knowledge-agent-parallel-searchers": {
     "hash": "d48b05a2fbae95662c72e8303e9cd4b455a3d87fd56a8c7073d9cc7523c70575",
@@ -2140,9 +2140,9 @@
     "synced_at": "2026-09-17T00:07:10.672867+00:00"
   },
   "phase4:aie-2026-09-16-mcp-apps-agentic-web": {
-    "hash": "2779d3e89d4fe481a9ed49d0bef1277f951bb17d649c4e9912a4c4479aa12492",
+    "hash": "fbd16a637d4c1cd94af21941ee84ab4ad37c1661f7b492dc5732e754afcd4454",
     "slug": "aie-2026-09-16-mcp-apps-agentic-web",
-    "synced_at": "2026-09-17T00:07:10.673172+00:00"
+    "synced_at": "2026-10-17T00:09:46.899873+00:00"
   },
   "phase4:aie-2026-09-16-multi-chunk-size-rr\u0641": {
     "hash": "ffcbf47b2d1f5992469d6ae4ed879bf46b5a0b34ede6f100d1939900164bacaf",
@@ -2180,9 +2180,9 @@
     "synced_at": "2026-09-19T23:54:36.770375+00:00"
   },
   "phase4:aie-2026-09-19-weight-folding-cuda-streams": {
-    "hash": "bb95565f9597ea4f83db0b482dd6f438f426448634a0b1ad29cb429258d4362f",
+    "hash": "dad02f8fe9b2b77072bed31118e5c70be30f739e9785b81b5f9b62e54bf62327",
     "slug": "aie-2026-09-19-weight-folding-cuda-streams",
-    "synced_at": "2026-09-19T23:54:36.770031+00:00"
+    "synced_at": "2026-10-17T00:09:46.900801+00:00"
   },
   "phase4:aie-2026-09-20-distributed-inference-meta": {
     "hash": "487cb982388c3e002ff13114936fad4b6e869b4da3fc574f5899dc2e29b527c5",
@@ -2190,9 +2190,9 @@
     "synced_at": "2026-09-20T23:51:51.047612+00:00"
   },
   "phase4:aie-2026-09-20-friendli-agent-inference": {
-    "hash": "68cee9adf86cdc8abce6d15e84c4e7502dc17bead26b5c559e6b446318ee99ef",
+    "hash": "84005fdf21f3732cf568c959c92c8245df13c17504856db1581eeea90364c76e",
     "slug": "aie-2026-09-20-friendli-agent-inference",
-    "synced_at": "2026-09-20T23:51:51.046025+00:00"
+    "synced_at": "2026-10-17T00:09:46.901084+00:00"
   },
   "phase4:aie-2026-09-20-large-clusters-small-models": {
     "hash": "066777119d8ba239a593f8d610a6f47b2552384039eddac8161bfd64ca55a720",
@@ -2220,14 +2220,14 @@
     "synced_at": "2026-09-20T23:51:51.046659+00:00"
   },
   "phase4:aie-2026-09-22-skill-engineering-dark-arts": {
-    "hash": "5b7c557d2e2e7111dcd7783f8bcf5a7bfc286f4e945540e23a45b6b4588ec51d",
+    "hash": "9fee06b3452fceb13ee2e6de10c5d1f7b8770d49e61769100b9b8699f17e4e02",
     "slug": "aie-2026-09-22-skill-engineering-dark-arts",
-    "synced_at": "2026-09-22T00:36:09.000072+00:00"
+    "synced_at": "2026-10-17T00:09:46.901897+00:00"
   },
   "phase4:aie-2026-09-22-vertical-mobility-inference-scaling": {
-    "hash": "664a35f0a7644f07cbb6aa52459ed0bc656020983312152773be65eaf2dd69d1",
+    "hash": "b839b5775a6213366c80e286ce3b7ece2d2b5e46576c6ac6720b5c9ff85cfd05",
     "slug": "aie-2026-09-22-vertical-mobility-inference-scaling",
-    "synced_at": "2026-09-23T00:00:35.284839+00:00"
+    "synced_at": "2026-10-17T00:09:46.902398+00:00"
   },
   "phase4:aie-2026-09-23-3b-state-space-vision-model-sarvam": {
     "hash": "e59787e9140c7d3cb341efe92720afdb1dbcd284841ca0644c6d57543b54f290",
@@ -2235,9 +2235,9 @@
     "synced_at": "2026-09-24T00:14:50.529205+00:00"
   },
   "phase4:aie-2026-09-23-ai-embodied-physical-form-mit-media-lab": {
-    "hash": "82615b485e2078cc5fdc7c98b3ddc6a9c7c972535b68ff8d46892ddd10e5c895",
+    "hash": "e6b2c5f1621ce01410832c3dbfae55c7d9630f17cf0b0b943d20df5f817ad726",
     "slug": "aie-2026-09-23-ai-embodied-physical-form-mit-media-lab",
-    "synced_at": "2026-09-24T00:14:50.531865+00:00"
+    "synced_at": "2026-10-17T00:09:46.904405+00:00"
   },
   "phase4:aie-2026-09-23-document-context-layer-agents-llamaindex": {
     "hash": "a0132da8b8658a3d153b650f50894c0ed9d46d25db9c15c904ea0711e4fb756b",
@@ -2245,19 +2245,19 @@
     "synced_at": "2026-09-24T00:14:50.531521+00:00"
   },
   "phase4:aie-2026-09-23-document-intelligence-agents-reducto": {
-    "hash": "ba69bbef4197575b85b20f359ede2ce72980cca85822b2a6581db5dec6e31ad2",
+    "hash": "58d2a173b1011d5b359cd3ff4281eb0fa7a5d51eae96a60585770c30bce5eb8e",
     "slug": "aie-2026-09-23-document-intelligence-agents-reducto",
-    "synced_at": "2026-09-24T00:14:50.530577+00:00"
+    "synced_at": "2026-10-17T00:09:46.903879+00:00"
   },
   "phase4:aie-2026-09-23-food-systems-ai-agents-firecrawl": {
-    "hash": "ca8a3cd1545b9838b819e84d4530e4dab42e8b0732d23ac83dfe91b6bd7b4749",
+    "hash": "a45e7b7a5e79cd866a3a5876ad9a2c8aef6854c29246d5f6abffda615da4ab6f",
     "slug": "aie-2026-09-23-food-systems-ai-agents-firecrawl",
-    "synced_at": "2026-09-24T00:14:50.529851+00:00"
+    "synced_at": "2026-10-17T00:09:46.903610+00:00"
   },
   "phase4:aie-2026-09-23-modality-misalignment-short-form-video-meta": {
-    "hash": "06fda590a36046892e8b3509b82fd1dc3cbe62962e346f527eb4e7ea66d0b3ca",
+    "hash": "86f0dd37f04a03e33eead07636ef51403e370305d27a38033fc0136f17b5c120",
     "slug": "aie-2026-09-23-modality-misalignment-short-form-video-meta",
-    "synced_at": "2026-09-24T00:14:50.530905+00:00"
+    "synced_at": "2026-10-17T00:09:46.904136+00:00"
   },
   "phase4:aie-2026-09-23-models-reason-like-toddlers-elorian": {
     "hash": "6717888a25e0db0b36c8218c053199019e13b25082f17e9be48148506a715d49",
@@ -2275,9 +2275,9 @@
     "synced_at": "2026-09-24T00:14:50.529513+00:00"
   },
   "phase4:aie-2026-09-24-bright-data-video-for-physical-ai": {
-    "hash": "2efe48b3f7fc911c6b667d1f8d0e5d529ba5b883a467c8399d5204a54d017bd8",
+    "hash": "479874107f1c3c61d5f61b422c8cc01a62a5e37e13ee4de68f0b21432c0c1e07",
     "slug": "aie-2026-09-24-bright-data-video-for-physical-ai",
-    "synced_at": "2026-09-25T00:17:14.632908+00:00"
+    "synced_at": "2026-10-17T00:09:46.905207+00:00"
   },
   "phase4:aie-2026-09-24-dyna-robotics-reliability": {
     "hash": "c040d82244305325d5df193f207c3db657d421c6f9b908c37c439147cc0b3005",
@@ -2285,9 +2285,9 @@
     "synced_at": "2026-09-25T00:17:14.632561+00:00"
   },
   "phase4:aie-2026-09-24-moonlake-world-models-causality": {
-    "hash": "6fc482d86eb97cd91aa7b2974285aa08b7555efcd87b665f26a3d87aedb6f1e1",
+    "hash": "c050859d2bf97d4e41894c72c8dd2b029035560217967e2fed6a1c29f047a686",
     "slug": "aie-2026-09-24-moonlake-world-models-causality",
-    "synced_at": "2026-09-25T00:17:14.633219+00:00"
+    "synced_at": "2026-10-17T00:09:46.905455+00:00"
   },
   "phase4:aie-2026-09-24-skild-ai-generalist-robot": {
     "hash": "ba4bf6d7383eeca2fd3de26560d190a3a5cb9e141165cf1245426723ee1c5a5c",
@@ -2295,9 +2295,9 @@
     "synced_at": "2026-09-25T00:17:14.633523+00:00"
   },
   "phase4:aie-2026-09-24-skydio-one-operator-many-drones": {
-    "hash": "2aa80dfb7544e7d11d01a634b91e86091bdb921f647aa335f4896540bb6b7989",
+    "hash": "dcec1647c721755a999db3fd562a5168d86239b9094ce029f214c4da8b8030ab",
     "slug": "aie-2026-09-24-skydio-one-operator-many-drones",
-    "synced_at": "2026-09-25T00:17:14.632230+00:00"
+    "synced_at": "2026-10-17T00:09:46.904930+00:00"
   },
   "phase4:aie-2026-09-26-ai-code-competing-with-humans": {
     "hash": "7138647ee4ded1a71934f3713857c016a6f4ccc56edf5b74dedac8ed00fba921",
@@ -2310,9 +2310,9 @@
     "synced_at": "2026-09-27T00:16:04.102543+00:00"
   },
   "phase4:aie-2026-09-26-autoresearch-3x-faster": {
-    "hash": "fb24dedbc6823a61411eb454f3f3c8a6bc9d6cb3974a4c5bc90c46f8be184b12",
+    "hash": "e395604f08f1e30cf0defabff1ba8a9ef641d5fcf87d7560c6bf8bfed89a98d4",
     "slug": "aie-2026-09-26-autoresearch-3x-faster",
-    "synced_at": "2026-09-27T00:16:04.102318+00:00"
+    "synced_at": "2026-10-17T00:09:46.906084+00:00"
   },
   "phase4:aie-2026-09-26-claude-codex-vs-human-researchers": {
     "hash": "401751ad55d2c2e52fe68a5a725b82bf716ac87d9205b758a943d5c666cfb9f4",
@@ -2330,9 +2330,9 @@
     "synced_at": "2026-09-27T00:16:04.101680+00:00"
   },
   "phase4:aie-2026-09-26-llm-recommender-consumer-app": {
-    "hash": "8a1d2d67ac4b900f6d48448350ec2cbcedf8317ccec13e12304c37474ca1fedc",
+    "hash": "9ac3c2989a088dc22cef425c18bb2855d22fccfe8c7666d462c5d19b33da9b68",
     "slug": "aie-2026-09-26-llm-recommender-consumer-app",
-    "synced_at": "2026-09-26T00:22:35.592859+00:00"
+    "synced_at": "2026-10-17T00:09:46.905746+00:00"
   },
   "phase4:aie-2026-09-26-long-horizon-agents-need-experiments": {
     "hash": "917b1154f8d4760a3ff62774f0f45b243bbfbfe77de642049699a5052a1c7206",
@@ -2370,14 +2370,14 @@
     "synced_at": "2026-09-28T00:18:16.605097+00:00"
   },
   "phase4:aie-2026-09-27-glm52-open-weights-frontier": {
-    "hash": "5f9a5dfe1405c37d97ebb192eb047fd992779ecbfa3e8be26966c5974df94886",
+    "hash": "c8ae2de3fd7cb7dc7fe8190fe3734849ee373ee3a69094e19ba78095ba32d887",
     "slug": "aie-2026-09-27-glm52-open-weights-frontier",
-    "synced_at": "2026-09-28T00:18:16.605730+00:00"
+    "synced_at": "2026-10-17T00:09:46.907161+00:00"
   },
   "phase4:aie-2026-09-27-not-a-software-factory-ryan-cooke": {
-    "hash": "5a0ce8c249061bc19714cbaa4c9f760d3e997fd67b95a9353413aa37c21e96aa",
+    "hash": "d02e69694c51d84b537e46bd895f45b4b9708dfd29b602c9208517048ea7d4c9",
     "slug": "aie-2026-09-27-not-a-software-factory-ryan-cooke",
-    "synced_at": "2026-09-28T00:18:16.606710+00:00"
+    "synced_at": "2026-10-17T00:09:46.907430+00:00"
   },
   "phase4:aie-2026-09-27-orchestras-not-factories-charlie-holtz": {
     "hash": "18968b98b2b951229b3469bd9832b82b570fdcbb834c66e40b41e455c259af07",
@@ -2395,14 +2395,14 @@
     "synced_at": "2026-09-28T00:18:16.607644+00:00"
   },
   "phase4:aie-2026-09-27-software-factory-engineering-zach-lloyd": {
-    "hash": "990dd293780e6282889ba217274804d3fbad7cd42b4243583ab50d9c3b31fe51",
+    "hash": "9eaa6c4daea5efafdd8d83038d73861bf933864f828c396c67fdd4f4ac6ba7ae",
     "slug": "aie-2026-09-27-software-factory-engineering-zach-lloyd",
-    "synced_at": "2026-09-28T00:18:16.605407+00:00"
+    "synced_at": "2026-10-17T00:09:46.906914+00:00"
   },
   "phase4:aie-2026-10-01-agent-isolation-mcp-a2a": {
-    "hash": "f0228a15b2b96eb76721fbbea585693efaf1270971bc3ff0f975f359e7a90f6c",
+    "hash": "b15b7b0284152bda24d81fc06d101a93fa737ffc1189f6b6e1aa33aa49c6d3a9",
     "slug": "aie-2026-10-01-agent-isolation-mcp-a2a",
-    "synced_at": "2026-10-01T01:04:17.850368+00:00"
+    "synced_at": "2026-10-17T00:09:46.908803+00:00"
   },
   "phase4:aie-2026-10-01-ai-software-dev-org-data": {
     "hash": "840a65a91bc85578badf1dd502068581dc999bdb9a41a06afe039f101a52877e",
@@ -2445,9 +2445,9 @@
     "synced_at": "2026-10-03T00:56:49.702065+00:00"
   },
   "phase4:aie-2026-10-03-local-vector-memory-for-ai-agents": {
-    "hash": "e5e77e9bb4fbf28c19bb37ee79448edaa534b75bae81d616be1b5bb86cb6304d",
+    "hash": "c2c5067744edf14d7f275be76463dd4ed2cb8cb15b22d92c84a67eae3a1717b3",
     "slug": "aie-2026-10-03-local-vector-memory-for-ai-agents",
-    "synced_at": "2026-10-03T00:56:49.702500+00:00"
+    "synced_at": "2026-10-17T00:09:46.909845+00:00"
   },
   "phase4:aie-2026-10-03-meticulous-screenshot-diff-verification": {
     "hash": "03f38d5fbf5a4679093919e157a8a6400a54efe2c0b3fb970faa60309167ef39",
@@ -2455,9 +2455,9 @@
     "synced_at": "2026-10-03T00:56:49.701792+00:00"
   },
   "phase4:aie-2026-10-03-traversal-causal-rca-five-levels": {
-    "hash": "63b6e0aa6ce6cc9b2a0a33c2828771ec0181cb2dfad66e8aa8ec26f4f479e4e7",
+    "hash": "b0db6388347836abd7856a86ac575229a8fc2772647fa36de2210044f964bae9",
     "slug": "aie-2026-10-03-traversal-causal-rca-five-levels",
-    "synced_at": "2026-10-03T00:56:49.701517+00:00"
+    "synced_at": "2026-10-17T00:09:46.909493+00:00"
   },
   "phase4:aie-2026-10-04-autocluster-gpu-failure-remediation": {
     "hash": "3ce62ae1e84102438b92e17312f786ea640be1725b964b21fa1f9566c065eb0d",
@@ -2485,9 +2485,9 @@
     "synced_at": "2026-10-04T00:21:44.930805+00:00"
   },
   "phase4:aie-2026-10-04-raspberry-pi-graph-agent-memory": {
-    "hash": "c1fc76f1c7412a5c7fcf07514ebf62ee044af23a0c8cd1f6bf91c1885cd6dbee",
+    "hash": "77c3132304223e942ce843730bebc488597b5dd372713cc0b98422f2b093790d",
     "slug": "aie-2026-10-04-raspberry-pi-graph-agent-memory",
-    "synced_at": "2026-10-04T00:21:44.930155+00:00"
+    "synced_at": "2026-10-17T00:09:46.910520+00:00"
   },
   "phase4:aie-2026-10-04-vscode-agents-md-accessibility-skill": {
     "hash": "b2caca8e9cda858c6d9660d2a5bceae4c7d4725c413aa3ace99579c73fa0e850",
@@ -2510,9 +2510,9 @@
     "synced_at": "2026-10-05T00:27:02.315763+00:00"
   },
   "phase4:aie-2026-10-05-human-async-api-durable-workflows": {
-    "hash": "e8387bdb4298f62b09f589212912b6964ffec58d1b14f5d54ad2261451e41318",
+    "hash": "b20b95ff84544235f25e753c87fd0c244b7aeb9752252c30e2092c40b4bc242c",
     "slug": "aie-2026-10-05-human-async-api-durable-workflows",
-    "synced_at": "2026-10-05T00:27:02.315534+00:00"
+    "synced_at": "2026-10-17T00:09:46.911147+00:00"
   },
   "phase4:aie-2026-10-05-meta-tooling-runtime-tool-generation": {
     "hash": "207dd2ad2b2018e7f128e2279bf0876b66efab33a1cca6635cdb263a072fbf09",
@@ -2530,14 +2530,14 @@
     "synced_at": "2026-10-05T00:27:02.315650+00:00"
   },
   "phase4:aie-2026-10-08-agent-to-agent-stateful-communication": {
-    "hash": "2bee3d47b2e623eda11fbae53621b1fb522250deffa88d837531a7c4e68c8395",
+    "hash": "db6bd5093e29239b4a27c04989be38d64c6a1666aaf8a37f66c90ed043f5bfc1",
     "slug": "aie-2026-10-08-agent-to-agent-stateful-communication",
-    "synced_at": "2026-10-08T01:34:21.648689+00:00"
+    "synced_at": "2026-10-17T00:09:46.912313+00:00"
   },
   "phase4:aie-2026-10-08-ai-spend-pre-flight-entitlement-check": {
-    "hash": "ceb22e0308ff92a114dce87691b6dbee31eda06d1e2e7577de1670d611637fa4",
+    "hash": "4e64d4848090e83777bf230414243e15544e72d2401ef4a4419d77cb05c2508b",
     "slug": "aie-2026-10-08-ai-spend-pre-flight-entitlement-check",
-    "synced_at": "2026-10-08T01:34:21.649784+00:00"
+    "synced_at": "2026-10-17T00:09:46.913138+00:00"
   },
   "phase4:aie-2026-10-08-context-window-management-strands": {
     "hash": "c5dc432de5acdc25e730dc4ecdbbb2356ae7f18b33e1a31de717daf5b6d0b5fb",
@@ -2560,9 +2560,9 @@
     "synced_at": "2026-10-08T01:34:21.650635+00:00"
   },
   "phase4:aie-2026-10-08-gemini-sandbox-managed-agent": {
-    "hash": "d4d45c9ddd4e6cf5c27c450271657c58552e454f432d58aa28ee601f055f36ea",
+    "hash": "9729fbdad94dbb93e61b7c3d43035344f098cfb39b5fe2cf9a42a6ce2542f0ed",
     "slug": "aie-2026-10-08-gemini-sandbox-managed-agent",
-    "synced_at": "2026-10-08T01:34:21.648902+00:00"
+    "synced_at": "2026-10-17T00:09:46.912546+00:00"
   },
   "phase4:aie-2026-10-08-harness-engineering-software-factory": {
     "hash": "db5d982283dabef923d066d9cbf030dd6507642a25855f9a203443185440ba5e",
@@ -2570,9 +2570,9 @@
     "synced_at": "2026-10-08T01:34:21.651133+00:00"
   },
   "phase4:aie-2026-10-08-hybrid-grep-embeddings-agent-retrieval": {
-    "hash": "eee8c04fabdee302b494dabddef3a54463c1efa628e38c8839b7431c1a5d0245",
+    "hash": "7b07a15c0186e026582c78c68f08fc5e40f985d8803adf34bbc6d9041f87da49",
     "slug": "aie-2026-10-08-hybrid-grep-embeddings-agent-retrieval",
-    "synced_at": "2026-10-08T01:34:21.649574+00:00"
+    "synced_at": "2026-10-17T00:09:46.912886+00:00"
   },
   "phase4:aie-2026-10-08-sdlc-agent-maturity-operating-model": {
     "hash": "dac3236392b1aa3ae5d6b0b9a7496a42a863a9bc65b5cd0d9b35d1cd74b89b16",
@@ -2605,9 +2605,9 @@
     "synced_at": "2026-10-08T01:34:21.650225+00:00"
   },
   "phase4:aie-2026-10-09-api-context-graph-coding-agents": {
-    "hash": "a3f0e06bf1f9a96ef0df556a34ae3d196572df455d6a0e6f4181d2bf21f980b3",
+    "hash": "1d9288dbb1d507cc09c57f3a8888222a8646ccb70cb1cad8a387d54d6db0237b",
     "slug": "aie-2026-10-09-api-context-graph-coding-agents",
-    "synced_at": "2026-10-09T01:45:00.868136+00:00"
+    "synced_at": "2026-10-17T00:09:46.913818+00:00"
   },
   "phase4:aie-2026-10-09-automattic-ai-enablement-cohorts": {
     "hash": "aa0fbd70c48e1ee7731bc6ec1fdcceeacde3d18e4db4095c92f2e1237b1a8d6a",
@@ -2640,9 +2640,9 @@
     "synced_at": "2026-10-09T01:45:00.868990+00:00"
   },
   "phase4:aie-2026-10-09-mcp-legibility-agent-first": {
-    "hash": "6a13723f864db384ffbcc6e807884ce2c89fadcbb2cb418fd5fa6535f53d032f",
+    "hash": "b277d73107c5acde1385f0a2f13ba00cca4351468bce4bd00f1f2325489dcfc4",
     "slug": "aie-2026-10-09-mcp-legibility-agent-first",
-    "synced_at": "2026-10-09T01:45:00.868779+00:00"
+    "synced_at": "2026-10-17T00:09:46.914094+00:00"
   },
   "phase4:aie-2026-10-09-procedural-memory-update-loop": {
     "hash": "e765ff744bbfa823a616a74b5b9a983a3bd0ced0a5a8e2e2c65b9b9b9ab25595",
@@ -2665,9 +2665,9 @@
     "synced_at": "2026-10-10T01:31:24.566014+00:00"
   },
   "phase4:aie-2026-10-10-codex-app-server-custom-harness-client": {
-    "hash": "602eb0050e0b675b31275cb6f57e2bec58ac1e586e53230983da4a7f68470bd1",
+    "hash": "6f653ab469bc2426fce05269316c4a85f43060895c1fa7069b2d1ca8d85f8479",
     "slug": "aie-2026-10-10-codex-app-server-custom-harness-client",
-    "synced_at": "2026-10-10T01:31:24.566148+00:00"
+    "synced_at": "2026-10-17T00:09:46.915443+00:00"
   },
   "phase4:aie-2026-10-10-codify-agent-rules-as-linters-and-policies": {
     "hash": "41e60595e792441b65022b1f2c9a3b72f65a03f9eee5847960281299d205db3f",
@@ -2685,9 +2685,9 @@
     "synced_at": "2026-10-10T01:31:24.565456+00:00"
   },
   "phase4:aie-2026-10-13-agent-email-identity-persistent-inbox": {
-    "hash": "26f66929c8b8412f0c97dc7e5e6de81e27150522648fe54d5342155acf79815a",
+    "hash": "c7c793c4c1e7db818872d872bf09c4b89e4bceed95b3a364f2b69669985463f9",
     "slug": "aie-2026-10-13-agent-email-identity-persistent-inbox",
-    "synced_at": "2026-10-13T02:50:32.290081+00:00"
+    "synced_at": "2026-10-17T00:09:46.917165+00:00"
   },
   "phase4:aie-2026-10-13-auth-md-agent-signup": {
     "hash": "4df68d0276485ee7115dcd03d87e2b8cfe7fe092d255c73ea7168f4fac92d762",
@@ -2710,9 +2710,9 @@
     "synced_at": "2026-10-13T02:50:32.289435+00:00"
   },
   "phase4:aie-2026-10-13-deterministic-flow-llm-boundary-finance": {
-    "hash": "e65c0179d7b3fe1fb93c302223ec593fd959192caca4f608281e2a83fc924f66",
+    "hash": "8609d78a134cc561a5945aeef43acfc44898119174bc7a7fecbfaabdf8d30945",
     "slug": "aie-2026-10-13-deterministic-flow-llm-boundary-finance",
-    "synced_at": "2026-10-13T02:50:32.287219+00:00"
+    "synced_at": "2026-10-17T00:09:46.916298+00:00"
   },
   "phase4:aie-2026-10-13-domain-expert-written-agent-skills": {
     "hash": "73a48a872e87482764a9a2e2e2f4fec1cbdad063eb247012f1a7a3f449e0d60f",
@@ -2720,24 +2720,24 @@
     "synced_at": "2026-10-13T02:50:32.288792+00:00"
   },
   "phase4:aie-2026-10-13-gpu-timing-side-channel-shared-tenancy": {
-    "hash": "e6ebd93d97952bc969a1c610d5d6caf3badcb12624ef0ce13f6d6d68e34de759",
+    "hash": "3fb373beb000f10b6895a3bc63abba5e6a782c716d79655e3ff931c41723b819",
     "slug": "aie-2026-10-13-gpu-timing-side-channel-shared-tenancy",
-    "synced_at": "2026-10-13T02:50:32.288173+00:00"
+    "synced_at": "2026-10-17T00:09:46.916849+00:00"
   },
   "phase4:aie-2026-10-13-just-in-time-ontology-burrito-surfing": {
-    "hash": "8b189855d968a8bf06be11ec57288bcf5225faa80bcb39eaa7104e94b24d1988",
+    "hash": "d817ed444e1ea752fef27283ccd8075588cc583aba812f03a51a37cda7367df3",
     "slug": "aie-2026-10-13-just-in-time-ontology-burrito-surfing",
-    "synced_at": "2026-10-13T02:50:32.287533+00:00"
+    "synced_at": "2026-10-17T00:09:46.916530+00:00"
   },
   "phase4:aie-2026-10-13-kv-cache-inference-optimization": {
-    "hash": "590150cd5f9fa43b844060e6e76069590c59a7dcf5048638c9c081340dc73ff6",
+    "hash": "c90b042a52031102484a9564ad68140301de6ff3303fee56c9b117018062dd26",
     "slug": "aie-2026-10-13-kv-cache-inference-optimization",
-    "synced_at": "2026-10-13T02:50:32.290692+00:00"
+    "synced_at": "2026-10-17T00:09:46.917512+00:00"
   },
   "phase4:aie-2026-10-13-orbit-golden-dataset-eval-loop": {
-    "hash": "78510aec4ee1c5743411c1167a977678e02d0b0940c30c9e4be4755bfc270714",
+    "hash": "6a335060f92396678885e9ae715bfe3e5121c6ce22f4d97443455d812721eb8d",
     "slug": "aie-2026-10-13-orbit-golden-dataset-eval-loop",
-    "synced_at": "2026-10-13T02:50:32.286910+00:00"
+    "synced_at": "2026-10-17T00:09:46.916047+00:00"
   },
   "phase4:aie-2026-10-13-orbit-yaml-workflow-deterministic": {
     "hash": "ee75a213482bbe7469ef80867c43e2f5ffe6180e19406b4351e8c64e901ff7cf",
@@ -2780,14 +2780,14 @@
     "synced_at": "2026-10-16T00:05:13.883975+00:00"
   },
   "phase4:aie-2026-10-15-bank-ai-discovery-week-one": {
-    "hash": "6947444ca26cd31f1e8f785ca5a1110a06fd7ddd5d0c6d33f768619861e36749",
+    "hash": "85b9bf4c1bfdf9ec4256b23628462f3c2eb03963407d58fe909f422ce4f2d31f",
     "slug": "aie-2026-10-15-bank-ai-discovery-week-one",
-    "synced_at": "2026-10-16T00:05:13.882503+00:00"
+    "synced_at": "2026-10-17T00:09:46.919716+00:00"
   },
   "phase4:aie-2026-10-15-bridgewater-vault-unstructured-data": {
-    "hash": "f54c33bcf1d9b310faaf9aed53c507dccf6323a1b01f1974225a5f81940f72f9",
+    "hash": "6d6e1f7b6d161fdda06c5f25c018fcbda2d605141d8b4c431891a32a5e8e94e0",
     "slug": "aie-2026-10-15-bridgewater-vault-unstructured-data",
-    "synced_at": "2026-10-16T00:05:13.884377+00:00"
+    "synced_at": "2026-10-17T00:09:46.920830+00:00"
   },
   "phase4:aie-2026-10-15-ceiling-test-for-prompt-optimization": {
     "hash": "d55fb0f30167b17316c2193ed0ff63234453aa7360ad3fbe416080915fdf344b",
@@ -2795,9 +2795,9 @@
     "synced_at": "2026-10-16T00:05:13.880322+00:00"
   },
   "phase4:aie-2026-10-15-cost-per-merged-pr-as-ai-spend-metric": {
-    "hash": "3076509297329aaec0c49e64a2f7da07e1394b276321edc1dfeebe800aedd8f6",
+    "hash": "9b7cb3c2919a2415bfd1565994b0b2af4a9be804ee98a579de9ec5bac8622332",
     "slug": "aie-2026-10-15-cost-per-merged-pr-as-ai-spend-metric",
-    "synced_at": "2026-10-16T00:05:13.882041+00:00"
+    "synced_at": "2026-10-17T00:09:46.919432+00:00"
   },
   "phase4:aie-2026-10-15-gnn-graph-fraud-detection": {
     "hash": "eb37dc1259ecf099f7c946a41176beef18116504bb7d4be70a2e5bc484050fa2",
@@ -2815,9 +2815,9 @@
     "synced_at": "2026-10-16T00:05:13.884176+00:00"
   },
   "phase4:aie-2026-10-15-parallel-merge-queue-for-ai-commit-volume": {
-    "hash": "d60008d00c464d5064c0b1adde310ec123724b0c0fd384bf60d29d52f1f72e77",
+    "hash": "46535516c0bc5da184884e4f71578524ce869764c1900f40767d262f799d8584",
     "slug": "aie-2026-10-15-parallel-merge-queue-for-ai-commit-volume",
-    "synced_at": "2026-10-16T00:05:13.880975+00:00"
+    "synced_at": "2026-10-17T00:09:46.919128+00:00"
   },
   "phase4:aie-2026-10-15-rag-agentic-retrieval-zoom-levels": {
     "hash": "f226e53ba208899eaea82570cb56a3878a2b884b4c49298eaea551100344ff51",
@@ -2830,9 +2830,24 @@
     "synced_at": "2026-10-16T00:05:13.881397+00:00"
   },
   "phase4:aie-2026-10-15-spatial-graph-building-memory": {
-    "hash": "9dd80b4d9511bc2d32cad8db56df008332ad357a55822f84ffa588e824c5f969",
+    "hash": "52a0f83da4811e9eded00fc9f07a71ac4d8cb915465db6b0d03d3bab21a4ab16",
     "slug": "aie-2026-10-15-spatial-graph-building-memory",
-    "synced_at": "2026-10-16T00:05:13.882735+00:00"
+    "synced_at": "2026-10-17T00:09:46.919973+00:00"
+  },
+  "phase4:aie-2026-10-16-dependency-graph-preloaded-into-agent-session": {
+    "hash": "fab974be841fadcf8b3d11c202bfe4a9393c2d77e841eaf45cfd9c0d7aa7ead6",
+    "slug": "aie-2026-10-16-dependency-graph-preloaded-into-agent-session",
+    "synced_at": "2026-10-17T00:09:46.924885+00:00"
+  },
+  "phase4:aie-2026-10-16-highest-loop-loopcraft-abstraction": {
+    "hash": "1a7edc249382da59b79fe26b81b3522af501c56326f12e60de84851c7b15ec6d",
+    "slug": "aie-2026-10-16-highest-loop-loopcraft-abstraction",
+    "synced_at": "2026-10-17T00:09:46.925096+00:00"
+  },
+  "phase4:aie-2026-10-16-linux-kernel-trust-hierarchy-for-agents": {
+    "hash": "e2f5f1297443f2e239cecd3264531bd0afb9cc9c4c476f6701fb98da8295803b",
+    "slug": "aie-2026-10-16-linux-kernel-trust-hierarchy-for-agents",
+    "synced_at": "2026-10-17T00:09:46.924666+00:00"
   },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
@@ -2880,9 +2895,9 @@
     "synced_at": "2026-06-25T23:17:21.323463+00:00"
   },
   "phase4:aij-2026-06-30-codebase-memory-mcp-graph": {
-    "hash": "d81a51c6686a3cd97698e7fad8fa2419f1b54e706ce19b3a854960f31afb0b28",
+    "hash": "066d96612c41bf290df9812c4775ddc06eaa381cd327949b190a51186956330b",
     "slug": "aij-2026-06-30-codebase-memory-mcp-graph",
-    "synced_at": "2026-06-30T23:12:03.024084+00:00"
+    "synced_at": "2026-10-17T00:09:46.848144+00:00"
   },
   "phase4:aij-2026-06-30-pre-tool-use-hook-pattern": {
     "hash": "a3561e760dd27b9ff12c93d1d76f4bce5ec783d3c0cc7cbeeae8a2c544f42bdb",
@@ -2895,9 +2910,9 @@
     "synced_at": "2026-07-14T22:55:53.449734+00:00"
   },
   "phase4:aij-2026-07-14-piper-agent-extensible-harness": {
-    "hash": "c9fa1212b3fc45ecc9de8bb51ce0012b7bafe7661c0300f886782b7342da9d1f",
+    "hash": "949d32a2ad4ecc40798cefa3df58bf9c1f53bb4466836f1ccc3be7b48dbe90d6",
     "slug": "aij-2026-07-14-piper-agent-extensible-harness",
-    "synced_at": "2026-07-14T22:55:53.449462+00:00"
+    "synced_at": "2026-10-17T00:09:46.855511+00:00"
   },
   "phase4:aij-2026-07-20-claude5-orchestrator-sonet5-executor": {
     "hash": "23eebae7026869455a569cf704604f0e952d009e3d5b73ddf87c9bac5498ed67",
@@ -2910,9 +2925,9 @@
     "synced_at": "2026-07-20T22:59:26.360827+00:00"
   },
   "phase4:aij-2026-07-30-reddit-karma-loop-personal-wiki": {
-    "hash": "4e4b02165479b8a55bfb441a4ad0dee53fbf81d742e42caae38b2906c9ac2f28",
+    "hash": "fc66fde3749207e0c8d1b0ea7e22a5216f19fcc5d04c41974fd35d5416088164",
     "slug": "aij-2026-07-30-reddit-karma-loop-personal-wiki",
-    "synced_at": "2026-07-30T23:06:12.445139+00:00"
+    "synced_at": "2026-10-17T00:09:46.869599+00:00"
   },
   "phase4:aij-2026-07-30-reddit-thread-quality-gate": {
     "hash": "453261ae550e3b8106b3b584f1eb3b9a1e1c708509fee86d52fdc837bd3d2c05",
@@ -2935,9 +2950,9 @@
     "synced_at": "2026-09-15T23:58:23.562593+00:00"
   },
   "phase4:aij-2026-09-22-jev-treg-automation-combo": {
-    "hash": "4e69bad86aa612fcee254553686ce1170283c15f1253591e34e40a9cb675c971",
+    "hash": "064593c20cfd2d5e2765cf65606007770b654cb0133981bf1b530d22ed596d48",
     "slug": "aij-2026-09-22-jev-treg-automation-combo",
-    "synced_at": "2026-09-22T00:36:08.999856+00:00"
+    "synced_at": "2026-10-17T00:09:46.901654+00:00"
   },
   "phase4:aij-2026-09-23-gpt6-hyperframe-expert-videos": {
     "hash": "860366284aba42dbd938dc7fa09dd9fdf948dacb6a7312b8dba2af3219377913",
@@ -2950,24 +2965,49 @@
     "synced_at": "2026-10-16T00:05:13.885229+00:00"
   },
   "phase4:ail-2026-10-15-stitch-cli-scrollytelling-workflow": {
-    "hash": "0f54a066cff5f874263ef19f72d944c2a3f3d0c04b43b28d309daea7a95a759e",
+    "hash": "257bbf6182573d5325b47efe2ac44e4d33c6000967791eed970a744d354b080e",
     "slug": "ail-2026-10-15-stitch-cli-scrollytelling-workflow",
-    "synced_at": "2026-10-16T00:05:13.885437+00:00"
+    "synced_at": "2026-10-17T00:09:46.921671+00:00"
   },
   "phase4:az-2026-10-15-kv-cache-agents-lmcache": {
     "hash": "fb82757f9104e5e9768e288d78b2bf4f8622cabdd8bf60921523cf30f444c913",
     "slug": "az-2026-10-15-kv-cache-agents-lmcache",
     "synced_at": "2026-10-16T00:05:13.886752+00:00"
   },
+  "phase4:az-2026-10-16-rtx-spark-laptop-120b-local-inference": {
+    "hash": "2cbea6b7d0ab98e026f6f8c95ceec3d22dd3e4cc7f74be52fdd53d001167abe2",
+    "slug": "az-2026-10-16-rtx-spark-laptop-120b-local-inference",
+    "synced_at": "2026-10-17T00:09:46.926821+00:00"
+  },
   "phase4:cm-2026-10-15-ai-content-engine-signal-filter": {
-    "hash": "8ae04effd52e6a473f1f59f52a8b4226ca5c2746e043e522c6be601fb9934314",
+    "hash": "9ec741dbecd1c7cb2b520949901b728674a006c48bc5e04ac9d6c64db9f3aea0",
     "slug": "cm-2026-10-15-ai-content-engine-signal-filter",
-    "synced_at": "2026-10-16T00:05:13.884819+00:00"
+    "synced_at": "2026-10-17T00:09:46.921114+00:00"
   },
   "phase4:cm-2026-10-15-intent-engineering-harness-design": {
-    "hash": "96c288f699d0176899aee8493df0dd744991424de993ff328e663a92a0da20e1",
+    "hash": "c6ea5e293c280be069f4cd8511fe2fc67abd328511f289493ad8ec8e9ac3549a",
     "slug": "cm-2026-10-15-intent-engineering-harness-design",
-    "synced_at": "2026-10-16T00:05:13.885024+00:00"
+    "synced_at": "2026-10-17T00:09:46.921370+00:00"
+  },
+  "phase4:cm-2026-10-16-immutable-mission-md-factory-context": {
+    "hash": "1fdd684cfb2727a5bb1daf2f2364e18fe6e2423c874d84d61ac8cb09c87503e8",
+    "slug": "cm-2026-10-16-immutable-mission-md-factory-context",
+    "synced_at": "2026-10-17T00:09:46.925536+00:00"
+  },
+  "phase4:cm-2026-10-16-software-factory-human-in-staging": {
+    "hash": "780cdee8adfe683bf0bea79d0b1efb5547f454a25db590f8e04c65b4b6577a5a",
+    "slug": "cm-2026-10-16-software-factory-human-in-staging",
+    "synced_at": "2026-10-17T00:09:46.925326+00:00"
+  },
+  "phase4:cm-2026-10-16-token-efficient-model-routing-per-node": {
+    "hash": "2a2a7dfb39391cd9aa659fd1a4407b6b45fb0260bfc08e21bc632cedee48e0e4",
+    "slug": "cm-2026-10-16-token-efficient-model-routing-per-node",
+    "synced_at": "2026-10-17T00:09:46.925778+00:00"
+  },
+  "phase4:dc-2026-10-16-specialized-inference-engine-per-gpu-model": {
+    "hash": "9a049f104c2d7031cb33a19654b5d995db8668874d2ae407f463a8f3fa28b381",
+    "slug": "dc-2026-10-16-specialized-inference-engine-per-gpu-model",
+    "synced_at": "2026-10-17T00:09:46.926607+00:00"
   },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "0527033834fe3f49b58f4d9e2c508620ed78f8ba268bccaba81263b6ef3c4afa",
@@ -3135,9 +3175,9 @@
     "synced_at": "2026-06-27T23:01:57.807244+00:00"
   },
   "phase4:do-2026-06-29-hermes-mixture-of-agents": {
-    "hash": "61651c8fe5354c4109fb9299468186d3f09cf4bc12d631c2c1de849657a8a785",
+    "hash": "e424e77790d08470d54b5aeff4a8092edb4c132215b666c21d870a536a3e6d17",
     "slug": "do-2026-06-29-hermes-mixture-of-agents",
-    "synced_at": "2026-06-29T22:57:05.456629+00:00"
+    "synced_at": "2026-10-17T00:09:46.847228+00:00"
   },
   "phase4:do-2026-07-02-frontier-orchestrator-cheap-actors": {
     "hash": "6c4995004e691beb9c817c9ec2ca435d9d1c1ea9e904b21124fdb97437680af0",
@@ -3165,9 +3205,9 @@
     "synced_at": "2026-07-09T23:10:32.281931+00:00"
   },
   "phase4:do-2026-07-14-aperture-secure-api-keys": {
-    "hash": "21be5b3bcdf21b2a4553f9672f022dcc8eb0a30861ed29cd8d8bfa5dbe47927a",
+    "hash": "42e7b5ba5b88de1a2449c3353b0b41d8fc5d302b3756fab2f3dad7eec0651488",
     "slug": "do-2026-07-14-aperture-secure-api-keys",
-    "synced_at": "2026-07-14T22:55:53.448854+00:00"
+    "synced_at": "2026-10-17T00:09:46.855205+00:00"
   },
   "phase4:do-2026-07-14-tailscale-multi-agent-network": {
     "hash": "38d88a603a3d713f90c2ee9138f9e128f31a5b0395424bf3e1f01547b37c90e6",
@@ -3185,9 +3225,9 @@
     "synced_at": "2026-07-17T22:49:26.345946+00:00"
   },
   "phase4:do-2026-07-24-kimi-k3-task-routing": {
-    "hash": "99f37fbec9dd2ea9ff097a905beb0e1b5b28d91e74da6c3305070c276ec6445f",
+    "hash": "ac26ddd63e2af6bedc4a03412007057e56154d59b24890a4857d77a9394080c6",
     "slug": "do-2026-07-24-kimi-k3-task-routing",
-    "synced_at": "2026-07-24T23:00:13.500529+00:00"
+    "synced_at": "2026-10-17T00:09:46.864797+00:00"
   },
   "phase4:do-2026-07-27-agent-to-agent-parallel-bug-fixing": {
     "hash": "ea505f86251dd749ca917e2ff549fac54a3c8ecf62da3b6f5ad1576ef528adde",
@@ -3250,9 +3290,9 @@
     "synced_at": "2026-09-02T23:52:06.939338+00:00"
   },
   "phase4:do-2026-09-09-run-open-weights-agent-offline": {
-    "hash": "4411c77f10df346721c35afa643dd3bf77cd6fcbe17fead6e385533e1c80d507",
+    "hash": "215333c99767c81fdb87009cf071e7fb746f952afc2ba1f733065ffc4a4fd51d",
     "slug": "do-2026-09-09-run-open-weights-agent-offline",
-    "synced_at": "2026-09-09T23:50:53.076980+00:00"
+    "synced_at": "2026-10-17T00:09:46.895268+00:00"
   },
   "phase4:do-2026-09-12-bash-first-agentic-harness": {
     "hash": "21105a5e04a9b46b34dfb85cb3c19b7102bc3cec558b8093842230b85fae7c09",
@@ -3293,6 +3333,16 @@
     "hash": "37680b2c0f8cab7ab7c95d8f293321c0505121cf8924a75930898dd80951f72c",
     "slug": "do-2026-10-15-isolated-sandbox-per-agent",
     "synced_at": "2026-10-16T00:05:13.878567+00:00"
+  },
+  "phase4:do-2026-10-16-headless-api-first-no-dashboard": {
+    "hash": "dfb83f3fb1d163f102a7d52fe7b4ebc7c22107cea900ae9c55c57d7964022be5",
+    "slug": "do-2026-10-16-headless-api-first-no-dashboard",
+    "synced_at": "2026-10-17T00:09:46.923718+00:00"
+  },
+  "phase4:do-2026-10-16-open-source-tagline-positioning": {
+    "hash": "712acd9b13d322f2fa5ada2c02e46446512ac66bc410fc68347bd2c582fe7ead",
+    "slug": "do-2026-10-16-open-source-tagline-positioning",
+    "synced_at": "2026-10-17T00:09:46.923494+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
@@ -3335,9 +3385,9 @@
     "synced_at": "2026-09-27T00:16:04.100950+00:00"
   },
   "phase4:eh-2026-09-27-prompt-stop-ai-shortcuts": {
-    "hash": "abcd6f3f42322380f6b8d55680309386b2ba2a77e7fda607a33f5e36ace9a9b1",
+    "hash": "fb0edfefa0dcec894978e71413cb9316534f7800912f0c3dc5e530a1fa89648d",
     "slug": "eh-2026-09-27-prompt-stop-ai-shortcuts",
-    "synced_at": "2026-09-28T00:18:16.604741+00:00"
+    "synced_at": "2026-10-17T00:09:46.906641+00:00"
   },
   "phase4:eh-2026-09-29-cited-ai-insights-research-app": {
     "hash": "d1177860e2f5f712e7a95f09607f8e18ffb34edcb71d2fcabc5c9800e5f57615",
@@ -3350,9 +3400,9 @@
     "synced_at": "2026-09-29T01:29:11.418179+00:00"
   },
   "phase4:eh-2026-09-30-ai-misclassification-diagnosis": {
-    "hash": "95d1af79fb1af8a2639575ce11c56132261b59f834e4f30da057ce8e7731ce95",
+    "hash": "78d87bbf91f3796ea85bdcd4e5bee78f31608a1da8ccf26ed3f7a8dd800ba9e5",
     "slug": "eh-2026-09-30-ai-misclassification-diagnosis",
-    "synced_at": "2026-09-30T01:06:01.471576+00:00"
+    "synced_at": "2026-10-17T00:09:46.908010+00:00"
   },
   "phase4:eh-2026-10-01-codex-claude-code-tips": {
     "hash": "9c6897c007e29e906aa8d68b28c4c3dc81c6f21d87b61476c8d17fc320cf6bce",
@@ -3360,9 +3410,9 @@
     "synced_at": "2026-10-01T01:04:17.849505+00:00"
   },
   "phase4:eh-2026-10-01-gemini-argon-capabilities": {
-    "hash": "53d01f700ae1712da282356b02f52c2b26f77ea54e3e9e2b2644fc75bf24cfa0",
+    "hash": "fe4e87f5abaea63a40c3b75573fed9ed27c4d5a4cd9f00e10f2d2c0dc97647b9",
     "slug": "eh-2026-10-01-gemini-argon-capabilities",
-    "synced_at": "2026-10-01T01:04:17.849716+00:00"
+    "synced_at": "2026-10-17T00:09:46.908288+00:00"
   },
   "phase4:eh-2026-10-02-hidden-instruction-injection-test": {
     "hash": "d69a5e029b520e69485b75b53c2128421ae370942ff923ec4f0577b961d1923f",
@@ -3370,9 +3420,9 @@
     "synced_at": "2026-10-02T01:17:38.192415+00:00"
   },
   "phase4:eh-2026-10-02-overfitting-seven-levels-drift": {
-    "hash": "3d166f36fe08d67b83315efbbfcbee1101bc0e0291f8fb2cc4a3c46152fe40cb",
+    "hash": "021837c55cd56d7978a37aaa8575e3d8dd713efdf6bd5bd28c96435e7ab21aaf",
     "slug": "eh-2026-10-02-overfitting-seven-levels-drift",
-    "synced_at": "2026-10-02T01:17:38.192098+00:00"
+    "synced_at": "2026-10-17T00:09:46.909074+00:00"
   },
   "phase4:eh-2026-10-02-sycophancy-reversal-prompting": {
     "hash": "95a38109bcea9e7141667335bb7ae29341dd5a4be5b496e0840a31d08f70a07c",
@@ -3395,9 +3445,9 @@
     "synced_at": "2026-10-04T00:21:44.929271+00:00"
   },
   "phase4:eh-2026-10-08-instant-video-pipeline-claude-grok": {
-    "hash": "d5c59a91c38eab599559612082f2e5aae4bb0503f48ed6ddc6eed57d4e513636",
+    "hash": "9d4c5dda321275c9b63b32e956a8a460b2594a9626c9a06c2e89eca9a92fd6fb",
     "slug": "eh-2026-10-08-instant-video-pipeline-claude-grok",
-    "synced_at": "2026-10-08T01:34:21.647381+00:00"
+    "synced_at": "2026-10-17T00:09:46.911745+00:00"
   },
   "phase4:eh-2026-10-09-parallel-scene-generation": {
     "hash": "f288904febea4a3c34b61e995f97b5aadb2c755575526d09ccfd7be9263ec078",
@@ -3405,19 +3455,19 @@
     "synced_at": "2026-10-09T01:45:00.867281+00:00"
   },
   "phase4:eh-2026-10-10-claude-docs-decks-free-meeting-notes": {
-    "hash": "9893fd6e5c9aa7079d1d371d860b039b578e7442dcb7a4d421984ccd21ba90b8",
+    "hash": "006f301dacd3ae6d0f32b8d8377a9765e41ba516ae5d0abe768a948d2e4dc381",
     "slug": "eh-2026-10-10-claude-docs-decks-free-meeting-notes",
-    "synced_at": "2026-10-10T01:31:24.565312+00:00"
+    "synced_at": "2026-10-17T00:09:46.915133+00:00"
   },
   "phase4:eh-2026-10-10-gpt6-intelligent-ui-interactive-answers": {
-    "hash": "2d2b7796fe5db9c722953e5a8bc6f010519c206f618c47e8c316340cc9c6bb45",
+    "hash": "6a07c5dd64c80d7939965226428808a9946f17d244b99dff779d8a88b0d79949",
     "slug": "eh-2026-10-10-gpt6-intelligent-ui-interactive-answers",
-    "synced_at": "2026-10-10T01:31:24.565171+00:00"
+    "synced_at": "2026-10-17T00:09:46.914892+00:00"
   },
   "phase4:eh-2026-10-15-altitude-goal-behind-the-goal": {
-    "hash": "3d5405fbf6ffe7d4e7eb73ba08a12a9b5cb7aa92614b2910656cfa8ee56af9fe",
+    "hash": "8c9e72fa5edb2ec4813ab4b5b55b0bf6d945a5f6f6394a9a08b71fad927de0f4",
     "slug": "eh-2026-10-15-altitude-goal-behind-the-goal",
-    "synced_at": "2026-10-16T00:05:13.879455+00:00"
+    "synced_at": "2026-10-17T00:09:46.918320+00:00"
   },
   "phase4:eh-2026-10-15-external-judge-for-model-output": {
     "hash": "ba9af53f2d88a4799c250ab844c62ad13fbd4f8f04634a569c15db28fa9c6da5",
@@ -3425,9 +3475,14 @@
     "synced_at": "2026-10-16T00:05:13.879689+00:00"
   },
   "phase4:eh-2026-10-15-five-habits-for-ai-collaboration": {
-    "hash": "3a3ebc1221f429beccdd57ca47e5497b9e89341f0ee3f6be84d41c1dc9feb705",
+    "hash": "d86acfb2db604fa9320b06bfa71945937c9502bff71573336916e05f1dddabd4",
     "slug": "eh-2026-10-15-five-habits-for-ai-collaboration",
-    "synced_at": "2026-10-16T00:05:13.879904+00:00"
+    "synced_at": "2026-10-17T00:09:46.918584+00:00"
+  },
+  "phase4:eh-2026-10-16-neural-network-interpretability-clean-hypothesis": {
+    "hash": "3ecb1c2c61274dd99a5e3fdcf0f813fa9c5dba19612cf8de5fcda9d2f531a1f5",
+    "slug": "eh-2026-10-16-neural-network-interpretability-clean-hypothes",
+    "synced_at": "2026-10-17T00:09:46.924435+00:00"
   },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
@@ -3445,29 +3500,44 @@
     "synced_at": "2026-10-16T00:05:13.884605+00:00"
   },
   "phase4:lc-2026-10-15-stripe-kai-deep-agents": {
-    "hash": "08aa509da0bc76be0f9f85884f57ee3bd4676702db9d56ef76da7837d65bf57b",
+    "hash": "22054a1fbe0492b0fe5c61e2402f551e5cb34b867e4cd9236f40cd94eb7a1b48",
     "slug": "lc-2026-10-15-stripe-kai-deep-agents",
-    "synced_at": "2026-10-16T00:05:13.886311+00:00"
+    "synced_at": "2026-10-17T00:09:46.922454+00:00"
   },
   "phase4:lc-2026-10-15-vanta-langsmith-compliance": {
-    "hash": "705779d921fd5532bc5fe4c5ed302e1450dd71c50c7dd4714f2cbcffcc1f55e7",
+    "hash": "7b2045679c7bf1f81737fdb78f8b646d18d13fa738776ee386a8c0f07d1003f3",
     "slug": "lc-2026-10-15-vanta-langsmith-compliance",
-    "synced_at": "2026-10-16T00:05:13.886105+00:00"
+    "synced_at": "2026-10-17T00:09:46.922197+00:00"
   },
   "phase4:lc-2026-10-15-what-is-deep-agents": {
-    "hash": "d1b33fab14199178414e9ba56a0ddc9774b5442c5279f262a5f5b00c4a955186",
+    "hash": "a7f1b4f8ecc43a4930a786a86d969ed1a704bed74f20df46e6c10e4c6b04995b",
     "slug": "lc-2026-10-15-what-is-deep-agents",
-    "synced_at": "2026-10-16T00:05:13.886530+00:00"
+    "synced_at": "2026-10-17T00:09:46.922705+00:00"
+  },
+  "phase4:lc-2026-10-16-agent-harness-explainer": {
+    "hash": "ab679186d140c58fda686fab27f35b65dbce467f7663503aa3a319f96933efc9",
+    "slug": "lc-2026-10-16-agent-harness-explainer",
+    "synced_at": "2026-10-17T00:09:46.926389+00:00"
+  },
+  "phase4:lc-2026-10-16-continual-learning-sft-rl-tradeoff": {
+    "hash": "d1ab7155baf4cce9e86021c21d115e8d61fd98373a22922e1be87ddab22af9b7",
+    "slug": "lc-2026-10-16-continual-learning-sft-rl-tradeoff",
+    "synced_at": "2026-10-17T00:09:46.926183+00:00"
   },
   "phase4:ls-2026-10-15-kill-saas-with-agents": {
-    "hash": "85e1502c6f8bb153bbc8b7f42b83c36e4033ba0ad69cbeb9328d0cae439861b5",
+    "hash": "26e222e0ff09ff206f76ed57a7576bb85f22714b0031e9f45d1c3df693d31ad6",
     "slug": "ls-2026-10-15-kill-saas-with-agents",
-    "synced_at": "2026-10-16T00:05:13.885905+00:00"
+    "synced_at": "2026-10-17T00:09:46.921947+00:00"
   },
   "phase4:ls-2026-10-15-leash-bio-dell-ml-pipeline": {
     "hash": "11dc2763a6d23e5789f3a1141a1feabe0af1b3465d9b50cd8881ef5742cebcbc",
     "slug": "ls-2026-10-15-leash-bio-dell-ml-pipeline",
     "synced_at": "2026-10-16T00:05:13.885661+00:00"
+  },
+  "phase4:ls-2026-10-16-world-action-model-visual-chain-of-thought": {
+    "hash": "93712cdedb24f14d41e22daf7f7b776f21ba6b92af6c176b6e55ba8e4e9057ad",
+    "slug": "ls-2026-10-16-world-action-model-visual-chain-of-thought",
+    "synced_at": "2026-10-17T00:09:46.925982+00:00"
   },
   "phase4:mk-2026-04-16-replace-openclaw-hermes-claude-code": {
     "hash": "e68a56d4494f545c78cb9de703346b0f91f4f971647a67c4ea64b76f6e6ef7a9",
@@ -3560,9 +3630,9 @@
     "synced_at": "2026-06-30T23:12:03.024807+00:00"
   },
   "phase4:mk-2026-07-05-wargame-plans-with-frontier": {
-    "hash": "24b8782dc8450f09facaa512b48c89af40f5d59183293118544886c5fd39b1f2",
+    "hash": "5372698d2b069baaeb1cb7901fd13c9d4c3353e2b62d1e799b6a40767ba70942",
     "slug": "mk-2026-07-05-wargame-plans-with-frontier",
-    "synced_at": "2026-07-05T23:00:04.805115+00:00"
+    "synced_at": "2026-10-17T00:09:46.849894+00:00"
   },
   "phase4:mk-2026-07-13-effort-level-calibration": {
     "hash": "aa5dcbde368ba2a547b0d37835cfb1e612ba7d91f270678be3e4178094442b5f",
@@ -3580,9 +3650,9 @@
     "synced_at": "2026-07-26T22:57:50.699997+00:00"
   },
   "phase4:mk-2026-08-08-hack-record-skill-for-sop-audit": {
-    "hash": "f7f3a920ca25f976c3f169e197835161a49c6a3e54a1a0e6d72fbeab7c416fb3",
+    "hash": "09e9c75302bbfbdd02746f77aedfb4dc0d072a08554576efae0c614dbcad9b87",
     "slug": "mk-2026-08-08-hack-record-skill-for-sop-audit",
-    "synced_at": "2026-08-08T22:27:50.975991+00:00"
+    "synced_at": "2026-10-17T00:09:46.874067+00:00"
   },
   "phase4:mk-2026-08-08-video-to-code-review": {
     "hash": "a7d9f48a637f25e4ffb61bbb1ae78c43dd36d2d5828d5e8ea32b247a001301ce",
@@ -3590,9 +3660,9 @@
     "synced_at": "2026-08-08T22:27:50.975722+00:00"
   },
   "phase4:mk-2026-08-11-local-model-3d-website-harness": {
-    "hash": "b91d01a1dc0a1dba7b43304ca777074ca73403c3395b9cb1cf800945e826b393",
+    "hash": "81385cd0b5946bdb2e6fd5408ec3bafd887d737f8293aa480688de3797c20052",
     "slug": "mk-2026-08-11-local-model-3d-website-harness",
-    "synced_at": "2026-08-11T22:39:43.440664+00:00"
+    "synced_at": "2026-10-17T00:09:46.876009+00:00"
   },
   "phase4:mk-2026-08-15-api-aggregator-creative-studio": {
     "hash": "f66252ef30796b45bdf73b36bc29154f4d4d70ef5af3e313c15b140d96b686a2",
@@ -3605,9 +3675,9 @@
     "synced_at": "2026-08-15T22:19:37.969336+00:00"
   },
   "phase4:mk-2026-08-19-sdk-bridge-replace-api-keys": {
-    "hash": "e678ddd247fd20a9af9053387087f3f1062f746bf1228691558f953fa6111199",
+    "hash": "a355423706f4fe37eef1c9fbac6ef7470d83dfa2925c38cb841971bc1c6ab46f",
     "slug": "mk-2026-08-19-sdk-bridge-replace-api-keys",
-    "synced_at": "2026-08-19T22:22:49.313953+00:00"
+    "synced_at": "2026-10-17T00:09:46.880955+00:00"
   },
   "phase4:mk-2026-08-23-personal-agent-comparison-framework": {
     "hash": "cf99ba176404b0e43f9d7cd0a10ac8f57f48e1bd55fcd531df3af9e2ff10aec8",
@@ -3615,14 +3685,14 @@
     "synced_at": "2026-08-23T22:20:14.507626+00:00"
   },
   "phase4:mk-2026-08-27-grokbot-auto-approval-tiering": {
-    "hash": "803fb8709815caba59ab62ba3926be3d6f0f4b96cdd4159ff3801c3afbbb203d",
+    "hash": "8b311a624a89b389b519de45bbb9849be69d70e1a33990ffe9d1dc521fe01ac3",
     "slug": "mk-2026-08-27-grokbot-auto-approval-tiering",
-    "synced_at": "2026-08-27T02:57:06.888975+00:00"
+    "synced_at": "2026-10-17T00:09:46.886542+00:00"
   },
   "phase4:mk-2026-08-27-grokbot-multi-agent-architecture-rebuild": {
-    "hash": "7d29232f2d8febb405ec0048441a055d6db84e823df35a2d5b33eb48fd4e358b",
+    "hash": "39e7d5dc3057ddc42103625172c51168a046e05150153f1e53c18c3f386de604",
     "slug": "mk-2026-08-27-grokbot-multi-agent-architecture-rebuild",
-    "synced_at": "2026-08-27T02:57:06.888696+00:00"
+    "synced_at": "2026-10-17T00:09:46.886279+00:00"
   },
   "phase4:mk-2026-09-01-grokbot-model-router": {
     "hash": "79c2617611a9fc8c1d6af5b776fca962c6914297c71ec715e719dfc83a55e951",
@@ -3630,9 +3700,9 @@
     "synced_at": "2026-09-01T00:59:23.025389+00:00"
   },
   "phase4:mk-2026-09-02-fable51-system-prompt-analysis": {
-    "hash": "e9703b0e5610eccddad5ab3e690223e7683f0f78e118bb1192a635c2a5f1a1d8",
+    "hash": "5fc768eca41accfce5e752a6d4457141b184a397931cd7068b9f33efe2f4c41d",
     "slug": "mk-2026-09-02-fable51-system-prompt-analysis",
-    "synced_at": "2026-09-02T23:52:06.940408+00:00"
+    "synced_at": "2026-10-17T00:09:46.891967+00:00"
   },
   "phase4:mk-2026-09-05-computer-use-cli-from-browser": {
     "hash": "64307e97687bec56fed249fdae5db7d3b8794ce91a04d5a47011b9149baf46c9",
@@ -3650,9 +3720,9 @@
     "synced_at": "2026-09-08T23:50:58.947710+00:00"
   },
   "phase4:mk-2026-09-13-3d-immersive-learning-world-astra-blender": {
-    "hash": "e9244007c574e71a75f3cb11da032df675ac8183ac2a74795d8278048f2a3a8f",
+    "hash": "9c9747e58077061453dca7d74d9299246610e34bb0d14064363f5aea4cfdcb77",
     "slug": "mk-2026-09-13-3d-immersive-learning-world-astra-blender",
-    "synced_at": "2026-09-13T23:53:53.141394+00:00"
+    "synced_at": "2026-10-17T00:09:46.897290+00:00"
   },
   "phase4:mk-2026-09-16-ollama-codex-cheaper-models": {
     "hash": "b4428775cecc0aacb1701e28e1057a75639668d69ef0a24bc3fbfe38cda09761",
@@ -3665,9 +3735,9 @@
     "synced_at": "2026-09-19T23:54:36.769709+00:00"
   },
   "phase4:mk-2026-09-23-build-jev-claude-opus55": {
-    "hash": "746aa177510de811d68e9b972199f5a27b04548240e7cd6f493c416559c51e59",
+    "hash": "d85deb9e499cad27f8f456f6c7dd3cdd8482a6a3b44cbc1e1b1deff6bf0d3f6f",
     "slug": "mk-2026-09-23-build-jev-claude-opus55",
-    "synced_at": "2026-09-24T00:14:50.528883+00:00"
+    "synced_at": "2026-10-17T00:09:46.902693+00:00"
   },
   "phase4:mk-2026-09-26-opus-gpt6-workflow-upgrade": {
     "hash": "cdc66899d9619051b614d2bb6d16c13c7846d06928092cfeb5729294c5b120d4",
@@ -3680,9 +3750,9 @@
     "synced_at": "2026-09-30T01:06:01.471917+00:00"
   },
   "phase4:mk-2026-10-01-openai-dots-honest-take": {
-    "hash": "9f4d3e951b176d914d4aa75262d9577e7383fc9df3a7cdd60428db43e11b7195",
+    "hash": "7c024252872cd2882fef11ebe5092ff201b47fff14a741d9e4bd669c0d2c3c13",
     "slug": "mk-2026-10-01-openai-dots-honest-take",
-    "synced_at": "2026-10-01T01:04:17.849922+00:00"
+    "synced_at": "2026-10-17T00:09:46.908529+00:00"
   },
   "phase4:mk-2026-10-03-claude-code-mods-auto-handoff": {
     "hash": "7fabbb34ef07c700612a89f3d7ef4d5d2058dfaeeb31a8de87a913a61d62ebc6",
@@ -3700,14 +3770,14 @@
     "synced_at": "2026-10-08T01:34:21.647809+00:00"
   },
   "phase4:mk-2026-10-08-decisions-api-vs-jev-classifier": {
-    "hash": "8bdf91626b4e7e58e45538ef5bf2e788a41c3b034c204df668b42ef50ec34f51",
+    "hash": "a4b066268f06f9565155f0ab5bab51aa977492095b08052da18bb03dc8cc2169",
     "slug": "mk-2026-10-08-decisions-api-vs-jev-classifier",
-    "synced_at": "2026-10-08T01:34:21.647595+00:00"
+    "synced_at": "2026-10-17T00:09:46.912008+00:00"
   },
   "phase4:mk-2026-10-15-uncensored-model-with-rea-for-app-cloning": {
-    "hash": "2928bb054e98c2fb68ecd215a726af00366f0d6409da429384a60c390487bb40",
+    "hash": "5ad905fd2da1b55f829a6b581561f33343ff39cb7f5fee41e5b05cecc33c09da",
     "slug": "mk-2026-10-15-uncensored-model-with-rea-for-app-cloning",
-    "synced_at": "2026-10-16T00:05:13.880111+00:00"
+    "synced_at": "2026-10-17T00:09:46.918839+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
@@ -3940,9 +4010,9 @@
     "synced_at": "2026-07-15T22:57:21.037352+00:00"
   },
   "phase4:mlops-2026-07-20-agent-harness-calibration": {
-    "hash": "8cddcc5e7cda5176b536af03b841c672f73510084208cf1d42279175dacde68b",
+    "hash": "411ba13462785a240aa82edf1b3bd77788cd839d8afdfcfa426ac1c1b13c8771",
     "slug": "mlops-2026-07-20-agent-harness-calibration",
-    "synced_at": "2026-07-20T22:59:26.359750+00:00"
+    "synced_at": "2026-10-17T00:09:46.859335+00:00"
   },
   "phase4:mlops-2026-07-24-coding-agents-as-general-agents": {
     "hash": "cf9f64500d42736b38e61e25454fca01811823a506209eccd5b8813f70128bcf",
@@ -3995,9 +4065,9 @@
     "synced_at": "2026-08-19T22:22:49.312667+00:00"
   },
   "phase4:mlops-2026-08-19-mcp-observability-anomaly-detection": {
-    "hash": "c09a0b16072e9077251a5e991a834b18feb40cfa4eea716c47574d78d2c83160",
+    "hash": "55973b82801afef7acbfec80551b47751a052b7170405a340f1d597a87821f9e",
     "slug": "mlops-2026-08-19-mcp-observability-anomaly-detection",
-    "synced_at": "2026-08-19T22:22:49.311353+00:00"
+    "synced_at": "2026-10-17T00:09:46.880223+00:00"
   },
   "phase4:mlops-2026-08-19-mcp-security-static-scan-cicd": {
     "hash": "6eeca20cde1e03a757f4e25125e245928af1508347bd24481395df5abcd46bc1",
@@ -4075,9 +4145,9 @@
     "synced_at": "2026-10-16T00:05:13.878331+00:00"
   },
   "phase4:mlops-2026-10-15-domain-specific-agent-standards": {
-    "hash": "b099af0c60f425e3823b950696347c186cbc9f1e74fa335cabf6f73177d14b24",
+    "hash": "58badc8b5d65c29d472d445c64d808758417715148e28805b032f372ba5436b3",
     "slug": "mlops-2026-10-15-domain-specific-agent-standards",
-    "synced_at": "2026-10-16T00:05:13.878069+00:00"
+    "synced_at": "2026-10-17T00:09:46.917770+00:00"
   },
   "phase4:mlops-2026-10-15-webmcp-agent-safe-actions": {
     "hash": "a160e2fc88a7e83b9e3bc492d603cf372cc049a8961df175e623fbda913da057",
@@ -4480,9 +4550,9 @@
     "synced_at": "2026-07-02T23:06:02.604865+00:00"
   },
   "phase4:nb-2026-07-03-paperwork-agent-skeleton": {
-    "hash": "35b7a003506d9fbb47a24c6ae9a905f53e015fca3d84ef3adb42553a233a3fdd",
+    "hash": "1b7d472ea2e8cdb0d65288715566ccbee185af9c7d2c6db9b4b656c09153c587",
     "slug": "nb-2026-07-03-paperwork-agent-skeleton",
-    "synced_at": "2026-07-03T23:02:44.024198+00:00"
+    "synced_at": "2026-10-17T00:09:46.849048+00:00"
   },
   "phase4:nb-2026-07-04-claude4-goal-harness-for-codegen": {
     "hash": "2efef7ebc449d1e4bd56d0dc7ab7ed9ca361ac9db384248a5308e94b3ebe8726",
@@ -4495,9 +4565,9 @@
     "synced_at": "2026-07-04T22:56:50.397217+00:00"
   },
   "phase4:nb-2026-07-05-imagination-over-cheap-models": {
-    "hash": "e67be8b39d105bcacf72e1924dea27961bca26cd4dc2ea78f10d9cb1f8f072f2",
+    "hash": "f3cb0fa9dd87cd1ce04f8bd31232b466bdf228826bdcd6a3979104491c5614f8",
     "slug": "nb-2026-07-05-imagination-over-cheap-models",
-    "synced_at": "2026-07-05T23:00:04.804756+00:00"
+    "synced_at": "2026-10-17T00:09:46.849635+00:00"
   },
   "phase4:nb-2026-07-08-agent-audition-tryout-task": {
     "hash": "e5e57aa9b1c8b40556475f802bbeae76faacfcf91382259556e0f16de735356a",
@@ -4505,14 +4575,14 @@
     "synced_at": "2026-07-08T23:06:33.381757+00:00"
   },
   "phase4:nb-2026-07-08-multi-agent-swarm-qa-catch": {
-    "hash": "13a729398a96a407409223d7775c8ce979e202ee6348d65cda55273c55151d5d",
+    "hash": "af7942c5f65094f2b5feee1a751f14e833715b5e549d6bd9d585ce5e734868ea",
     "slug": "nb-2026-07-08-multi-agent-swarm-qa-catch",
-    "synced_at": "2026-07-08T23:06:33.381423+00:00"
+    "synced_at": "2026-10-17T00:09:46.851351+00:00"
   },
   "phase4:nb-2026-07-10-task-shape-estimator": {
-    "hash": "6fd0cb7edaeff65f850ae894cabe99704720aae46059f2a3f772bb00c924d280",
+    "hash": "08823651261e4b815e455cfcfd83dd6d082c7f3902fd9626717e447d36159bbb",
     "slug": "nb-2026-07-10-task-shape-estimator",
-    "synced_at": "2026-07-10T22:58:19.550804+00:00"
+    "synced_at": "2026-10-17T00:09:46.852820+00:00"
   },
   "phase4:nb-2026-07-12-no-roadmap-15-commandments": {
     "hash": "151d8bd077b3bb5aeb6f75fa8a942fb5bd64dca145faf50c4c1a6b1b18d6f472",
@@ -4540,9 +4610,9 @@
     "synced_at": "2026-07-15T22:57:21.036703+00:00"
   },
   "phase4:nb-2026-07-17-ai-picks-the-problem": {
-    "hash": "489247d02f20eca053cce67acf14d029a62b09c59ec4b7ae82b533a0822a1fe5",
+    "hash": "8278f9500fff3f0b32f5f725f09f0f2c896aa177851f6e60debdf4d8adfbc047",
     "slug": "nb-2026-07-17-ai-picks-the-problem",
-    "synced_at": "2026-07-17T22:49:26.345294+00:00"
+    "synced_at": "2026-10-17T00:09:46.857081+00:00"
   },
   "phase4:nb-2026-07-17-automagic-skill-for-automation": {
     "hash": "7a99c980bb34c6464afc9c829a9f4ba345feeb532bd283439ff34d389b080207",
@@ -4555,9 +4625,9 @@
     "synced_at": "2026-07-19T22:50:58.602231+00:00"
   },
   "phase4:nb-2026-07-23-anti-slop-human-intent-signal": {
-    "hash": "6c4f754e7664f8a3e94d7c9e976af7e84ffdc536d3bf3ce070412353e413d341",
+    "hash": "8eff1588ad3c7795a084c748b9994d28eda071e705fff0560db9c6b73277230e",
     "slug": "nb-2026-07-23-anti-slop-human-intent-signal",
-    "synced_at": "2026-07-23T22:55:49.751380+00:00"
+    "synced_at": "2026-10-17T00:09:46.862169+00:00"
   },
   "phase4:nb-2026-07-23-local-model-fallback-for-sensitive-analysis": {
     "hash": "9c553071905f94f74374df6e92b0f438c4b317984324202c2a121c694089a450",
@@ -4575,14 +4645,14 @@
     "synced_at": "2026-07-23T22:55:49.750648+00:00"
   },
   "phase4:nb-2026-07-24-airlock-pii-scrub-before-llm": {
-    "hash": "e905ca7d66a36fc39a043213e73b65bf376f27375f746b01aa44bee876b0571a",
+    "hash": "44bacd171b9a863a7784f4c3414796a05721d8ceec245369797da88af28c7922",
     "slug": "nb-2026-07-24-airlock-pii-scrub-before-llm",
-    "synced_at": "2026-07-24T23:00:13.499503+00:00"
+    "synced_at": "2026-10-17T00:09:46.864189+00:00"
   },
   "phase4:nb-2026-07-24-job-first-context-scoping": {
-    "hash": "2c7d807139732a7c720353d86316a566a4d1ec64bc77e3010f8280a6153cbbd3",
+    "hash": "2d0eadc852871b9c6612aec0fbaacb34d632fb3f373033bc47a5f8f76389ee2b",
     "slug": "nb-2026-07-24-job-first-context-scoping",
-    "synced_at": "2026-07-24T23:00:13.499846+00:00"
+    "synced_at": "2026-10-17T00:09:46.864488+00:00"
   },
   "phase4:nb-2026-07-26-ai-agent-support-root-cause-loop": {
     "hash": "1f8f20b203f1642fdcefe44bac750372b5469d1b3efb0c83c2617e791445fd11",
@@ -4620,9 +4690,9 @@
     "synced_at": "2026-08-07T22:33:24.478657+00:00"
   },
   "phase4:nb-2026-08-07-voice-discovery-skill": {
-    "hash": "6adc9e7929b101e52c8536d884ae05954d34f22a87322f639d2b2dacba5d773f",
+    "hash": "00228c7ab80b6f735f78e47b53202a80ca713090e03f21002a099acd2e63cb2f",
     "slug": "nb-2026-08-07-voice-discovery-skill",
-    "synced_at": "2026-08-07T01:29:11.324851+00:00"
+    "synced_at": "2026-10-17T00:09:46.873146+00:00"
   },
   "phase4:nb-2026-08-09-human-edge-articulation": {
     "hash": "4a74635d8fb41990751e4119d08ad027e83aa8d89aeba1ce1ef90c9eaec8fc6c",
@@ -4630,9 +4700,9 @@
     "synced_at": "2026-08-09T22:29:14.507672+00:00"
   },
   "phase4:nb-2026-08-09-leader-ai-contract": {
-    "hash": "871a079947325ca544920568d7313834edc37adf6b733434fc69758d327156d6",
+    "hash": "1b0399c39417824f7044608f9d9cbc9215c73f95555064bd06e1b02cbda99fd7",
     "slug": "nb-2026-08-09-leader-ai-contract",
-    "synced_at": "2026-08-09T22:29:14.507310+00:00"
+    "synced_at": "2026-10-17T00:09:46.874681+00:00"
   },
   "phase4:nb-2026-08-10-harden-systems-against-emergent-agent-coordination": {
     "hash": "99f889b94485d0695c5d8e2000af56080b7162e701f19be647d55444b0c182b5",
@@ -4640,9 +4710,9 @@
     "synced_at": "2026-08-10T22:35:44.683572+00:00"
   },
   "phase4:nb-2026-08-12-progressive-context-shaping": {
-    "hash": "d1767c4e7a6369412ae8b07fa5624fde49e3b76358eb324cb0da750f6e1b1014",
+    "hash": "9d482f9c64fb94e8731937a8894f18d26a58b768af0574753114d7754e985c7d",
     "slug": "nb-2026-08-12-progressive-context-shaping",
-    "synced_at": "2026-08-12T22:38:55.748631+00:00"
+    "synced_at": "2026-10-17T00:09:46.876292+00:00"
   },
   "phase4:nb-2026-08-14-grockbot-chief-of-staff-agent": {
     "hash": "a5fcff6dfd79e9fc6e221510886069b19ccc4c09ffcc0619fe642561442cca78",
@@ -4680,9 +4750,9 @@
     "synced_at": "2026-08-21T22:23:08.441192+00:00"
   },
   "phase4:nb-2026-08-23-fte-workflow-leverage-mapping": {
-    "hash": "673e192c3bf368b85a189ef314b444321c27a028220cc04c7d25772674a5d1d6",
+    "hash": "bc7df2415485a70509a35b9f1d5db0198a1e077f50be6f776776529d322cd23b",
     "slug": "nb-2026-08-23-fte-workflow-leverage-mapping",
-    "synced_at": "2026-08-23T22:20:14.507221+00:00"
+    "synced_at": "2026-10-17T00:09:46.884758+00:00"
   },
   "phase4:nb-2026-08-27-agent-work-overhead-tracking": {
     "hash": "6ebd51d8cb8d79a5dd35e29862b9836503f15e310a0b1b1ec76dc7b3c922fd07",
@@ -4710,9 +4780,9 @@
     "synced_at": "2026-08-29T23:53:45.985404+00:00"
   },
   "phase4:nb-2026-08-30-define-passing-conditions-before-agent-deploy": {
-    "hash": "406fba59be0561c3a8938bd274efdfc48b15554c2120d3c55350171c52f7e812",
+    "hash": "aadd93cdca297a17db987c87f2d1e3f9e33d8c1b7c656bd66b795f822b634712",
     "slug": "nb-2026-08-30-define-passing-conditions-before-agent-deploy",
-    "synced_at": "2026-08-31T00:12:40.924453+00:00"
+    "synced_at": "2026-10-17T00:09:46.888664+00:00"
   },
   "phase4:nb-2026-09-01-local-vs-cloud-ai-bet": {
     "hash": "2e1ea845bad66ec16e266d8909a9a83c7107c0441321bbbfcb561b0fda7dd565",
@@ -4730,14 +4800,14 @@
     "synced_at": "2026-09-04T23:44:18.787518+00:00"
   },
   "phase4:nb-2026-09-04-low-effort-dcf-model-deck": {
-    "hash": "8db4f7fc8dbc7edc2114f701b9875d436a63ea0807466c3bca6ff3afd55eda69",
+    "hash": "22547c39d01411b538275db92fbf71c2719f83cb6a29e01fc741a23cef9be1f7",
     "slug": "nb-2026-09-04-low-effort-dcf-model-deck",
-    "synced_at": "2026-09-04T23:44:18.787891+00:00"
+    "synced_at": "2026-10-17T00:09:46.893169+00:00"
   },
   "phase4:nb-2026-09-06-astra-autonomous-knowledge-system": {
-    "hash": "babc2c1d70389ecc188425fb26ceb8b743c23218e17db353e5b227bdca5c2dc3",
+    "hash": "63181ab0607cd3044baa85d4a81392364ba64b67294ab44ce993c1851e8b820b",
     "slug": "nb-2026-09-06-astra-autonomous-knowledge-system",
-    "synced_at": "2026-09-06T23:30:10.536124+00:00"
+    "synced_at": "2026-10-17T00:09:46.894054+00:00"
   },
   "phase4:nb-2026-09-06-standing-job-agent-governance": {
     "hash": "f089d7af4ed50d12ca3863514a8a8a65c5fb598414ce257b7b263f7cf1035c04",
@@ -4745,14 +4815,14 @@
     "synced_at": "2026-09-06T23:30:10.536471+00:00"
   },
   "phase4:nb-2026-09-07-astra-admin-recipe-cards": {
-    "hash": "7a75e03d60c4848387d9352287bcf3b29a967cd6af45c8bb61aa67e21338befd",
+    "hash": "12e3ad6137b373038925454e5c44b39d71d934e67f15030a8e46d39130921b07",
     "slug": "nb-2026-09-07-astra-admin-recipe-cards",
-    "synced_at": "2026-09-07T23:59:53.467094+00:00"
+    "synced_at": "2026-10-17T00:09:46.894360+00:00"
   },
   "phase4:nb-2026-09-10-dual-model-clipboard-comparison": {
-    "hash": "f004876ecfa0c438cbf7c22033bde93aeb0ed502260bd09f5e18370a9a330e79",
+    "hash": "e390af9b443212d63022738147831c2fc8378afa34e0210e4f2ee6e45486b1f1",
     "slug": "nb-2026-09-10-dual-model-clipboard-comparison",
-    "synced_at": "2026-09-10T23:44:23.611415+00:00"
+    "synced_at": "2026-10-17T00:09:46.895997+00:00"
   },
   "phase4:nb-2026-09-10-open-multiagent-repo-message-board": {
     "hash": "d61ca92ad2bc30629533b55775d0d376902425b8cabc2f13884a92f63b6c8a59",
@@ -4765,9 +4835,9 @@
     "synced_at": "2026-09-11T23:53:17.274484+00:00"
   },
   "phase4:nb-2026-09-15-ambient-intelligence-no-arms-race": {
-    "hash": "5bf588a3de927b384a5576b0d01b7189fe04aa26c61702cac7c04a097add687b",
+    "hash": "5cf475ecb33a34da9db5ad241721aa6082f73d1e2e58a29f5b8d92c754a9aef8",
     "slug": "nb-2026-09-15-ambient-intelligence-no-arms-race",
-    "synced_at": "2026-09-15T23:58:23.561867+00:00"
+    "synced_at": "2026-10-17T00:09:46.898274+00:00"
   },
   "phase4:nb-2026-09-15-device-vs-agent-trust-split": {
     "hash": "49315d10123be5c1289ea91a68b1e90251c9a700ae1023dc5da1c8bbf952da9e",
@@ -4790,9 +4860,9 @@
     "synced_at": "2026-09-20T23:51:51.045335+00:00"
   },
   "phase4:nb-2026-09-22-ai-cant-write-developer-frustration": {
-    "hash": "9888da584a99f4d1255a15d451c7680176d3ddf6a2ae93b6b758404c811bb35a",
+    "hash": "64c787a1efd64e1782aa56642b52ca803546f35010bb79710d269cba4fc7c287",
     "slug": "nb-2026-09-22-ai-cant-write-developer-frustration",
-    "synced_at": "2026-09-23T00:00:35.284681+00:00"
+    "synced_at": "2026-10-17T00:09:46.902155+00:00"
   },
   "phase4:nb-2026-09-22-codex-computer-ownership": {
     "hash": "ee33bd1e97d32619cbd8d93eccb9275a9579bc9dc440b9c56e58157c9a90485e",
@@ -4810,14 +4880,14 @@
     "synced_at": "2026-09-26T00:22:35.591870+00:00"
   },
   "phase4:nb-2026-09-27-fix-ai-bottleneck-team-shipping": {
-    "hash": "24d45ca4e29901f1bd79158cd3f2c7210ef530c0173b69f6fde7ebc9a6f8bfb6",
+    "hash": "3d01b55547fe40c93cebe51c99da4c6bf7eb5a170364eff8889b409145e9f23e",
     "slug": "nb-2026-09-27-fix-ai-bottleneck-team-shipping",
-    "synced_at": "2026-09-28T00:18:16.603723+00:00"
+    "synced_at": "2026-10-17T00:09:46.906368+00:00"
   },
   "phase4:nb-2026-09-30-meta-muse-cost-savings": {
-    "hash": "c5a3cec20da7e851620576480e9e7e9105ba54d28f003139746052a47e85ccee",
+    "hash": "f8c96ec45c3b4adcd99752f19b7a8873c801c89aad531c18e7c962cc8cb0e9cb",
     "slug": "nb-2026-09-30-meta-muse-cost-savings",
-    "synced_at": "2026-09-30T01:06:01.471225+00:00"
+    "synced_at": "2026-10-17T00:09:46.907765+00:00"
   },
   "phase4:nb-2026-10-01-opus-55-benchmark-comparison": {
     "hash": "997f1fb2f91e8ec2c7873f9c5c2deb966a284deafcf865978ca67ac9d3613a2c",
@@ -4845,9 +4915,9 @@
     "synced_at": "2026-10-04T00:21:44.928577+00:00"
   },
   "phase4:nb-2026-10-05-agent-stack-layer-mapping": {
-    "hash": "65138f3f8f7eb0310997e3e440ba0d88b7e80f1687f886c267415577ad27c39c",
+    "hash": "2fa21b3f1eba7ab578d1524f7db077ec10c05b677784d1f1af9788dc900da5d4",
     "slug": "nb-2026-10-05-agent-stack-layer-mapping",
-    "synced_at": "2026-10-05T00:27:02.314825+00:00"
+    "synced_at": "2026-10-17T00:09:46.910839+00:00"
   },
   "phase4:nb-2026-10-09-customer-obsession-benchmark": {
     "hash": "a44bcd6d2ec29f9a95b309136434c45e5863abb5078b528bc709ef15a6c18d3a",
@@ -4870,9 +4940,9 @@
     "synced_at": "2026-10-16T00:05:13.883341+00:00"
   },
   "phase4:nb-2026-10-15-rea-xray-vision-workflow": {
-    "hash": "f7c1e942e7dda8df7eec07b1fccf49d791a3442ffd6fc083a50de682a1439f3f",
+    "hash": "b57816fe8abbb6460aab52c67b54ac6af8538542d7d1d08035b5b766676183a8",
     "slug": "nb-2026-10-15-rea-xray-vision-workflow",
-    "synced_at": "2026-10-16T00:05:13.883141+00:00"
+    "synced_at": "2026-10-17T00:09:46.920243+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
@@ -5210,9 +5280,9 @@
     "synced_at": "2026-06-29T22:57:05.456906+00:00"
   },
   "phase4:nh-2026-07-01-fable5-prompting-six-habits": {
-    "hash": "a0992d3a8b0823776f7372aa25064f6e5a537e26b04fcd5164f184939f722d51",
+    "hash": "0bd8bca895fc212f3aa56c8d2d165c962ef032fc18477891d10e25547d6e2b82",
     "slug": "nh-2026-07-01-fable5-prompting-six-habits",
-    "synced_at": "2026-07-01T23:14:51.246327+00:00"
+    "synced_at": "2026-10-17T00:09:46.848444+00:00"
   },
   "phase4:nh-2026-07-03-claude-code-row-skill-verification": {
     "hash": "c61c10d702df40b08770cecc58b7f586dbcb045ebce9d00b7b52c40eaf90f0b9",
@@ -5225,9 +5295,9 @@
     "synced_at": "2026-07-03T23:02:44.024553+00:00"
   },
   "phase4:nh-2026-07-07-fable-mode-system-prompt-opus": {
-    "hash": "4a327b30b939fc5a2b2975ceba473906fcf0a33ced2c81ce755389e83a5f3e58",
+    "hash": "852d0c73c29af73c74f230396f304aeb0d9a7a43deab4d2e9fb9ffd11f551c2b",
     "slug": "nh-2026-07-07-fable-mode-system-prompt-opus",
-    "synced_at": "2026-07-07T23:00:44.381877+00:00"
+    "synced_at": "2026-10-17T00:09:46.850733+00:00"
   },
   "phase4:nh-2026-07-07-model-routing-table-agent-teams": {
     "hash": "a5f6d529b80f22f3c6320afcfb354355d226d72dea50115d4f936d82943a0377",
@@ -5235,19 +5305,19 @@
     "synced_at": "2026-07-07T23:00:44.382179+00:00"
   },
   "phase4:nh-2026-07-08-single-goal-prompt-full-company": {
-    "hash": "9d39a80fa7c734243a57295d4e607c888c8131b82e5ec628ec1bac9ed9bf72c6",
+    "hash": "6b03e230aa1318a0bf3b548543cc3396c56fecc3932a6f987b1230919f09880d",
     "slug": "nh-2026-07-08-single-goal-prompt-full-company",
-    "synced_at": "2026-07-08T23:06:33.382095+00:00"
+    "synced_at": "2026-10-17T00:09:46.851612+00:00"
   },
   "phase4:nh-2026-07-09-single-prompt-full-video-pipeline": {
-    "hash": "f0e8d621d372804f65d474c175de6820e84b7c3d022ed00fb667d5c53b3d6f03",
+    "hash": "4e105c6ec49867125ea3df79ad02f8e77d0e331d092fc677b26060937142f320",
     "slug": "nh-2026-07-09-single-prompt-full-video-pipeline",
-    "synced_at": "2026-07-09T23:10:32.282644+00:00"
+    "synced_at": "2026-10-17T00:09:46.852285+00:00"
   },
   "phase4:nh-2026-07-10-soul-vs-fable-routing": {
-    "hash": "2db8b46d789395c1bca3f133fafc7cbc743745e44f934c13a0839c852853d37c",
+    "hash": "f901277ddc47d3be4b72a0fca086f3b5b5685f9f60838f021b7268a270006eed",
     "slug": "nh-2026-07-10-soul-vs-fable-routing",
-    "synced_at": "2026-07-10T22:58:19.551178+00:00"
+    "synced_at": "2026-10-17T00:09:46.853060+00:00"
   },
   "phase4:nh-2026-07-11-claude-code-non-coder-aios": {
     "hash": "68787a1348dfe83b88b67b1a5032c9245b26caa805ad0282002db99815bbc349",
@@ -5260,9 +5330,9 @@
     "synced_at": "2026-07-11T22:47:29.092865+00:00"
   },
   "phase4:nh-2026-07-12-claude-code-clay-lead-gen": {
-    "hash": "2d742b2adc6c0fc90beecfab3890ec5bb82bedb830d057dd8abdb5cfe9b72851",
+    "hash": "ec6ca7aa947ceff7ae7e8926cf563ecccbfc31af7fa85d56b89299ed9d82bfb3",
     "slug": "nh-2026-07-12-claude-code-clay-lead-gen",
-    "synced_at": "2026-07-12T22:47:12.998684+00:00"
+    "synced_at": "2026-10-17T00:09:46.853720+00:00"
   },
   "phase4:nh-2026-07-14-inhouse-ai-consultant-roadmap": {
     "hash": "98c9dfccf109b231918c2a47f6794f84ae0ed1a8cc3e93ec635ed32389c195a2",
@@ -5285,9 +5355,9 @@
     "synced_at": "2026-07-24T23:00:13.501204+00:00"
   },
   "phase4:nh-2026-07-24-expertise-vs-situational-context-split": {
-    "hash": "402a7f0f4807aad0e62b8f5e11be9272a659b3ca1fc13e9f3dacbc5e33eda751",
+    "hash": "4592eb6eefbb0588183fab4ea3465d67a749f5830f0db2c60cddca32ee84e237",
     "slug": "nh-2026-07-24-expertise-vs-situational-context-split",
-    "synced_at": "2026-07-24T23:00:13.501506+00:00"
+    "synced_at": "2026-10-17T00:09:46.865174+00:00"
   },
   "phase4:nh-2026-07-24-opus5-verification-loops": {
     "hash": "bed78396d071d58181614cbeffe1ea1faa85cea530dc2af73660e85494975174",
@@ -5295,9 +5365,9 @@
     "synced_at": "2026-07-24T23:00:13.500856+00:00"
   },
   "phase4:nh-2026-07-25-fable-orchestrator-opus-subagent": {
-    "hash": "d295a453a04144f8df7f3deb7cea6d7d58c42378c5baeacc96023027e8c95bdd",
+    "hash": "42736036eee79317af595df7805b4d4eba6a92451015b9b298a7cf233d175168",
     "slug": "nh-2026-07-25-fable-orchestrator-opus-subagent",
-    "synced_at": "2026-07-25T22:55:22.946218+00:00"
+    "synced_at": "2026-10-17T00:09:46.866374+00:00"
   },
   "phase4:nh-2026-07-25-opus5-vs-fable5-claude-code-comparison": {
     "hash": "dfbcd804d137472838f6ff2041a6b5ab05f4a1bf58bf10dad048f8b984d935aa",
@@ -5335,9 +5405,9 @@
     "synced_at": "2026-08-11T22:39:43.439976+00:00"
   },
   "phase4:nh-2026-08-11-pricing-prompt-three-tiers": {
-    "hash": "2ffb2216d6ead83d98aa1ac770996dc4187973011c6f2ea04bcf905082b6670c",
+    "hash": "092506ff5a70512c2cdf3b8ddc9f75c2126703dcf79a7201372ea93b41c29044",
     "slug": "nh-2026-08-11-pricing-prompt-three-tiers",
-    "synced_at": "2026-08-11T22:39:43.440359+00:00"
+    "synced_at": "2026-10-17T00:09:46.875722+00:00"
   },
   "phase4:nh-2026-08-12-delete-skills-unhobble-model": {
     "hash": "773a836307cfda7364918f871d5d718362ba7474ba46a9ab78efad0a4978a7bc",
@@ -5375,14 +5445,14 @@
     "synced_at": "2026-08-14T22:20:54.119493+00:00"
   },
   "phase4:nh-2026-08-18-become-inhouse-ai-person": {
-    "hash": "ada84a9f40864d3036789811d1578186a5d7ca638b9b19528ca8278a5f94ac07",
+    "hash": "e05bdc94f64880c0ec96ea26ce1a62665e9ab4387f0fc2d63144fffaa78314ab",
     "slug": "nh-2026-08-18-become-inhouse-ai-person",
-    "synced_at": "2026-08-18T22:21:44.808736+00:00"
+    "synced_at": "2026-10-17T00:09:46.879253+00:00"
   },
   "phase4:nh-2026-08-19-grokbot-chief-of-staff-pattern": {
-    "hash": "59df58ab4cef7e7b32d3cd0ef4b11d57709357acf1d7adb11d322dfc471f002f",
+    "hash": "a5c72ca91c22b5c33b4a1253811340392b82af4b81825a7b6c4fac0cf271567c",
     "slug": "nh-2026-08-19-grokbot-chief-of-staff-pattern",
-    "synced_at": "2026-08-19T22:22:49.313641+00:00"
+    "synced_at": "2026-10-17T00:09:46.880671+00:00"
   },
   "phase4:nh-2026-08-20-five-in-demand-ai-automations-2026": {
     "hash": "c600ee3a3b00f34c1c3bb1193d01f83e7ba52ed71e975f77484f2fe720b74f63",
@@ -5400,9 +5470,9 @@
     "synced_at": "2026-08-22T22:20:03.220048+00:00"
   },
   "phase4:nh-2026-08-22-scrollcraft-skill": {
-    "hash": "ef37ab1061912fba227b23513102d1d4ba97a00d9b6c0c1f64418e0ed3266e7e",
+    "hash": "f1d71ba3abdb7c25a1f14aeb300bc0bcc1ab8e6cebca86a0cf174e4d6568ead7",
     "slug": "nh-2026-08-22-scrollcraft-skill",
-    "synced_at": "2026-08-22T22:20:03.219790+00:00"
+    "synced_at": "2026-10-17T00:09:46.883842+00:00"
   },
   "phase4:nh-2026-08-24-agent-draft-not-send": {
     "hash": "24ddb01bdde5d8c24bd5291334bcff94fc3ee4e161d49022d613c81007d1f1e8",
@@ -5410,9 +5480,9 @@
     "synced_at": "2026-08-24T22:24:30.074888+00:00"
   },
   "phase4:nh-2026-08-24-deepseek-harness-vs-claude-code": {
-    "hash": "323983ee37931eb9a5bdc125660bed872723ba4fb3920d9a887352c66e6109a7",
+    "hash": "8ea9287aac0d0cf69b6ad5f6b7ef64b59c086445efe450c4ba07ec6175539dc5",
     "slug": "nh-2026-08-24-deepseek-harness-vs-claude-code",
-    "synced_at": "2026-08-24T22:24:30.075233+00:00"
+    "synced_at": "2026-10-17T00:09:46.885082+00:00"
   },
   "phase4:nh-2026-08-24-vault-verification-pipeline": {
     "hash": "a9ea4326f78be6cb86484758376dcb419bfda5e2e2fc941b465f84b13a03eecd",
@@ -5420,9 +5490,9 @@
     "synced_at": "2026-08-24T22:24:30.074540+00:00"
   },
   "phase4:nh-2026-08-25-diagnose-kpi-value-proof": {
-    "hash": "8ff141369ef0648d8b96b45b4b111ec62f367af95e8f84559e6e4471643aa0a7",
+    "hash": "15bf684bd5e609cd20f776d83df10b6a97ac0bcdc796591a1c7f5cab57f3a11b",
     "slug": "nh-2026-08-25-diagnose-kpi-value-proof",
-    "synced_at": "2026-08-25T22:25:25.271868+00:00"
+    "synced_at": "2026-10-17T00:09:46.885348+00:00"
   },
   "phase4:nh-2026-08-25-grill-me-prompt-expertise-extraction": {
     "hash": "4b8387bc839cd08809865b8d8cf38434870f5b847f9cdfaf315e157ec533575d",
@@ -5430,9 +5500,9 @@
     "synced_at": "2026-08-25T22:25:25.272196+00:00"
   },
   "phase4:nh-2026-08-27-claude-code-vs-codex-design-benchmark": {
-    "hash": "2dda871722c4dec866ba7455852e65537a5529c3b31aad679e189b45c5605632",
+    "hash": "783e98b41610d379833537521941e2cb4293e228644b283398a132c91343e58e",
     "slug": "nh-2026-08-27-claude-code-vs-codex-design-benchmark",
-    "synced_at": "2026-08-27T02:57:06.888410+00:00"
+    "synced_at": "2026-10-17T00:09:46.886002+00:00"
   },
   "phase4:nh-2026-08-29-codex-saas-clone-cost-analysis": {
     "hash": "d04dd0df98024df2d1fc48b6ff973edd7e0568b5668954576f724264d694a93c",
@@ -5440,9 +5510,9 @@
     "synced_at": "2026-08-29T23:53:45.986309+00:00"
   },
   "phase4:nh-2026-08-29-managed-hermes-agent-setup": {
-    "hash": "2646e2bc05ab33564bdb4e99ecc5eea33fad2fef545fdabbfe65f5f556f4e6d4",
+    "hash": "ebcefad4f935cfc470b63a0fae2ad0a66e744ff9c84d1d400c3b95fdfa23ef0a",
     "slug": "nh-2026-08-29-managed-hermes-agent-setup",
-    "synced_at": "2026-08-29T23:53:45.986579+00:00"
+    "synced_at": "2026-10-17T00:09:46.887016+00:00"
   },
   "phase4:nh-2026-09-01-claude-fable-51-cost-benchmark": {
     "hash": "89b1416b27cd91e0a4fcd82391e17ec58cc20ff444b5ce0a9d1fe91bde2eb8c6",
@@ -5460,9 +5530,9 @@
     "synced_at": "2026-09-01T00:59:23.024646+00:00"
   },
   "phase4:nh-2026-09-01-grokbot-cold-outreach-agent": {
-    "hash": "9841aebe2f548c8d901b4072c0cc7c68f54675a82291ada2d2334fa2b55f373e",
+    "hash": "517c63b4e04a1764b0739ff2d76aea26eaf11c1cb71b6ff70a37b3f3558adb90",
     "slug": "nh-2026-09-01-grokbot-cold-outreach-agent",
-    "synced_at": "2026-09-01T00:59:23.025066+00:00"
+    "synced_at": "2026-10-17T00:09:46.889497+00:00"
   },
   "phase4:nh-2026-09-01-reward-hacking-eval-harness": {
     "hash": "f55128ed25428c37478e79fe8c7264f8877e98103c9a6caf7ffe860ad697b212",
@@ -5470,9 +5540,9 @@
     "synced_at": "2026-09-01T23:48:33.170245+00:00"
   },
   "phase4:nh-2026-09-02-fable-effort-level-matching": {
-    "hash": "7bbb3c848eb2faa70a524593f61d8c025fe0762bee6746734188abfd811790ef",
+    "hash": "9cf633cd3d44bfa4410ef9f968e81ca2a65b20408231690abeaa9f3bccf66c2b",
     "slug": "nh-2026-09-02-fable-effort-level-matching",
-    "synced_at": "2026-09-02T23:52:06.939785+00:00"
+    "synced_at": "2026-10-17T00:09:46.891673+00:00"
   },
   "phase4:nh-2026-09-02-fable-orchestrator-no-build": {
     "hash": "ea708dfc61dbdc6ad2f7e79b4eefb263e8e20a81d084a2b3a752a01ba1fcd5c1",
@@ -5485,9 +5555,9 @@
     "synced_at": "2026-09-02T23:52:06.940202+00:00"
   },
   "phase4:nh-2026-09-04-astra-end-to-end-video-production": {
-    "hash": "8fa311711804357b9457a95d839023094474657d276f7d8c27c759e8e9fea34c",
+    "hash": "899fab656ebfee77c0d5d8c989a8006b55fe63a6ead6b53aacc919976c8d5647",
     "slug": "nh-2026-09-04-astra-end-to-end-video-production",
-    "synced_at": "2026-09-04T23:44:18.788223+00:00"
+    "synced_at": "2026-10-17T00:09:46.893438+00:00"
   },
   "phase4:nh-2026-09-04-fable51-vs-fable5-agentic-app-build": {
     "hash": "343b43ce5dda281533097d35e56e800fcf149e7fbd5b370373e9306c4295d5b8",
@@ -5500,9 +5570,9 @@
     "synced_at": "2026-09-05T23:33:59.520476+00:00"
   },
   "phase4:nh-2026-09-05-voice-delegated-codex-personal-os": {
-    "hash": "db34ac7183ed849f106c8cb7447068c99a8c1ad7ce9b4599121deaaf15162032",
+    "hash": "e4c49ba194a76133d130006afbd2eb6a5aeb9de229cae2d064b8066c2f68e0c4",
     "slug": "nh-2026-09-05-voice-delegated-codex-personal-os",
-    "synced_at": "2026-09-05T23:33:59.520118+00:00"
+    "synced_at": "2026-10-17T00:09:46.893761+00:00"
   },
   "phase4:nh-2026-09-06-astra-vs-fable-15-use-cases": {
     "hash": "e9bdef4793bb12837d991da16932b99bf4ec2b9f50b8c499a898cfb2141bdeea",
@@ -5510,9 +5580,9 @@
     "synced_at": "2026-09-06T23:30:10.536773+00:00"
   },
   "phase4:nh-2026-09-07-aios-second-brain-four-cs": {
-    "hash": "62377cc00def1173ec1d5da2beab6f6ccd0a84e03c48b79541dc6e60b0f1905e",
+    "hash": "abeba1c81ca6b8a566e79698a05e259c7d7186ae9cf491e3262ac9497c80b995",
     "slug": "nh-2026-09-07-aios-second-brain-four-cs",
-    "synced_at": "2026-09-07T23:59:53.467474+00:00"
+    "synced_at": "2026-10-17T00:09:46.894668+00:00"
   },
   "phase4:nh-2026-09-07-astra-stock-trader-scheduled-agents": {
     "hash": "685fea748dc31533a722ca70e89aaaed3567410381659bc108e7a6f41637db3c",
@@ -5525,9 +5595,9 @@
     "synced_at": "2026-09-08T23:50:58.947011+00:00"
   },
   "phase4:nh-2026-09-11-harness-over-model-loyalty": {
-    "hash": "82c89218b8820ebb9998bf16b42f727557813eca5ef1ccf7307e718b699da7f1",
+    "hash": "9fb49cba8492c556272b36f8c8212689a5c1ef4e6233f17617e1a8d60e8579aa",
     "slug": "nh-2026-09-11-harness-over-model-loyalty",
-    "synced_at": "2026-09-11T23:53:17.274841+00:00"
+    "synced_at": "2026-10-17T00:09:46.896675+00:00"
   },
   "phase4:nh-2026-09-11-skill-decay-rotation": {
     "hash": "d447b8d2e823f784cb30dc15fa9c73131af7dceb91707c3e4a4413b084de18ee",
@@ -5555,9 +5625,9 @@
     "synced_at": "2026-09-17T00:07:10.670503+00:00"
   },
   "phase4:nh-2026-09-16-grokbot-agentmail-inbox": {
-    "hash": "8eea3637c94671a593240b935f93a37d01effd1a851b98ec8d6f1814915cd14d",
+    "hash": "54d99bf7a28842920ed948bcdae9c1803ea1b792d7cf630603930999ea0a3429",
     "slug": "nh-2026-09-16-grokbot-agentmail-inbox",
-    "synced_at": "2026-09-17T00:07:10.670884+00:00"
+    "synced_at": "2026-10-17T00:09:46.899511+00:00"
   },
   "phase4:nh-2026-09-18-agent-report-card-qas": {
     "hash": "5127929c2e26c88bc1a49ce0714218f8193f7a047bbec64cb26df88cd60e4a17",
@@ -5565,9 +5635,9 @@
     "synced_at": "2026-09-18T23:53:25.364916+00:00"
   },
   "phase4:nh-2026-09-18-higgsfield-api-codex-integration": {
-    "hash": "bd918757cfe943ef57fe6bfe4200fa65740bdfb93d01c946b58b46836dfc2507",
+    "hash": "c4b1feb884e4ee43b4fe0b67fb02ec9c3e1f9dd2606c513423db4bbac12e9823",
     "slug": "nh-2026-09-18-higgsfield-api-codex-integration",
-    "synced_at": "2026-09-18T23:53:25.365094+00:00"
+    "synced_at": "2026-10-17T00:09:46.900465+00:00"
   },
   "phase4:nh-2026-09-19-codex-skill-reverse-engineering": {
     "hash": "beb39a47182a2f2b1c9bca5d86ca5c60a00d86c39f60dcaf78538ee3bf288ac1",
@@ -5580,9 +5650,9 @@
     "synced_at": "2026-09-19T23:54:36.768691+00:00"
   },
   "phase4:nh-2026-09-22-codex-build-and-sell": {
-    "hash": "923fead0a889ef7d38129279e1c9f1aa4d3c04b5a98f03911aa697723a7110d5",
+    "hash": "c2e0eaab01ef3a2e072a27a38e83d84cf892bcc71549f2f78a154dd74ffd32ee",
     "slug": "nh-2026-09-22-codex-build-and-sell",
-    "synced_at": "2026-09-22T00:36:08.999667+00:00"
+    "synced_at": "2026-10-17T00:09:46.901397+00:00"
   },
   "phase4:nh-2026-09-23-opus55-vs-gpt6-astra-12-cases": {
     "hash": "1338f1274d39d581b6b704cf19f812449324ba975ff92166e7087d308c15b8a1",
@@ -5595,9 +5665,9 @@
     "synced_at": "2026-09-24T00:14:50.528233+00:00"
   },
   "phase4:nh-2026-09-24-opus-55-effort-levels": {
-    "hash": "3a2b88bf83a55961c3017b9424e534c36c8655d4d9400e0fa7a105a3e6575d15",
+    "hash": "62e253b0b0ba784834e0b7241febb9b07cc8471cbf4235d08823c74900322baf",
     "slug": "nh-2026-09-24-opus-55-effort-levels",
-    "synced_at": "2026-09-25T00:17:14.631547+00:00"
+    "synced_at": "2026-10-17T00:09:46.904670+00:00"
   },
   "phase4:nh-2026-09-26-opus-55-video-editing": {
     "hash": "b2b095ddd3df0de27b0e15b383eb3b1264178c67f9399942613f61ae20649e4a",
@@ -5650,9 +5720,9 @@
     "synced_at": "2026-10-04T00:21:44.928822+00:00"
   },
   "phase4:nh-2026-10-04-voice-multi-agent-coordination": {
-    "hash": "222b30721f722c343a726c30614dce293da2d83ea05b5059f415051e139ca330",
+    "hash": "16bb7710cdd281b346850d92bc3a9d24f61517949bf64993a0f27df04d5a7bcf",
     "slug": "nh-2026-10-04-voice-multi-agent-coordination",
-    "synced_at": "2026-10-04T00:21:44.929056+00:00"
+    "synced_at": "2026-10-17T00:09:46.910138+00:00"
   },
   "phase4:nh-2026-10-06-karpathy-wiki-agent": {
     "hash": "9bba29e078388bc388595583eb818e114c170885e9c79f5e291d2ffeedd3f0cb",
@@ -5660,9 +5730,9 @@
     "synced_at": "2026-10-06T02:04:08.391119+00:00"
   },
   "phase4:nh-2026-10-06-teaching-rules-system-prompt": {
-    "hash": "591eb7265a435bed5c4c2e3af2d2dbc2fe2c256f9aba2573220559ad626a21ae",
+    "hash": "97739ca13b8339c7fae1c0372ceb663665f4fc80969e6bb0e72edc2fdd1427cd",
     "slug": "nh-2026-10-06-teaching-rules-system-prompt",
-    "synced_at": "2026-10-06T02:04:08.391299+00:00"
+    "synced_at": "2026-10-17T00:09:46.911449+00:00"
   },
   "phase4:nh-2026-10-09-minimal-context-claude": {
     "hash": "fbad88de837b2dc495ba1f09a5c187875be61b15d6ebe7f04b7e629415410da5",
@@ -5670,39 +5740,49 @@
     "synced_at": "2026-10-09T01:45:00.866854+00:00"
   },
   "phase4:nh-2026-10-09-scheduled-doctor-self-cleaning": {
-    "hash": "dc07c06fe39af734879391a5fbb785ec1e692281b353b4817f12cbf9cb047b19",
+    "hash": "1348610f0ebfab954020a95e902e50f8faa9eaeb728c23d83cae38091afca2fc",
     "slug": "nh-2026-10-09-scheduled-doctor-self-cleaning",
-    "synced_at": "2026-10-09T01:45:00.867064+00:00"
+    "synced_at": "2026-10-17T00:09:46.913499+00:00"
   },
   "phase4:nh-2026-10-10-grokbot-cloud-code-cli-in-cloud-computer": {
-    "hash": "6702a9cbe52233efb00948697b4340152dbb0fadc0f8c24454e2a2bb612aa156",
+    "hash": "f3ee6023e5328dfad853336bde517ee575c4b67016acf8953dd3f656d5aeb7a4",
     "slug": "nh-2026-10-10-grokbot-cloud-code-cli-in-cloud-computer",
-    "synced_at": "2026-10-10T01:31:24.565019+00:00"
+    "synced_at": "2026-10-17T00:09:46.914641+00:00"
   },
   "phase4:nh-2026-10-10-grokbot-native-x-search-migration": {
-    "hash": "0515471e8faa696be764038e811d2c92ef2ef128f12759a8fea91786ae32e494",
+    "hash": "912337b1cd7a1067cebcd9650ee1ea2c93532822f717e64663271a73fbec580c",
     "slug": "nh-2026-10-10-grokbot-native-x-search-migration",
-    "synced_at": "2026-10-10T01:31:24.564809+00:00"
+    "synced_at": "2026-10-17T00:09:46.914370+00:00"
   },
   "phase4:nh-2026-10-12-claude-github-repos-workflow": {
-    "hash": "0cd3b05844903425b6dd9ee5092faf5112334dafc361e08023a7142a9ace7e6c",
+    "hash": "36970fd4dd632f5e7c67f5289bb32fdb53fb3902929082757a267af77ac5420c",
     "slug": "nh-2026-10-12-claude-github-repos-workflow",
-    "synced_at": "2026-10-12T01:01:01.229216+00:00"
+    "synced_at": "2026-10-17T00:09:46.915744+00:00"
   },
   "phase4:nh-2026-10-15-multiplayer-ai-kylon": {
-    "hash": "27aaea6e410232ad021b7ba11382c303f4e9beddc028d217848cffcb1274eb99",
+    "hash": "ec2cefcffb0430806c425730cdff0e78f4bf6b123a2ee1ad4ff133477ddeff76",
     "slug": "nh-2026-10-15-multiplayer-ai-kylon",
-    "synced_at": "2026-10-16T00:05:13.883772+00:00"
+    "synced_at": "2026-10-17T00:09:46.920511+00:00"
   },
   "phase4:nh-2026-10-15-reverse-engineer-existing-app-as-prd": {
-    "hash": "fdd83f2cf496588a003a9d176312c413df9c34064f52d89dfb7e182f15ce54b0",
+    "hash": "e8c7a17b7ab73c4009aa3faeceb0d843cbadedbc5d2fee6661d970ae3068e9b8",
     "slug": "nh-2026-10-15-reverse-engineer-existing-app-as-prd",
-    "synced_at": "2026-10-16T00:05:13.878990+00:00"
+    "synced_at": "2026-10-17T00:09:46.918073+00:00"
   },
   "phase4:nh-2026-10-15-roast-room-multi-persona-decision-council": {
     "hash": "637550bf15fd8ca7209935a56ad25ed48597c572fc514ba8ace12127a6fa274e",
     "slug": "nh-2026-10-15-roast-room-multi-persona-decision-council",
     "synced_at": "2026-10-16T00:05:13.879201+00:00"
+  },
+  "phase4:nh-2026-10-16-agent-environment-quality": {
+    "hash": "f322781e970452b839db87158274928affc6c0800919be2e0889231b070a9a9f",
+    "slug": "nh-2026-10-16-agent-environment-quality",
+    "synced_at": "2026-10-17T00:09:46.924024+00:00"
+  },
+  "phase4:nh-2026-10-16-unknown-unknowns-communication-skill": {
+    "hash": "59e0cc5096420abd8585cbbef044c34dcd372e2d5883fa6302fdf9409804a270",
+    "slug": "nh-2026-10-16-unknown-unknowns-communication-skill",
+    "synced_at": "2026-10-17T00:09:46.924230+00:00"
   },
   "phase4:pa-2026-10-15-ai-image-to-3d-print-local": {
     "hash": "b8a224d1721998ceaa4e1ab0905354a080d47aef4ccddf4599e882e8eec22cf0",
@@ -5710,9 +5790,9 @@
     "synced_at": "2026-10-16T00:05:13.887447+00:00"
   },
   "phase4:pl-2026-10-15-ai-code-review-strategy": {
-    "hash": "8fbabc1f7afdaf935b30adfdf5912f144f3b6059805070cb7f876b28f009996b",
+    "hash": "560114737d667cc97b0055139c9fbc978dd96b9cb2aa052932133b247e87293e",
     "slug": "pl-2026-10-15-ai-code-review-strategy",
-    "synced_at": "2026-10-16T00:05:13.887239+00:00"
+    "synced_at": "2026-10-17T00:09:46.923262+00:00"
   },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
@@ -5755,9 +5835,9 @@
     "synced_at": "2026-06-28T23:01:24.771690+00:00"
   },
   "phase4:st-2026-07-19-harness-engineering-levers": {
-    "hash": "c35bc17e79d4db5be3dd5da6a2baba0d7ec8673377a5d6216fb2768051fe0baf",
+    "hash": "20c4bd4c736b44ceafa72932d8a7fd6a547efa463ef6246021f34fed3bc8937c",
     "slug": "st-2026-07-19-harness-engineering-levers",
-    "synced_at": "2026-07-19T22:50:58.602530+00:00"
+    "synced_at": "2026-10-17T00:09:46.858460+00:00"
   },
   "phase4:st-2026-08-02-four-step-skill-delegation-framework": {
     "hash": "3ba4a92c3138bc54778c482dbff78eade0ceab97d121cb62cba24f92a4735eb4",
@@ -5775,9 +5855,9 @@
     "synced_at": "2026-08-16T22:19:11.893821+00:00"
   },
   "phase4:st-2026-08-30-four-stage-ai-adoption-roadmap": {
-    "hash": "99bd34fa43d4e5a2d9da59ead5d1a63f901b8395e2b49fcb208a1cf654191071",
+    "hash": "ad7f7c68182ff9e14ddb7c2c3d37bd9db77a92e78815d5c9ae942b9f0e3b8743",
     "slug": "st-2026-08-30-four-stage-ai-adoption-roadmap",
-    "synced_at": "2026-08-31T00:12:40.924659+00:00"
+    "synced_at": "2026-10-17T00:09:46.888944+00:00"
   },
   "phase4:st-2026-10-05-claude-cowork-onboarding-workflow": {
     "hash": "3ac3384a4b60b073490d228097a7d9f668b76d2ae7a64b8d90095e7db46950f4",

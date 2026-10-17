@@ -4,7 +4,7 @@
 
 Source: **[Tokens Are the Cheap Part — Steve Jamison, Jellyfish](https://www.youtube.com/watch?v=U7ZYBCcdJPg)** · aie · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ The YOLO loop can instrument this metric by logging AI API costs per PR/task alo
 
 Data from Jellyfish platform (proprietary dataset). The diminishing-returns curve at high token volumes is an important counterpoint—more spend keeps paying until it doesn't. Monitor revert rate and quality metrics alongside throughput to avoid AI slop inflating PR counts.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a team engineering metric from Jellyfish data; he is one person on a subscription.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Jev + Treg is a crazy combo for automation...](https://www.youtube.com/watch?v=o4Vi5uBZYH0)** · aij · 2026-09-22
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ The speaker demonstrated combining Jev (likely a workflow/trigger tool) and Treg
 
 Relevant to the orchestration layer of the YOLO loop — if Jev handles event triggering and Treg manages task dispatch, this combo could replace or augment our current loop controller for more robust agentic automation.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the card only guesses what Jev and Treg are, so the keep case rests on a video that cannot be checked here; Jev is already his finder in ground_check.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-22 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

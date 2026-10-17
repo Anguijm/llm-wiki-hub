@@ -4,7 +4,7 @@
 
 Source: **[The Human Is an Async API — Melanie Warrick, Temporal](https://www.youtube.com/watch?v=jc3kbZkuHTo)** · aie · 2026-10-05
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly applicable to YOLO loop steps that require human review or approval bef
 
 Temporal is integrated with Google A2A framework. The key design question per Melanie: 'What is the cost of being wrong?' to calibrate how many human-in-the-loop gates to add. Alert fatigue is the failure mode of too many gates. Demo code is on GitHub, linked via QR in the talk.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a Temporal product demo; his pending-ruling handoff is the What's Next section and the away-runbook.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-05 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

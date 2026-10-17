@@ -4,7 +4,7 @@
 
 Source: **[Building ambitious software — Jonathan Kelley, Dioxus Labs & Cognition](https://www.youtube.com/watch?v=H7vFrcNWXzs)** · aie · 2026-09-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Jonathan Kelly described the Dioxus team's hard-won lesson: they maxed out Claud
 
 Directly applicable to our YOLO loop task design: we should front-load architecture docs and intent specs (e.g., detailed CLAUDE.md context, interface contracts) before triggering agent runs, and use agents for scaffolding and harness generation rather than open-ended feature implementation on poorly-defined substrates.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: general advice he already follows.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Claude Fable 5 Bossed 20 Cheap AI Agents. The Whole Site Cost $8.](https://www.youtube.com/watch?v=suY66oTDn0s)** · nb · 2026-07-08
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker built a 20-agent system to rebuild a real production website in one run.
 
 Directly models a yolo-loop upgrade: instead of a human reviewing agent output before merge, a dedicated QA agent layer blocks bad outputs and triggers reruns, making the loop self-correcting.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: his blind critics and ground check already are the independent machine reviewer; the 12-of-34 figure is a benchmark, not a change.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-08 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

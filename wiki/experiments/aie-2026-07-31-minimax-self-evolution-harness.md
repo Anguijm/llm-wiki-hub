@@ -4,7 +4,7 @@
 
 Source: **[Agents at Scale: Inside MiniMax's Model and the Infrastructure Behind It — Olive Song](https://www.youtube.com/watch?v=AVMr9PMINyo)** · aie · 2026-07-31
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ MiniMax's RL research lead described their M2 and M3 series as using a self-evol
 
 For long-running training pipelines in our loop, exploring a simple version of self-evolution—where the model proposes new task variants or difficulty levels for the next training round—could maintain curriculum challenge without manual harness updates.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: lab-scale self-built RL environments; he fine-tunes a small editor model on about 150 pieces and has no RL harness to evolve.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-31 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Why I switched to Pi...](https://www.youtube.com/watch?v=MsPhMhfvgD4)** · aij · 2026-07-14
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Jason explained that Pi Agent ships with only four core tools (bash, write, read
 
 If our loop needs custom hooks (e.g., auto-checkpointing state, enforcing guardrails before tool calls, parallel session management), Pi's extension model lets us implement those without forking a proprietary harness. Worth benchmarking against our current Claude Code setup.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a harness swap; his hooks (claude-code-hooks.md) and skills live in Claude Code.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-14 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Agent Frameworks Considered Harmful — Rémi Louf, .txt](https://www.youtube.com/watch?v=KHudyx5wW3U)** · aie · 2026-08-22
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ High relevance: our YOLO loop skills and memory files are already Markdown-first
 
 Repo is public (see QR in talk). Key insight: typed events between agents are non-negotiable for reliability — 20% of events were malformed before enforcing structured outputs. Replaced all third-party APIs with open-source models for this use case.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: his jobs are shell scripts and cron; they do not yet pass typed events to each other, so the malformed-event fix has nothing to fix.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-22 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

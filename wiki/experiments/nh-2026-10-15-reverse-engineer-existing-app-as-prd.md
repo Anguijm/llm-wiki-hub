@@ -4,7 +4,7 @@
 
 Source: **[I Tested the Viral Reverse Engineer Anything Skill. What You Need to Know.](https://www.youtube.com/watch?v=rL5tw6h78zo)** · nh · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Nate tested the Reverse Engineer Anything (REA) GitHub repo, which uses an MCP s
 
 Directly applicable to feature scoping in our loop: instead of writing feature specs, we can feed reference implementations to the agent, reducing ambiguity and spec-writing overhead while improving output fidelity.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the editor-model house-style idea duplicates the reverse-engineer-a-skill card kept above, and reverse engineering apps has the licence problem noted on the other REA cards.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

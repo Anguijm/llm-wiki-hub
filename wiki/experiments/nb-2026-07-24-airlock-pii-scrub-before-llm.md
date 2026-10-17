@@ -4,7 +4,7 @@
 
 Source: **[How to Use AI on Files You're Not Allowed to Upload](https://www.youtube.com/watch?v=EuVvLwWZ5wc)** · nb · 2026-07-24
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Any skill or agent in the YOLO loop that ingests user-provided files (contracts,
 
 Key insight from transcript: redaction is easy if you don't care whether the model can still help; the hard part is meaning-making—which facts make the task solvable vs. which just came along for the ride. Rebuild approach (new file) preferred over black-rectangle redaction because Word containers leak metadata in track changes, author names, and external relationships.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: his markings rule (read markings before content, CUI stays out) already stops sensitive files at the door, and a rebuild-not-redact tool is a day-plus build for a case he handles by not...
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

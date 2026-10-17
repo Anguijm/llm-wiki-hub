@@ -4,7 +4,7 @@
 
 Source: **[Why We Killed Our Multi-Agent Pipeline — Subbiah Sethuraman and Abhilash Asokan, ZS Associates](https://www.youtube.com/watch?v=u6jJcIFDLE4)** · aie · 2026-07-23
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ ZS Associates described building and then killing a 4-agent pipeline (signal det
 
 Our yolo loop may have implicit multi-agent handoffs where context degrades across steps. This experiment suggests auditing which steps are losing reasoning coherence and whether consolidating them under a single agent with a domain graph control plane would improve end-to-end output quality over the current decomposed architecture.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: his pipeline's handoffs are file-based with named critics; the card's lesson is a vague audit with no measurement.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

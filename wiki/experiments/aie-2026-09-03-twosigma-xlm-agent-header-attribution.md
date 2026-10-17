@@ -4,7 +4,7 @@
 
 Source: **[Tethered: Our Agents Are Us — Shu Fang, Two Sigma](https://www.youtube.com/watch?v=wCIYViPd4SU)** · aie · 2026-09-03
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Two Sigma adds an X-LLM-Agent header to every RPC/HTTP call originating from an 
 
 This is an immediately actionable quick win: we can add this header to our agent HTTP client wrapper today. Any external API calls, webhook triggers, or internal service calls made during a YOLO loop run would be instantly distinguishable in server logs, making debugging and incident response dramatically faster.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: nothing in famcal or his notes shows an agent writing events today, so there are no agent-made edits to tag yet.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

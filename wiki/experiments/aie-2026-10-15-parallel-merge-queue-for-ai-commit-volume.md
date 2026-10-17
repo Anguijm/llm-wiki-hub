@@ -4,7 +4,7 @@
 
 Source: **[Rebuilding CI for AI-Scale Commit Volume — Gautam Korlam, SonarSource](https://www.youtube.com/watch?v=7b9tov5Uc5s)** · aie · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Gautam described a 10x increase in commit rate with the same team size, driven b
 
 Directly relevant to our software factory design: as we scale agent-generated PR volume, our current serialized CI will become the bottleneck. Speculative parallel combination testing is the architectural pattern needed to keep trunk green at agent scale.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: merge queues for 10x commit volume; he has no CI bottleneck.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

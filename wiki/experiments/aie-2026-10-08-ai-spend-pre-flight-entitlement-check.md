@@ -4,7 +4,7 @@
 
 Source: **[Every AI Company Is Accidentally Building a Bank — Dor Sasson, Stigg](https://www.youtube.com/watch?v=cf2IhzqeQH4)** · aie · 2026-10-08
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Our YOLO loop agents can spin up sub-agents unpredictably. Adding pre-flight bal
 
 Stigg product is the infrastructure layer for this. Key pattern for agents: reserve budget at task start → check remaining balance at each tool call → reconcile actual vs reserved at task end. CFO/CIO visibility into AI spend by model, feature, and product is becoming table stakes for enterprise sales. Stigg booth at conference.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the vault moved to his subscription on 2026-10-17 (vault-claude-on-subscription.md) and the no-billed-calls guard already exists, so a budget reservation has nothing to protect.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-08 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Data Driven Inventory System (Part 15: UI Item Actions) | Unreal Engine 5](https://www.youtube.com/watch?v=7mxkcQeiR-s)** · aez · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ none: UI widget pattern in UE5 Blueprints, not related to AI dev loop.
 
 Part 15 of a series. Part 16 covers hotbar. Extended Patreon lesson adds a fully data-driven input system. Key pattern: get_available_actions() is the single context-aware extension point—check context, check equipped state, return tag list. Destruct event should call hover_end to prevent stale prompt widgets.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: memory/gwg-*.md and the GwG rulings mention no inventory system; the card's own relevance note says the pattern is unrelated to the dev loop, so nothing here is waiting on him.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

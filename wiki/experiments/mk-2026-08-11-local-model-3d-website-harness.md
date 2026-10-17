@@ -4,7 +4,7 @@
 
 Source: **[3D Websites Just Became FREE (One Prompt)](https://www.youtube.com/watch?v=FSnubu4Lpz8)** · mk · 2026-08-11
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Maps directly to harness engineering in our dev loop — specifically the idea o
 
 Mark mentions making a care package of skills and raw HTML available; worth retrieving as seed material for our own skill definitions.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: duplicates the other local-model cards; the skill router and browser self-check are the only new parts and neither answers a need.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

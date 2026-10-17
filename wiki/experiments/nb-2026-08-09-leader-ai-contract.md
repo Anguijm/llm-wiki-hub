@@ -4,7 +4,7 @@
 
 Source: **[Your Engineers Are Resisting Your AI Rollout. 3 Things Turn That Around.](https://www.youtube.com/watch?v=JIGaCPv44QI)** · nb · 2026-08-09
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker described a three-part framework for overcoming AI resistance: (1) leade
 
 Directly applicable when onboarding new team members or stakeholders into the YOLO loop—framing AI-assisted dev as role-expanding rather than role-replacing reduces friction when introducing agentic tooling to skeptical engineers.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a generic change-management talk; the leadership column needs a ship-maintenance source and the card names none.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

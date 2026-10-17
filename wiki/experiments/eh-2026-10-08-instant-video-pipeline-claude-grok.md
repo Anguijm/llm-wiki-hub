@@ -4,7 +4,7 @@
 
 Source: **[world's fastest video maker app!](https://www.youtube.com/watch?v=IBzkb-DnUUo)** · eh · 2026-10-08
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Demonstrates a multi-tool agentic pipeline pattern (LLM → image gen CLI → TT
 
 Requires Mac with Apple Silicon, Claude Code account, Grok CLI account. Windows/Linux adaptation requires pointing a coding agent at the folder. Startup time ~4 seconds for first frame. Times vary by topic and length.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: Mac-only and needs Grok CLI; the HyperFrames card (aij-2026-09-23) is the better keeper for video.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-08 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

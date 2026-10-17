@@ -4,7 +4,7 @@
 
 Source: **[This ONE GPT-6 Astra Skill Replaces Your Higgsfield Subscription](https://www.youtube.com/watch?v=oWCcN6hSFjA)** · nh · 2026-09-18
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Pattern of injecting a third-party API key + a skill file to extend an AI coding
 
 Low-effort setup if we already use Codex. The skill-file pattern (encoding API docs and defaults into a reusable context file) is the transferable idea, independent of Higgsfield specifically. Break-even math: API wins below ~19 clips/month on Plus plan.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: Assessment: a Higgsfield API pitch; he generates locally on the MS-S1.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-18 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

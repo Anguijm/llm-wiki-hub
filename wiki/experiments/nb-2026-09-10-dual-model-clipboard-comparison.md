@@ -4,7 +4,7 @@
 
 Source: **[I Asked Fable 5.1 and GPT-6 Astra to Get Me Out of Copy Paste Hell. The Results Surprised Me.](https://www.youtube.com/watch?v=n5bZHETCiJA)** · nb · 2026-09-10
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Directly applicable as a prompt-level experiment: run any new feature spec throu
 
 Hotkey ergonomics emerged as a surprisingly important usability differentiator. Consider encoding hotkey conventions in the initial prompt to reduce iteration rounds.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: same idea as the multi-agent debate card (a second model family on one question), which is the better-fitted of the two for his selection loop.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-10 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

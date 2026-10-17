@@ -4,7 +4,7 @@
 
 Source: **[Every step you take, every call you make: the reliable agent stack — Giselle van Dongen, Restate](https://www.youtube.com/watch?v=cI7zfqusmFU)** · aie · 2026-09-14
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Our YOLO loop has no crash recovery — a failed long-running agent run loses al
 
 Restate is open source on GitHub. BYOC option keeps data in your cloud account. The push model (vs. pull) is a meaningful architectural differentiator for low-latency agentic workloads. Human-in-the-loop approval gates demonstrated via Slack integration.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the supervisor with --continue already covers the out-of-memory restart case.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-14 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

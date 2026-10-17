@@ -4,7 +4,7 @@
 
 Source: **[We Mapped 115 Microservices for Our Coding Agents — Kamalakannan Nandagopal, Postman](https://www.youtube.com/watch?v=k2ClBT4aqAg)** · aie · 2026-10-09
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Kamal (Postman staff engineer) described building an API context graph across 15
 
 High relevance: building a source-grounded context graph for our own service topology would let YOLO loop agents make cross-service changes safely and surface architectural debt automatically.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a context graph for 115 services; his repos are small.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[An AI Agent Became the #1 Contributor in OpenAI's Hiring Challenge — Zhengyao Jiang, Weco](https://www.youtube.com/watch?v=iCj_ATyThvc)** · aie · 2026-07-16
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ In our YOLO loop, we often define what 'done' looks like loosely. This experimen
 
 Pairs naturally with the codebase abstraction card. The two together form a complete agent harness design philosophy: abstraction sets the search space, eval sets the optimization target.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a principle with no build; the editor-eval-before-fine-tuning order is already his plan in the editor corpus scripts.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-16 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[A Practitioner's Guide to Graphs - Tim Ainge, Good Collective](https://www.youtube.com/watch?v=3ySF0I5iE_0)** · aie · 2026-07-18
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Tim showed that on a .NET codebase, using shortest-path graph traversal between 
 
 The YOLO loop currently relies on vector search for codebase context; swapping or augmenting with graph path traversal could reduce redundant tool calls and surface hidden dependency chains during debugging or refactoring tasks.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: no code dependency graph or brief entity graph exists to traverse.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-18 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[From Systems of Record to Systems of Context — Omri Bruchim & Tomer Ast, monday.com](https://www.youtube.com/watch?v=Btk8wDUVs74)** · aie · 2026-07-23
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ In our dev loop the agent currently assembles context at query time from raw fil
 
 Key architectural insight: isolate sources so a bad feed cannot corrupt the whole model; degrade gracefully rather than fail hard. The 'slow' layer builds durable profile signals; the 'fast' layer covers the recent activity window. Both run offline. This maps directly to separating our long-term project memory from the short-term session context in the YOLO loop.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: MEMORY.md, the project audit cards and session-start context already do this; overlaps the daily-planner card.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Why This AI Called a Car a Horse](https://www.youtube.com/watch?v=ieRgWP3C66Y)** · eh · 2026-09-30
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ The creator examined a case where an AI model incorrectly identified a car as a 
 
 Maps to the eval and red-teaming phase of our dev loop — building a small adversarial test suite that catches confident wrong answers before they reach production or a user-facing demo.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the card says likely exploring, so the content is unknown; no angle survives without the video.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-30 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

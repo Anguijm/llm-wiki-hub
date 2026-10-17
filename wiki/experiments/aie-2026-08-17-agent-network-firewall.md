@@ -4,7 +4,7 @@
 
 Source: **[Security Firewall for Agents — Ryan Dahl, Deno](https://www.youtube.com/watch?v=MkRYPFIMCSA)** · aie · 2026-08-17
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Ryan Dahl described Deno's production incident-response agents that have full re
 
 As the YOLO loop agents gain write access to deployment targets, databases, and external APIs, a network-layer firewall is the correct backstop. This pattern is immediately applicable: stand up Claw Patrol (or equivalent) in front of any agent that touches production resources, define SQL/Kubernetes deny rules, and wire Slack approval for destructive actions.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: no agent of his holds database or cluster credentials today, and the card does not say Claw Patrol is available to him; the credential-holding proxy idea is covered for now by the...
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-17 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

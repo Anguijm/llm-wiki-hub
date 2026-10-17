@@ -4,7 +4,7 @@
 
 Source: **[Video Has No Memory. Here's How We Built One. — James Le, TwelveLabs](https://www.youtube.com/watch?v=mOf-PP4mVjA)** · aie · 2026-07-23
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ James Le from TwelveLabs described a five-layer video cognition stack: semantic 
 
 If our yolo loop processes or generates video content (screen recordings, demos, walkthroughs), a spatiotemporal memory layer would enable agents to query our own recorded sessions for specific moments, track what changed between runs, or build a searchable archive of agent behavior over time — capabilities unavailable with frame sampling or transcript-only indexing.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: FACT: the stack described is TwelveLabs' own encoder and model; his feed works from transcripts and nothing he runs needs cross-video entity continuity.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

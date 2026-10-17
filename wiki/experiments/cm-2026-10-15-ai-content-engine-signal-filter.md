@@ -4,7 +4,7 @@
 
 Source: **[How I Keep Up with AI Without Drowning in It (Free Skill)](https://www.youtube.com/watch?v=2i_ZyqDmtio)** · cm · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ high: the signal engine is a meta-tool for staying current on agent harness deve
 
 Skill is free and in Cole's public GitHub skills repo. Apify used for YouTube/Reddit where APIs are restricted. The profile document pattern (natural language config that agent reads when you want to change behavior) is worth adopting for other skills too.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the YOLO research feed and newsletter_gather.sh already do dedup and cheap filters before billed calls.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

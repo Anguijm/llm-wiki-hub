@@ -4,7 +4,7 @@
 
 Source: **[Citation Needed: Provenance for LLM-Built Knowledge Graphs — Daniel Chalef, Zep AI](https://www.youtube.com/watch?v=H7puB0RwJMM)** · aie · 2026-07-23
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Daniel Chalef from Zep AI described the provenance problem: LLMs synthesize fact
 
 Our yolo loop agents likely store extracted facts without source attribution. When an agent retrieves a 'fact' and acts on it, we have no way to audit where it came from, whether it's been superseded, or whether it should be trusted. Adding graph-based provenance to our agent memory layer would make the loop debuggable and compliant — we could answer 'why did the agent believe X' after the fact.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: build_source_register.py and check_citations.py already link claims to staged captures; a graph database is not needed for his scale.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

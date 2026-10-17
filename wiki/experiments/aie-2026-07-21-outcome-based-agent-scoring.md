@@ -4,7 +4,7 @@
 
 Source: **[Your agent architecture has a half-life of 6 months — Dan Farrelly, CTO, Inngest](https://www.youtube.com/watch?v=X1kp-ABIIxQ)** · aie · 2026-07-21
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Maps directly to the evaluation and feedback step of the YOLO loop — replacing
 
 Could prototype this by instrumenting a single agent workflow (e.g., code review agent) and tracking whether the suggested changes were actually applied as the success signal.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: selection-ledger.tsv already records picked versus cut with a reason, and predictions.tsv scores outcomes; scoring pitches by later outcome is what those two files already allow.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-21 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

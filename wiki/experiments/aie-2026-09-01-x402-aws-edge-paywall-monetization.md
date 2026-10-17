@@ -4,7 +4,7 @@
 
 Source: **[When AI Agents Pay and Sellers Monetize: Building x402 Apps on AWS — Anil Nadiminti, AWS](https://www.youtube.com/watch?v=qTZirYu9pr0)** · aie · 2026-09-01
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ If any YOLO loop service exposes data or compute that AI agents should pay for, 
 
 AWS is adding x402 support to CloudFront with more protocols coming. The intent-based pricing dimension (charge differently for training scraping vs. search queries) is a novel monetization lever. By 2027 estimate: 1B agents running, 60% of enterprises using agentic workflows.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: AWS describing its own CloudFront x402 feature.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-01 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

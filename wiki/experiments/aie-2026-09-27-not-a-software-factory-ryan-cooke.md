@@ -4,7 +4,7 @@
 
 Source: **[No, That's Not a Software Factory — Ryan Cooke, WorkOS](https://www.youtube.com/watch?v=HvboD89DyQ8)** · aie · 2026-09-27
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Ryan Cooke from WorkOS pushed back on the software factory framing, arguing that
 
 Valuable counter-signal for YOLO loop design: helps identify which loop stages should remain human-in-the-loop and resist full automation, preventing over-confidence in pipeline reliability.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the factory-metaphor critique is an essay topic with nothing to build; the zach-lloyd card makes the same move.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-27 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

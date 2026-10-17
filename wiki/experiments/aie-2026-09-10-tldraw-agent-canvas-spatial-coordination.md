@@ -4,7 +4,7 @@
 
 Source: **[The Spatial Harness: Bringing Agents to the Canvas — Max Drake, tldraw](https://www.youtube.com/watch?v=XWcXwnysmpY)** · aie · 2026-09-10
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ The conductor/orchestration pattern on canvas is a novel alternative to log-base
 
 TLDraw SDK is open source. TLDraw Desktop app with scripting API is the lowest-effort entry point. The 2D spatial understanding limitation is real—agents require significant scaffolding to work reliably in coordinate space.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a canvas for agents is a toy with no project need, and the 2D reasoning limit makes GwG level layout by agent unpromising.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-10 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

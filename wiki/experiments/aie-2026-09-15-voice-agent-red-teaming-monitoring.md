@@ -4,7 +4,7 @@
 
 Source: **[I Monitored Crime Audio. Voice Agents Scare Me More. — Sumanyu Sharma, Hamming AI](https://www.youtube.com/watch?v=qStB9GbppMU)** · aie · 2026-09-15
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Critical pre-production gate for any agentic system we deploy. The identify→pr
 
 Hamming AI offers red-teaming and monitoring as a service. The 1-in-5 adversarial break rate is alarming and suggests this should be a standard pre-launch checklist item, not optional. AB testing vocal quality/wording changes requires production traffic—simulations alone are insufficient per Sharma.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the useful part (confirm the action really happened) is covered by the speech-to-action card, and the service is Hamming sales.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

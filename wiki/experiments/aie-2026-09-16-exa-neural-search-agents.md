@@ -4,7 +4,7 @@
 
 Source: **[The Search Engine for the Agentic Web — Will Bryk, Exa](https://www.youtube.com/watch?v=59AA5kIoqjA)** · aie · 2026-09-16
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ When our coding agents need to look up external documentation, find library exam
 
 Exa API is available and used in production by Cursor. Key differentiator vs Google: neural/semantic matching vs keyword recommendation. Data marketplace for proprietary data enrichment is a newer feature. AI systems expected to exceed human search volume in 2026 per Exa projections.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: Exa describing its own search engine and data marketplace.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-16 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

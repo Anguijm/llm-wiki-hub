@@ -4,7 +4,7 @@
 
 Source: **[Building on the Codex Harness — Dominik Kundel, OpenAI](https://www.youtube.com/watch?v=9WiBJRO84yY)** · aie · 2026-10-10
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ If our YOLO loop needs to run multiple parallel agent tasks (e.g., running evals
 
 Codex App Server is Apache 2 licensed and open source. ACP (Agent Client Protocol) is a comparable alternative worth comparing.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: Codex is not his harness; driving an agent inside an Unreal level is a novelty with no payoff for GwG.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-10 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

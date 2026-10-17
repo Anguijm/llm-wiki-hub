@@ -4,7 +4,7 @@
 
 Source: **[Stop Renting Your AI's Memory — Dylan Couzon, Qdrant](https://www.youtube.com/watch?v=apyrzaWj0Z4)** · aie · 2026-10-03
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Our dev loop currently starts each run with no memory of prior sessions, prefere
 
 Speaker specifically highlights that HNSW has been available since 2016 and local embeddings since 2019 — infrastructure is mature. Key implementation detail: keep the same embedding model across hardware changes to preserve portability of the memory folder. Cloud sync to Qdrant Cloud is optional and opt-in for multi-device or multi-agent hive-mind scenarios.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: his memory is readable git-backed markdown (MEMORY.md, vault notes); a vector store makes it less inspectable and the vault is small enough for grep.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

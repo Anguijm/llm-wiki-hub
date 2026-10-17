@@ -4,7 +4,7 @@
 
 Source: **[Is Learning to Build Software Still Worth It with AI? (My Honest Take)](https://www.youtube.com/watch?v=PMOnd8T7Py0)** · cm · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ high: directly prescribes the harness design pattern — intent grilling pre-tas
 
 Cole mentions a 'software factory' harness he's building — worth tracking as a potential skill to adopt. The REA connection ties this card to the nb-2026-10-15-rea-xray-vision-workflow card.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the test, if the next model is twice as good does this matter more, is kept on do-2026-07-27 where it can be applied to his rules.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Do THIS Before You Lose Access to Fable 5](https://www.youtube.com/watch?v=nuwlyQXrADg)** · mk · 2026-07-05
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Mark described a workflow where, while still having Fable 5 access, you run it n
 
 Directly upgrades the planning phase of the yolo loop. Instead of generating a linear plan file, the pre-execution step becomes a wargame: frontier model simulates failure paths, outputs a structured counteraction document, and cheaper execution agents receive richer context. The ledger.md pattern also maps cleanly to surfacing blockers before the loop starts.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: restates the Navy-style wargaming and counter-moves question the newsletter already uses; the new piece, a ledger of unknowns, is small.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-05 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

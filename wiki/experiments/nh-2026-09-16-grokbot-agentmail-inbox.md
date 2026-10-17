@@ -4,7 +4,7 @@
 
 Source: **[Grok Bot Manages My Inbox (and has its own)](https://www.youtube.com/watch?v=ff7om2bBLKM)** · nh · 2026-09-16
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Opens up a pattern for our dev loop where separate AI agents (e.g., a code revie
 
 AgentMail is free to start. Webhook transformation filter (JavaScript) needed to route emails to the correct bot when multiple inboxes/bots exist. Grokbots can talk to each other natively without email; email is for cross-system agent communication.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a product tour; his agents already pass work through files and Signal.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-16 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

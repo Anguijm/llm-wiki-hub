@@ -4,7 +4,7 @@
 
 Source: **[When Agents Meet Physical Data: The Other Physics of Agent Harnesses - Dmitry Petrov, DataChain](https://www.youtube.com/watch?v=bUJgirn4_yc)** · aie · 2026-07-20
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Dmitry described building DataChain, an open-source data harness for unstructure
 
 The YOLO loop repeatedly processes the same codebases and test suites. Persisting processed context (AST summaries, test result histories, dependency graphs) in a structured knowledge base that the agent checks before re-analyzing would eliminate redundant indexing work across sessions and enable incremental rather than full re-processing.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: gwg-hires-asset-pipeline.md already keeps masters and tiers, so reruns are tracked; a markdown entry per batch adds little.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-20 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

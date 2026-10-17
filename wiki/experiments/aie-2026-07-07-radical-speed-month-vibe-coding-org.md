@@ -4,7 +4,7 @@
 
 Source: **[500 people vibe-coded for 30 days. I was one of them. - Sanja Grbic, Automattic](https://www.youtube.com/watch?v=UcYoMg-8-L8)** · aie · 2026-07-07
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Organizational experiment relevant if our team has non-engineers who could contr
 
 794 projects started across ~500 people in 30 days. Sanja's personal arc from 'reviews PRs' to 'ships to production' in 30 days is a strong data point for the ceiling of what structured AI enablement can unlock. The MCP server for internal docs (Context AC) is worth investigating as a pattern for any team with significant institutional knowledge.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: an org-wide sprint story with no technique he can reproduce solo; the leadership use is a stretch without a source check.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-07 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

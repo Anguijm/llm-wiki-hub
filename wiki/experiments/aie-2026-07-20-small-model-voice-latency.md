@@ -4,7 +4,7 @@
 
 Source: **[Your Voice Agent Doesn't Need a Frontier Model - Joel Allou & Ornella Bahidika, Microsoft](https://www.youtube.com/watch?v=fnLBmfsI_Fg)** · aie · 2026-07-20
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Joel and Ornella demonstrated side-by-side latency comparisons: Claude Opus 4.7 
 
 For any real-time or high-volume step in the YOLO loop (e.g., inline code review, quick lint checks, fast feedback cycles), replacing a frontier model call with a small model plus pre-computed context could cut per-step latency by 2-3x and reduce API costs significantly.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: dup of the voice-tutor state machine card; the 900 ms figure is a vendor demo.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-20 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

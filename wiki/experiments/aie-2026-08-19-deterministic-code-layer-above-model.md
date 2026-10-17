@@ -4,7 +4,7 @@
 
 Source: **[Guardrails First: Engineering Member-Facing Health AI — Rashi Agrawal, Hinge Health](https://www.youtube.com/watch?v=YXEqC05WEI0)** · aie · 2026-08-19
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Hinge Health's approach: (1) strip PHI at the pipeline boundary at ingestion, ne
 
 The code-above-model pattern is directly implementable in our agent architecture for any action that must not fail. The judge-validation discipline (check the scorer before changing the agent) is also immediately applicable to our eval loop to prevent chasing false signals.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: his hooks already keep irreversible rules in code, and the validate-the-judge rule is a one-line habit rather than a project.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-19 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

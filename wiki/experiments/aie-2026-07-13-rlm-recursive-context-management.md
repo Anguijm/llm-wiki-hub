@@ -4,7 +4,7 @@
 
 Source: **[RLM: Recursive Language Models for Large Codebases - Shashi, Superagentic AI](https://www.youtube.com/watch?v=8oyalrfwgjw)** · aie · 2026-07-13
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly applicable to any YOLO loop step that involves large codebases: instead
 
 Open source: RLM-Code on GitHub (Superagentic AI). Also see: original MIT RLM paper, DSPy RLM implementation by Omar (also DSPy author), official RLM and RLM-minimal repos. Live demo used Gemini model via CLI.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: Claude Code already slices big corpora with scripts; treating the vault as REPL data adds a harness without a question the vault cannot answer today.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-13 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

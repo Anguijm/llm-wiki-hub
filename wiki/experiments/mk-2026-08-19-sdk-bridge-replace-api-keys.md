@@ -4,7 +4,7 @@
 
 Source: **[THIS AI Hack Could Save You Thousands](https://www.youtube.com/watch?v=JlXfoZvTwzk)** · mk · 2026-08-19
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Mark Kashef demonstrated a meeting analyzer app and social media analytics tool 
 
 Relevant to our internal tooling cost structure: any prototype or internal agent tool we build during the YOLO loop can use this pattern to avoid API billing during development and low-volume internal use, reducing the cost of experimentation.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: already done, the vault Claude calls moved to his subscription via cli_anthropic.py on 2026-10-17 (vault-claude-on-subscription.md).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-19 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

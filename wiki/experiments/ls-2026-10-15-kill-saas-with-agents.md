@@ -4,7 +4,7 @@
 
 Source: **[How to kill your SaaS: what we learned replacing a $43K/yr tool with AI agents](https://www.youtube.com/watch?v=zlD-CkLVKtU)** · ls · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ high: directly demonstrates how to scope, brief, and eval an agent-built interna
 
 Key failure modes found in submissions: single inflexible portal instead of per-role portals, missing transactional email lifecycle, poor drag-and-drop scheduling UI. Winner used a 'software factory' pattern—agent fleet that debugged itself and shipped multiple portals.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a public contest by a company with 72 submissions and prize money; he has no SaaS to replace and he already killed Cozi and Wispr Flow.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

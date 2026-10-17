@@ -4,7 +4,7 @@
 
 Source: **[Cursor Accidentally Exposed Grok Bot's Blueprint](https://www.youtube.com/watch?v=mAWT1HCBgbQ)** · mk · 2026-08-27
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly reduces human overhead in our loop. We can implement a simple approval 
 
 Complements the mailbox architecture experiment. Can be implemented independently as a wrapper around existing tool calls.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the fewer-permission-prompts skill already scans transcripts for repeated safe calls and allowlists them, and the Stop and PreToolUse hooks (claude-code-hooks.md) already gate the risky...
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-27 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

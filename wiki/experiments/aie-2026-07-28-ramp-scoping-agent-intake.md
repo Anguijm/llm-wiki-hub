@@ -4,7 +4,7 @@
 
 Source: **[How Forward Deployed Engineering is done at Ramp — Leo Mehr](https://www.youtube.com/watch?v=ITMXwI6QL6A)** · aie · 2026-07-28
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Leo Mehr described a Ramp internal tool — illustrated with a penguin mascot fo
 
 Maps to the front of the YOLO loop. A scoping agent that clarifies intent before code generation begins would reduce iteration cycles caused by ambiguous initial prompts, improving first-pass quality.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: his standing rule is to diagnose rather than ask (global CLAUDE.md), and Signal topic requests are meant to run end to end.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-28 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

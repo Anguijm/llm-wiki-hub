@@ -4,7 +4,7 @@
 
 Source: **[GPT 5.6 Sol Made This Entire Video](https://www.youtube.com/watch?v=J_jswzXhYJA)** · nh · 2026-07-09
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ This is a direct implementation of the yolo loop applied to content production: 
 
 Key cost finding: Ultra mode over-delegates and inflates token usage. Try identical prompt at 'high' effort and compare output quality vs cost. Also note the self-inspection loop pattern: separate agents review rendered frames against source claims.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: about $300 at API rates in the card, Codex-specific, and the inspector-agents-check-frames idea is covered by the HyperFrames card kept below.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Why We Deleted Our MCP Server and Rebuilt It — Abhi Arya, Reducto](https://www.youtube.com/watch?v=jJQoVkd5yLg)** · aie · 2026-10-09
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Avi (Reducto) built an initial MCP by wrapping every API endpoint as a tool in o
 
 Core architectural lesson for YOLO loop MCP design: scope tool surface area, add plan-first checkpoints, and instrument every session to feed improvements back into the harness.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: he already works plan-first, and the scoped-tools point is covered by deferred tools in Claude Code.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

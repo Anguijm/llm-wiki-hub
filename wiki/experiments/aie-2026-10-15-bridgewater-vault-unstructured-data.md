@@ -4,7 +4,7 @@
 
 Source: **[AI Engineer NYC Livestream | Bridgewater, Anthropic, Two Sigma, Arize, Coatue, Nous, Gen. Intuition](https://www.youtube.com/watch?v=akEqiXFo3GM)** · aie · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ medium: the human-vs-agent data access separation is a harness design principle 
 
 Transcript heavily truncated; the Bridgewater talk detail was limited. Worth watching the full recording when available.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the card says the transcript was truncated and the keep case rests on details nobody has seen.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

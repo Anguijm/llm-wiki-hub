@@ -4,7 +4,7 @@
 
 Source: **[The Rise of CaaS: Context-as-a-Service for Agentic AI — Omer Primor, Bright Data](https://www.youtube.com/watch?v=Ot4OPrPH4xY)** · aie · 2026-08-14
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ The YOLO loop's retrieval stage currently likely uses ad-hoc search per query. I
 
 Speaker's data-decay chart showed that finance/news/retail data goes stale within 30 days, social media within hours. Refresh cadence for an owned graph must match the decay rate of the target domain.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: drafting is free by design and the gather is not billed per query; the break-even sum has no cost it could change (cost_report.py shows spend).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-14 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

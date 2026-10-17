@@ -4,7 +4,7 @@
 
 Source: **[Agentic SDLC at Uber — Uday Kiran Medisetty & Adam Huda, Uber](https://www.youtube.com/watch?v=17-YSUHo6Lk)** · aie · 2026-08-21
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ The inner/outer loop split and the PR evidence table are directly applicable to 
 
 Most actionable near-term takeaway: the PR evidence table (listing checks the agent ran on its own output) is a low-effort addition to our current loop output format. The Omni MCP pattern (one install point that discovers and invokes all downstream MCPs) and CLI projection to avoid context-window token tax are also worth prototyping separately.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: ~/brain/_scripts/draft_state.py, draft_check.py and finalcheck.py already report check status per draft.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-21 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

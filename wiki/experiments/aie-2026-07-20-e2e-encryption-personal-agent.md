@@ -4,7 +4,7 @@
 
 Source: **[Privacy-Preserving Intelligence — Steve Korshakov, Bee (acq. Amazon)](https://www.youtube.com/watch?v=IvE8n-ylFYY)** · aie · 2026-07-20
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Steve Korshakov described Bee's (now Amazon) privacy architecture for a wearable
 
 Relevant if our YOLO loop agents handle sensitive user or customer data: the transparency log + attestation pattern is the architecturally defensible answer to 'how do we prove to users that their data is private even from us.'
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: attestation against a transparency log is for third-party hosting; he self-hosts PTT on his own ms-s1, and status.md already shows an opt-in, time-limited dictation log.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-20 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

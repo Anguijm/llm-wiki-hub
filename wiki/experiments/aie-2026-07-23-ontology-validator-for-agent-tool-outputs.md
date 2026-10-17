@@ -4,7 +4,7 @@
 
 Source: **[Why Agentic Systems Need Ontologies — Frank Coyle, UC Berkeley](https://www.youtube.com/watch?v=Sir59K8ZDPU)** · aie · 2026-07-23
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Frank Coyle (Berkeley) presented a pattern for grounding LLM agents with ontolog
 
 Our yolo loop likely validates tool outputs only via Pydantic or not at all. A lightweight OWL/RDFS ontology for our core domain (even a small one covering 5-10 key entity constraints) placed at the tool-call return boundary would catch a category of agent mistakes — particularly in multi-step loops where an invalid intermediate output silently corrupts downstream reasoning.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: OWL is heavy for a solo vault, and the brief already enforces these rules in lint code (lib/article.py).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

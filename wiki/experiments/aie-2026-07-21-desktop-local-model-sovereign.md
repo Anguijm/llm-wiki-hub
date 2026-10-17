@@ -4,7 +4,7 @@
 
 Source: **[The Desktop Frontier — Ahmad Osman, Osmantic](https://www.youtube.com/watch?v=XV2oYi7kojc)** · aie · 2026-07-21
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly relevant to the model selection and cost optimization steps of the YOLO
 
 Ahmad's framing of 'impact per parameter' is a useful eval metric alongside benchmark scores. Cross-reference with @NateBJones Kimi K3 analysis on token efficiency differences between local and cloud models.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: dup of aie-2026-06-29-slm-replace-llm-calls; the re-test of local models every few months is a habit, not a build.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-21 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

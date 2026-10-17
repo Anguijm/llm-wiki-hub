@@ -4,7 +4,7 @@
 
 Source: **[Why Your Enterprise Tech Stack Isn't Ready for AI Agents — Christopher Lovejoy & Saul Howard](https://www.youtube.com/watch?v=mav15aW9lLM)** · aie · 2026-08-19
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Anterior built four architectural primitives for enterprise healthcare AI: (1) a
 
 Directly addresses our need for reproducible debugging and evals in the dev loop. Replay-from-ledger lets us test prompt or model changes against exact prior inputs rather than re-sampling, making iteration faster and more trustworthy.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the ledger part duplicates the harness-receipt card, and the human-versus-model blind comparison runs into his ruling against long A/B reading (no-long-ab-reading memory, 2026-10-17).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-19 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[I was giving my coding agent context the wrong way...](https://www.youtube.com/watch?v=iWRmtPdFbGw)** · aij · 2026-06-30
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Directly reduces context-window bloat during any agent-driven code-change task i
 
 GitHub: search 'AI builder club' or check video description. Install flag: --with-ui adds a graph visualisation web UI on a local port. Particularly valuable for mono-repo or multi-ripple projects.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: graph indexing pays off on large codebases and his repos are small.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-30 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

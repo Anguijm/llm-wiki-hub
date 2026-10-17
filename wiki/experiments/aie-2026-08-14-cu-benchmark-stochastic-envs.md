@@ -4,7 +4,7 @@
 
 Source: **[Computer Use at the Edge of the Statistical Precipice — Pierluca D'Oro, Programma Labs](https://www.youtube.com/watch?v=CTLa_p6iOiY)** · aie · 2026-08-14
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ If the YOLO loop uses any fixed eval suite to decide whether an agent change is 
 
 Practical minimum viable version: before running a regression eval, shuffle at least one input variable (file content, task parameters) so the same script cannot trivially replay. Full PRISM compliance is a multi-week effort. Paper available — check Programma Labs / Meta Superintelligence Labs publications.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: he runs few formal A/B tests (grounding_ab.py) and the shuffle-one-input rule is a single line to remember rather than a build; the replay-script result is a talk fact, not his problem.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-14 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[1.6M agents registered for OpenClaw and did NOTHING.](https://www.youtube.com/watch?v=PRqiGS6fnIM)** · nb · 2026-07-10
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Nate built an interactive tool where users describe a task, set four estimation 
 
 The YOLO loop currently starts tasks without a routing decision, leading to over- or under-engineered agent setups. Adding an estimation gate before task execution would let us deliberately choose single-agent Claude Code runs vs. multi-agent orchestration vs. direct human action, reducing wasted token spend and failed runs.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: round 2 noted he already sizes tasks himself, and a slider tool for chat versus agent routing adds a step to a workflow he runs from a phone.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-10 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

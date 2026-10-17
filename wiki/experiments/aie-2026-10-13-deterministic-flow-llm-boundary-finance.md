@@ -4,7 +4,7 @@
 
 Source: **[Reliable, Smart Workflows for Finance, Wealth and Insurance — Karthic Rao, Perpetual](https://www.youtube.com/watch?v=8g0g1ncwzG0)** · aie · 2026-10-13
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Our dev loop mixes reasoning and action freely. Explicitly labeling which steps 
 
 Key insight: side effects (emails sent, forms filed, records written) must never be decided by the model—only triggered by the state machine after a human or policy gate. Flash model handles ~95% of calls; labeled outputs feed future fine-tuning.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: overlaps grounding_ab.py and jev_judgments.py, which already test whether a cheaper finder model settles ground-check calls.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-13 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

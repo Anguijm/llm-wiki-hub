@@ -4,7 +4,7 @@
 
 Source: **[How Web Data Infrastructure Powers the Next Generation of AI — Patricija Žemaitytė, Oxylabs](https://www.youtube.com/watch?v=1UmZHb_E_SM)** · aie · 2026-08-14
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Informs how to structure data-ingestion agents in the YOLO loop: start with the 
 
 Secondary finding: scaling SERP delivery to sub-100ms latency required gradual load testing up to 60k req/s (now targeting 150k req/s). The lesson that observability telemetry itself becomes a bottleneck at scale is relevant if the YOLO loop generates high-frequency agent traces.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: the card is Oxylabs' story of building its video data product for a client, with no reproducible method beyond "add features as asked".
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-14 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

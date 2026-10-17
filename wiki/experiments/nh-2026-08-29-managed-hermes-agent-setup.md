@@ -4,7 +4,7 @@
 
 Source: **[Set Up a Personal Hermes in 14 Mins (no VPS or mac mini)](https://www.youtube.com/watch?v=gQef3d3erOs)** · nh · 2026-08-29
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Nate walks through spinning up a Hermes agent on Hostinger's managed AI Agents p
 
 Adds a lightweight always-on agent layer outside the main dev environment: useful for async task delegation, research queries, and context hydration that can feed back into the YOLO loop without requiring a full local environment to be running.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: Assessment: a Hostinger managed-hosting tutorial; he already has a phone-reachable agent over Signal and remote control.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-29 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

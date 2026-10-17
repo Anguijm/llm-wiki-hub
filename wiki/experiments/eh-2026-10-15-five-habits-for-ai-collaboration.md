@@ -4,7 +4,7 @@
 
 Source: **[4 years of talking to AI, distilled into insights you can use today](https://www.youtube.com/watch?v=GC32QW-r5Mg)** · eh · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ The speaker distilled four years of near-daily AI use into five habits demonstra
 
 Directly codifiable as a team prompting protocol for our YOLO loop: each habit addresses a known failure mode (model conservatism, late feedback, over-prescription, overconfidence, state pollution) and can be embedded in our agent interaction guidelines.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: he already pushes on confidence and isolates experiments; the new piece is one prompt question, are you confidently able to identify why.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

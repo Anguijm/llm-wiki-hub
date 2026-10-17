@@ -4,7 +4,7 @@
 
 Source: **[When All Context Matters: Extended Cache Augmented Generation - Luis Romero-Sevilla, Orbis](https://www.youtube.com/watch?v=XovaGv4f39A)** · aie · 2026-06-28
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Relevant if the YOLO loop needs to reason over a large project corpus where all 
 
 No benchmark numbers provided. KV cache cost is a real concern — speaker acknowledges it but only gestures at lifecycle optimisation. Worth revisiting when Anthropic or other providers offer cheaper KV cache pricing.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the card gives no benchmark and admits KV cache cost; the repeat-story gate already works with grep over 20_curated/projects/waterfront-brief, which the brief's own CLAUDE.md rule...
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-28 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

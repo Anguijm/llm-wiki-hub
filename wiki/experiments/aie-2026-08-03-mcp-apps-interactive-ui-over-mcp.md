@@ -4,7 +4,7 @@
 
 Source: **[MCP Apps: Extending the Frontier — Ido Salomon & Liad Yosef](https://www.youtube.com/watch?v=-jY2T2PiJBE)** · aie · 2026-08-03
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ In our dev loop, tool call responses are currently plain text or JSON printed in
 
 Spec repo referenced as 'X apps repo' on MCP website. Protocol is officially backed by Anthropic and OpenAI. View-tools (host→app direction) imminent but not yet released at time of talk. Worth checking mcpapps spec for current stability before building.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the Artifact tool already publishes tappable private pages from this session and phone use works that way; MCP apps adds a spec that was not yet stable per the card.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

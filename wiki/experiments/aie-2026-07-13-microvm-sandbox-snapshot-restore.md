@@ -4,7 +4,7 @@
 
 Source: **[From fork() to Fleet: Designing an Agent Sandbox Cloud — Abhishek Bhardwaj, OpenAI](https://www.youtube.com/watch?v=OqM67QG_Ikk)** · aie · 2026-07-13
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ The snapshot-restore pattern is directly applicable to YOLO loop branching: chec
 
 Abhishek's previous talk 'How to Build an AI Sandbox from Scratch' is a recommended prerequisite. The Monte Carlo search framing is the most novel angle for our loop.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: cloud sandbox infrastructure at OpenAI scale with no solo-scale version.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-13 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

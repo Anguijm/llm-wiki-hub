@@ -4,7 +4,7 @@
 
 Source: **[5 Hacks to Instantly Level Up Your AI OS](https://www.youtube.com/watch?v=Ek1NBfnnTH0)** · nh · 2026-07-24
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ As the YOLO loop accumulates client projects and skills, a flat context structur
 
 Pairs naturally with the audit skill experiment—the audit should specifically check whether situational data has leaked into the expertise layer or vice versa. Speaker notes this is unsolved at team/department sync level; single-user implementation is the prerequisite.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: he already separates global CLAUDE.md, per-project CLAUDE.md and moved engine.md out of the brain file (brain CLAUDE.md line count 618), so there is little to split that the audit card...
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

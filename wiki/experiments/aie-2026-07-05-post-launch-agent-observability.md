@@ -4,7 +4,7 @@
 
 Source: **[The Missing Layer After Launch - Raphael Kalandadze, Wandero AI](https://www.youtube.com/watch?v=kZsf_Sfm7RU)** · aie · 2026-07-05
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Raphael described Wandero AI's 'missing layer' architecture built after shipping
 
 Addresses the yolo-loop blind spot that exists after a task completes: the loop currently has no signal on whether the shipped agent is actually working correctly in production. This meta-harness pattern adds a continuous outer loop—observe → score → cluster → auto-fix—that closes the gap between 'task finished' and 'task successful for users'.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: dup of the trace-clustering card; his use-his-browser memory and the emulator test loops already cover logging in to the real app to check what a user sees.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-05 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

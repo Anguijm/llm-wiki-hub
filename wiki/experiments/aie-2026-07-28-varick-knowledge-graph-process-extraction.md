@@ -4,7 +4,7 @@
 
 Source: **[AI tools for Forward Deployed Engineering — Vasuman Moza, Varick Agents](https://www.youtube.com/watch?v=l0FLhNqBOic)** · aie · 2026-07-28
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Varick Agents built an internal toolchain that (1) post-trains an open-source mo
 
 Directly relevant to context injection in our dev loop. When an agent needs to execute a task, it needs the right slice of organizational/codebase context. A traversal-trained retrieval agent would replace brittle RAG with structured graph navigation.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: no known alias problem in corroboration counts, and the card is about RL-trained traversal tools.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-28 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

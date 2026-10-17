@@ -4,7 +4,7 @@
 
 Source: **[I Built a Personal AI Agent on a Raspberry Pi — Jeremy Adams, Neo4j](https://www.youtube.com/watch?v=oUZEt4EiPbk)** · aie · 2026-10-04
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Maps to the persistent memory layer of the YOLO loop: replacing or augmenting fl
 
 MCP server wrapping Neo4j as memory backend is the key integration point — the agent can query its own memory graph via tool calls. Neo4j has a free tier; Docker setup is straightforward. Start with a simple schema: (Memory)-[:RELATES_TO]->(Theme).
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the useful angle (PTT notes linked into 00_inbox) does not need a graph database or this talk, and plain markdown links already do it.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-04 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

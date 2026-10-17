@@ -4,7 +4,7 @@
 
 Source: **[Run a $10,000 AI Model at Home, Here's How](https://www.youtube.com/watch?v=mgPj252Dek8)** · do · 2026-09-09
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly maps to the agent execution layer of our dev loop — we can substitute
 
 Frontier Agent repo on GitHub; 35B model on HuggingFace. Fireworks AI (guest's company) also offers serverless open-weights inference and a Fireworks Nexus intelligent routing layer as cloud fallback options worth evaluating alongside local deployment.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: overlaps the other local-model cards and he is on subscription; a mini vault expand offline is a novelty.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

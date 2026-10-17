@@ -4,7 +4,7 @@
 
 Source: **[Everyone's Testing Claude Fable 5.1 On Code. It Made Me A 37-Second Film.](https://www.youtube.com/watch?v=55rDzRkUVdE)** · nb · 2026-09-04
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Directly tests the effort-level dial in a YOLO loop context — useful for decid
 
 Speaker notes Fable 5.1 is more token-efficient than Fable 5; cache reads dropped from $1 to $0.25/M tokens. Typical workload ~25% cheaper than Fable 5; highly agentic work ~45% cheaper. Subscription token limits still feel tighter than OpenAI.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a single vendor-run demo on a finance task; testing which newsletter stages vanish at low effort would need many paid runs to say anything.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-04 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

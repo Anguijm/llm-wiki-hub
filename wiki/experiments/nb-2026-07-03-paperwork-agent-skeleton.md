@@ -4,7 +4,7 @@
 
 Source: **[Every AI Agent Demo Stops at Email. I Pointed Mine at the Bills That Cost You Money.](https://www.youtube.com/watch?v=U4TmrlWEY4M)** · nb · 2026-07-03
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Directly maps to the YOLO loop's need for a reliable context-engineering layer b
 
 Speaker references a Substack post with healthcare appeals and tax prep runbooks plus two open skills. The citation guard (no deduction without a source file pointer) is worth adopting as a pattern in any retrieval agent.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: personal tax and insurance paperwork is a days-long build whose payoff is once a year, and the card's own gate and citation ideas are already how the vault works.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

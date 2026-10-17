@@ -4,7 +4,7 @@
 
 Source: **[Three OpenAI Engineers Shipped A Million Lines. Your Ten-Hour Agent Run Starts Here.](https://www.youtube.com/watch?v=HZLPhPbw3fM)** · nb · 2026-08-12
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ The speaker described how OpenAI engineers replaced a giant project manual with 
 
 Directly addresses multi-session agent runs in our dev loop. We can adopt the four-file pattern for any long-running YOLO loop task, updating current.md at each checkpoint before continuing, replacing our current practice of relying on long prompts or full context replay.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: he already runs session memory files, MEMORY.md, away-runbook.md and per-week selection ledgers, which are this four-file pattern under other names.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-12 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Harness Engineering: Building the Production Cage for Powerful Domain Agents — Mike Chambers, AWS](https://www.youtube.com/watch?v=gxVZ_1tuuq4)** · aie · 2026-09-14
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ The composable harness model maps well to our loop's needs: we could adopt Bedro
 
 Agent Toolkit for AWS available on GitHub (free). Strands agents framework is open source and model-first. Agent Core is on Amazon Bedrock. MCP Lambda handler by same author: ~35k downloads/month. The 'agents we use vs agents we build' distinction is a useful framing for deciding when token-maxing is acceptable.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: a live tour of Amazon Bedrock Agent Core CLI.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-14 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

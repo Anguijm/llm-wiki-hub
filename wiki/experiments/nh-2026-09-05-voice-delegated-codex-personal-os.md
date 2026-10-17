@@ -4,7 +4,7 @@
 
 Source: **[GPT-6 Astra Voice Mode Automates Literally Anything](https://www.youtube.com/watch?v=9oi-b5Dvtso)** · nh · 2026-09-05
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ The creator used GPT-6 Astra in voice mode to kick off multiple simultaneous Cod
 
 Directly maps to the orchestration layer of the dev loop: voice-driven task delegation to parallel Codex agents with shared project context could replace manual ticket creation and allow ambient loop management during non-desk time.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: he already dictates into remote Claude sessions with Push to Talk, so the voice-to-agent path exists without Astra.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-05 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

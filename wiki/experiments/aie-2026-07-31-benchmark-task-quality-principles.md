@@ -4,7 +4,7 @@
 
 Source: **[Benchmarks: The Good, the Bad, and the Ugly — Ali Khial, G2i](https://www.youtube.com/watch?v=jWq-aZIU0kM)** · aie · 2026-07-31
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ G2i's AI director analyzed SWEBench Pro and found: average instruction length of
 
 Before using any public benchmark dataset for training or eval in our loop, running a quick audit against these five principles—especially checking for leaky prompts and weak verifiers—will prevent wasted training compute on low-quality signal.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: ~/brain/_scripts/grounding_eval.py and build_grounding_gold.py already measure his ground check against gold labels, which is the same false-accept and false-reject measurement the card...
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-31 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

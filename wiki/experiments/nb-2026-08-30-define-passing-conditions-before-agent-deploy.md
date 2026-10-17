@@ -4,7 +4,7 @@
 
 Source: **[Runable Raised $21 Million On Agents That Finish. Nobody Told Yours What Done Means.](https://www.youtube.com/watch?v=qYe1GsMRElw)** · nb · 2026-08-30
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly governs the eval/acceptance gate in our dev loop: before merging any ne
 
 Jones references Runnable's $21M Series A as evidence that 'agents that actually finish work' is still a differentiator, implying baseline passing-condition hygiene is not yet industry standard. Companion checklist (code audits, enterprise eval questions, entrepreneur self-audit) available on his Substack.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: predictions.tsv already has an evidence column that states what resolves each prediction before it runs, so the ledger already follows this rule.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-30 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

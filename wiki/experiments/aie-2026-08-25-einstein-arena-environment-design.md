@@ -4,7 +4,7 @@
 
 Source: **[Einstein Arena: Harnessing Collective Agent Intelligence for Open Science — James Zou, Together AI](https://www.youtube.com/watch?v=mMNkdYnIVC4)** · aie · 2026-08-25
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ James Zou described the Einstein Arena, an agent-native competitive/collaborativ
 
 Suggests a meta-experiment for the YOLO loop itself: instead of prescribing exactly how the coding agent should approach a problem, define a verifier (tests pass, performance benchmark met) and let the agent explore solution space freely — measuring whether open-environment framing produces better solutions than step-by-step workflow framing.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: predictions_due.py scores a one-writer ledger, and a leaderboard of competing agents would add scoring theater without new facts.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-25 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

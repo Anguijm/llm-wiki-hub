@@ -4,7 +4,7 @@
 
 Source: **[Agents Building Agents - Alfonso Graziano, Nearform](https://www.youtube.com/watch?v=aHhB3sjGjkI)** · aie · 2026-06-28
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Alfonso described a pipeline where production traces (with thumbs-up/thumbs-down
 
 This is the outer feedback loop of the YOLO loop: production signals → automated clustering → spec generation → coding agent fix → eval gate → merge. It shows how to make the entire loop self-improving with minimal human intervention beyond sprint-level review.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: ~/bin/session-digest already clusters where sessions failed, and corrections_log.py already records corrections to issues; clustering adds a coding-agent auto-fix half he has ruled he...
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-28 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

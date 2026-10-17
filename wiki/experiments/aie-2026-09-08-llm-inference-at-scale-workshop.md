@@ -4,7 +4,7 @@
 
 Source: **[Deep dive on LLM Inference at Scale — Harshul Jain, Audible & Tanmay Sah, Independent AI Researcher](https://www.youtube.com/watch?v=y2W4FNAuPEA)** · aie · 2026-09-08
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Relevant to our infrastructure layer: as we scale Codex/Astra API usage costs, s
 
 Repo is public on GitHub ('LLM inference at scale'). Modal provides free RTX 6000 GPU for notebook experiments. Key takeaway: KV cache engineering is becoming its own sub-discipline (eviction strategies, compression, hybrid memory) — worth monitoring. Workshop pitched as beginner/intermediate; advanced distributed inference session proposed for AI Engineer New York.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: targets NVIDIA hardware and engines; his MS-S1 is AMD gfx1151 and its serving stack is already running (ptt-llm, ptt-whisper).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-08 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

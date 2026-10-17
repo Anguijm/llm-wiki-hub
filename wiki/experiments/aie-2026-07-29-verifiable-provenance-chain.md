@@ -4,7 +4,7 @@
 
 Source: **[How Kepler Built Verifiable AI for Financial Services — Vinoo Ganesh](https://www.youtube.com/watch?v=Tt2kX2sgQio)** · aie · 2026-07-29
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Kepler built verifiable AI for financial services by recording provenance for ev
 
 Applying provenance tracking to agent tool calls in the YOLO loop would make it possible to audit why the agent made a particular code change or decision, surfacing the exact context and rules it acted on.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the brief already links every fact to its source and blocks Key figures as of 2026-10-17, so logging how derived numbers were computed adds little; the card is also a duplicate of the...
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-29 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

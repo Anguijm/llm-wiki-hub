@@ -4,7 +4,7 @@
 
 Source: **[OpenAI Pays $280,000 For This Job. You Don't Have To Be An Engineer.](https://www.youtube.com/watch?v=0bLI31EFDDs)** · nb · 2026-08-23
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly maps to the scoping phase of our dev loop — before we add a new AI ca
 
 The 30-day sprint structure (observe → minimal build → harden → user test) is a reusable template. Nate explicitly says people in his community have compressed this to 3-4 days. Worth trying on one internal workflow (e.g., PR review triage or incident postmortem drafting) as a concrete first run.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a consulting method (compare a fast and a stalled file) with no tool; his project audit already did a version of it across 63 projects.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

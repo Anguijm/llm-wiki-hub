@@ -4,7 +4,7 @@
 
 Source: **[What do we build now? — Theo Browne, @t3dotgg](https://www.youtube.com/watch?v=xUnRQ9vLXxo)** · aie · 2026-07-08
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Theo described a personal system where a markdown file containing his tasks and 
 
 A minimal agentic harness pattern: persistent state in a flat file, scheduled trigger, output pushed to a URL. Directly applicable as a lightweight task-management layer around our dev loop.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a daily plan from a markdown file overlaps the morning brief and the project-audit register he already has; the card is a pattern with no new technique.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-08 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

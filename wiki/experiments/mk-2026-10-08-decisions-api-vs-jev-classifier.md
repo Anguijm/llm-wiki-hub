@@ -4,7 +4,7 @@
 
 Source: **[OpenAI's Decisions API just dropped. Here's how it compares to Jev.](https://www.youtube.com/watch?v=uTU5Ihgl_7Q)** · mk · 2026-10-08
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Classification and routing decisions are common in agent orchestration. Using a 
 
 Decision rule from video: use Jev if cost is priority and inputs are text-only; use Decisions API if multimodal input or marginally lower latency is required. Both return confidence probabilities. Feed API docs to an LLM to generate integration code quickly.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the one new idea (an image classifier for broken meshes) needs OpenAI's paid Decisions API, and a local vision model on the MS-S1 would do the same job without a card about a benchmark of...
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-08 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

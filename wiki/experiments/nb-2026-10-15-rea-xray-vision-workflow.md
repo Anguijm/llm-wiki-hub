@@ -4,7 +4,7 @@
 
 Source: **[Your Vibe-Coded App Can Look Right And Fall Apart After Launch. REA Shows You How Real Teams Build.](https://www.youtube.com/watch?v=PseF3LyXQ04)** · nb · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ high: REA is a Claude Code MCP extension that directly enhances the agent harnes
 
 Speaker also mentioned a forthcoming Substack post with specific 'dig points' for getting started with REA. Worth tracking.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the use named is reverse engineering other companies' apps (Cozi, Wispr Flow, QuickBooks) which has licence and terms-of-service problems, and he already owns the famcal and Push to Talk...
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

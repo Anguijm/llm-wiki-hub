@@ -4,7 +4,7 @@
 
 Source: **[Can This Prompt Stop AI Taking Shortcuts?](https://www.youtube.com/watch?v=0hM27Q-zTs8)** · eh · 2026-09-27
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ echohive designed and tested a prompt aimed at preventing AI models from taking 
 
 High relevance: shortcutting behavior is a known failure mode in the YOLO loop where agents return superficially passing outputs. A validated anti-shortcut prompt could be added to our system prompt template to improve loop reliability.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the card gives no prompt and no result, so there is nothing to test.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-27 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

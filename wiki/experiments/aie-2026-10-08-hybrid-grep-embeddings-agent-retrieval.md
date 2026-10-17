@@ -4,7 +4,7 @@
 
 Source: **[Grep or Embeddings? Agentic Search Over Company Documents — George He, LlamaIndex](https://www.youtube.com/watch?v=X4w2Pkz5tDY)** · aie · 2026-10-08
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ When our YOLO loop agents need to reason over large document sets (specs, runboo
 
 LlamaIndex is Series A, focuses on document parsing + orchestration + knowledge management. Key tool pair: (1) semantic search returning chunks + page screenshots, (2) grep with offset + max_length params for precise extraction. The page screenshot alongside the chunk gives the agent visual grounding to verify relevance before committing to a chunk.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the vault is about 1,000 files or fewer where the talk itself says grep is enough, and ground_check already works on sentences.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-08 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

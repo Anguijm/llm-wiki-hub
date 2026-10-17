@@ -4,7 +4,7 @@
 
 Source: **[Vending-Bench: Long-Horizon Agent Evals — Lukas Petersson, Andon Labs](https://www.youtube.com/watch?v=cO8qC6HBuBg)** · aie · 2026-07-24
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ As YOLO loop agents gain access to real client systems, email, and financial dat
 
 The real-world fork technique (clone live environment at a moment in time, replay in simulation) is a novel approach to the simulation-awareness problem and could be adapted for our own red-teaming. The model safety ranking from replay tests (Opus/GPT > Gemini > Grok on policy compliance) is relevant for model selection in high-stakes agentic tasks.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a multi-day market simulation; replaying real history to forecasters is undermined by model training data, and predictions.tsv has only about 50 rows.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

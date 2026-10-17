@@ -4,7 +4,7 @@
 
 Source: **[Gemini Argon announced : here is everything you need to know](https://www.youtube.com/watch?v=bNr6uQWDMAw)** · eh · 2026-10-01
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Adding a strong Gemini model as a routing option in the YOLO loop could improve 
 
 Duplicate video entry detected (same title, different URL: CGmPyAziJNc). Consolidated into single card.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: Model announcement roundup with no reproducible technique on the card.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-01 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

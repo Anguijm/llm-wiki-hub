@@ -4,7 +4,7 @@
 
 Source: **[Your Voice Agent is Just a Walkie Talkie — Neil Zeghidour, Gradium](https://www.youtube.com/watch?v=a8EcVumh71E)** · aie · 2026-09-15
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ The delegation pattern—a lightweight interface model that knows its limits and
 
 Gradium's models available at gradium.ai. The Moushiraq paper is the key reference for the hybrid architecture. The economic argument (don't run GPT-class models for chit-chat) applies directly to our agent cost analysis.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a fun MS-S1 build in principle, but nothing says a full-duplex model runs on gfx1151, and PTT is dictation.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

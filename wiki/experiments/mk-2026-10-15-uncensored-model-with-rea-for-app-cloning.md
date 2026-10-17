@@ -4,7 +4,7 @@
 
 Source: **[Uncensored AI + REA Can Reverse Engineer Anything](https://www.youtube.com/watch?v=ScSDVV5xhww)** · mk · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Mark used the DeepSeek harness (open-source, model-agnostic workbench) with GLM 
 
 Relevant to our agent harness model-selection strategy: for internal tooling cloning or competitive analysis tasks where guardrails cause friction, routing through an uncensored model on a pay-as-you-go endpoint could unblock workflows at low cost.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the card is about cloning a commercial app (QuickTime) with a model chosen to avoid refusals, which is a licence and legality problem, not a technique he needs.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

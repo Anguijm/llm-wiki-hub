@@ -4,7 +4,7 @@
 
 Source: **[Enterprise Agents Have a Structure Problem - Ishita Daga, Tesla](https://www.youtube.com/watch?v=B8l81jhvHbI)** · aie · 2026-07-20
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Ishita identified three root causes of enterprise data agent failures: ambiguity
 
 The YOLO loop's agent needs to resolve which codebase context, documentation, or API reference to use for a given task. Implementing a ranked context hierarchy (pinned project docs > repo README > general web knowledge) would reduce the agent choosing stale or wrong references.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the brief already ranks sources in four tiers (source-tiers.yaml).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-20 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

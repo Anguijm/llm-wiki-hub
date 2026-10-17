@@ -4,7 +4,7 @@
 
 Source: **[I Tested Opus 5.5 at Every Effort Level. What You Need to Know.](https://www.youtube.com/watch?v=QCkHIyEPIYo)** · nh · 2026-09-24
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Nate systematically tested Claude Opus 5.5 at every available effort level (low,
 
 Directly informs model selection and API call configuration in our loop; running the same evals at different effort levels could reduce costs significantly without quality loss for routine tasks.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the card has no findings, vault calls run on the subscription, and the effort question has two sibling cards already cut.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

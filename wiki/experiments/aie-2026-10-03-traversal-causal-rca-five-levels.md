@@ -4,7 +4,7 @@
 
 Source: **[The 5 Levels of Self-Driving Production — Eric Schwartz, Traversal](https://www.youtube.com/watch?v=y-OVWZD4j6U)** · aie · 2026-10-03
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Eric Schwartz of Traversal described their core thesis: RCA is a causal problem,
 
 Applies to our production reliability layer. Even a lightweight version of this—building a dependency graph of our services and scripting a causal traversal agent to check it on alert—would reduce the manual 'which service caused what' triage that currently interrupts development flow.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: root-cause search over dozens of services; he runs a handful, and netmon plus the away-runbook cover it.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

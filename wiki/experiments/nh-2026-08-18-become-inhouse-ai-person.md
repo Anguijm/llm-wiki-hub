@@ -4,7 +4,7 @@
 
 Source: **[How to Sell Claude Workflows (Without Starting an Agency)](https://www.youtube.com/watch?v=zpS6JGJNaGg)** · nh · 2026-08-18
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Applies directly to deciding which automations to build in the dev loop. Instead
 
 The constraint-attack framing is derived from Theory of Constraints. The quick diagnostic: ask 'what breaks if we doubled customers tomorrow?' If everything falls over = supply constrained. If we can handle it fine = demand constrained. Simple to run as a pre-build exercise.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a career roadmap whose useful kernel (supply or demand constrained?) is already his newsletter's constraints-and-loops question in the second-order method.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-18 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[The Messy Reality of Scale: Synthetic Data and Pre-Training — Marah Abdin & Robert McHardy, poolside](https://www.youtube.com/watch?v=KhYifX22yhE)** · aie · 2026-07-27
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ If we fine-tune or do continued pre-training on domain-specific examples (e.g., 
 
 Poolside frames all synthetic pipelines as composed of six components: seeds, primary inputs, metadata, secondary inputs, a generator function, and supplementary filters/validators. Using this modular framing helps scope pipeline complexity to the value of the target data type.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: rephrasing award-winning prose would wash out the style the editor model is meant to learn, and ~150 pieces is below where saturation matters.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-27 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

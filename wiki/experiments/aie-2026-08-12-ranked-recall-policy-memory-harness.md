@@ -4,7 +4,7 @@
 
 Source: **[Memory Harnesses for Long-Running Research Agents — Stefania Druga, Sakana.ai](https://www.youtube.com/watch?v=R3-anFK1YM8)** · aie · 2026-08-12
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Stefania Druga from Sakana AI described building a memory harness on local model
 
 Our long-running YOLO loop sessions suffer from context rot and repeated mistakes. Swapping from full-context replay or vector RAG to a ranked decisions ledger is a concrete architectural change to test on our longest agent runs.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the selection loop already keeps a ledger file (selection-ledger.tsv) and per-round files, so the ranked decisions ledger exists in practice.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-12 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

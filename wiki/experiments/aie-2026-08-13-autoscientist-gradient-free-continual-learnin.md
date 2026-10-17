@@ -4,7 +4,7 @@
 
 Source: **[Adaption Labs: Gradient-Free Continual Learning — Sara Hooker, Adaption](https://www.youtube.com/watch?v=XEd_SRVHBgU)** · aie · 2026-08-13
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Sara Hooker described Adaption Labs' AutoScientist system, which automates the t
 
 Could replace or augment manual fine-tuning steps in the YOLO loop: instead of hand-selecting training data and hyperparameters for task-specific model adaptation, AutoScientist could run the search automatically when a new domain or task is introduced.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: the card describes a product in beta with free GPU access and no method he could reproduce.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-13 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

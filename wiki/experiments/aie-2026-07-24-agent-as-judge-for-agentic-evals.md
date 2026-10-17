@@ -4,7 +4,7 @@
 
 Source: **[The Future of Evals: From LLM as a Judge to Agent as a Judge — Aparna Dhinakaran, Arize AI](https://www.youtube.com/watch?v=q2JrUKBMf0w)** · aie · 2026-07-24
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Our current evals (when they exist) are single-turn checks. As the YOLO loop run
 
 Short keynote-style talk. The three-tier eval stack (deterministic + LLM-as-judge + agent-as-judge) is a useful mental model. Minimum viable version: write a post-session review skill that reads the full tool-call log and flags repeated tool calls, stalled loops, and context loss events.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: dup of aie-2026-07-24-harbor-agent-dev-as-ml-paradigm, which describes the same thing with an open tool.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

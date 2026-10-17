@@ -4,7 +4,7 @@
 
 Source: **[Why Developers Are Losing Their Minds Over AI That Can't Write](https://www.youtube.com/watch?v=tYugqJ9YytQ)** · nb · 2026-09-22
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Nate Jones examines why developers are frustrated with AI coding tools that prod
 
 Our YOLO loop evaluates correctness of generated code but likely does not score documentation quality. Adding a prose/documentation rubric to our eval harness would catch this failure mode before it accumulates as technical debt.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the card is a thin summary of a commentary video with no method.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-22 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

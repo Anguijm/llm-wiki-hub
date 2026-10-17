@@ -4,7 +4,7 @@
 
 Source: **[The Agent Behind the Curtain: Building the Oz Cloud Agent Platform — Safia Abdalla, Warp](https://www.youtube.com/watch?v=L173Z8DpaJg)** · aie · 2026-08-22
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Relevant if we want to move long-running agents off local machines: the primitiv
 
 Architectural talk, no open-source release mentioned. Key principle: platforms should absorb complexity before it reaches the user. Warp booth at UG 20.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: architecture tour of Warp's cloud agent platform, no open-source release, booth number given.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-22 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

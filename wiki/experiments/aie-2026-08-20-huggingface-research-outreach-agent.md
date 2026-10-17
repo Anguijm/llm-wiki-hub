@@ -4,7 +4,7 @@
 
 Source: **[How I automate my own job at Hugging Face using agents — Niels Rogge, Hugging Face](https://www.youtube.com/watch?v=FLUoowDJg4I)** · aie · 2026-08-20
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Pattern to apply: when automating a repetitive task, start with a deterministic 
 
 Key design choices: (1) deterministic workflow over autonomous loop for predictability; (2) single tool (HF CLI) reduces attack surface and failure modes; (3) template completion rather than free-form reduces slop; (4) evaluation discipline before scaling (reference: Hamel Husain LLM Evals FAQ). The agent included its own name in model cards without being prompted — shows emergent helpful behavior when context is rich. Papers With Code revival at paperswithcode.co is another side project from the same workflow pattern.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: he already runs most pipelines as deterministic workflows with one tool (the gather and Signal channel scripts).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-20 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

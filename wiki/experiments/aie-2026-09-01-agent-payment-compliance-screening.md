@@ -4,7 +4,7 @@
 
 Source: **[Agent Spending Without Controls — Rodrigo Coelho & Pranav Maheshwari, Edge & Node](https://www.youtube.com/watch?v=ZyGMqdIpPoE)** · aie · 2026-09-01
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Any YOLO loop agent authorized to make payments or call paid APIs should have a 
 
 Ampersand is built on top of the Graph Protocol / Edge & Node team. x402 protocol used for micropayments. The paid MCP trend (most MCPs currently free, won't stay that way) is a useful forcing function for building payment infrastructure now.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: a demo of a commercial wallet-screening compliance product.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-01 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

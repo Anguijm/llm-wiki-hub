@@ -4,7 +4,7 @@
 
 Source: **[Tailscale, Clearly Explained (Beginner's Guide)](https://www.youtube.com/watch?v=eNn2tT-lrz4)** · do · 2026-07-14
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ David configured a newly provisioned Hermes agent on a VPS to retrieve its OpenR
 
 Any agent in our loop that makes external API calls (LLM providers, search, etc.) should not have keys baked into its environment. This pattern lets us rotate or revoke keys centrally without touching individual machines.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: Aperture is a Tailscale product and he already rules that he types credentials himself and agents work inside signed-in sessions.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-14 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

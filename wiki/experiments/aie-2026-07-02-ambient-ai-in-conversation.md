@@ -4,7 +4,7 @@
 
 Source: **[The Prompt Is Still a Punch Card - Ted Johnson, JoinIn AI](https://www.youtube.com/watch?v=hVJOnuhFmTA)** · aie · 2026-07-02
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Suggests a future direction for our loop's input layer: rather than requiring de
 
 Speaker's three-concept framework (channel / expression / protocol) is useful for evaluating any new AI interface: what changed is expression (natural language), but channel (text box) and protocol (turn-taking prompt/response) are still 1960s-era. JoinIn AI is attempting to modernize all three simultaneously.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: real-time listening to a family is a heavy build and a privacy problem for a calendar his wife uses, for a gain he has not asked for.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-02 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

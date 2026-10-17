@@ -4,7 +4,7 @@
 
 Source: **[The State of Model Routing — NVIDIA, Cognition, OpenRouter](https://www.youtube.com/watch?v=QHBjufYK8TA)** · aie · 2026-08-07
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Directly maps to multi-step dev loop tasks: use a frontier model for task decomp
 
 Transcript heavily truncated (39k chars elided). Key routing architecture details from Cognition Fusion blog post would be needed for full implementation. Caching was also mentioned as a cost lever worth exploring alongside routing.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the vault already assigns a model to each stage (engine.md, 2026-09-07) and drafting is free under the subscription, so a cost-driven router has no bill to cut.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-07 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

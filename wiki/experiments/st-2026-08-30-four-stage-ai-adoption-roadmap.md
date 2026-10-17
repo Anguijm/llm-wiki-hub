@@ -4,7 +4,7 @@
 
 Source: **[Where $10M-$150M Companies Get Stuck with AI (and how to fix it)](https://www.youtube.com/watch?v=-kGPKdX7gZ8)** · st · 2026-08-30
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Maps directly to our dev loop's prioritization gate: before building new agent i
 
 Talebi specifically calls out SharePoint→Google Drive migration as a practical example of changing systems to unblock agent write-access. Also notes that as agent output volume scales, automated evals become the critical scaling mechanism for human review—aligns with NateBJones card on passing conditions.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a consultancy dataset (44 workshops) that would need a source check to use and has no ship-maintenance link, so the leadership column cannot lean on it.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-30 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

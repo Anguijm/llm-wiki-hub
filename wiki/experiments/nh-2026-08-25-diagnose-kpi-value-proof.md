@@ -4,7 +4,7 @@
 
 Source: **[The 3 AI Agency Mistakes Keeping You From $20K/Month Retainers](https://www.youtube.com/watch?v=DoHPZf7jEQ4)** · nh · 2026-08-25
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Nate described three mistakes from an early client engagement: (1) building a pe
 
 Directly applicable to scoping any AI automation project in the dev loop: before writing a single line of code, run the constraint-diagnosis conversation, lock in the KPI metric, and document the value baseline so post-deployment reviews are data-driven rather than subjective.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: agency retainer advice, and round 2 already called it covered by the constraint card.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-25 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

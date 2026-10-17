@@ -4,7 +4,7 @@
 
 Source: **[Vertical Mobility: Inference from MVP to Trillion-Parameter Workloads — Sitanshu Gupta, CoreWeave](https://www.youtube.com/watch?v=cQQbJqvZkpo)** · aie · 2026-09-22
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Sitanshu Gupta from CoreWeave presented a framework for building inference infra
 
 As our YOLO loop increases model call volume and potentially moves to larger models, the inference backend choice will become a bottleneck. This talk informs the decision of which serving infrastructure to adopt early so we are not locked into something that cannot scale.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: CoreWeave framing its own scaling path.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-22 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

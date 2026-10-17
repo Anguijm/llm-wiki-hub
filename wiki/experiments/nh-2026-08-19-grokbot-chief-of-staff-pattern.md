@@ -4,7 +4,7 @@
 
 Source: **[A Week of Grok Bot Lessons in 10 Mins](https://www.youtube.com/watch?v=TMPUUyQC5aM)** · nh · 2026-08-19
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Nate Herk showed his Grokbot setup where a 'Klaus' chief-of-staff agent is the o
 
 The chief-of-staff pattern is directly applicable to our YOLO loop orchestration layer: rather than hardcoding task routing logic, a chief agent with good sub-agent descriptions can dynamically route steps to the right specialist, making the loop easier to extend with new capabilities.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a single Signal front door already exists for brain topic requests, and routing across famcal, brain and GwG agents is a large build whose agents do not exist yet.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-19 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Physical AI's Next Bottleneck Is Finding the Right Video — Rafael Levi, Bright Data](https://www.youtube.com/watch?v=I_VEh7XSwyc)** · aie · 2026-09-24
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Rafael Levi described Bright Data's approach to sourcing and filtering web video
 
 If we fine-tune or train any task-specific models, this framing suggests we should invest in data curation tooling before model architecture; actionable as a data pipeline experiment upstream of any model training work.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: Bright Data framing its video sourcing.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

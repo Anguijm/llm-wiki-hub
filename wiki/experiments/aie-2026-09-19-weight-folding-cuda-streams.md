@@ -4,7 +4,7 @@
 
 Source: **[Weight Folding, CUDA Streams, and the Bug That Made My Model Speak Backwards — Filip Makraduli](https://www.youtube.com/watch?v=c1hGBoWw20A)** · aie · 2026-09-19
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Relevant if the YOLO loop runs self-hosted inference with custom CUDA kernels �
 
 No transcript available; inferred from title. Low confidence on specifics. Skip if team does not operate custom CUDA inference.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: title-only card with no transcript and no detail to act on.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-19 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

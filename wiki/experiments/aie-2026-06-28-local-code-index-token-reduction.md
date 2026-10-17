@@ -4,7 +4,7 @@
 
 Source: **[We Cut 94% of AI Coding Tokens With a Local Code Index - Rajkumar Sakthivel, Tesco](https://www.youtube.com/watch?v=dRmWYHuIJxM)** · aie · 2026-06-28
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ The YOLO loop repeatedly sends codebase context to the model. Inserting this ind
 
 Honest caveats from speaker: 94% is vs worst-case full-file sending; real savings lower. Recall drops near zero on large mixed-responsibility files. Sweet spot is codebases where each file has a single clear responsibility.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the card's own FACT says recall collapses on large mixed files; the Unreal port has no evidence of context overflow in memory/gwg-*.md.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-28 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

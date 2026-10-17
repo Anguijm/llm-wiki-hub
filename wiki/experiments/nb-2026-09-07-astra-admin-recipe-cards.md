@@ -4,7 +4,7 @@
 
 Source: **[There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin.](https://www.youtube.com/watch?v=ix8SsXjBc7M)** · nb · 2026-09-07
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly applicable to our dev loop: instead of manually orchestrating multi-ste
 
 Recipe card structure: (1) job description, (2) required info/access, (3) autonomous vs. escalate boundary, (4) expected output format, (5) failure handling instructions. Speaker claims this pattern generalizes beyond moving to any large knowledge-work job.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the five-part card (job, access, autonomy line, output, failure handling) is a prompt template he can write in minutes and his CLAUDE.md files already hold those parts.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-07 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

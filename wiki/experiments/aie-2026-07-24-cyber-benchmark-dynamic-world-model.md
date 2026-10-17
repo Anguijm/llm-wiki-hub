@@ -4,7 +4,7 @@
 
 Source: **[Training Frontier Models to Out-Think Hackers — Uri Rolls, Arithmetic & Thom Wolf, Hugging Face](https://www.youtube.com/watch?v=O-CBZ3JtRvo)** · aie · 2026-07-24
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Less directly applicable to the YOLO loop's current scope, but the dynamic world
 
 Primarily relevant as a safety/capability research signal rather than an immediate YOLO loop experiment. The open-source vs closed-source framing for defensive AI is worth tracking. Hugging Face's Thomas Wolf involvement suggests potential for open post-training data release.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the opaque-system puzzle is a research benchmark; no concrete toy or router test is defined and home-network-ipv4-autofix.md already covers the router.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[GLM-5.2: Open Weights, Near-Frontier Intelligence — Zixuan Li, Z.ai](https://www.youtube.com/watch?v=9JFGohx4E7U)** · aie · 2026-09-27
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Zixuan Li from Z.ai presented GLM-5.2, an open-weights model positioning itself 
 
 Relevant to model selection in the YOLO loop: if GLM-5.2 performs at near-frontier levels on coding tasks, it could reduce API costs and latency, and enable fully local loop execution.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the card gives no model size; the fallback-outage idea is kept on do-2026-07-02, which is the better card for it.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-27 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

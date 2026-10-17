@@ -4,7 +4,7 @@
 
 Source: **[Line-by-line review of AI code is a mistake](https://www.youtube.com/watch?v=wvDXaG2BDes)** · pl · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ high: directly addresses how to structure the verification loop in an agentic Cl
 
 Key heuristics: always line-by-line for money logic, user data storage, cryptography, regulatory compliance. Never line-by-line for UI components, test implementations, standard algorithm details. Review test coverage and test case selection (not test internals). Disclaimer: applies to average software, not aerospace/banking. Team built 'Prism' as their own Android verification framework.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the line-by-line rule (money, user data, security) is a sensible heuristic for famcal, but he reviews little code by line already and the newsletter review is covered by the ground check.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Learning on the Job: The Future of Post-Training — Raymond Feng, Applied Compute](https://www.youtube.com/watch?v=k35LeKZEhiE)** · aie · 2026-08-02
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ The YOLO loop generates production traces on every run. This framework shows how
 
 GRPO requires replayable environments (same prompt → roll back to initial state → rerun in parallel). Custom harness training only requires graded chat format output — harness source code access not needed. Self-distillation for qualitative feedback ingestion is the open research direction.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: reinforcement training on graded traces needs far more volume than his newsletter produces (rulings-final.tsv is a small file).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-02 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

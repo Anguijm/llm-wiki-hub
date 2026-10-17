@@ -4,7 +4,7 @@
 
 Source: **[Fable 5 Just Built Me a Business With One Prompt](https://www.youtube.com/watch?v=R0qF17BVl9w)** · nh · 2026-07-08
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Speaker wrote a large instruction file specifying: find a real painful problem v
 
 Demonstrates a fully async yolo-loop where the agent runs to a definition-of-done without any human checkpoints; the file-based instruction pattern and never-ask rule are directly portable to our own long-running agent tasks.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a one-prompt business build relies on paid HeyGen and ElevenLabs keys, and the tournament plus skeptic structure is already how his selection debate works.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-08 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[I Turned GPT-6 Astra Into the Ultimate AI Second Brain](https://www.youtube.com/watch?v=yysILVsfLFM)** · nh · 2026-09-07
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ This is essentially a formalized version of our own dev-loop context management 
 
 Speaker recommends using cheaper models (GPT-5.6 Soul) for routine AIOS queries to preserve Astra usage limits; reserve Astra for high-complexity tasks. Architecture is plain files/folders so any future agent or model can crawl it — intentional anti-lock-in design. '3D brain' skill visualizes the knowledge graph as an interactive local-hosted site.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: his brain vault already has context, connections (gathers), capabilities and cadence (cron), and vault_report.py audits it; the card is a restatement.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-07 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

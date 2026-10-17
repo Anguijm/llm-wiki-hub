@@ -4,7 +4,7 @@
 
 Source: **[The Prompt is the Platform - Dominik Tornow, Resonate HQ](https://www.youtube.com/watch?v=DqtmZE6Hl0g)** · aie · 2026-06-29
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ For any distributed or stateful component in our loop (task queues, memory store
 
 Key insight: 'forbidden fruit' trace events (information the production algorithm cannot use but the debugging agent can) are what enable the agent to understand why an algorithm was wrong, not just that it was wrong. The simulation must be deterministic and repeatable to allow the agent to repair against a specific failing trace. Resonate's Discord is the contact point for questions.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the forbidden-fruit idea is clever, but ground_check.py already gives the checker the source text, and famcal sync has no known conflict problem in the memory file.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-29 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

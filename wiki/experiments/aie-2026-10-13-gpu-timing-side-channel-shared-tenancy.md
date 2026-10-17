@@ -4,7 +4,7 @@
 
 Source: **[Your GPU Neighbor Can Hear Your Model — Branislav Brzak, Stealthium](https://www.youtube.com/watch?v=SacJfmp33vM)** · aie · 2026-10-13
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ If we run proprietary models on shared cloud GPU infrastructure, our model ident
 
 Mitigations: (1) don't place untrusted MIG slices adjacent to sensitive models; (2) prefer NVLink tensor-parallel setups which leak only timing (not layer counts); (3) monitor GPU kernel behavior for repeated small-range memory access patterns. Attack surface is wider with speculative decoding enabled (VLLM non-default option).
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: an attack on shared NVIDIA H100 slices; he is single-tenant on AMD.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-13 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

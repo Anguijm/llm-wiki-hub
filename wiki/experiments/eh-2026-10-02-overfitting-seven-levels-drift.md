@@ -4,7 +4,7 @@
 
 Source: **[Why Bigger AI Can Make Fewer Mistakes](https://www.youtube.com/watch?v=yU6aNTQ4tyE)** · eh · 2026-10-02
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ This prompting pattern (iterative level-deepening with explicit challenge prompt
 
 This is both a demo of Drift and an implicit prompting methodology. The actionable experiment is replicating the level-deepening structure in our own tooling or chat interface.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a self-study demo of a Drift app on benign overfitting; nothing to build.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-02 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

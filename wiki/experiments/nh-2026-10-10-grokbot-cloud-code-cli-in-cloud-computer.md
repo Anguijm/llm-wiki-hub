@@ -4,7 +4,7 @@
 
 Source: **[Grok Bot Just Got 2 Massive Upgrades. Do These Things Now.](https://www.youtube.com/watch?v=MgvwZaDPCs4)** · nh · 2026-10-10
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Nate instructed a Grokbot agent to open its terminal, install the Claude Code CL
 
 Directly extends our YOLO loop: instead of running Claude Code locally, a persistent cloud agent can run it 24/7, enabling background autonomous coding tasks without keeping a local machine on. Aligns with the loop's goal of continuous agent operation.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: Assessment: a Grokbot product feature; he already has always-on Claude on his own machines.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-10 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

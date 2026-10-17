@@ -4,7 +4,7 @@
 
 Source: **[How Stripe Built Kai](https://www.youtube.com/watch?v=rduH9wnXto8)** · lc · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ high: the skill-scoped tool-loading pattern directly addresses context managemen
 
 Deep Agents is open-source. Key architectural decisions: skill = tool allowlist, foundational skills always pinned, S3-backed virtual filesystem for cross-turn persistence, sandbox for code execution. 'Solves all the non-Stripey problems so the team focuses on Stripe problems.'
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: Claude Code already defers tool schemas, so idle tool context is handled for him.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

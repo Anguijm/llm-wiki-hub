@@ -4,7 +4,7 @@
 
 Source: **[Just-in-Time Ontologies: What Cheap Intelligence Means for Data — Hrishi Olickel, Southbridge AI](https://www.youtube.com/watch?v=Fa3hQVIKShw)** · aie · 2026-10-13
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ We often pre-define data structures before running agent tasks. Generating schem
 
 The 'burrito surfing' technique: fix a baseline result, swap cheaper model, compare against known intermediates, tighten requirements, repeat. Key prerequisite: a well-defined failure surface before any optimization starts.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: same move as grounding_ab.py (fix a gold slice, swap cheaper models), which exists, with grounding-gold in 90_meta.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-13 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

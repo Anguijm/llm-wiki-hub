@@ -4,7 +4,7 @@
 
 Source: **[Generative Video at the Speed of Light — Keegan McCallum, uRun](https://www.youtube.com/watch?v=Xln-On3syJk)** · aie · 2026-08-19
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ uRun built an inference platform for interactive generative video. They serve He
 
 If our dev loop involves any visual or multimodal agent outputs, this represents a rapidly cheapening modality worth evaluating. The MCP server interface for generative video is directly relevant if we want agents to produce or steer video as part of their action space.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: the card describes uRun's hosted platform and pricing; the only method is "use our service".
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-19 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

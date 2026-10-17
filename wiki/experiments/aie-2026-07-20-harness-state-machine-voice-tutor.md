@@ -4,7 +4,7 @@
 
 Source: **[Don't Let the LLM Drive - Ornella Bahidika & Joel Allou, Microsoft](https://www.youtube.com/watch?v=m24UKZomm7k)** · aie · 2026-07-20
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Ornella and Joel built ACE, a live AI voice tutor, as a state machine with discr
 
 The YOLO loop runs multi-step coding/review/test cycles that can loop or skip steps unpredictably. Encoding the loop as an explicit state machine with harness-controlled transitions would prevent runaway loops and make each LLM call a single scoped task, enabling use of a cheaper/faster model for most steps.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: Push to Talk already uses small local Qwen models per task with a scored cleanup test (tests/score_cleanup.py); the editor model is not at a stage needing a state machine.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-20 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

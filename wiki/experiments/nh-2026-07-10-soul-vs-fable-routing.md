@@ -4,7 +4,7 @@
 
 Source: **[I Tested GPT 5.6 Sol vs Fable 5. What You Need To Know.](https://www.youtube.com/watch?v=EthxaDswUFo)** · nh · 2026-07-10
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Nate ran identical prompts side-by-side in Claude (Fable 5 via Codex) and GPT-5.
 
 The YOLO loop uses a single model for all steps. A two-model routing layer — Fable for planning/architecture/review, Soul for implementation/test-fix cycles — could cut costs on execution-heavy phases while preserving quality on design decisions.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a vendor-model bake-off; he does not run Codex or GPT-5.6 and his model-per-stage choices are set in engine.md.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-10 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

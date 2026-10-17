@@ -4,7 +4,7 @@
 
 Source: **[Speech-to-Speech Model Research at Google DeepMind — Valeria Wu Fon & Tom Ouyang, Google DeepMind](https://www.youtube.com/watch?v=18Um2VjMM_g)** · aie · 2026-09-15
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Proactive audio (don't interrupt when background noise appears) is an immediatel
 
 Gemini Live and Gemini Cloud API both use this speech-to-speech foundation. Proactive audio and alphanumeric accuracy for complex strings (postcodes, registration plates) are the most differentiating claims to validate empirically against cascaded alternatives.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: testing Gemini speech-to-speech needs a paid API and the talk gives no way to test locally; Push to Talk is dictation, not conversation.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

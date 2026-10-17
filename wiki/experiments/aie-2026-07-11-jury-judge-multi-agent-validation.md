@@ -4,7 +4,7 @@
 
 Source: **[Design Patterns for AI Trust: Juries, Libraries, and Agent Tiers — Alex Bauer, Upside.tech](https://www.youtube.com/watch?v=YZQsWVeN3rE)** · aie · 2026-07-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Alex described Upside's jury-and-judge workflow for multi-touch attribution (a p
 
 Provides a trust architecture pattern for the YOLO loop's output validation on tasks where ground truth is unavailable — multiple independent passes with a synthesis judge catches reasoning failures that single-pass verification misses.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: newsletter-selection-loop.md already has five agents arguing five rounds; a judge that widens the jury is a minor variant and the basketball use has no data behind it.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

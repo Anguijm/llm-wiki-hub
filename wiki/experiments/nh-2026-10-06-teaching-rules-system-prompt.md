@@ -4,7 +4,7 @@
 
 Source: **[I Built Another Andrej Karpathy Using Claude](https://www.youtube.com/watch?v=bvGptCLDhyo)** · nh · 2026-10-06
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Maps to the review and verification gates in our dev loop. Encoding 'run before 
 
 Low-cost subset experiment: the rule-encoding step alone (without the full wiki crawl) could be tested quickly by manually writing 5-7 teaching rules into a system prompt and measuring whether code-explanation quality improves on a benchmark task. This decouples the wiki-building effort from the behavioral-constraint hypothesis.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the rules (run before showing, show the broken version) are coding-teaching habits he can add as one line, and the editor-model link is a stretch.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-06 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

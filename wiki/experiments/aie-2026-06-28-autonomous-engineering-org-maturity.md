@@ -4,7 +4,7 @@
 
 Source: **[Building an Autonomous Engineering Org - Angie Jones, Agentic AI Foundation](https://www.youtube.com/watch?v=whue9_YquGA)** · aie · 2026-06-28
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ The maturity model provides a diagnostic for where any team sits in agent adopti
 
 Talk ends with an ethical provocation — the autonomous org resulted in layoffs and Angie questions whether building it was the right outcome. Worth holding alongside the technical learnings.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a vendor-scale adoption story (3,500 engineers, layoffs); the leadership-column use needs sourced Block claims and the shipyard analogy is a stretch, so no build or column hangs on it.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-28 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

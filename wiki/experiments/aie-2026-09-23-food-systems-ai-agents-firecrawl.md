@@ -4,7 +4,7 @@
 
 Source: **[You're Not Thinking Big Enough: Rebuilding Food Systems with AI Agents — Cody Menefee, Firecrawl](https://www.youtube.com/watch?v=ztlXKfPCT3Q)** · aie · 2026-09-23
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Cody Menefee from Firecrawl described using AI agents powered by Firecrawl to re
 
 Firecrawl as a live-web data ingestion layer for our agents is directly applicable — our loop could use this pattern to feed agents with fresh external context rather than static knowledge bases.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: Firecrawl-backed agents, title-level card.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

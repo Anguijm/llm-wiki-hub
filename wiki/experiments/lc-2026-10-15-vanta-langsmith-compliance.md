@@ -4,7 +4,7 @@
 
 Source: **[Vanta and LangSmith: Assessing Compliance Evidence Like an Auditor](https://www.youtube.com/watch?v=_MsL_RIztVc)** · lc · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ high: Align Evaluators and trace search are directly applicable to building veri
 
 Short testimonial video. Key insight: 'it forces you to have an opinion and label your ground truth like good or bad'—a simple but powerful constraint for building eval datasets.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the product is a testimonial; he already has accepted and rejected draft pairs for the editor model, which is the labeled data.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

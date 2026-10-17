@@ -4,7 +4,7 @@
 
 Source: **[AI Agents Just Became Multiplayer. Here's How to Build Them.](https://www.youtube.com/watch?v=KZiF2J83zaY)** · nh · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ high: Kylon is a harness layer that extends Claude Code into a multiplayer, pers
 
 Sponsored video — Kylon approached the creator. Pricing was a stated concern initially. Worth evaluating free tier before committing.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: the card says the video was sponsored by Kylon; Assessment: a product pilot for a solo operator.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

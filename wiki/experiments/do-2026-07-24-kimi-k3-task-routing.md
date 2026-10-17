@@ -4,7 +4,7 @@
 
 Source: **[Build Anything with Kimi K3, Here's How](https://www.youtube.com/watch?v=ZW7R3qNw4nk)** · do · 2026-07-24
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ The YOLO loop can support multiple model backends. Adding a routing layer that s
 
 Video is sponsored by Kimmy API; benchmark claims should be independently verified. Open-source weights expected ~July 27 per transcript, which would enable self-hosted inference. Key routing signal: frontend + legal = Kimi K3; planning/ideation = Fable; verification-heavy loops = GPT 5.6 Soul.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: a sponsored model launch whose claims the card says to verify; routing is covered by other cards.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

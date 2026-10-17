@@ -4,7 +4,7 @@
 
 Source: **[AI Slop Is Costing You Hours. Here's How To Stop Sending It.](https://www.youtube.com/watch?v=AWGoOtNgw3c)** · nb · 2026-08-07
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly applicable to any step in the dev loop where the system generates user-
 
 Transcript truncated at ~5500 chars; the specific voice discovery skill mechanics were in the elided section. Would need to watch full video or find the skill template to implement concretely.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the card says the mechanics were truncated, and the editor-corpus and editor-noise-floor folders already hold his real accepted drafts, a better voice baseline than a prompt.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-07 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

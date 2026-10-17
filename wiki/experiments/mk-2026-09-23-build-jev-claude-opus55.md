@@ -4,7 +4,7 @@
 
 Source: **[Build Your Own Jev With Claude Opus 5.5](https://www.youtube.com/watch?v=z8My0bX2-ZU)** · mk · 2026-09-23
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Mark walked through constructing a custom AI persona agent modeled on 'Jev' usin
 
 Directly applicable to our dev loop's agent design layer — the persona-consistency and memory techniques can be adapted for maintaining coherent agent identity across multi-step YOLO loop iterations.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the card gives no method (round 2 flagged it contradicts the Jev classifier), so there is nothing to reproduce.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

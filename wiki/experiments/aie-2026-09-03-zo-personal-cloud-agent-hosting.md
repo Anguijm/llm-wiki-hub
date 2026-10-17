@@ -4,7 +4,7 @@
 
 Source: **[Everyone Gets A Software Company — Benjamin Guo, Zo Computer](https://www.youtube.com/watch?v=Qr15lGAGKpo)** · aie · 2026-09-03
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Ben Guo demonstrated Zo Computer, a personal cloud server with a built-in AI age
 
 We could experiment with running our YOLO loop agent on a dedicated personal VPS (e.g., a Hetzner node) that also hosts the web services it generates, giving the agent direct filesystem and service access with no credential-passing overhead and making every generated artifact immediately live-testable.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: a demo of Zo Computer; his MS-S1 already is the self-owned node it sells.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[GPT-6 Astra Can Build 3D Worlds to Learn Anything](https://www.youtube.com/watch?v=27qpBfBhpDk)** · mk · 2026-09-13
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Demonstrates an extreme end of autonomous multi-hour agentic execution with self
 
 Used ~8M tokens on Astra Medium for a single 18-hour run. Cost-prohibitive for routine use but worth one spike to understand autonomous run limits and rubric design patterns.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: needs a paid Astra run (about 8M tokens per the card) and the Codex app; his GwG asset pipeline (gwg-hires-asset-pipeline.md) already covers provenance and licence tracking.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-13 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

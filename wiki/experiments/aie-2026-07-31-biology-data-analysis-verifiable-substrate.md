@@ -4,7 +4,7 @@
 
 Source: **[Verifiable Environments for AI in Biology — Kenny Workman, LatchBio](https://www.youtube.com/watch?v=3ZMUiFaQ3qg)** · aie · 2026-07-31
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ LatchBio built benchmarks for biological data analysis (spatial genomics, single
 
 The pattern of identifying invariant choke points in complex task trees to construct partial verifiers is generalizable. For any domain where full end-to-end verification is hard, mapping the solution space and finding intermediate verifiable nodes is a tractable path to RL reward design.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the choke-point idea is sound but his pipelines (image to mesh to print) are short and a human looks at each stage; no long unverifiable pipeline is waiting for it.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-31 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Grok Bot Just Got 2 Massive Upgrades. Do These Things Now.](https://www.youtube.com/watch?v=MgvwZaDPCs4)** · nh · 2026-10-10
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Nate had multiple Grokbot agents (X monitor, Minor, Pod, AIS, News, Motion, etc.
 
 Any agent in our dev loop that pulls external data (tweets, news, social signals) via paid APIs should be audited for equivalent free native integrations. Switching saves budget and reduces credential/API key management overhead.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: Assessment: a product feature update with no technique left.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-10 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Why LLM Recommenders Will Be AI's Biggest Consumer App — Devansh Tandon, Meta](https://www.youtube.com/watch?v=lIgdnF0s0kQ)** · aie · 2026-09-26
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Devansh Tandon from Meta argued that LLM-based recommender systems represent the
 
 Relevant if the dev loop includes any personalization or content-surfacing features; the architectural patterns described could inform how we wire LLM reasoning into ranking or filtering steps.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: thin card about Meta feed ranking; he runs no recommender.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-26 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

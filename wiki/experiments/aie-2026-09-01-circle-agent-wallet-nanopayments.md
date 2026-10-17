@@ -4,7 +4,7 @@
 
 Source: **[Why Your AI Agent Needs a Wallet: USDC and Nanopayments — Harshal Bhangale, Circle](https://www.youtube.com/watch?v=xKzU_3riL6s)** · aie · 2026-09-01
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Directly applicable: any YOLO loop agent doing web research hits paywalled conte
 
 $24M in x402 volume in last 30 days, 99% settled in USDC. Nano-payments support as low as 1 micro-cent transactions. Circle SDK available at agents.circle.com. The deployer sets spending guardrails — agents cannot exceed configured limits.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: Circle demoing its own USDC agent wallet SDK.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-01 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

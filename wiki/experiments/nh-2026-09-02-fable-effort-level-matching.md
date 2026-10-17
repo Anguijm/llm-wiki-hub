@@ -4,7 +4,7 @@
 
 Source: **[I Analyzed How Anthropic ACTUALLY Prompts Fable 5.1](https://www.youtube.com/watch?v=FBVNS1l5Vb8)** · nh · 2026-09-02
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ In the YOLO loop, many subtasks (file reads, simple edits, status summaries) don
 
 Nate also recommends running /claude-api prompt-audit on existing skills to remove redundant instructions that constrain Fable 5.1 unnecessarily. Pair that with effort-level tuning for compounding token savings.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: vault Claude calls now run on the subscription so token savings are not the pressure, and the effort-sweep card below is the same test.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-02 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

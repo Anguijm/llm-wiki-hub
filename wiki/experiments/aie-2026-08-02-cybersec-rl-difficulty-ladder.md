@@ -4,7 +4,7 @@
 
 Source: **[Teaching AI to Find Real Vulnerabilities — Prof. David Brumley, Bugcrowd](https://www.youtube.com/watch?v=ZFxh7sqbUZo)** · aie · 2026-08-02
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ The two-axis curriculum design principle applies beyond cybersecurity: any YOLO 
 
 Environments available at exploitbench.ai as Docker images with MCP interfaces. Mythos transcripts withheld due to NDA and novel exploit concern. Key insight: oracles must prevent models from stopping at easiest vulnerability — design oracles that require full exploitation chain.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a two-axis curriculum for exploit skill; the editor-model curriculum is a stretch and console-hacking history is a reading interest, not something the ladder helps him build.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-02 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

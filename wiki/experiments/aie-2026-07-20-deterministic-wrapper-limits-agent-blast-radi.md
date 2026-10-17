@@ -4,7 +4,7 @@
 
 Source: **[We Gave an Agent Production Code Access and Then Tried to Sleep at Night — Moritz Johner, Form3](https://www.youtube.com/watch?v=LqLoYksJ6do)** · aie · 2026-07-20
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Moritz Johner described Form3's Patch Pilot: a Go application that deterministic
 
 Directly applicable pattern for our YOLO loop: we should audit which side-effects (git push, API calls, environment changes) our agents perform directly and move credential handling into the deterministic loop wrapper, leaving agents to only produce text/patch artifacts.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: overlaps the agent-auth audit card, which covers the same credential question more directly.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-20 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

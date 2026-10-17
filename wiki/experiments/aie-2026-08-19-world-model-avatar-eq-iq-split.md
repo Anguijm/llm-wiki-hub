@@ -4,7 +4,7 @@
 
 Source: **[Voice agents with Realtime Video — Sidney Primas, LemonSlice](https://www.youtube.com/watch?v=z1dqv74SpUs)** · aie · 2026-08-19
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ LemonSlice builds photorealistic video avatars using world models focused on hum
 
 The EQ/IQ architectural split is a useful mental model for any agent that needs both physical/social realism and reasoning. For our loop, it suggests evaluating whether our agents need a separate 'presentation' layer from their 'reasoning' layer, especially as voice and video interfaces become part of our deployment targets.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: one avatar company roadmap with nothing he can run.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-19 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

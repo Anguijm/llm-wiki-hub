@@ -4,7 +4,7 @@
 
 Source: **[I Tested OpenAI's Dots. Here's My Honest Take.](https://www.youtube.com/watch?v=DdSRXsKkHOg)** · mk · 2026-10-01
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Mark ran hands-on tests with OpenAI Dots, providing an honest practitioner asses
 
 Persistent cross-session memory is a gap in the current YOLO loop; validating whether Dots reliably stores and retrieves dev context would directly inform whether to adopt it.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: Product review of an OpenAI memory feature with no reproducible technique.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-01 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

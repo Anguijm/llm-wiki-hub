@@ -4,7 +4,7 @@
 
 Source: **[Hermes Agent + Mixture of Agents is insane…](https://www.youtube.com/watch?v=40ikbH0Ba-g)** · do · 2026-06-29
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly upgrades the inference layer of our dev loop: instead of routing hard s
 
 Cost ~$20 for a full app build; not suitable for quick/cheap tasks. Prompt caching savings still apply to all reference model calls. MoA should be reserved for highest-value, hardest problems.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: his selection debate and two-model ground check already fan out across models.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-29 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Loop engineer practice #1: Reddit loop grew 0 to 95 Karma in 7 days](https://www.youtube.com/watch?v=xn72yW9SNdA)** · aij · 2026-07-30
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly applicable as a context-grounding primitive for any agent in our dev lo
 
 Jason reports growing from -4 to 97 karma in ~1.5 weeks with this approach. Key companion mechanic: a self-reflect/evolve loop runs every few agent cycles to review post performance and propose new subreddits or content strategies automatically.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: his CLAUDE.md rulings and editorial-standards.md already are the grounded wiki; posting to Reddit is out.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-30 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

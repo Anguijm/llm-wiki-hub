@@ -4,7 +4,7 @@
 
 Source: **[Morgan Stanley's ALPHALAB: Multi-Agent Research Across Optimization Domains — Brendan Rappazzo](https://www.youtube.com/watch?v=kiqubc5b5Yo)** · aie · 2026-07-29
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Morgan Stanley's 30-person AI research team built AlphaLab, an agentic harness f
 
 The core insight — that the environment encodes all enterprise value and enables self-improvement — maps directly to YOLO loop: defining strict evals for coding tasks (passing tests, lint, perf benchmarks) as RL environments could enable the agent harness to optimize itself.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: overlaps the self-optimization and prediction ledger cards, with days of effort and only a handful of resolved predictions to score against.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-29 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

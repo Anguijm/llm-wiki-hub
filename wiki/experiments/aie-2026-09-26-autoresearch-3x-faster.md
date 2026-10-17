@@ -4,7 +4,7 @@
 
 Source: **[Autoresearch Made Our Models 3x Faster — Tejas Bhakta, Morph](https://www.youtube.com/watch?v=vrDvatGtIxs)** · aie · 2026-09-26
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Tejas Bhakta from Morph presents their autoresearch system, which automates the 
 
 Directly maps to the YOLO loop's core thesis — automates the loop itself, providing a concrete architecture reference for making the loop self-driving rather than human-triggered.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: ~/projects/blender-autoresearch already exists, and the card gives no method beyond the headline 3x claim.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-26 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

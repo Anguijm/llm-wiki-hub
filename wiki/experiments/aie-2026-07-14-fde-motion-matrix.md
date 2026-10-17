@@ -4,7 +4,7 @@
 
 Source: **[Forward Deployed Engineering at Cursor — Pauline Brunet](https://www.youtube.com/watch?v=APqXGyCoGW4)** · aie · 2026-07-14
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Relevant if we are deploying agent loop infrastructure for external teams or cli
 
 Primarily an org/go-to-market framework; lower technical experiment value unless we are doing client deployments.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: FACT: the card says it is a go-to-market framework; no project of his sells deployments.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-14 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

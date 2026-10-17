@@ -4,7 +4,7 @@
 
 Source: **[Turbocharge Your Agent's Retrieval with TurboQuant - Shashi Jagtap, Superagentic AI](https://www.youtube.com/watch?v=tB9RKTrU-Ig)** · aie · 2026-06-28
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ The YOLO loop's vector retrieval for code and docs can directly benefit from thi
 
 Cold start limitation: pure semantic search until enough usage history accumulates for utility scoring. For new projects, plan for a warm-up period. GitHub repo: TurboAgent. Also supports LanceDB and SurrealDB as vector backends.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: 5x smaller vector indexes solve a memory problem a 128 GB machine does not have, and he runs no vector index.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-28 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

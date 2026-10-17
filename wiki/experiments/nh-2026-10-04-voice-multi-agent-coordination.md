@@ -4,7 +4,7 @@
 
 Source: **[Every Codex Concept Explained for Non-Coders](https://www.youtube.com/watch?v=DFlELTiSPk8)** · nh · 2026-10-04
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Maps to the parallelization layer of the YOLO loop: voice-driven multi-thread co
 
 Requires well-structured projects and agents.md to be reliable; voice coordination breaks down without clear routing context. Test with 2-3 threads before scaling.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: Codex-specific voice threading, and he already drives remote Claude sessions by voice; same idea as the voice-delegated card.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-04 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

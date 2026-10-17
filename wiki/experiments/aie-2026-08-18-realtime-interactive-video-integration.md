@@ -4,7 +4,7 @@
 
 Source: **[The Next Medium: Why Real-Time Interactive Video Changes Everything — Ahmed Ahres, Reactor](https://www.youtube.com/watch?v=5dCAmSDOAjI)** · aie · 2026-08-18
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Enables a new class of agent observation space: instead of text or static screen
 
 Promo code AIE2026 for $75 in Reactor credits. Current limitation: 16 FPS output; 30 FPS requires multi-GPU and quantization. Memory/consistency over long horizons is still an unsolved research problem across all vendors including DeepMind. Evaluation metrics for real-time models are also unsolved—human judgment only today.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: the card is a go-to-market talk for the Reactor API with a promo code and no method he could run without it.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-18 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

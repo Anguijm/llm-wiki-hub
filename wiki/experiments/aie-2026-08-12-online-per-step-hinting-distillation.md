@@ -4,7 +4,7 @@
 
 Source: **[Bringing Continual Learning into Enterprises — Samuel Denton, Applied Compute](https://www.youtube.com/watch?v=ZTA0GwpAUak)** · aie · 2026-08-12
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Samuel Denton from Applied Compute presented a 2x2 distillation spectrum (offlin
 
 If our agents have persistent systematic errors (formatting, tool call patterns, output structure), per-step hinting offers a more surgical correction mechanism than global system prompt edits. Relevance masking is an advanced follow-on once basic per-step hinting is validated.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: he already answers each critic objection in writing per paragraph (critique-answers files), which is the prompt-level form of the idea; the training form is out of scale.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-12 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

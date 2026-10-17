@@ -4,7 +4,7 @@
 
 Source: **[How I Make Opus Think Like Fable (5 easy steps)](https://www.youtube.com/watch?v=XTBWVVcF3Pk)** · nh · 2026-07-07
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Immediately applicable: drop the 5-gate process prompt into our orchestrator sys
 
 The 5 gates mentioned: scope before work, evidence before reasoning, reason adversarially, verify before declaring done, calibrate effort. Nate says he has a shareable file with the full prompt. The effort-level tuning insight (higher effort ≠ always better; overthinking degrades output) is independently worth testing on our own tasks.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the five gates (scope, evidence, adversarial reasoning, verify, calibrate effort) are already the substance of the vault's roles and verification-rules.md, and the cost saving does not...
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-07 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

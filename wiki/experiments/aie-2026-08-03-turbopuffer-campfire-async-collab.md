@@ -4,7 +4,7 @@
 
 Source: **[Building Turbopuffer: Gergely Orosz (@pragmaticengineer) × Simon Eskildsen (CEO)](https://www.youtube.com/watch?v=jQDXzEVHMSE)** · aie · 2026-08-03
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Our dev loop is async-first; formalizing a campfire policy (declare gatherings, 
 
 Turbo credits idea is lightweight and humorous but reportedly effective at changing behavior. The 'central bank / interest rates / betting market' extensions of turbo credits emerging organically from the team suggest high engagement. Could adapt the incentive structure to any async team metric.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a distributed-company offsite policy; he works alone and the card is about team culture.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

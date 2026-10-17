@@ -4,7 +4,7 @@
 
 Source: **[Claude Code + Clay Makes Lead Generation Actually Fun](https://www.youtube.com/watch?v=zyvdl__Ywfk)** · nh · 2026-07-12
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Nate Herk demonstrated connecting Claude Code to Clay's MCP server so that a sin
 
 Demonstrates the MCP-as-data-source pattern: instead of building a custom tool, wire an existing SaaS (Clay) to Claude Code via MCP and let the agent figure out the endpoints. The context-file prerequisite maps directly to our AIOS second-brain pattern for any agent that needs domain knowledge to produce quality output.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: Assessment: a Clay lead-gen walkthrough; with Clay removed, what remains is "give it context files", which he already does.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-12 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

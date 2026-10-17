@@ -4,7 +4,7 @@
 
 Source: **[I Gave Meta's Muse The Most Boring Job I Had. It Found $5,350 A Year.](https://www.youtube.com/watch?v=gbbPBr3OraQ)** · nb · 2026-09-30
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ The creator assigned Meta's Muse AI to handle one of their most tedious recurrin
 
 Directly maps to the audit and retrospective phase of our dev loop — we can run an agent over our own repetitive build tasks, sprint rituals, or infrastructure spend to surface hidden inefficiencies before they compound.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the result comes from Meta's Muse on someone else's data and needs his card statements handed to a model, which adds a privacy step for an unknown saving.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-30 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

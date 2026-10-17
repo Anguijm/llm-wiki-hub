@@ -4,7 +4,7 @@
 
 Source: **[How to Build a One Person AI Business (Using Claude Code)](https://www.youtube.com/watch?v=LVAHYV4Xrto)** · nh · 2026-08-11
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Nate shares a specific Claude prompt template: describe yourself as a one-person
 
 Directly applicable as a meta-prompt for pricing any new agent product or consulting engagement we build; tests whether structured prompting produces more defensible output than ad-hoc pricing brainstorms.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: Assessment: a consultant pricing prompt template; nothing he needs once the pitch is removed.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

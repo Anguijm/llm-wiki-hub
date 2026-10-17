@@ -4,7 +4,7 @@
 
 Source: **[From AI-Assisted to AI-Native: Building a Frontier Development Team — Clare Liguori, AWS](https://www.youtube.com/watch?v=pqlWNihgdjI)** · aie · 2026-08-29
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Core to the YOLO loop architecture: moving from one agent at a time to a paralle
 
 Liguori's warning: must 'slow down to speed up' — teams need 2 months to invest in codebase context and best practices before parallelizing. Also: decision-making speed (not code speed) becomes the new bottleneck once agents handle implementation. Prioritize reversible decisions to keep velocity high.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the leadership-column angle is a theory-of-constraints story that does not need this talk to be told.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-29 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

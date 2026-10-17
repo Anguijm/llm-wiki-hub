@@ -4,7 +4,7 @@
 
 Source: **[Beyond the Lethal Trifecta: Agentic Commerce on the Open Internet — David Levine, Kiduna Club](https://www.youtube.com/watch?v=tE2z8-hqoLY)** · aie · 2026-09-01
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ If YOLO loop agents ever operate on the open internet (browsing, form submission
 
 Very early stage — Kaduna Club just registered. The lethal trifecta framing (private data + untrusted content + action capability) is a useful threat model checklist for any agent with web access.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: an announcement that a new legal entity was registered; the 'lethal trifecta' framing is borrowed from elsewhere.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-01 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

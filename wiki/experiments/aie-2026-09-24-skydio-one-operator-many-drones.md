@@ -4,7 +4,7 @@
 
 Source: **[One Operator, Many Drones: Inside Skydio's Autonomy Stack — Suchet Bargoti, Skydio](https://www.youtube.com/watch?v=2wgPHvW0mG8)** · aie · 2026-09-24
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Suchet Bargoti described Skydio's autonomy stack that enables a single human ope
 
 Our loop currently assumes close human-in-the-loop per agent; this talk provides an architecture pattern for scaling to many concurrent agent runs with minimal human attention, relevant to our orchestration design.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: duplicates the First Mate card (do-2026-07-17), which has the same one-operator-many-agents idea with an open-source reference; his away-runbook already covers phone status.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

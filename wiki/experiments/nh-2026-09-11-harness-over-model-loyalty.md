@@ -4,7 +4,7 @@
 
 Source: **[How to Actually Choose the Right AI Agent](https://www.youtube.com/watch?v=6LNlCpQPYFc)** · nh · 2026-09-11
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Mark Kashef and Nate Herk argued that the 'brain in a jar' (the LLM) is far less
 
 Core architectural principle for our YOLO loop: the loop's reliability should be measured against the harness configuration, not blamed on the model. Segmenting project-level CLAUDE.md/rules files and only promoting to global when validated mirrors our need to control blast radius and identify regressions cleanly.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: promote-rules-only-when-proven is how his global CLAUDE.md was built, and the model-versus-harness triage is a one-line habit, not a build.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-11 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

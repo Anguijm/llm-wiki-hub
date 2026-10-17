@@ -4,7 +4,7 @@
 
 Source: **[In Code They Act, In Proof We Trust — Erik Meijer, Leibniz Labs](https://www.youtube.com/watch?v=-CnA2lGfymY)** · aie · 2026-07-13
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Directly addresses the unsafe tool-call problem in agentic loops. Could be integ
 
 GitHub implementation mentioned exists at Harvard. Erik notes this is proof-carrying code reapplied; DSpy and other frameworks have related RLM implementations. High effort but high safety ROI for production agents.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the practical safety half is covered by his PreToolUse hook (claude-code-hooks.md); the toy half is academic and not clearly his kind of fun.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-13 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

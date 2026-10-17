@@ -4,7 +4,7 @@
 
 Source: **[GPT-6 Is Free for Everyone, Ultrafast Is 8× Faster, and Claude Decks Are Free and more...](https://www.youtube.com/watch?v=F-TsGUZHiVI)** · eh · 2026-10-10
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ The presenter noted Claude's docs, slide decks, and designs exited beta and are 
 
 Our dev loop often produces written artifacts (specs, retros, sprint notes). Automatically converting these to shareable decks or dashboards reduces manual presentation work and keeps stakeholders updated with zero additional tooling cost.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: Feature announcement for Claude Docs and Decks; no technique beyond 'use the feature'.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-10 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

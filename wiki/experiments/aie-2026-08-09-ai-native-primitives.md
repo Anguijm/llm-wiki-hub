@@ -4,7 +4,7 @@
 
 Source: **[The New Primitives: Building AI Native Software — Kwindla Kramer, Daily](https://www.youtube.com/watch?v=LZuWZRze3MU)** · aie · 2026-08-09
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Kwindla Kramer described building Gradient Bang, a multiplayer game architected 
 
 Pushes the YOLO loop toward thinking about AI not just as a code-generation assistant but as a runtime architectural component—informing how we design systems that will themselves be powered by many concurrent inference calls, and what our loop needs to validate about those systems.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the card gives no repo or results, and Ghosts with Guns has a fixed controls and mission design (gwg-controls-rulings) with no spare slot for an LLM per interaction.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Intelligence is Everywhere: Why the AI 'Race' is Already Over](https://www.youtube.com/watch?v=duv4A1gDZOY)** · nb · 2026-09-15
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Guest Alvin Grlin (Stanford HAI researcher, former Intel, cross-Pacific AI persp
 
 Directly informs model selection strategy in our loop: we should test open-weight quantized models at each pipeline stage rather than defaulting to API-only frontier calls, reducing cost and latency while stress-testing portability.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: an interview with a prediction and no method; local model use on the MS-S1 is already running (project-homes-ms-s1.md, local-frontier-home-lab folder).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Gadgets: Personal app vibe coding that is actually safe — Kenton Varda, Cloudflare](https://www.youtube.com/watch?v=RmS5s6Wbin4)** · aie · 2026-08-07
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Relevant if the dev loop needs to execute AI-generated code snippets or mini-app
 
 Transcript truncated (6k chars elided). Full external-services safe-communication system was not described due to time. Kenton mentioned it would be open-sourced 'soon' as a formal Cloudflare product — worth watching for the repo. No transcript for 'Compression at the Edge' or 'Local Models: Trust, Control, Optimization' videos; skipped as insufficient signal without transcripts.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the Artifact tool already hosts private generated pages, and his edgerush.org tunnel serves his own apps; the Gadgets system itself went private, so only a pattern remains.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-07 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

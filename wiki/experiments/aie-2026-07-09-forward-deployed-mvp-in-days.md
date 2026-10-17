@@ -4,7 +4,7 @@
 
 Source: **[Shipping Production AI Inside Government — William Tarr, Ministry of Justice (DO NOT PUBLISH)](https://www.youtube.com/watch?v=qlHaO6laBlM)** · aie · 2026-07-09
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Maps to the requirements and feedback phases of the yolo loop: the loop's input 
 
 Applicable pattern for any internal tooling we build: spend time with the actual users of the tool before specifying agent tasks. The video-first communication pattern (short screen recordings instead of docs) is also worth adopting for async handoffs between agent output and human review.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the video title carries 'DO NOT PUBLISH'; his standing rule is to read markings first and not process marked material further.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

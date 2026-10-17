@@ -4,7 +4,7 @@
 
 Source: **[Why AI Agents Can't Talk to Each Other (Yet) — Vlad Luzin, BAND](https://www.youtube.com/watch?v=toq-jyGLZDk)** · aie · 2026-10-08
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Our YOLO loop currently requires manual context passing between agent sessions. 
 
 BAND platform booth at LG17. Bilateral consent model for agent introductions — neither agent can be connected without both parties accepting. Full conversation visibility for human owners. Try at bend.ai or similar — check description for QR.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: a BAND platform demo with a booth and sign-up; remove the name and what is left is the shared conversation space his debate agents already have on disk.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-08 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

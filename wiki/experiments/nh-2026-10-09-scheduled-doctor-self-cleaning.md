@@ -4,7 +4,7 @@
 
 Source: **[Anthropic Engineers Just 10x'd Everyone's Claude Code](https://www.youtube.com/watch?v=oz2CwrPV2Rg)** · nh · 2026-10-09
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Nate described scheduling local tasks that run /doctor and workflow audits on a 
 
 Closes the maintenance loop in YOLO: automate the audit step so instruction debt doesn't accumulate between model upgrades.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: same audit as the minimal-context card kept above; a monthly schedule is worth adding only after one manual run shows the audit finds anything.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

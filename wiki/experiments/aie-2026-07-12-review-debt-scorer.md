@@ -4,7 +4,7 @@
 
 Source: **[ReviewDebt: a practical framework for scoring every pull request — Sachin Gupta, Ebay](https://www.youtube.com/watch?v=TJPInBjhE4Q)** · aie · 2026-07-12
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Sachin Gupta presented data showing that AI adoption has caused PR commits to ri
 
 As we use Claude Code to generate PRs, this scorer is a direct quality-gate addition to our CI pipeline. The five signal families are implementable as a GitHub Action or pre-merge script, giving us the first quantitative handle on whether AI-generated code is being meaningfully reviewed.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a team pull-request metric for a solo builder.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-12 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

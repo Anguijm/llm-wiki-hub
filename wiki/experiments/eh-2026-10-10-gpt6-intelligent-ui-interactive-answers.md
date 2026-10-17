@@ -4,7 +4,7 @@
 
 Source: **[GPT-6 Is Free for Everyone, Ultrafast Is 8× Faster, and Claude Decks Are Free and more...](https://www.youtube.com/watch?v=F-TsGUZHiVI)** · eh · 2026-10-10
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ The presenter described GPT-6's new Intelligent UI feature: asking it to compare
 
 If our dev loop surfaces agent outputs to end-users or internal dashboards, understanding which query types trigger interactive UI vs plain text helps us design better agent output contracts and know when to delegate formatting to the model.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: Feature tour of a ChatGPT UI mode.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-10 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

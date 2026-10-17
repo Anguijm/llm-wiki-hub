@@ -4,7 +4,7 @@
 
 Source: **[The Half Life of Agent Infrastructure — Ben Kus, Box](https://www.youtube.com/watch?v=sM1iYgz93HI)** · aie · 2026-08-29
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Ben, CTO of Box, described how his own advice from the previous year's conferenc
 
 The six-month eval-gated review is a meta-process for the YOLO loop itself: scheduling regular reassessment of the loop's model provider, orchestration framework, and tooling against fixed eval sets prevents both stagnation and unnecessary churn.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: opinion without data; a six-month calendar entry is trivial.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-29 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

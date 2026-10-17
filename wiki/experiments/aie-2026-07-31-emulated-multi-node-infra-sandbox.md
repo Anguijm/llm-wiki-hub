@@ -4,7 +4,7 @@
 
 Source: **[Emulated: The Data for Fully Autonomous Software Engineers and Companies — Joseph Wang](https://www.youtube.com/watch?v=zkX03APVj0M)** · aie · 2026-07-31
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Emulated built sandboxes that simulate distributed clusters (e.g., etcd consensu
 
 If our agents need to handle infrastructure tasks, building even a simplified single-node simulation of distributed failure modes (network partition, stale node, rolling deploy conflict) would provide richer training signal than static code environments.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a data-vendor product for training infrastructure agents at company scale; his home network is small and a simulated cluster would not teach him about it.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-31 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

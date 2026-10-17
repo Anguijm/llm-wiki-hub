@@ -4,7 +4,7 @@
 
 Source: **[GPT-6 Astra Made This Entire Video](https://www.youtube.com/watch?v=dT5-x3u5nCg)** · nh · 2026-09-04
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Extreme end-to-end agentic pipeline — maps to a YOLO loop where the model owns
 
 Speaker notes the prompt was intentionally open-ended; Astra self-directed tool selection. Cost ~$60 at API fast-mode pricing. Speaker used 2 full resets of their usage limit and was at 50% on a third. Access is limited rollout (Daybreak program) at time of recording.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: Astra, HeyGen and ElevenLabs are not his stack; the useful transcribe-and-diff check is folded into the Push to Talk test card that is kept.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-04 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[World Models Need Causality, Not Pretty Pixels — Christopher Manning, Moonlake AI](https://www.youtube.com/watch?v=4Gqg0HVe-AY)** · aie · 2026-09-24
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Christopher Manning argued that current world models focus on perceptual fidelit
 
 Our agents currently represent world state as flat text or embeddings; this suggests an experiment where we restructure context as a causal graph and test whether planning quality improves on multi-step tasks.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: cause graphs are a heavy way to restate the second-order method the newsletter already runs in editorial-standards.md section 8a.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

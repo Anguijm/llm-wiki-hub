@@ -4,7 +4,7 @@
 
 Source: **[Every Building Is a Balance Sheet: Spatial Memory for Real-World Assets — Jordi Spranger, Spranic](https://www.youtube.com/watch?v=Fe4aSMXsOZ4)** · aie · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Conceptually relevant if the YOLO loop needs to reason about physical environmen
 
 Spranic founded June 2026; very early stage. The graph+temporal-alignment pattern is the transferable insight; the specific hardware pipeline is domain-specific. Neo4j used as graph backend.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: lidar graphs for buildings; the shipyard story (before and after compartment scans) is speculative and needs a source showing yards adopt them.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

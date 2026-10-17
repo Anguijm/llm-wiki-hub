@@ -4,7 +4,7 @@
 
 Source: **[From coding to Knowledge work agents — Karan Vaidya, Composio](https://www.youtube.com/watch?v=xxfMT-bPEmU)** · aie · 2026-09-03
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Karan Vaidya argued that coding agents succeeded because the surrounding infrast
 
 Directly maps to how we instrument our dev loop agents: we can score our current YOLO loop against each primitive and prioritize which missing infrastructure to build first, especially reversibility (sandboxed dry-runs before mutations) and record-keeping (action logs per agent run).
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: scoring a pipeline against six primitives is a checklist exercise whose result (it needs human rulings) he already knows.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[I Tried 100+ Github Repos for Claude. These 6 Are the Best](https://www.youtube.com/watch?v=HhZdNYI4pJs)** · nh · 2026-10-12
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Maps directly to the verification and closure phase of our loop: Playwright CLI 
 
 Also flagged Hyperframes (video editing via HTML/animations), Google Workspace CLI (40+ skills, works outside Claude desktop), Apify MCP (scraping), Scrollcraft (scroll-driven websites with built-in screenshot checker), Humanizer (AI text humanization), and Open SEO as potentially worth separate experiment cards. Token-saving repos Caveman and RTK showed poor real-world results per JetBrains benchmarks; Ponytail saved ~10% but has Windows bug. Claude Mem and Context Mode currently have open bugs—hold off.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: Playwright is already installed (~/.local/bin/playwright, chromium cached) and the Claude Security plugin claim is unverified.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-12 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

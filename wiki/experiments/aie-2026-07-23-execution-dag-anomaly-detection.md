@@ -4,7 +4,7 @@
 
 Source: **[Learned Execution Graphs for Anomaly Detection & Drift in APIs — Ritvik Pandya, JP Morgan Chase](https://www.youtube.com/watch?v=u1yaOeEX4e8)** · aie · 2026-07-23
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Ritvik Pandya from JP Morgan Chase described 'learned execution graphs' for paym
 
 Our yolo loop's agent runs are currently opaque — we know what was called but not whether the execution structure deviated from normal. Instrumenting each loop run as a DAG and comparing against a baseline would let us detect when agents are taking unusual paths (extra tool calls, skipped steps, latency outliers) before they produce bad outputs, enabling earlier intervention.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the away-runbook already lists what silence means for each job; the paging card covers a feed that stops more simply than learning a baseline graph.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

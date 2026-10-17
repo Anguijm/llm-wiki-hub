@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1151 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1167 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,8 +12,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 849 |
-| `discarded` | 92 |
+| `backlog` | 609 |
+| `discarded` | 348 |
 | `adopted` | 90 |
 | `deferred` | 56 |
 | `done` | 48 |
@@ -24,35 +24,36 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 921 |
+| `(none)` | 681 |
+| `discard` | 358 |
 | `adopt` | 128 |
-| `discard` | 102 |
 
 ## By channel
 
 | Channel | Experiments |
 |---|---|
-| @aie | 560 |
-| @nh | 164 |
+| @aie | 563 |
+| @nh | 166 |
 | @nb | 157 |
 | @mlops | 74 |
-| @do | 64 |
+| @do | 66 |
 | @mk | 48 |
-| @eh | 27 |
+| @eh | 28 |
 | @aij | 21 |
 | @st | 14 |
 | @up | 5 |
-| @lc | 3 |
+| @cm | 5 |
+| @lc | 5 |
+| @ls | 3 |
 | @fs | 2 |
-| @cm | 2 |
 | @ail | 2 |
-| @ls | 2 |
+| @az | 2 |
 | @tmp | 1 |
 | @idd | 1 |
-| @az | 1 |
 | @aez | 1 |
 | @pl | 1 |
 | @pa | 1 |
+| @dc | 1 |
 
 ---
 
@@ -62,132 +63,148 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
-| 2026-10-15 | [[experiments/pl-2026-10-15-ai-code-review-strategy|Replace line-by-line AI PR review with a verification-infrastructure-first review strategy]] | @pl | `-` |
+| 2026-10-16 | [[experiments/nh-2026-10-16-unknown-unknowns-communication-skill|Build a pre-task checklist that surfaces unknown unknowns before handing work to an agent]] | @nh | `-` |
+| 2026-10-16 | [[experiments/nh-2026-10-16-agent-environment-quality|Treat the codebase environment quality as a first-class input to agent output quality]] | @nh | `-` |
+| 2026-10-16 | [[experiments/ls-2026-10-16-world-action-model-visual-chain-of-thought|Apply world-model visual chain-of-thought (predict future state before acting) to verification loops in agent harnesses]] | @ls | `-` |
+| 2026-10-16 | [[experiments/lc-2026-10-16-continual-learning-sft-rl-tradeoff|Characterise our fine-tuning use cases on the narrow-task vs. general-agent spectrum before choosing SFT or RL]] | @lc | `-` |
+| 2026-10-16 | [[experiments/lc-2026-10-16-agent-harness-explainer|Audit our Claude Code harness against the four harness primitives: file system, sub-agents, skills, and memory]] | @lc | `-` |
+| 2026-10-16 | [[experiments/eh-2026-10-16-neural-network-interpretability-clean-hypothes|Apply the 'describe without nouns' interpretability heuristic when debugging unexpected agent behaviour]] | @eh | `-` |
+| 2026-10-16 | [[experiments/do-2026-10-16-open-source-tagline-positioning|Reframe a project's tagline as a clear open-source alternative to a known tool]] | @do | `-` |
+| 2026-10-16 | [[experiments/do-2026-10-16-headless-api-first-no-dashboard|Design new infrastructure tools headless-first with full API/MCP/CLI parity before building any dashboard]] | @do | `-` |
+| 2026-10-16 | [[experiments/dc-2026-10-16-specialized-inference-engine-per-gpu-model|Benchmark GPU-specialised inference engines (GGZ14/DFlash-2, R9V, Rob Smith vLLM) against baseline llama.cpp on our Strix Halo box for Qwen 3.8 family models]] | @dc | `-` |
+| 2026-10-16 | [[experiments/cm-2026-10-16-token-efficient-model-routing-per-node|Route each factory node to the cheapest model sufficient for that node's task rather than using the best model everywhere]] | @cm | `-` |
+| 2026-10-16 | [[experiments/cm-2026-10-16-software-factory-human-in-staging|Replace the fully-autonomous dark factory with a human-gated staging review loop inside an AI software factory]] | @cm | `-` |
+| 2026-10-16 | [[experiments/cm-2026-10-16-immutable-mission-md-factory-context|Lock mission.md and engineering.md as immutable files the factory agent is explicitly prohibited from editing]] | @cm | `-` |
+| 2026-10-16 | [[experiments/az-2026-10-16-rtx-spark-laptop-120b-local-inference|Compare vLLM multi-user throughput vs. llama.cpp single-user latency on unified-memory ARM hardware for agent workloads]] | @az | `-` |
+| 2026-10-16 | [[experiments/aie-2026-10-16-linux-kernel-trust-hierarchy-for-agents|Replace star-topology agent orchestration with a Linux-kernel-style layered trust hierarchy]] | @aie | `-` |
+| 2026-10-16 | [[experiments/aie-2026-10-16-highest-loop-loopcraft-abstraction|Map our current agent workflows to explicit loop levels and identify which loop to move up or debug down]] | @aie | `-` |
+| 2026-10-16 | [[experiments/aie-2026-10-16-dependency-graph-preloaded-into-agent-session|Pre-compute and inject a repository dependency graph as a file into each agent session to eliminate redundant graph-building work]] | @aie | `-` |
+| 2026-10-15 | [[experiments/pl-2026-10-15-ai-code-review-strategy|Replace line-by-line AI PR review with a verification-infrastructure-first review strategy]] | @pl | `discard` |
 | 2026-10-15 | [[experiments/pa-2026-10-15-ai-image-to-3d-print-local|Run a fully local ComfyUI pipeline from text prompt through Trellis 2 to watertight 3D print STL]] | @pa | `-` |
 | 2026-10-15 | [[experiments/nh-2026-10-15-roast-room-multi-persona-decision-council|Build a multi-persona debate council skill (Roast Room) for high-stakes decisions]] | @nh | `-` |
-| 2026-10-15 | [[experiments/nh-2026-10-15-reverse-engineer-existing-app-as-prd|Use an existing app or artifact as a living PRD instead of writing one from scratch]] | @nh | `-` |
-| 2026-10-15 | [[experiments/nh-2026-10-15-multiplayer-ai-kylon|Pilot Kylon as a shared team workspace where human members and Claude Code subscriptions collaborate on the same agent channel]] | @nh | `-` |
-| 2026-10-15 | [[experiments/nb-2026-10-15-rea-xray-vision-workflow|Use REA (Reverse Engineer Anything) MCP to audit and inform Claude Code harness design]] | @nb | `-` |
+| 2026-10-15 | [[experiments/nh-2026-10-15-reverse-engineer-existing-app-as-prd|Use an existing app or artifact as a living PRD instead of writing one from scratch]] | @nh | `discard` |
+| 2026-10-15 | [[experiments/nh-2026-10-15-multiplayer-ai-kylon|Pilot Kylon as a shared team workspace where human members and Claude Code subscriptions collaborate on the same agent channel]] | @nh | `discard` |
+| 2026-10-15 | [[experiments/nb-2026-10-15-rea-xray-vision-workflow|Use REA (Reverse Engineer Anything) MCP to audit and inform Claude Code harness design]] | @nb | `discard` |
 | 2026-10-15 | [[experiments/nb-2026-10-15-narrow-superintelligence-skill-framing|Apply the 'narrow superintelligence' lens to decide where to keep vs. remove human judgment in agent workflows]] | @nb | `-` |
 | 2026-10-15 | [[experiments/mlops-2026-10-15-webmcp-agent-safe-actions|Add WebMCP annotations (read-only, user-generated-content, consequential hints) to web app surfaces before wiring agent automation]] | @mlops | `-` |
-| 2026-10-15 | [[experiments/mlops-2026-10-15-domain-specific-agent-standards|Pin agent efficacy metadata (model + prompt + provider) as a deployable spec]] | @mlops | `-` |
+| 2026-10-15 | [[experiments/mlops-2026-10-15-domain-specific-agent-standards|Pin agent efficacy metadata (model + prompt + provider) as a deployable spec]] | @mlops | `discard` |
 | 2026-10-15 | [[experiments/mlops-2026-10-15-domain-expert-agent-authoring|Let domain experts author their own narrow agents via a no-code harness scaffold]] | @mlops | `-` |
-| 2026-10-15 | [[experiments/mk-2026-10-15-uncensored-model-with-rea-for-app-cloning|Substitute an uncensored model in the REA harness to reduce guardrail friction on app decompilation tasks]] | @mk | `-` |
+| 2026-10-15 | [[experiments/mk-2026-10-15-uncensored-model-with-rea-for-app-cloning|Substitute an uncensored model in the REA harness to reduce guardrail friction on app decompilation tasks]] | @mk | `discard` |
 | 2026-10-15 | [[experiments/ls-2026-10-15-leash-bio-dell-ml-pipeline|Apply Leash Bio's 'train on exhaust, get sociology not physics' warning to audit any ML training pipeline for label leakage from human behavior patterns]] | @ls | `-` |
-| 2026-10-15 | [[experiments/ls-2026-10-15-kill-saas-with-agents|Run a structured 'Kill My SaaS' challenge to replace a mid-tier SaaS with an agent-built custom tool]] | @ls | `-` |
-| 2026-10-15 | [[experiments/lc-2026-10-15-what-is-deep-agents|Adopt a swappable-backend agent harness to run the same agent locally, in sandbox, or in cloud without code changes]] | @lc | `-` |
-| 2026-10-15 | [[experiments/lc-2026-10-15-vanta-langsmith-compliance|Use LangSmith's Align Evaluators and full-text trace search to accelerate agent quality assessment]] | @lc | `-` |
-| 2026-10-15 | [[experiments/lc-2026-10-15-stripe-kai-deep-agents|Structure agent skills so each skill declares its own allowed tool subset to avoid context overflow at scale]] | @lc | `-` |
+| 2026-10-15 | [[experiments/ls-2026-10-15-kill-saas-with-agents|Run a structured 'Kill My SaaS' challenge to replace a mid-tier SaaS with an agent-built custom tool]] | @ls | `discard` |
+| 2026-10-15 | [[experiments/lc-2026-10-15-what-is-deep-agents|Adopt a swappable-backend agent harness to run the same agent locally, in sandbox, or in cloud without code changes]] | @lc | `discard` |
+| 2026-10-15 | [[experiments/lc-2026-10-15-vanta-langsmith-compliance|Use LangSmith's Align Evaluators and full-text trace search to accelerate agent quality assessment]] | @lc | `discard` |
+| 2026-10-15 | [[experiments/lc-2026-10-15-stripe-kai-deep-agents|Structure agent skills so each skill declares its own allowed tool subset to avoid context overflow at scale]] | @lc | `discard` |
 | 2026-10-15 | [[experiments/idd-2026-10-15-pi-durable-proactive-agents|Build a proactive Pi durable agent triggered by a Jev classifier on a live event stream to handle on-call incident response without human initiation]] | @idd | `-` |
-| 2026-10-15 | [[experiments/eh-2026-10-15-five-habits-for-ai-collaboration|Encode five interaction habits into a team AI usage protocol and test against default prompting]] | @eh | `-` |
+| 2026-10-15 | [[experiments/eh-2026-10-15-five-habits-for-ai-collaboration|Encode five interaction habits into a team AI usage protocol and test against default prompting]] | @eh | `discard` |
 | 2026-10-15 | [[experiments/eh-2026-10-15-external-judge-for-model-output|Route agent output through an independent external judge before accepting it]] | @eh | `-` |
-| 2026-10-15 | [[experiments/eh-2026-10-15-altitude-goal-behind-the-goal|Prompt Claude with the outcome goal rather than the task, backed by groundwork infrastructure]] | @eh | `-` |
+| 2026-10-15 | [[experiments/eh-2026-10-15-altitude-goal-behind-the-goal|Prompt Claude with the outcome goal rather than the task, backed by groundwork infrastructure]] | @eh | `discard` |
 | 2026-10-15 | [[experiments/do-2026-10-15-isolated-sandbox-per-agent|Run each coding agent in its own isolated cloud VM rather than a shared environment]] | @do | `-` |
 | 2026-10-15 | [[experiments/do-2026-10-15-agent-feedback-tool-to-founder|Give agents a built-in feedback tool that routes user-observed issues directly to a dev triage queue]] | @do | `-` |
-| 2026-10-15 | [[experiments/cm-2026-10-15-intent-engineering-harness-design|Audit current Claude Code workflow for 'meat proxy' failure modes and add explicit intent-engineering harness steps at planning and validation boundaries]] | @cm | `-` |
-| 2026-10-15 | [[experiments/cm-2026-10-15-ai-content-engine-signal-filter|Build a personal AI signal engine using the 'Build Signal Engine' skill to generate a daily filtered digest from hundreds of sources]] | @cm | `-` |
+| 2026-10-15 | [[experiments/cm-2026-10-15-intent-engineering-harness-design|Audit current Claude Code workflow for 'meat proxy' failure modes and add explicit intent-engineering harness steps at planning and validation boundaries]] | @cm | `discard` |
+| 2026-10-15 | [[experiments/cm-2026-10-15-ai-content-engine-signal-filter|Build a personal AI signal engine using the 'Build Signal Engine' skill to generate a daily filtered digest from hundreds of sources]] | @cm | `discard` |
 | 2026-10-15 | [[experiments/az-2026-10-15-kv-cache-agents-lmcache|Enable LM Cache (external KV cache server) for multi-agent vLLM workloads that exceed GPU memory]] | @az | `-` |
-| 2026-10-15 | [[experiments/ail-2026-10-15-stitch-cli-scrollytelling-workflow|Wire Google Stitch CLI into a Claude Code skill workflow alongside a domain-specific skill (e.g., scrollytelling) to produce fully designed and animated web pages without leaving the terminal]] | @ail | `-` |
+| 2026-10-15 | [[experiments/ail-2026-10-15-stitch-cli-scrollytelling-workflow|Wire Google Stitch CLI into a Claude Code skill workflow alongside a domain-specific skill (e.g., scrollytelling) to produce fully designed and animated web pages without leaving the terminal]] | @ail | `discard` |
 | 2026-10-15 | [[experiments/ail-2026-10-15-rea-five-use-cases|Run REA security audit on a vibe-coded app before multi-user launch to find exposed keys and client-side data leaks]] | @ail | `-` |
-| 2026-10-15 | [[experiments/aie-2026-10-15-spatial-graph-building-memory|Store multi-temporal spatial scans as a graph to enable change-detection queries over physical environments]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-spatial-graph-building-memory|Store multi-temporal spatial scans as a graph to enable change-detection queries over physical environments]] | @aie | `discard` |
 | 2026-10-15 | [[experiments/aie-2026-10-15-rag-table-csv-chunking|Convert PDF tables to CSV chunks with preserved row/column context for RAG]] | @aie | `-` |
 | 2026-10-15 | [[experiments/aie-2026-10-15-rag-agentic-retrieval-zoom-levels|Give a RAG agent multiple zoom levels (chunk → section → full document) via metadata-driven tool calls]] | @aie | `-` |
-| 2026-10-15 | [[experiments/aie-2026-10-15-parallel-merge-queue-for-ai-commit-volume|Replace serialized CI merge queues with speculative parallel combination testing for agent-generated PRs]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-parallel-merge-queue-for-ai-commit-volume|Replace serialized CI merge queues with speculative parallel combination testing for agent-generated PRs]] | @aie | `discard` |
 | 2026-10-15 | [[experiments/aie-2026-10-15-median-novelty-above-median|Apply the 'novelty forcing questions' framework before starting any new agent-built feature to screen for above-median differentiation]] | @aie | `-` |
 | 2026-10-15 | [[experiments/aie-2026-10-15-mcp-gateway-with-pii-blocking-and-context-opt|Add a centralized MCP gateway with PII blocking and context optimizer to reduce token cost 70-90%]] | @aie | `-` |
 | 2026-10-15 | [[experiments/aie-2026-10-15-gnn-graph-fraud-detection|Feed GNN neighborhood embeddings into an existing gradient-boosted model rather than replacing it]] | @aie | `-` |
-| 2026-10-15 | [[experiments/aie-2026-10-15-cost-per-merged-pr-as-ai-spend-metric|Track cost-per-merged-PR (salary + AI spend) as the primary AI investment metric instead of token bill]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-cost-per-merged-pr-as-ai-spend-metric|Track cost-per-merged-PR (salary + AI spend) as the primary AI investment metric instead of token bill]] | @aie | `discard` |
 | 2026-10-15 | [[experiments/aie-2026-10-15-ceiling-test-for-prompt-optimization|Run a ceiling test (AA test on prod model) before evaluating any prompt optimization candidate]] | @aie | `-` |
-| 2026-10-15 | [[experiments/aie-2026-10-15-bridgewater-vault-unstructured-data|Design a 'Vault' pattern for the Markdown knowledge vault — separate human agent needs from automated agent needs at the data layer]] | @aie | `-` |
-| 2026-10-15 | [[experiments/aie-2026-10-15-bank-ai-discovery-week-one|Run a week-one discovery checklist to surface deployment blockers before building in regulated environments]] | @aie | `-` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-bridgewater-vault-unstructured-data|Design a 'Vault' pattern for the Markdown knowledge vault — separate human agent needs from automated agent needs at the data layer]] | @aie | `discard` |
+| 2026-10-15 | [[experiments/aie-2026-10-15-bank-ai-discovery-week-one|Run a week-one discovery checklist to surface deployment blockers before building in regulated environments]] | @aie | `discard` |
 | 2026-10-15 | [[experiments/aie-2026-10-15-ai-engineer-nyc-day3|Apply Ramp's 'bitter lesson' unit-economics tracking to agent workflow cost management]] | @aie | `-` |
 | 2026-10-15 | [[experiments/aie-2026-10-15-ai-automation-due-diligence-checks|Apply a three-check diligence card to any AI automation claim before trusting the metric]] | @aie | `-` |
 | 2026-10-15 | [[experiments/aie-2026-10-15-agent-trust-autonomy-scorecard|Gate agent autonomy expansion with a four-stage scorecard tied to pre-defined value and control metrics]] | @aie | `-` |
 | 2026-10-15 | [[experiments/aie-2026-10-15-agent-infrastructure-controls-lethal-trifecta|Audit agent permissions against the lethal trifecta (private data + untrusted content + external comms) and add sandboxing and a model proxy layer]] | @aie | `-` |
 | 2026-10-15 | [[experiments/aie-2026-10-15-accessibility-skill-reduces-agent-cost|Add a mandatory accessibility skill to UI-generating agents]] | @aie | `-` |
-| 2026-10-15 | [[experiments/aez-2026-10-15-ue5-inventory-item-actions|Implement a gameplay-tag-driven item action system in UE5 so inventory interactions are context-aware and data-driven]] | @aez | `-` |
+| 2026-10-15 | [[experiments/aez-2026-10-15-ue5-inventory-item-actions|Implement a gameplay-tag-driven item action system in UE5 so inventory interactions are context-aware and data-driven]] | @aez | `discard` |
 | 2026-10-13 | [[experiments/mlops-2026-10-13-domain-expert-sop-task-generation|Generate eval tasks from domain-expert SOPs rather than synthetic prompts]] | @mlops | `-` |
 | 2026-10-13 | [[experiments/mlops-2026-10-13-benchmark-agent-policy-compliance|Benchmark agent compliance with non-gated MEMORY.md / CLAUDE.md instructions]] | @mlops | `-` |
 | 2026-10-13 | [[experiments/aie-2026-10-13-sts-token-exchange-agent-access-control|Replace static API keys with a Security Token Service issuing task-scoped ephemeral credentials]] | @aie | `-` |
 | 2026-10-13 | [[experiments/aie-2026-10-13-polished-internal-tools-agent-skills|Package UX opinions as agent skills so every new feature inherits consistent polish]] | @aie | `-` |
 | 2026-10-13 | [[experiments/aie-2026-10-13-orbit-yaml-workflow-deterministic|Define agent workflows as YAML files with deterministic steps and LLM-only-where-needed policy]] | @aie | `-` |
-| 2026-10-13 | [[experiments/aie-2026-10-13-orbit-golden-dataset-eval-loop|Build a golden dataset from real production traces and run it before each prompt/model change]] | @aie | `-` |
-| 2026-10-13 | [[experiments/aie-2026-10-13-kv-cache-inference-optimization|Profile and reduce KV cache memory pressure in long-context agent runs by tuning batching strategy]] | @aie | `-` |
-| 2026-10-13 | [[experiments/aie-2026-10-13-just-in-time-ontology-burrito-surfing|Replace pre-built schemas with just-in-time ontologies generated at decision time by cheap models]] | @aie | `-` |
-| 2026-10-13 | [[experiments/aie-2026-10-13-gpu-timing-side-channel-shared-tenancy|Audit shared-GPU deployments for timing side-channel leakage of model identity and workload type]] | @aie | `-` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-orbit-golden-dataset-eval-loop|Build a golden dataset from real production traces and run it before each prompt/model change]] | @aie | `discard` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-kv-cache-inference-optimization|Profile and reduce KV cache memory pressure in long-context agent runs by tuning batching strategy]] | @aie | `discard` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-just-in-time-ontology-burrito-surfing|Replace pre-built schemas with just-in-time ontologies generated at decision time by cheap models]] | @aie | `discard` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-gpu-timing-side-channel-shared-tenancy|Audit shared-GPU deployments for timing side-channel leakage of model identity and workload type]] | @aie | `discard` |
 | 2026-10-13 | [[experiments/aie-2026-10-13-domain-expert-written-agent-skills|Have domain experts author agent skills via narrated walkthroughs rather than engineering spec]] | @aie | `-` |
-| 2026-10-13 | [[experiments/aie-2026-10-13-deterministic-flow-llm-boundary-finance|Draw an explicit determinism boundary: state-machine controls flow/side-effects, LLM only interprets]] | @aie | `-` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-deterministic-flow-llm-boundary-finance|Draw an explicit determinism boundary: state-machine controls flow/side-effects, LLM only interprets]] | @aie | `discard` |
 | 2026-10-13 | [[experiments/aie-2026-10-13-cma-multi-agent-map-reduce-sec|Implement a map-reduce agent pattern where a coordinator dispatches sub-agents per entity and aggregates results]] | @aie | `-` |
 | 2026-10-13 | [[experiments/aie-2026-10-13-cma-dreaming-memory-self-improvement|Run a 'dreaming' pass over recent session transcripts to update memory stores and improve skill instructions]] | @aie | `-` |
 | 2026-10-13 | [[experiments/aie-2026-10-13-claude-managed-agents-decoupled-harness|Decouple session log and harness from the sandbox container to make agents cattle not pets]] | @aie | `-` |
 | 2026-10-13 | [[experiments/aie-2026-10-13-auth-md-agent-signup|Implement auth.md (OMD) so agents can autonomously register for and access external services]] | @aie | `-` |
-| 2026-10-13 | [[experiments/aie-2026-10-13-agent-email-identity-persistent-inbox|Give agents a persistent email identity for two-way async communication with external services]] | @aie | `-` |
-| 2026-10-12 | [[experiments/nh-2026-10-12-claude-github-repos-workflow|Integrate Playwright CLI and Claude Security into the YOLO Loop Quality Gate]] | @nh | `-` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-agent-email-identity-persistent-inbox|Give agents a persistent email identity for two-way async communication with external services]] | @aie | `discard` |
+| 2026-10-12 | [[experiments/nh-2026-10-12-claude-github-repos-workflow|Integrate Playwright CLI and Claude Security into the YOLO Loop Quality Gate]] | @nh | `discard` |
 | 2026-10-12 | [[experiments/nb-2026-10-12-taste-agency-focus-resourcefulness-followthrou|Apply the Five-Skill Framework to Audit Backlog Projects]] | @nb | `-` |
-| 2026-10-10 | [[experiments/nh-2026-10-10-grokbot-native-x-search-migration|Migrate Grokbot X-search routines from paid API to built-in free X access]] | @nh | `-` |
-| 2026-10-10 | [[experiments/nh-2026-10-10-grokbot-cloud-code-cli-in-cloud-computer|Install Claude Code CLI inside a Grokbot cloud computer to get always-on agentic coding]] | @nh | `-` |
-| 2026-10-10 | [[experiments/eh-2026-10-10-gpt6-intelligent-ui-interactive-answers|Test GPT-6 Intelligent UI for generating interactive outputs instead of static text responses]] | @eh | `-` |
-| 2026-10-10 | [[experiments/eh-2026-10-10-claude-docs-decks-free-meeting-notes|Use Claude's free Docs/Decks feature to auto-generate slide decks from meeting notes]] | @eh | `-` |
+| 2026-10-10 | [[experiments/nh-2026-10-10-grokbot-native-x-search-migration|Migrate Grokbot X-search routines from paid API to built-in free X access]] | @nh | `discard` |
+| 2026-10-10 | [[experiments/nh-2026-10-10-grokbot-cloud-code-cli-in-cloud-computer|Install Claude Code CLI inside a Grokbot cloud computer to get always-on agentic coding]] | @nh | `discard` |
+| 2026-10-10 | [[experiments/eh-2026-10-10-gpt6-intelligent-ui-interactive-answers|Test GPT-6 Intelligent UI for generating interactive outputs instead of static text responses]] | @eh | `discard` |
+| 2026-10-10 | [[experiments/eh-2026-10-10-claude-docs-decks-free-meeting-notes|Use Claude's free Docs/Decks feature to auto-generate slide decks from meeting notes]] | @eh | `discard` |
 | 2026-10-10 | [[experiments/aie-2026-10-10-small-model-rl-finetuning-finance-agent|Fine-tune a 4B parameter model with RL on domain-specific tool-use data to outperform large generalist models]] | @aie | `-` |
 | 2026-10-10 | [[experiments/aie-2026-10-10-context-graph-sync-layer-for-agents|Build a tiered context graph with live MCP lookups for simple queries and synced vector cache for semantic/analytical queries]] | @aie | `-` |
 | 2026-10-10 | [[experiments/aie-2026-10-10-codify-agent-rules-as-linters-and-policies|Replace repeated agent re-prompting with custom linters and policy agents to enforce code quality deterministically]] | @aie | `-` |
-| 2026-10-10 | [[experiments/aie-2026-10-10-codex-app-server-custom-harness-client|Build a custom Codex harness client using the open-source App Server protocol for parallel agent threads and custom interfaces]] | @aie | `-` |
+| 2026-10-10 | [[experiments/aie-2026-10-10-codex-app-server-custom-harness-client|Build a custom Codex harness client using the open-source App Server protocol for parallel agent threads and custom interfaces]] | @aie | `discard` |
 | 2026-10-10 | [[experiments/aie-2026-10-10-cli-design-for-agents-olaf-and-skills|Redesign agent-facing CLIs to use non-interactive flags, small tool counts, and skills for progressive discovery]] | @aie | `-` |
 | 2026-10-10 | [[experiments/aie-2026-10-10-automated-pr-validation-agent-with-autofix-an|Add an agentic PR validation layer that auto-reviews, auto-fixes CI failures, and progressively unlocks auto-merge as trust is established]] | @aie | `-` |
 | 2026-10-10 | [[experiments/aie-2026-10-10-agent-memory-layer-with-typed-storage-and-fee|Implement a governed agent memory layer with typed facts, hybrid retrieval, and feedback scoring to eliminate repeated work across sessions]] | @aie | `-` |
-| 2026-10-09 | [[experiments/nh-2026-10-09-scheduled-doctor-self-cleaning|Schedule a monthly self-cleaning agent audit that proposes CLAUDE.md changes for human approval]] | @nh | `-` |
+| 2026-10-09 | [[experiments/nh-2026-10-09-scheduled-doctor-self-cleaning|Schedule a monthly self-cleaning agent audit that proposes CLAUDE.md changes for human approval]] | @nh | `discard` |
 | 2026-10-09 | [[experiments/nh-2026-10-09-minimal-context-claude|Run /doctor audit then delete 80%+ of Claude system prompt and CLAUDE.md rules]] | @nh | `-` |
 | 2026-10-09 | [[experiments/nb-2026-10-09-knowledge-work-data-value|Audit agent outputs to distinguish real work from performance of work]] | @nb | `-` |
 | 2026-10-09 | [[experiments/nb-2026-10-09-customer-obsession-benchmark|Replace leaderboard evals with a tracked personal use-case log as primary quality signal]] | @nb | `-` |
 | 2026-10-09 | [[experiments/mlops-2026-10-09-agent-npcs-mmo|Deploy always-on background agents as synthetic load testers for your agent harness]] | @mlops | `-` |
 | 2026-10-09 | [[experiments/eh-2026-10-09-parallel-scene-generation|Parallelize multi-part artifact generation with a single sequential plan step]] | @eh | `-` |
 | 2026-10-09 | [[experiments/aie-2026-10-09-procedural-memory-update-loop|Build a supervised procedural memory update pipeline that promotes trace-derived rule changes to human review before committing]] | @aie | `-` |
-| 2026-10-09 | [[experiments/aie-2026-10-09-mcp-legibility-agent-first|Rebuild MCP tools with scoped capabilities and human verification checkpoints instead of full API exposure]] | @aie | `-` |
+| 2026-10-09 | [[experiments/aie-2026-10-09-mcp-legibility-agent-first|Rebuild MCP tools with scoped capabilities and human verification checkpoints instead of full API exposure]] | @aie | `discard` |
 | 2026-10-09 | [[experiments/aie-2026-10-09-internal-app-platform-non-engineers|Build a CLI + catalog platform so non-engineers can deploy authenticated internal apps without engineer help]] | @aie | `-` |
 | 2026-10-09 | [[experiments/aie-2026-10-09-eval-flywheel-customer-signals|Implement an eval flywheel that ingests production failures into new eval scenarios weekly]] | @aie | `-` |
 | 2026-10-09 | [[experiments/aie-2026-10-09-environment-context-agent-briefing|Brief coding agents with live production observability context before they write or fix code]] | @aie | `-` |
 | 2026-10-09 | [[experiments/aie-2026-10-09-deterministic-harness-nondeterministic-llm|Separate agent reasoning from execution by compiling LLM plans into deterministic workflow graphs]] | @aie | `-` |
 | 2026-10-09 | [[experiments/aie-2026-10-09-context-graph-skill-distillation|Distill agent decision traces into versioned skills via a graph-based memory service]] | @aie | `-` |
 | 2026-10-09 | [[experiments/aie-2026-10-09-automattic-ai-enablement-cohorts|Run two-week immersive AI cohorts with 50% facilitated learning and 50% real project work]] | @aie | `-` |
-| 2026-10-09 | [[experiments/aie-2026-10-09-api-context-graph-coding-agents|Build an API context graph grounded in source code to give coding agents cross-service awareness]] | @aie | `-` |
+| 2026-10-09 | [[experiments/aie-2026-10-09-api-context-graph-coding-agents|Build an API context graph grounded in source code to give coding agents cross-service awareness]] | @aie | `discard` |
 | 2026-10-08 | [[experiments/mlops-2026-10-08-gcp-vertex-data-residency|Route Sensitive Workloads Through GCP Vertex as a Data-Residency Broker]] | @mlops | `-` |
 | 2026-10-08 | [[experiments/mlops-2026-10-08-ai-usage-observability-cost-tracking|Use AI to Hunt Its Own Cost-Saving Metrics Inside Your Observability Platform]] | @mlops | `-` |
-| 2026-10-08 | [[experiments/mk-2026-10-08-decisions-api-vs-jev-classifier|Benchmark OpenAI Decisions API vs Jev for Structured Classification Tasks]] | @mk | `-` |
+| 2026-10-08 | [[experiments/mk-2026-10-08-decisions-api-vs-jev-classifier|Benchmark OpenAI Decisions API vs Jev for Structured Classification Tasks]] | @mk | `discard` |
 | 2026-10-08 | [[experiments/mk-2026-10-08-claude-code-mod-codex-computer-use|Build a Claude Code Mod That Delegates Computer-Use Actions to Codex via MCP Bridge]] | @mk | `-` |
-| 2026-10-08 | [[experiments/eh-2026-10-08-instant-video-pipeline-claude-grok|Build a Real-Time Narrated Film Generator by Chaining Claude, Grok CLI, and Local TTS]] | @eh | `-` |
+| 2026-10-08 | [[experiments/eh-2026-10-08-instant-video-pipeline-claude-grok|Build a Real-Time Narrated Film Generator by Chaining Claude, Grok CLI, and Local TTS]] | @eh | `discard` |
 | 2026-10-08 | [[experiments/aie-2026-10-08-speculative-decoding-vllm-blackwell|Profile Speculative Decoding Acceptance Rate by Task Type to Decide Whether to Enable It]] | @aie | `-` |
 | 2026-10-08 | [[experiments/aie-2026-10-08-software-factory-incremental-agent-trust|Measure Software Factory Outcomes With Signal-to-Production Time and Cost-per-PR Instead of Token Usage]] | @aie | `-` |
 | 2026-10-08 | [[experiments/aie-2026-10-08-six-pillars-agentic-harness|Build a Multi-Agent Investigation Harness That Reasons Across Code, Infra, Observability, and Knowledge Bases]] | @aie | `-` |
 | 2026-10-08 | [[experiments/aie-2026-10-08-self-improving-skill-distillation-flywheel|Auto-Distill Successful Agent Runs Into Reusable Skills to Create a Self-Improving Org Flywheel]] | @aie | `-` |
 | 2026-10-08 | [[experiments/aie-2026-10-08-self-improving-oss-agent-stack|Run a Cron-Based Agent Loop That Mines Production Traces to Propose and Backtest Agent Improvements]] | @aie | `-` |
 | 2026-10-08 | [[experiments/aie-2026-10-08-sdlc-agent-maturity-operating-model|Implement Incremental Trust-Building Automation Gates From PR Review to Auto-Merge]] | @aie | `-` |
-| 2026-10-08 | [[experiments/aie-2026-10-08-hybrid-grep-embeddings-agent-retrieval|Add Hybrid Grep + Vector Search Toolset to Document-Heavy Agents to Replace Full-File Downloads]] | @aie | `-` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-hybrid-grep-embeddings-agent-retrieval|Add Hybrid Grep + Vector Search Toolset to Document-Heavy Agents to Replace Full-File Downloads]] | @aie | `discard` |
 | 2026-10-08 | [[experiments/aie-2026-10-08-harness-engineering-software-factory|Track Autonomy and Automation Separately as Leading Indicators on the Path to a Software Factory]] | @aie | `-` |
-| 2026-10-08 | [[experiments/aie-2026-10-08-gemini-sandbox-managed-agent|Run Agents in Isolated Remote Sandboxes via Gemini Interactions API to Eliminate Local Environment Conflicts]] | @aie | `-` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-gemini-sandbox-managed-agent|Run Agents in Isolated Remote Sandboxes via Gemini Interactions API to Eliminate Local Environment Conflicts]] | @aie | `discard` |
 | 2026-10-08 | [[experiments/aie-2026-10-08-eval-platform-systems-problem|Close the Production-to-Eval Loop by Letting Coding Agents Auto-Generate Eval Cases from Failure Traces]] | @aie | `-` |
 | 2026-10-08 | [[experiments/aie-2026-10-08-database-isolation-redundancy-agents|Give AI Agents Git-Branching Parity for Database Schema Changes with One-Click Revert]] | @aie | `-` |
 | 2026-10-08 | [[experiments/aie-2026-10-08-continuous-ai-pentesting|Add Continuous AI-Driven Pentest Step to CI/CD Pipeline for LLM-Generated Code]] | @aie | `-` |
 | 2026-10-08 | [[experiments/aie-2026-10-08-context-window-management-strands|Implement Sliding-Window + Summarization Context Management in Agent Loops Using Strands]] | @aie | `-` |
-| 2026-10-08 | [[experiments/aie-2026-10-08-ai-spend-pre-flight-entitlement-check|Implement Pre-Flight Entitlement Checks and Budget Reservation Before Agent Inference Calls]] | @aie | `-` |
-| 2026-10-08 | [[experiments/aie-2026-10-08-agent-to-agent-stateful-communication|Replace Manual Agent Message Routing With a Stateful Agent Communication Layer]] | @aie | `-` |
-| 2026-10-06 | [[experiments/nh-2026-10-06-teaching-rules-system-prompt|Encode Expert Teaching Rules as Mandatory Agent Behaviors to Fix AI's Explain-vs-Code Imbalance]] | @nh | `-` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-ai-spend-pre-flight-entitlement-check|Implement Pre-Flight Entitlement Checks and Budget Reservation Before Agent Inference Calls]] | @aie | `discard` |
+| 2026-10-08 | [[experiments/aie-2026-10-08-agent-to-agent-stateful-communication|Replace Manual Agent Message Routing With a Stateful Agent Communication Layer]] | @aie | `discard` |
+| 2026-10-06 | [[experiments/nh-2026-10-06-teaching-rules-system-prompt|Encode Expert Teaching Rules as Mandatory Agent Behaviors to Fix AI's Explain-vs-Code Imbalance]] | @nh | `discard` |
 | 2026-10-06 | [[experiments/nh-2026-10-06-karpathy-wiki-agent|Build a Domain-Expert Agent by Crawling Public Sources into a Structured Wiki]] | @nh | `-` |
 | 2026-10-05 | [[experiments/st-2026-10-05-claude-cowork-onboarding-workflow|Use Claude Projects (co-work mode) with a long back-and-forth session to generate a reusable workflow template from a single successful run]] | @st | `-` |
-| 2026-10-05 | [[experiments/nb-2026-10-05-agent-stack-layer-mapping|Map your AI workflow stack into four explicit layers: data, structured workflows, application interface, and agentic layer]] | @nb | `-` |
+| 2026-10-05 | [[experiments/nb-2026-10-05-agent-stack-layer-mapping|Map your AI workflow stack into four explicit layers: data, structured workflows, application interface, and agentic layer]] | @nb | `discard` |
 | 2026-10-05 | [[experiments/aie-2026-10-05-support-agent-dogfood-build|Build a domain-specific support agent using your own product's API to simultaneously dogfood the product and automate tier-1 support]] | @aie | `-` |
 | 2026-10-05 | [[experiments/aie-2026-10-05-prompt-memory-weights-routing|Audit every piece of knowledge in your agent system against a prompt/memory/weights decision matrix and fix misplaced artifacts]] | @aie | `-` |
 | 2026-10-05 | [[experiments/aie-2026-10-05-meta-tooling-runtime-tool-generation|Implement meta-tooling: give an agent an editor, shell, and load-tool primitive so it can write and register new tools at runtime without restart]] | @aie | `-` |
-| 2026-10-05 | [[experiments/aie-2026-10-05-human-async-api-durable-workflows|Implement durable workflow primitives (wait condition + signal) for human-in-the-loop steps in multi-agent pipelines]] | @aie | `-` |
+| 2026-10-05 | [[experiments/aie-2026-10-05-human-async-api-durable-workflows|Implement durable workflow primitives (wait condition + signal) for human-in-the-loop steps in multi-agent pipelines]] | @aie | `discard` |
 | 2026-10-05 | [[experiments/aie-2026-10-05-composio-mcp-agent-native-interface|Replace multi-dashboard workflows with a unified MCP layer that exposes agent-optimized tool interfaces with stateful search and context-saving]] | @aie | `-` |
 | 2026-10-05 | [[experiments/aie-2026-10-05-codebase-graph-for-agent-context|Build or integrate a codebase graph index as infrastructure context for coding agents operating on large repos]] | @aie | `-` |
 | 2026-10-05 | [[experiments/aie-2026-10-05-catalog-enrichment-for-agent-retrieval|Enrich structured knowledge artifacts (docs, specs, catalogs) with semantic attributes and buyer context before indexing for agent retrieval]] | @aie | `-` |
-| 2026-10-04 | [[experiments/nh-2026-10-04-voice-multi-agent-coordination|Use Voice Mode to Coordinate Multiple Concurrent Codex Threads Hands-Free]] | @nh | `-` |
+| 2026-10-04 | [[experiments/nh-2026-10-04-voice-multi-agent-coordination|Use Voice Mode to Coordinate Multiple Concurrent Codex Threads Hands-Free]] | @nh | `discard` |
 | 2026-10-04 | [[experiments/nh-2026-10-04-agents-md-routing-map|Build a Routing-Map agents.md to Eliminate Per-Session Context Re-Explanation]] | @nh | `-` |
 | 2026-10-04 | [[experiments/nb-2026-10-04-soul-61-cost-vs-capability-triage|Route Complex-but-Not-Frontier Tasks to GPT-6.1 Soul to Preserve Plan Quota]] | @nb | `-` |
 | 2026-10-04 | [[experiments/nb-2026-10-04-dots-agent-ongoing-responsibilities|Assign Ongoing Calendar and Scheduling Responsibilities to a Dots Agent]] | @nb | `-` |
 | 2026-10-04 | [[experiments/eh-2026-10-04-judgment-as-bottleneck-thought-experiment|Use High-Speed Generation to Produce a Star-Map of Options, Then Apply Human Judgment to Select]] | @eh | `-` |
 | 2026-10-04 | [[experiments/aie-2026-10-04-vscode-agents-md-accessibility-skill|Encode Domain Expert Knowledge as a Reusable Agent Skill to Unblock Specialist Review Bottlenecks]] | @aie | `-` |
-| 2026-10-04 | [[experiments/aie-2026-10-04-raspberry-pi-graph-agent-memory|Use a Local Graph Database as Agent Long-Term Memory with Offline Fallback]] | @aie | `-` |
+| 2026-10-04 | [[experiments/aie-2026-10-04-raspberry-pi-graph-agent-memory|Use a Local Graph Database as Agent Long-Term Memory with Offline Fallback]] | @aie | `discard` |
 | 2026-10-04 | [[experiments/aie-2026-10-04-microvm-sandbox-agent-isolation|Wrap All Agent Invocations in a MicroVM Sandbox to Prevent Host File System and Credential Exfiltration]] | @aie | `-` |
 | 2026-10-04 | [[experiments/aie-2026-10-04-llm-observability-cost-quality-safety|Add Cost, Safety, and Quality Metric Layers to Agent Observability Beyond Traditional Golden Signals]] | @aie | `-` |
 | 2026-10-04 | [[experiments/aie-2026-10-04-kv-cache-offload-gpu-memory|Implement KV Cache Offload from GPU to CPU Memory to Sustain 5-10x Inference Speedups Without Cache Eviction]] | @aie | `-` |
@@ -203,9 +220,9 @@ Ordered by published date, most recent first.
 | 2026-10-03 | [[experiments/eh-2026-10-03-branch-recursive-article-explorer|Build a Recursive Link-Following Research Tool That Traces Every Insight to Its Source]] | @eh | `-` |
 | 2026-10-03 | [[experiments/eh-2026-10-03-ai-security-culture-of-paranoia|Implement Least-Privilege + Immutable Evidence Logging for All Agentic Tool Calls]] | @eh | `-` |
 | 2026-10-03 | [[experiments/do-2026-10-03-model-selection-taste-benchmark|Build a Personal Model Benchmark Suite From Tasks You Actually Do]] | @do | `-` |
-| 2026-10-03 | [[experiments/aie-2026-10-03-traversal-causal-rca-five-levels|Replace Symptom-Correlation Alerting With Causal Graph Search for Production Incidents]] | @aie | `-` |
+| 2026-10-03 | [[experiments/aie-2026-10-03-traversal-causal-rca-five-levels|Replace Symptom-Correlation Alerting With Causal Graph Search for Production Incidents]] | @aie | `discard` |
 | 2026-10-03 | [[experiments/aie-2026-10-03-meticulous-screenshot-diff-verification|Replace Assertion-Based Frontend Tests With Screenshot-Diff Replay Tests Keyed to Code Coverage]] | @aie | `-` |
-| 2026-10-03 | [[experiments/aie-2026-10-03-local-vector-memory-for-ai-agents|Add Local Qdrant Vector Memory to Agent Loop]] | @aie | `-` |
+| 2026-10-03 | [[experiments/aie-2026-10-03-local-vector-memory-for-ai-agents|Add Local Qdrant Vector Memory to Agent Loop]] | @aie | `discard` |
 | 2026-10-03 | [[experiments/aie-2026-10-03-kimchi-model-routing-harness|Build an Automated Model-Routing Harness That Selects the Cheapest Model Meeting Quality Bar Per Task]] | @aie | `-` |
 | 2026-10-03 | [[experiments/aie-2026-10-03-exa-web-search-knowledge-cutoff|Add Explicit Web-Search Rules to Coding Agents for Dependency Bump and Breaking-Change Detection]] | @aie | `-` |
 | 2026-10-03 | [[experiments/aie-2026-10-03-datology-synthetic-data-rephrase|Use High-Quality Document Rephrasing to Generate Synthetic Fine-Tuning Data Instead of Free-Form Generation]] | @aie | `-` |
@@ -215,33 +232,33 @@ Ordered by published date, most recent first.
 | 2026-10-02 | [[experiments/nh-2026-10-02-codex-ultrafast-quality-cost-tradeoff|Compare Codex Ultrafast vs Standard on Output Quality per Unit of Weekly Usage]] | @nh | `-` |
 | 2026-10-02 | [[experiments/mlops-2026-10-02-caveman-prompting-benchmark|Benchmark the Quality Cliff of Minimal 'Caveman' Prompts]] | @mlops | `-` |
 | 2026-10-02 | [[experiments/eh-2026-10-02-sycophancy-reversal-prompting|Reduce AI Sycophancy by Inverting Opinion-Leading Prompt Patterns]] | @eh | `-` |
-| 2026-10-02 | [[experiments/eh-2026-10-02-overfitting-seven-levels-drift|Use Hierarchical 'Level' Prompting to Decompose Complex ML Concepts with an AI Research App]] | @eh | `-` |
+| 2026-10-02 | [[experiments/eh-2026-10-02-overfitting-seven-levels-drift|Use Hierarchical 'Level' Prompting to Decompose Complex ML Concepts with an AI Research App]] | @eh | `discard` |
 | 2026-10-02 | [[experiments/eh-2026-10-02-hidden-instruction-injection-test|Test Agent Susceptibility to Indirect Prompt Injection via Hidden Page Instructions]] | @eh | `-` |
 | 2026-10-02 | [[experiments/aie-2026-10-02-automated-review-harness-over-pr-review|Replace Line-by-Line PR Review with a Codified Automated Review Harness]] | @aie | `-` |
 | 2026-10-01 | [[experiments/nh-2026-10-01-openai-dots-vs-meta-muse|Evaluate OpenAI Dots and Meta Muse for Agentic Memory Integration]] | @nh | `-` |
 | 2026-10-01 | [[experiments/nb-2026-10-01-opus-55-benchmark-comparison|Benchmark Opus 5.5 Against Current Stack Models on Real Dev Tasks]] | @nb | `-` |
-| 2026-10-01 | [[experiments/mk-2026-10-01-openai-dots-honest-take|Stress-Test OpenAI Dots for Persistent Context in Multi-Session Dev Work]] | @mk | `-` |
-| 2026-10-01 | [[experiments/eh-2026-10-01-gemini-argon-capabilities|Evaluate Gemini Argon as an Alternative Backbone for Code Generation Tasks]] | @eh | `-` |
+| 2026-10-01 | [[experiments/mk-2026-10-01-openai-dots-honest-take|Stress-Test OpenAI Dots for Persistent Context in Multi-Session Dev Work]] | @mk | `discard` |
+| 2026-10-01 | [[experiments/eh-2026-10-01-gemini-argon-capabilities|Evaluate Gemini Argon as an Alternative Backbone for Code Generation Tasks]] | @eh | `discard` |
 | 2026-10-01 | [[experiments/eh-2026-10-01-codex-claude-code-tips|Adopt Top Codex and Claude Code Workflow Tricks Into the YOLO Loop]] | @eh | `-` |
 | 2026-10-01 | [[experiments/aie-2026-10-01-ai-software-dev-org-data|Audit Our AI Dev Tooling Against Industry Adoption Patterns from 400+ Org Dataset]] | @aie | `-` |
-| 2026-10-01 | [[experiments/aie-2026-10-01-agent-isolation-mcp-a2a|Prototype an Inter-Agent Communication Layer Beyond MCP and A2A]] | @aie | `-` |
-| 2026-09-30 | [[experiments/nb-2026-09-30-meta-muse-cost-savings|Assign a Repetitive Dev Task to an AI Agent and Audit for Hidden Savings]] | @nb | `-` |
+| 2026-10-01 | [[experiments/aie-2026-10-01-agent-isolation-mcp-a2a|Prototype an Inter-Agent Communication Layer Beyond MCP and A2A]] | @aie | `discard` |
+| 2026-09-30 | [[experiments/nb-2026-09-30-meta-muse-cost-savings|Assign a Repetitive Dev Task to an AI Agent and Audit for Hidden Savings]] | @nb | `discard` |
 | 2026-09-30 | [[experiments/mk-2026-09-30-gpt61-sol-vs-astra-comparison|Run a Head-to-Head Task Battery on GPT-6.1 Sol and Astra to Pick a Default Model]] | @mk | `-` |
-| 2026-09-30 | [[experiments/eh-2026-09-30-ai-misclassification-diagnosis|Deliberately Probe Model Misclassification to Expose Reasoning Failure Modes]] | @eh | `-` |
+| 2026-09-30 | [[experiments/eh-2026-09-30-ai-misclassification-diagnosis|Deliberately Probe Model Misclassification to Expose Reasoning Failure Modes]] | @eh | `discard` |
 | 2026-09-29 | [[experiments/nh-2026-09-29-sonnet-vs-opus-55-benchmark|Benchmark Sonnet 5.5 vs Opus 5.5 on Real Dev Tasks]] | @nh | `-` |
 | 2026-09-29 | [[experiments/nh-2026-09-29-gpt6-astra-stock-trading|Wire a Multimodal Agent to a Live Tool with Real Financial Stakes]] | @nh | `-` |
 | 2026-09-29 | [[experiments/eh-2026-09-29-question-to-knowledge-map|Build a Question-Expansion Graph to Surface Hidden Research Directions]] | @eh | `-` |
 | 2026-09-29 | [[experiments/eh-2026-09-29-cited-ai-insights-research-app|Add Inline Source Attribution to Every AI-Generated Insight]] | @eh | `-` |
 | 2026-09-27 | [[experiments/nh-2026-09-27-claude-code-dangerous-capability|Stress-test Claude Code on a complex autonomous coding task to benchmark current capability ceiling]] | @nh | `-` |
-| 2026-09-27 | [[experiments/nb-2026-09-27-fix-ai-bottleneck-team-shipping|Audit and remove human-review bottlenecks slowing AI-generated output]] | @nb | `-` |
-| 2026-09-27 | [[experiments/eh-2026-09-27-prompt-stop-ai-shortcuts|Test an anti-shortcut system prompt to force thorough AI reasoning]] | @eh | `-` |
+| 2026-09-27 | [[experiments/nb-2026-09-27-fix-ai-bottleneck-team-shipping|Audit and remove human-review bottlenecks slowing AI-generated output]] | @nb | `discard` |
+| 2026-09-27 | [[experiments/eh-2026-09-27-prompt-stop-ai-shortcuts|Test an anti-shortcut system prompt to force thorough AI reasoning]] | @eh | `discard` |
 | 2026-09-27 | [[experiments/do-2026-09-27-agentic-engineering-workflow-ex-apple|Adopt a structured agentic engineering workflow modeled on professional software practice]] | @do | `-` |
-| 2026-09-27 | [[experiments/aie-2026-09-27-software-factory-engineering-zach-lloyd|Reframe the dev loop as a production pipeline with throughput and yield metrics]] | @aie | `-` |
+| 2026-09-27 | [[experiments/aie-2026-09-27-software-factory-engineering-zach-lloyd|Reframe the dev loop as a production pipeline with throughput and yield metrics]] | @aie | `discard` |
 | 2026-09-27 | [[experiments/aie-2026-09-27-software-factories-self-improve-suraj-gupta|Add a self-improvement feedback loop that lets the agent pipeline update its own prompts and tools based on failure patterns]] | @aie | `-` |
 | 2026-09-27 | [[experiments/aie-2026-09-27-scale-judgment-not-model-reddit|Build a lightweight judgment layer that evaluates and routes agent outputs rather than scaling model size]] | @aie | `-` |
 | 2026-09-27 | [[experiments/aie-2026-09-27-orchestras-not-factories-charlie-holtz|Restructure multi-agent coordination as dynamic orchestration rather than fixed pipelines]] | @aie | `-` |
-| 2026-09-27 | [[experiments/aie-2026-09-27-not-a-software-factory-ryan-cooke|Identify where the software factory metaphor breaks down in your specific AI dev workflow]] | @aie | `-` |
-| 2026-09-27 | [[experiments/aie-2026-09-27-glm52-open-weights-frontier|Benchmark GLM-5.2 as a local/open-weight drop-in for coding agent tasks]] | @aie | `-` |
+| 2026-09-27 | [[experiments/aie-2026-09-27-not-a-software-factory-ryan-cooke|Identify where the software factory metaphor breaks down in your specific AI dev workflow]] | @aie | `discard` |
+| 2026-09-27 | [[experiments/aie-2026-09-27-glm52-open-weights-frontier|Benchmark GLM-5.2 as a local/open-weight drop-in for coding agent tasks]] | @aie | `discard` |
 | 2026-09-27 | [[experiments/aie-2026-09-27-get-out-of-models-way-kevin-hou|Reduce human micro-interventions in agent runs to test if less guidance yields better outcomes]] | @aie | `-` |
 | 2026-09-27 | [[experiments/aie-2026-09-27-coding-agents-strategy-game-ido-salomon|Use game-theoretic resource and role allocation to orchestrate multiple coding agents]] | @aie | `-` |
 | 2026-09-27 | [[experiments/aie-2026-09-27-build-software-factory-tereza-tizkova|Implement a task-decomposition and agent-dispatch layer modeled on factory production planning]] | @aie | `-` |
@@ -253,63 +270,63 @@ Ordered by published date, most recent first.
 | 2026-09-26 | [[experiments/aie-2026-09-26-self-improving-agent-wandb|Implement a Self-Improving Agent Loop Using Logged Traces as Training Signal]] | @aie | `-` |
 | 2026-09-26 | [[experiments/aie-2026-09-26-loop-is-the-product|Redesign Product Architecture So the Feedback Loop Itself Is the Core Deliverable]] | @aie | `-` |
 | 2026-09-26 | [[experiments/aie-2026-09-26-long-horizon-agents-need-experiments|Replace Ad-Hoc Prompt Tuning With Structured Experiment Tracking for Long-Horizon Agents]] | @aie | `-` |
-| 2026-09-26 | [[experiments/aie-2026-09-26-llm-recommender-consumer-app|Prototype an LLM-powered recommendation layer on top of existing content]] | @aie | `-` |
+| 2026-09-26 | [[experiments/aie-2026-09-26-llm-recommender-consumer-app|Prototype an LLM-powered recommendation layer on top of existing content]] | @aie | `discard` |
 | 2026-09-26 | [[experiments/aie-2026-09-26-gepa-reflection-beats-rl|Use GEPA-Style Reflection Loops to Optimize Agent Behavior Without RL]] | @aie | `-` |
 | 2026-09-26 | [[experiments/aie-2026-09-26-doordash-distill-llm-search|Distill LLM reasoning into a lightweight model for low-latency search ranking]] | @aie | `-` |
 | 2026-09-26 | [[experiments/aie-2026-09-26-claude-codex-vs-human-researchers|Benchmark AI Coding Agents Against Human Researchers on Real Research Tasks]] | @aie | `-` |
-| 2026-09-26 | [[experiments/aie-2026-09-26-autoresearch-3x-faster|Apply Automated Research Loops to Accelerate Model Iteration Cycles]] | @aie | `-` |
+| 2026-09-26 | [[experiments/aie-2026-09-26-autoresearch-3x-faster|Apply Automated Research Loops to Accelerate Model Iteration Cycles]] | @aie | `discard` |
 | 2026-09-26 | [[experiments/aie-2026-09-26-ai-research-agent-runs-experiments|Deploy a W&B-Instrumented AI Agent to Autonomously Execute and Log Research Experiments]] | @aie | `-` |
 | 2026-09-26 | [[experiments/aie-2026-09-26-ai-code-competing-with-humans|Measure AI vs. Human Code Quality on Production Codebases Using Greptile-Style Evaluation]] | @aie | `-` |
-| 2026-09-24 | [[experiments/nh-2026-09-24-opus-55-effort-levels|Sweep Opus 5.5 Effort Levels on a Fixed Task Suite to Find Cost-Quality Frontier]] | @nh | `-` |
+| 2026-09-24 | [[experiments/nh-2026-09-24-opus-55-effort-levels|Sweep Opus 5.5 Effort Levels on a Fixed Task Suite to Find Cost-Quality Frontier]] | @nh | `discard` |
 | 2026-09-24 | [[experiments/nb-2026-09-24-nvidia-robot-kitchen|Benchmark NVIDIA's Physical AI Stack Against a Real Kitchen Task]] | @nb | `-` |
 | 2026-09-24 | [[experiments/eh-2026-09-24-idea-to-map-app|Build a Single-Prompt-to-Mind-Map Generator Using LLM + Graph Rendering]] | @eh | `-` |
-| 2026-09-24 | [[experiments/aie-2026-09-24-skydio-one-operator-many-drones|Apply Skydio's 1:N Operator Pattern to AI Agent Supervision]] | @aie | `-` |
+| 2026-09-24 | [[experiments/aie-2026-09-24-skydio-one-operator-many-drones|Apply Skydio's 1:N Operator Pattern to AI Agent Supervision]] | @aie | `discard` |
 | 2026-09-24 | [[experiments/aie-2026-09-24-skild-ai-generalist-robot|Evaluate Generalist Agent Foundation Model vs. Task-Specific Fine-Tunes]] | @aie | `-` |
-| 2026-09-24 | [[experiments/aie-2026-09-24-moonlake-world-models-causality|Add Causal Structure to Agent World Model Representations]] | @aie | `-` |
+| 2026-09-24 | [[experiments/aie-2026-09-24-moonlake-world-models-causality|Add Causal Structure to Agent World Model Representations]] | @aie | `discard` |
 | 2026-09-24 | [[experiments/aie-2026-09-24-dyna-robotics-reliability|Define a Reliability Metric Beyond Demo Success Rate for Agent Pipelines]] | @aie | `-` |
-| 2026-09-24 | [[experiments/aie-2026-09-24-bright-data-video-for-physical-ai|Prototype a Targeted Video Data Pipeline for Task-Specific Robot Training]] | @aie | `-` |
+| 2026-09-24 | [[experiments/aie-2026-09-24-bright-data-video-for-physical-ai|Prototype a Targeted Video Data Pipeline for Task-Specific Robot Training]] | @aie | `discard` |
 | 2026-09-23 | [[experiments/nh-2026-09-23-opus55-vs-gpt6-sol-10-cases|Benchmark Opus 5.5 vs GPT-6 Sol Across 10 Real Tasks]] | @nh | `-` |
 | 2026-09-23 | [[experiments/nh-2026-09-23-opus55-vs-gpt6-astra-12-cases|Benchmark Opus 5.5 vs GPT-6 Astra Across Diverse Real Tasks]] | @nh | `-` |
-| 2026-09-23 | [[experiments/mk-2026-09-23-build-jev-claude-opus55|Build a Persistent Persona Agent (Jev-style) Using Claude Opus 5.5]] | @mk | `-` |
+| 2026-09-23 | [[experiments/mk-2026-09-23-build-jev-claude-opus55|Build a Persistent Persona Agent (Jev-style) Using Claude Opus 5.5]] | @mk | `discard` |
 | 2026-09-23 | [[experiments/aij-2026-09-23-gpt6-hyperframe-expert-videos|Combine GPT-6 with Hyperframe to Generate Expert-Quality Video Content]] | @aij | `-` |
 | 2026-09-23 | [[experiments/aie-2026-09-23-vlm-vla-embodied-agents-perceptron|Extend VLM/VLA Architectures Into Embodied Agent Control Loops]] | @aie | `-` |
 | 2026-09-23 | [[experiments/aie-2026-09-23-skills-layer-vlm-deployment-huggingface|Wrap VLMs in a Skills Layer Instead of Deploying Raw Models]] | @aie | `-` |
 | 2026-09-23 | [[experiments/aie-2026-09-23-models-reason-like-toddlers-elorian|Audit Frontier Model Reasoning Failures Using Toddler-Style Edge Cases]] | @aie | `-` |
-| 2026-09-23 | [[experiments/aie-2026-09-23-modality-misalignment-short-form-video-meta|Detect Modality Misalignment in Multimodal AI Outputs for Quality Gating]] | @aie | `-` |
-| 2026-09-23 | [[experiments/aie-2026-09-23-food-systems-ai-agents-firecrawl|Use Firecrawl-Powered Agents to Orchestrate Large-Scale Domain Data Pipelines]] | @aie | `-` |
-| 2026-09-23 | [[experiments/aie-2026-09-23-document-intelligence-agents-reducto|Build a Document Intelligence Pipeline from Ingestion to Agent Actions Using Reducto]] | @aie | `-` |
+| 2026-09-23 | [[experiments/aie-2026-09-23-modality-misalignment-short-form-video-meta|Detect Modality Misalignment in Multimodal AI Outputs for Quality Gating]] | @aie | `discard` |
+| 2026-09-23 | [[experiments/aie-2026-09-23-food-systems-ai-agents-firecrawl|Use Firecrawl-Powered Agents to Orchestrate Large-Scale Domain Data Pipelines]] | @aie | `discard` |
+| 2026-09-23 | [[experiments/aie-2026-09-23-document-intelligence-agents-reducto|Build a Document Intelligence Pipeline from Ingestion to Agent Actions Using Reducto]] | @aie | `discard` |
 | 2026-09-23 | [[experiments/aie-2026-09-23-document-context-layer-agents-llamaindex|Implement a Dedicated Document Context Layer Between Agents and Raw Documents]] | @aie | `-` |
-| 2026-09-23 | [[experiments/aie-2026-09-23-ai-embodied-physical-form-mit-media-lab|Ground an AI Agent in Physical Embodiment to Improve Spatial Reasoning]] | @aie | `-` |
+| 2026-09-23 | [[experiments/aie-2026-09-23-ai-embodied-physical-form-mit-media-lab|Ground an AI Agent in Physical Embodiment to Improve Spatial Reasoning]] | @aie | `discard` |
 | 2026-09-23 | [[experiments/aie-2026-09-23-3b-state-space-vision-model-sarvam|Train a 3B State-Space Vision Model from Scratch to SOTA]] | @aie | `-` |
-| 2026-09-22 | [[experiments/nh-2026-09-22-codex-build-and-sell|Use OpenAI Codex as Primary Code-Generation Backend in Dev Loop]] | @nh | `-` |
+| 2026-09-22 | [[experiments/nh-2026-09-22-codex-build-and-sell|Use OpenAI Codex as Primary Code-Generation Backend in Dev Loop]] | @nh | `discard` |
 | 2026-09-22 | [[experiments/nb-2026-09-22-codex-computer-ownership|Audit Codex Agent Permissions and Sandboxing Boundaries]] | @nb | `-` |
-| 2026-09-22 | [[experiments/nb-2026-09-22-ai-cant-write-developer-frustration|Benchmark AI Code Agents on Documentation and Comment Writing Quality]] | @nb | `-` |
+| 2026-09-22 | [[experiments/nb-2026-09-22-ai-cant-write-developer-frustration|Benchmark AI Code Agents on Documentation and Comment Writing Quality]] | @nb | `discard` |
 | 2026-09-22 | [[experiments/mlops-2026-09-22-split-prompt-token-reduction|Test Prompt Splitting to Reduce Token Consumption]] | @mlops | `-` |
-| 2026-09-22 | [[experiments/aij-2026-09-22-jev-treg-automation-combo|Combine Jev and Treg Tools for Multi-Step Automation Pipelines]] | @aij | `-` |
-| 2026-09-22 | [[experiments/aie-2026-09-22-vertical-mobility-inference-scaling|Design Inference Infrastructure with Vertical Scaling Headroom from Day One]] | @aie | `-` |
-| 2026-09-22 | [[experiments/aie-2026-09-22-skill-engineering-dark-arts|Apply Skill Engineering Techniques to Modularize Agent Capabilities]] | @aie | `-` |
+| 2026-09-22 | [[experiments/aij-2026-09-22-jev-treg-automation-combo|Combine Jev and Treg Tools for Multi-Step Automation Pipelines]] | @aij | `discard` |
+| 2026-09-22 | [[experiments/aie-2026-09-22-vertical-mobility-inference-scaling|Design Inference Infrastructure with Vertical Scaling Headroom from Day One]] | @aie | `discard` |
+| 2026-09-22 | [[experiments/aie-2026-09-22-skill-engineering-dark-arts|Apply Skill Engineering Techniques to Modularize Agent Capabilities]] | @aie | `discard` |
 | 2026-09-20 | [[experiments/nb-2026-09-20-ambitious-low-token|Reduce token costs with targeted prompt and context compression strategies]] | @nb | `-` |
 | 2026-09-20 | [[experiments/aie-2026-09-20-whats-new-inference-engineering|Audit current inference stack against latest inference engineering best practices]] | @aie | `-` |
 | 2026-09-20 | [[experiments/aie-2026-09-20-vllm-bugs-plain-sight|Add vLLM-specific observability probes to catch silent inference correctness bugs]] | @aie | `-` |
 | 2026-09-20 | [[experiments/aie-2026-09-20-llm-routing-production|Implement signal-driven LLM routing to balance cost and quality across loop steps]] | @aie | `-` |
 | 2026-09-20 | [[experiments/aie-2026-09-20-llm-benchmark-reliability|Replace reliance on public LLM benchmarks with task-specific internal evals for model selection]] | @aie | `-` |
 | 2026-09-20 | [[experiments/aie-2026-09-20-large-clusters-small-models|Scale embedding/small-model inference horizontally to unlock throughput gains]] | @aie | `-` |
-| 2026-09-20 | [[experiments/aie-2026-09-20-friendli-agent-inference|Evaluate agent-optimized inference endpoints vs. generic LLM APIs for loop latency]] | @aie | `-` |
+| 2026-09-20 | [[experiments/aie-2026-09-20-friendli-agent-inference|Evaluate agent-optimized inference endpoints vs. generic LLM APIs for loop latency]] | @aie | `discard` |
 | 2026-09-20 | [[experiments/aie-2026-09-20-distributed-inference-meta|Apply Meta's distributed inference operational patterns to multi-replica self-hosted setups]] | @aie | `-` |
 | 2026-09-19 | [[experiments/nh-2026-09-19-jev-chrome-extension-tweet-classifier|Use Jev as a real-time stream classifier inside a Chrome extension to label content on screen]] | @nh | `-` |
 | 2026-09-19 | [[experiments/nh-2026-09-19-codex-skill-reverse-engineering|Reverse-engineer a desired output into a Codex skill file using the BIKE feedback loop]] | @nh | `-` |
 | 2026-09-19 | [[experiments/mk-2026-09-19-jev-llm-judge-replacement|Replace LLM-as-judge quality-control checks with Jev binary/multi-choice classifiers to eliminate hallucinated verdicts and compounding judge errors]] | @mk | `-` |
 | 2026-09-19 | [[experiments/eh-2026-09-19-astra-creative-prompt-sequence|Use a multi-message prompt sequence with in-thinking sampling and random selection to force Astra into diverse creative outputs]] | @eh | `-` |
 | 2026-09-19 | [[experiments/do-2026-09-19-jev-lead-qualification-app|Build a Jev-powered lead qualification form that returns real-time scored decisions]] | @do | `-` |
-| 2026-09-19 | [[experiments/aie-2026-09-19-weight-folding-cuda-streams|Audit custom CUDA kernel implementations for weight-folding and stream-ordering bugs that silently corrupt model outputs]] | @aie | `-` |
+| 2026-09-19 | [[experiments/aie-2026-09-19-weight-folding-cuda-streams|Audit custom CUDA kernel implementations for weight-folding and stream-ordering bugs that silently corrupt model outputs]] | @aie | `discard` |
 | 2026-09-19 | [[experiments/aie-2026-09-19-agent-memory-harness-engineering|Build an agent memory harness that persists and retrieves task-relevant context across YOLO loop iterations]] | @aie | `-` |
-| 2026-09-18 | [[experiments/nh-2026-09-18-higgsfield-api-codex-integration|Connect Higgsfield Video/Image API to Codex via .env Skill for Pay-Per-Use Generation]] | @nh | `-` |
+| 2026-09-18 | [[experiments/nh-2026-09-18-higgsfield-api-codex-integration|Connect Higgsfield Video/Image API to Codex via .env Skill for Pay-Per-Use Generation]] | @nh | `discard` |
 | 2026-09-18 | [[experiments/nh-2026-09-18-agent-report-card-qas|Build an AI Agent QA Stress-Tester with Claude]] | @nh | `-` |
 | 2026-09-17 | [[experiments/nb-2026-09-17-agent-wallet-trust-budget|Give an agent a scoped wallet with a hard spend limit for routine purchases]] | @nb | `-` |
 | 2026-09-17 | [[experiments/nb-2026-09-17-agent-fraud-pre-transaction|Instrument agent sessions to detect pre-transaction token theft before payment calls]] | @nb | `-` |
 | 2026-09-17 | [[experiments/do-2026-09-17-agent-prompts-human-yes-no|Invert the prompt direction: let the agent surface action proposals and humans approve with yes/no]] | @do | `-` |
 | 2026-09-17 | [[experiments/aie-2026-09-17-homa-tail-latency-inference|Benchmark Homa vs TCP tail latency for small coordination messages in a multi-node inference setup]] | @aie | `-` |
-| 2026-09-16 | [[experiments/nh-2026-09-16-grokbot-agentmail-inbox|Give AI Agents Their Own Email Address via AgentMail to Enable Webhook-Triggered Workflows]] | @nh | `-` |
+| 2026-09-16 | [[experiments/nh-2026-09-16-grokbot-agentmail-inbox|Give AI Agents Their Own Email Address via AgentMail to Enable Webhook-Triggered Workflows]] | @nh | `discard` |
 | 2026-09-16 | [[experiments/nh-2026-09-16-codex-to-triggerdev-automations|Offload Codex-Built Automations to Trigger.dev to Preserve Usage Quota]] | @nh | `-` |
 | 2026-09-16 | [[experiments/mk-2026-09-16-ollama-codex-cheaper-models|Route Routine Codex Tasks to Local or Cheap Cloud Models via Ollama to Reduce Token Spend]] | @mk | `-` |
 | 2026-09-16 | [[experiments/aie-2026-09-16-turbopuffer-cold-index-cost|Use a Storage-First Vector DB (turbopuffer) for Long-Tail Cold Indexes to Cut Search Infrastructure Cost]] | @aie | `-` |
@@ -317,137 +334,137 @@ Ordered by published date, most recent first.
 | 2026-09-16 | [[experiments/aie-2026-09-16-pinecone-nexus-knowledge-layer|Build a Persistent Company Knowledge Layer to Give Agents Tribal Knowledge, Not Just Document Retrieval]] | @aie | `-` |
 | 2026-09-16 | [[experiments/aie-2026-09-16-neatron-table-extraction|Use a Purpose-Built VLM for Table Extraction from Documents Instead of Generic OCR]] | @aie | `-` |
 | 2026-09-16 | [[experiments/aie-2026-09-16-multi-chunk-size-rr|Index Documents at Multiple Chunk Sizes and Fuse Results with RRF to Improve RAG Recall by 20-40%]] | @aie | `-` |
-| 2026-09-16 | [[experiments/aie-2026-09-16-mcp-apps-agentic-web|Query the Aura Directory for Agent-Ready MCP and API Resources Instead of Relying on Web Search]] | @aie | `-` |
+| 2026-09-16 | [[experiments/aie-2026-09-16-mcp-apps-agentic-web|Query the Aura Directory for Agent-Ready MCP and API Resources Instead of Relying on Web Search]] | @aie | `discard` |
 | 2026-09-16 | [[experiments/aie-2026-09-16-knowledge-agent-parallel-searchers|Decompose Complex Queries into Parallel Sub-Queries via Specialist Searcher Agents to Close the Oracle Gap]] | @aie | `-` |
-| 2026-09-16 | [[experiments/aie-2026-09-16-exa-neural-search-agents|Replace Keyword-Based Web Search with Neural Search (Exa) for Agent External Lookups]] | @aie | `-` |
+| 2026-09-16 | [[experiments/aie-2026-09-16-exa-neural-search-agents|Replace Keyword-Based Web Search with Neural Search (Exa) for Agent External Lookups]] | @aie | `discard` |
 | 2026-09-16 | [[experiments/aie-2026-09-16-bm25-agentic-search-primitive|Expose BM25 as an Explicit Tool Primitive to Coding Agents Alongside Semantic Search]] | @aie | `-` |
 | 2026-09-15 | [[experiments/nb-2026-09-15-device-vs-agent-trust-split|Audit which parts of our AI dev loop accumulate irreplaceable user context and assess switching cost]] | @nb | `-` |
-| 2026-09-15 | [[experiments/nb-2026-09-15-ambient-intelligence-no-arms-race|Reframe AI roadmap around ambient/commoditized intelligence rather than frontier-only dependency]] | @nb | `-` |
+| 2026-09-15 | [[experiments/nb-2026-09-15-ambient-intelligence-no-arms-race|Reframe AI roadmap around ambient/commoditized intelligence rather than frontier-only dependency]] | @nb | `discard` |
 | 2026-09-15 | [[experiments/aij-2026-09-15-ai-ugc-workflow|Build an agent-driven UGC video pipeline using Kling 2.5 + fish audio + Track for $2-3 per clip]] | @aij | `-` |
 | 2026-09-15 | [[experiments/aie-2026-09-15-voice-agent-speech-to-action-modes|Design voice agent interactions around three distinct modes (speech-to-speech, speech-to-action, event-to-speech) and use GPT Realtime 2 with preambles for tool-calling latency management]] | @aie | `-` |
-| 2026-09-15 | [[experiments/aie-2026-09-15-voice-agent-red-teaming-monitoring|Implement pre-deployment adversarial red-teaming + continuous per-call monitoring loop for voice agents before production launch]] | @aie | `-` |
+| 2026-09-15 | [[experiments/aie-2026-09-15-voice-agent-red-teaming-monitoring|Implement pre-deployment adversarial red-teaming + continuous per-call monitoring loop for voice agents before production launch]] | @aie | `discard` |
 | 2026-09-15 | [[experiments/aie-2026-09-15-voice-agent-failure-modes-production|Add a TTS normalization layer between LLM output and speech synthesis to prevent production pronunciation failures]] | @aie | `-` |
 | 2026-09-15 | [[experiments/aie-2026-09-15-tolan-voice-companion-engineering|Implement a tone-routing classifier to dynamically select model tier per conversation turn based on emotional stakes, not cost]] | @aie | `-` |
 | 2026-09-15 | [[experiments/aie-2026-09-15-streaming-speculative-transcriber|Implement streaming speculative transcription + background tool-calling + TTS prefix caching to minimize voice agent latency]] | @aie | `-` |
 | 2026-09-15 | [[experiments/aie-2026-09-15-linguistic-framework-voice-agent|Audit voice agent pipeline against a six-component linguistic framework (sounds/words/interaction × listen/speak) to find failure layers]] | @aie | `-` |
-| 2026-09-15 | [[experiments/aie-2026-09-15-hybrid-speech-to-speech-architecture|Prototype a hybrid voice architecture: small full-duplex on-device speech interface delegating to a background text LLM for reasoning]] | @aie | `-` |
-| 2026-09-15 | [[experiments/aie-2026-09-15-gemini-speech-to-speech-research|Evaluate Gemini natively multimodal speech-to-speech API for real-time translation and proactive audio features in production voice agent pipeline]] | @aie | `-` |
+| 2026-09-15 | [[experiments/aie-2026-09-15-hybrid-speech-to-speech-architecture|Prototype a hybrid voice architecture: small full-duplex on-device speech interface delegating to a background text LLM for reasoning]] | @aie | `discard` |
+| 2026-09-15 | [[experiments/aie-2026-09-15-gemini-speech-to-speech-research|Evaluate Gemini natively multimodal speech-to-speech API for real-time translation and proactive audio features in production voice agent pipeline]] | @aie | `discard` |
 | 2026-09-15 | [[experiments/aie-2026-09-15-act-confirm-stop-decision-model|Add a confidence-threshold decision layer (Act / Confirm / Stop) to agent actions to reduce user ouch without changing model accuracy]] | @aie | `-` |
 | 2026-09-14 | [[experiments/aie-2026-09-14-vercel-eve-agent-files|Build a File-Based Agent Harness with Company-Specific Domain Knowledge]] | @aie | `-` |
 | 2026-09-14 | [[experiments/aie-2026-09-14-tokens-have-jobs|Test Advise/Grade/Dream Token Strategies Against a Pure Execution Baseline on Fixed Budget]] | @aie | `-` |
-| 2026-09-14 | [[experiments/aie-2026-09-14-restate-durable-agents|Add Durable Execution Infrastructure to Long-Running Agents Using Restate]] | @aie | `-` |
+| 2026-09-14 | [[experiments/aie-2026-09-14-restate-durable-agents|Add Durable Execution Infrastructure to Long-Running Agents Using Restate]] | @aie | `discard` |
 | 2026-09-14 | [[experiments/aie-2026-09-14-posthog-warlock-security|Build a Deterministic Content Scanner (Warlock) as a Security Layer Around Agents with Shell Access]] | @aie | `-` |
 | 2026-09-14 | [[experiments/aie-2026-09-14-oracle-agent-memory|Add a Shared Database-Backed Memory Broker to Multi-Agent or Multi-Developer Workflows]] | @aie | `-` |
 | 2026-09-14 | [[experiments/aie-2026-09-14-loophole-adversarial-agents|Use Adversarial Agent Pairs to Find Contradictions in System Rules or Policy Documents]] | @aie | `-` |
-| 2026-09-14 | [[experiments/aie-2026-09-14-aws-harness-engineering|Deploy a Composable Agent Harness with Managed Memory and Runtime Using Amazon Bedrock Agent Core]] | @aie | `-` |
+| 2026-09-14 | [[experiments/aie-2026-09-14-aws-harness-engineering|Deploy a Composable Agent Harness with Managed Memory and Runtime Using Amazon Bedrock Agent Core]] | @aie | `discard` |
 | 2026-09-14 | [[experiments/aie-2026-09-14-agents-as-files|Replace Python Agent Orchestration with Markdown Skill Files]] | @aie | `-` |
 | 2026-09-13 | [[experiments/nh-2026-09-13-skill-self-verification-personas|Embed Multi-Persona Sub-Agent Review Loop Inside Skills Before Output Surfaces to Human]] | @nh | `-` |
 | 2026-09-13 | [[experiments/nh-2026-09-13-skill-based-agent-architecture|Replace Monolithic Agents with Skill-Based Architecture Using Progressive Disclosure]] | @nh | `-` |
 | 2026-09-13 | [[experiments/nh-2026-09-13-ai-risk-10pct|Implement Embedded Third-Party Evaluators for AI Safety Auditing]] | @nh | `-` |
-| 2026-09-13 | [[experiments/mk-2026-09-13-3d-immersive-learning-world-astra-blender|Use Astra + Blender Plugin to Auto-Generate Hosted 3D Interactive Learning Environments from a Topic Brief]] | @mk | `-` |
+| 2026-09-13 | [[experiments/mk-2026-09-13-3d-immersive-learning-world-astra-blender|Use Astra + Blender Plugin to Auto-Generate Hosted 3D Interactive Learning Environments from a Topic Brief]] | @mk | `discard` |
 | 2026-09-12 | [[experiments/do-2026-09-12-deferred-tool-loading|Implement Deferred Tool Loading via Interleaved System Messages]] | @do | `-` |
 | 2026-09-12 | [[experiments/do-2026-09-12-bash-first-agentic-harness|Replace Custom Tool Calls with Bash-First Agent Harness]] | @do | `-` |
 | 2026-09-11 | [[experiments/nh-2026-09-11-skill-decay-rotation|Audit and Prune Agent Skills Every Six Months to Prevent Harness Bloat]] | @nh | `-` |
-| 2026-09-11 | [[experiments/nh-2026-09-11-harness-over-model-loyalty|Decouple Agent Harness from Model Provider to Enable Swappable Brains]] | @nh | `-` |
+| 2026-09-11 | [[experiments/nh-2026-09-11-harness-over-model-loyalty|Decouple Agent Harness from Model Provider to Enable Swappable Brains]] | @nh | `discard` |
 | 2026-09-11 | [[experiments/nb-2026-09-11-omarchy-scoped-agent-desktop-changes|Run Scoped Agent Tasks Against Documented OS Configuration Handles]] | @nb | `-` |
-| 2026-09-11 | [[experiments/aie-2026-09-11-architecture-first-agent-coding|Shift Agent Coding Review to Architecture Decisions Before Code Generation]] | @aie | `-` |
+| 2026-09-11 | [[experiments/aie-2026-09-11-architecture-first-agent-coding|Shift Agent Coding Review to Architecture Decisions Before Code Generation]] | @aie | `discard` |
 | 2026-09-10 | [[experiments/nb-2026-09-10-open-multiagent-repo-message-board|Coordinate Cross-Model Multi-Agent Work via Shared Repo and Message Board]] | @nb | `-` |
-| 2026-09-10 | [[experiments/nb-2026-09-10-dual-model-clipboard-comparison|Run Identical Prompts Across Two Models to Surface Divergent Design Solutions]] | @nb | `-` |
+| 2026-09-10 | [[experiments/nb-2026-09-10-dual-model-clipboard-comparison|Run Identical Prompts Across Two Models to Surface Divergent Design Solutions]] | @nb | `discard` |
 | 2026-09-10 | [[experiments/mlops-2026-09-10-forged-chain-of-thought-injection|Test Forged Chain-of-Thought Injection Against Your Agent's Tool-Output Boundary]] | @mlops | `-` |
-| 2026-09-10 | [[experiments/aie-2026-09-10-tldraw-agent-canvas-spatial-coordination|Use an Infinite Canvas as a Multiplayer Multi-Agent Coordination and Visualization Layer]] | @aie | `-` |
+| 2026-09-10 | [[experiments/aie-2026-09-10-tldraw-agent-canvas-spatial-coordination|Use an Infinite Canvas as a Multiplayer Multi-Agent Coordination and Visualization Layer]] | @aie | `discard` |
 | 2026-09-10 | [[experiments/aie-2026-09-10-prefab-generative-ui-python-mcp|Stream Agent-Generated UI via MCP Apps to Bypass Context-Window Bottleneck]] | @aie | `-` |
 | 2026-09-10 | [[experiments/aie-2026-09-10-mousepower-agent-task-uncertainty-matrix|Score Agent Tasks on Step-Uncertainty vs Acceptance-Criteria-Uncertainty Before Assigning to Agents]] | @aie | `-` |
 | 2026-09-10 | [[experiments/aie-2026-09-10-impeccable-adjective-driven-design-iteration|Inject Design-System-Aware Context into Coding Harnesses to Steer Aesthetic Output via Natural Language Commands]] | @aie | `-` |
 | 2026-09-10 | [[experiments/aie-2026-09-10-deterministic-design-code-roundtrip-guardrail|Add Deterministic Drift-Detection Guardrails to Catch Design-Code Divergence Before Merge]] | @aie | `-` |
 | 2026-09-10 | [[experiments/aie-2026-09-10-design-system-first-agent-scale|Establish a Locked Design System Foundation Before Delegating Deliverables to Agents]] | @aie | `-` |
 | 2026-09-10 | [[experiments/aie-2026-09-10-brand-api-slop-prevention|Extract Structured Brand Constraints from a URL and Inject as Agent Context to Reduce Style Drift]] | @aie | `-` |
-| 2026-09-09 | [[experiments/do-2026-09-09-run-open-weights-agent-offline|Run a fully offline multi-agent loop using Frontier Agent + 35B open weights model]] | @do | `-` |
+| 2026-09-09 | [[experiments/do-2026-09-09-run-open-weights-agent-offline|Run a fully offline multi-agent loop using Frontier Agent + 35B open weights model]] | @do | `discard` |
 | 2026-09-09 | [[experiments/aie-2026-09-09-rlm-recursive-language-model-pattern|Prototype an RLM (Recursive Language Model) pattern for long-context document processing tasks]] | @aie | `-` |
 | 2026-09-09 | [[experiments/aie-2026-09-09-relational-context-engine-beyond-rag|Build a relational context engine that lets agents query structured repo/team data, not just RAG chunks]] | @aie | `-` |
 | 2026-09-09 | [[experiments/aie-2026-09-09-mcp-toolbox-authenticated-parameters|Use MCP Toolbox authenticated parameters to bind user identity to DB tools without exposing PII to the agent]] | @aie | `-` |
 | 2026-09-09 | [[experiments/aie-2026-09-09-mcp-apps-data-first-rendering|Separate data-fetch tools from render tools in MCP apps so the model can filter before displaying]] | @aie | `-` |
 | 2026-09-09 | [[experiments/aie-2026-09-09-linkedin-contextual-agent-playbooks|Replace direct MCP tool exposure with three meta-tools (search, get-schema, execute) to scale to 1,300+ tools without context overload]] | @aie | `-` |
 | 2026-09-09 | [[experiments/aie-2026-09-09-ifscale-instruction-following-ceiling|Benchmark our skills files against IFScale to find the real instruction-following ceiling for our chosen model]] | @aie | `-` |
-| 2026-09-09 | [[experiments/aie-2026-09-09-acp-universal-agent-client-protocol|Implement ACP (Agent Client Protocol) transport so any client can drive any harness]] | @aie | `-` |
+| 2026-09-09 | [[experiments/aie-2026-09-09-acp-universal-agent-client-protocol|Implement ACP (Agent Client Protocol) transport so any client can drive any harness]] | @aie | `discard` |
 | 2026-09-08 | [[experiments/nh-2026-09-08-codex-hyperframes-ai-video-editing|Use Codex + Hyperframes to edit long-form video via natural language prompts]] | @nh | `-` |
 | 2026-09-08 | [[experiments/mk-2026-09-08-astra-effort-level-benchmark|Benchmark Astra effort levels (low/medium/high/max/ultra) on an identical multi-step research-and-build task]] | @mk | `-` |
 | 2026-09-08 | [[experiments/eh-2026-09-08-deep-talk-buddy-interrupting-ai|Build a conversational AI that interrupts with reflective reframes mid-thought]] | @eh | `-` |
-| 2026-09-08 | [[experiments/aie-2026-09-08-llm-inference-at-scale-workshop|Build a structured decision framework for selecting LLM serving engines based on use-case constraints]] | @aie | `-` |
+| 2026-09-08 | [[experiments/aie-2026-09-08-llm-inference-at-scale-workshop|Build a structured decision framework for selecting LLM serving engines based on use-case constraints]] | @aie | `discard` |
 | 2026-09-07 | [[experiments/nh-2026-09-07-astra-stock-trader-scheduled-agents|Chain Stateless Scheduled Agents with a Shared Progress Log for Continuous Autonomous Operation]] | @nh | `-` |
-| 2026-09-07 | [[experiments/nh-2026-09-07-aios-second-brain-four-cs|Build a Four-C AI Operating System (Context, Connections, Capabilities, Cadence) as a Persistent Knowledge Base for Agents]] | @nh | `-` |
-| 2026-09-07 | [[experiments/nb-2026-09-07-astra-admin-recipe-cards|Build a Manager-Agent Recipe Card to Orchestrate Multi-Step Admin Tasks]] | @nb | `-` |
+| 2026-09-07 | [[experiments/nh-2026-09-07-aios-second-brain-four-cs|Build a Four-C AI Operating System (Context, Connections, Capabilities, Cadence) as a Persistent Knowledge Base for Agents]] | @nh | `discard` |
+| 2026-09-07 | [[experiments/nb-2026-09-07-astra-admin-recipe-cards|Build a Manager-Agent Recipe Card to Orchestrate Multi-Step Admin Tasks]] | @nb | `discard` |
 | 2026-09-06 | [[experiments/nh-2026-09-06-astra-vs-fable-15-use-cases|Run identical task prompts through Astra and Fable 5.1 and score output quality, time, and cost per use-case category]] | @nh | `-` |
 | 2026-09-06 | [[experiments/nb-2026-09-06-standing-job-agent-governance|Define a standing-job governance checklist before deploying a long-running agent]] | @nb | `-` |
-| 2026-09-06 | [[experiments/nb-2026-09-06-astra-autonomous-knowledge-system|Hand Astra a raw data dump and let it self-direct a personal knowledge system]] | @nb | `-` |
-| 2026-09-05 | [[experiments/nh-2026-09-05-voice-delegated-codex-personal-os|Use Astra Voice Mode to Delegate Parallel Codex Threads via Project Context]] | @nh | `-` |
+| 2026-09-06 | [[experiments/nb-2026-09-06-astra-autonomous-knowledge-system|Hand Astra a raw data dump and let it self-direct a personal knowledge system]] | @nb | `discard` |
+| 2026-09-05 | [[experiments/nh-2026-09-05-voice-delegated-codex-personal-os|Use Astra Voice Mode to Delegate Parallel Codex Threads via Project Context]] | @nh | `discard` |
 | 2026-09-05 | [[experiments/nh-2026-09-05-astra-browser-website-scrollcraft|Inject Inspiration URLs and a Layering Skill Prompt into Astra for One-Shot Premium Web UI Generation]] | @nh | `-` |
 | 2026-09-05 | [[experiments/mk-2026-09-05-computer-use-mcp-install-test|Automate MCP Server Install and First-Run Testing via Astra Computer Use]] | @mk | `-` |
 | 2026-09-05 | [[experiments/mk-2026-09-05-computer-use-cli-from-browser|Use Astra Computer Use Once to Generate a Reusable CLI for API-less Tools]] | @mk | `-` |
 | 2026-09-04 | [[experiments/nh-2026-09-04-fable51-vs-fable5-agentic-app-build|Benchmark Fable 5.1 vs Fable 5 as orchestrators in a multi-agent app-build workflow on identical prompts]] | @nh | `-` |
-| 2026-09-04 | [[experiments/nh-2026-09-04-astra-end-to-end-video-production|Prompt GPT-6 Astra to autonomously produce a finished YouTube video end-to-end from a single open-ended brief]] | @nh | `-` |
-| 2026-09-04 | [[experiments/nb-2026-09-04-low-effort-dcf-model-deck|Run Claude on 'low' effort setting for knowledge-work financial modeling to benchmark cost-quality tradeoff]] | @nb | `-` |
+| 2026-09-04 | [[experiments/nh-2026-09-04-astra-end-to-end-video-production|Prompt GPT-6 Astra to autonomously produce a finished YouTube video end-to-end from a single open-ended brief]] | @nh | `discard` |
+| 2026-09-04 | [[experiments/nb-2026-09-04-low-effort-dcf-model-deck|Run Claude on 'low' effort setting for knowledge-work financial modeling to benchmark cost-quality tradeoff]] | @nb | `discard` |
 | 2026-09-04 | [[experiments/nb-2026-09-04-claude-blender-architectural-film|Use Claude + Blender tool-use to generate an architectural walkthrough film from a property address]] | @nb | `-` |
 | 2026-09-04 | [[experiments/aie-2026-09-04-minimax-sparse-attention-long-context-agents|Evaluate MiniMax M3's 1M-token sparse attention context for long-horizon multi-round agentic tasks]] | @aie | `-` |
-| 2026-09-03 | [[experiments/aie-2026-09-03-zo-personal-cloud-agent-hosting|Host your personal agent and its dependent services on a single self-owned cloud node]] | @aie | `-` |
-| 2026-09-03 | [[experiments/aie-2026-09-03-twosigma-xlm-agent-header-attribution|Add an X-LLM-Agent HTTP header to all agent-initiated requests for audit attribution]] | @aie | `-` |
+| 2026-09-03 | [[experiments/aie-2026-09-03-zo-personal-cloud-agent-hosting|Host your personal agent and its dependent services on a single self-owned cloud node]] | @aie | `discard` |
+| 2026-09-03 | [[experiments/aie-2026-09-03-twosigma-xlm-agent-header-attribution|Add an X-LLM-Agent HTTP header to all agent-initiated requests for audit attribution]] | @aie | `discard` |
 | 2026-09-03 | [[experiments/aie-2026-09-03-twosigma-agent-runs-as-user-identity|Run agents as the requesting user's identity via per-user Kubernetes namespaces and a sidecar credential injector]] | @aie | `-` |
 | 2026-09-03 | [[experiments/aie-2026-09-03-town-low-sensitivity-auto-zone|Define an explicit low-sensitivity data zone where agents can share context without human approval]] | @aie | `-` |
 | 2026-09-03 | [[experiments/aie-2026-09-03-promptql-no-stored-credentials|Inject user credentials at the HTTP/SQL layer instead of storing them in the agent sandbox]] | @aie | `-` |
 | 2026-09-03 | [[experiments/aie-2026-09-03-promptql-company-brain-update-rate|Track daily update rate of your shared knowledge base as a health metric]] | @aie | `-` |
 | 2026-09-03 | [[experiments/aie-2026-09-03-composio-sandbox-reversibility|Add a sandbox dry-run gate before irreversible agent actions]] | @aie | `-` |
-| 2026-09-03 | [[experiments/aie-2026-09-03-composio-knowledge-work-six-primitives|Audit your agent stack against the six knowledge-work primitives]] | @aie | `-` |
+| 2026-09-03 | [[experiments/aie-2026-09-03-composio-knowledge-work-six-primitives|Audit your agent stack against the six knowledge-work primitives]] | @aie | `discard` |
 | 2026-09-02 | [[experiments/nh-2026-09-02-scrollcraft-verification-loop|Add Screenshot-Based Visual Verification Loop to UI Generation Tasks]] | @nh | `-` |
 | 2026-09-02 | [[experiments/nh-2026-09-02-fable-orchestrator-no-build|Prompt Fable 5.1 as Pure Orchestrator — Spin Sub-Agents, Never Build Directly]] | @nh | `-` |
-| 2026-09-02 | [[experiments/nh-2026-09-02-fable-effort-level-matching|Match Fable 5.1 Effort Level to Task Complexity to Reduce Token Burn]] | @nh | `-` |
+| 2026-09-02 | [[experiments/nh-2026-09-02-fable-effort-level-matching|Match Fable 5.1 Effort Level to Task Complexity to Reduce Token Burn]] | @nh | `discard` |
 | 2026-09-02 | [[experiments/nb-2026-09-02-multi-provider-memory-portability|Store Memory and Context Outside Any Single AI Provider]] | @nb | `-` |
-| 2026-09-02 | [[experiments/mk-2026-09-02-fable51-system-prompt-analysis|Classify and Tier Memories by Sensitivity to Improve Agent Context Hygiene]] | @mk | `-` |
+| 2026-09-02 | [[experiments/mk-2026-09-02-fable51-system-prompt-analysis|Classify and Tier Memories by Sensitivity to Improve Agent Context Hygiene]] | @mk | `discard` |
 | 2026-09-02 | [[experiments/do-2026-09-02-vps-cloud-agent-hosting|Run Persistent Agentic Sessions on a Self-Hosted VPS to Escape Ecosystem Lock-In]] | @do | `-` |
 | 2026-09-02 | [[experiments/do-2026-09-02-priority-queue-agent-orchestration|Implement a Priority Queue (Coral) for Multi-Agent Response Ordering]] | @do | `-` |
 | 2026-09-01 | [[experiments/nh-2026-09-01-reward-hacking-eval-harness|Add reward-hacking detection to agentic eval harnesses]] | @nh | `-` |
-| 2026-09-01 | [[experiments/nh-2026-09-01-grokbot-cold-outreach-agent|Wire a Grokbot Agent to Clay for Daily Automated Cold Outreach]] | @nh | `-` |
+| 2026-09-01 | [[experiments/nh-2026-09-01-grokbot-cold-outreach-agent|Wire a Grokbot Agent to Clay for Daily Automated Cold Outreach]] | @nh | `discard` |
 | 2026-09-01 | [[experiments/nh-2026-09-01-grokbot-agent-team-setup|Build a Grokbot Leadership Team with Specialized Sub-Agents]] | @nh | `-` |
 | 2026-09-01 | [[experiments/nh-2026-09-01-grokbot-agent-org-chart|Implement an org-chart agent hierarchy with executive routing bots]] | @nh | `-` |
 | 2026-09-01 | [[experiments/nh-2026-09-01-claude-fable-51-cost-benchmark|Benchmark Claude Fable 5.1 cost-per-task against Fable 5 on real agentic workloads]] | @nh | `-` |
 | 2026-09-01 | [[experiments/nb-2026-09-01-local-vs-cloud-ai-bet|Build a local-vs-cloud task router for AI workloads]] | @nb | `-` |
 | 2026-09-01 | [[experiments/mk-2026-09-01-grokbot-model-router|Build a Grokbot Router to Swap Underlying LLM Provider Per Agent]] | @mk | `-` |
 | 2026-09-01 | [[experiments/aie-2026-09-01-x402-rough-edges-agi-interface|Expose paid tool APIs via an agent-readable markdown interface (AGI endpoint) instead of versioned REST APIs]] | @aie | `-` |
-| 2026-09-01 | [[experiments/aie-2026-09-01-x402-aws-edge-paywall-monetization|Wrap content API endpoints with x402 paywalls at the CDN/edge layer without changing origin infrastructure]] | @aie | `-` |
-| 2026-09-01 | [[experiments/aie-2026-09-01-ucp-merchant-capabilities-manifest|Publish a merchant capabilities manifest and structured catalog to make a service agent-commerce ready]] | @aie | `-` |
+| 2026-09-01 | [[experiments/aie-2026-09-01-x402-aws-edge-paywall-monetization|Wrap content API endpoints with x402 paywalls at the CDN/edge layer without changing origin infrastructure]] | @aie | `discard` |
+| 2026-09-01 | [[experiments/aie-2026-09-01-ucp-merchant-capabilities-manifest|Publish a merchant capabilities manifest and structured catalog to make a service agent-commerce ready]] | @aie | `discard` |
 | 2026-09-01 | [[experiments/aie-2026-09-01-multimodal-fuzzy-intent-shopping-loop|Implement a three-phase discovery-research-response loop for agents handling fuzzy user intent]] | @aie | `-` |
-| 2026-09-01 | [[experiments/aie-2026-09-01-intent-driven-ux-component-hierarchy|Encode UX layout rules as a slot hierarchy for AI-generated interfaces]] | @aie | `-` |
-| 2026-09-01 | [[experiments/aie-2026-09-01-duna-agentic-identity-registry|Register agents under a DUNA for open-internet identity and trust]] | @aie | `-` |
-| 2026-09-01 | [[experiments/aie-2026-09-01-circle-agent-wallet-nanopayments|Equip a Claude Code agent with a Circle USDC wallet and benchmark task completion on paywalled resources]] | @aie | `-` |
-| 2026-09-01 | [[experiments/aie-2026-09-01-agent-payment-compliance-screening|Gate agent payment execution behind wallet-address compliance screening]] | @aie | `-` |
+| 2026-09-01 | [[experiments/aie-2026-09-01-intent-driven-ux-component-hierarchy|Encode UX layout rules as a slot hierarchy for AI-generated interfaces]] | @aie | `discard` |
+| 2026-09-01 | [[experiments/aie-2026-09-01-duna-agentic-identity-registry|Register agents under a DUNA for open-internet identity and trust]] | @aie | `discard` |
+| 2026-09-01 | [[experiments/aie-2026-09-01-circle-agent-wallet-nanopayments|Equip a Claude Code agent with a Circle USDC wallet and benchmark task completion on paywalled resources]] | @aie | `discard` |
+| 2026-09-01 | [[experiments/aie-2026-09-01-agent-payment-compliance-screening|Gate agent payment execution behind wallet-address compliance screening]] | @aie | `discard` |
 | 2026-09-01 | [[experiments/aie-2026-09-01-agent-authorization-stakes-matrix|Apply a stakes-and-evidence matrix to classify agent actions and required authorization proof]] | @aie | `-` |
-| 2026-08-30 | [[experiments/st-2026-08-30-four-stage-ai-adoption-roadmap|Run a four-stage AI adoption audit (Foundation → Activation → Adoption → Expansion) before adding new agent capabilities]] | @st | `-` |
-| 2026-08-30 | [[experiments/nb-2026-08-30-define-passing-conditions-before-agent-deploy|Define explicit passing conditions tied to business metrics before deploying any agent]] | @nb | `-` |
-| 2026-08-30 | [[experiments/aie-2026-08-30-omni-flash-multimodal-input-video-output-api|Prototype an automated video post-production pipeline using Gemini Omni Flash API (multimodal-in, video-out)]] | @aie | `-` |
-| 2026-08-29 | [[experiments/nh-2026-08-29-managed-hermes-agent-setup|Deploy a managed Hermes agent via Hostinger and connect it to Telegram for persistent pocket-agent access]] | @nh | `-` |
+| 2026-08-30 | [[experiments/st-2026-08-30-four-stage-ai-adoption-roadmap|Run a four-stage AI adoption audit (Foundation → Activation → Adoption → Expansion) before adding new agent capabilities]] | @st | `discard` |
+| 2026-08-30 | [[experiments/nb-2026-08-30-define-passing-conditions-before-agent-deploy|Define explicit passing conditions tied to business metrics before deploying any agent]] | @nb | `discard` |
+| 2026-08-30 | [[experiments/aie-2026-08-30-omni-flash-multimodal-input-video-output-api|Prototype an automated video post-production pipeline using Gemini Omni Flash API (multimodal-in, video-out)]] | @aie | `discard` |
+| 2026-08-29 | [[experiments/nh-2026-08-29-managed-hermes-agent-setup|Deploy a managed Hermes agent via Hostinger and connect it to Telegram for persistent pocket-agent access]] | @nh | `discard` |
 | 2026-08-29 | [[experiments/nh-2026-08-29-codex-saas-clone-cost-analysis|Use a capped Codex subscription to build internal SaaS clones and measure real token cost vs. subscription value]] | @nh | `-` |
 | 2026-08-29 | [[experiments/nb-2026-08-29-friction-maxing-multi-model-loop|Route every AI output through at least two competing models before accepting it]] | @nb | `-` |
 | 2026-08-29 | [[experiments/nb-2026-08-29-agent-confidence-disclosure-test|Add a mandatory environment-access disclosure step to every new agent onboarding]] | @nb | `-` |
 | 2026-08-29 | [[experiments/do-2026-08-29-local-ai-hardware-stack|Replace cloud inference API calls with a local GPU node for sensitive or high-volume workloads]] | @do | `-` |
 | 2026-08-29 | [[experiments/aie-2026-08-29-trusted-throughput-token-roi|Instrument a per-team token-usage dashboard as a smoke detector and define 'trusted throughput' as the primary ROI metric]] | @aie | `-` |
-| 2026-08-29 | [[experiments/aie-2026-08-29-strands-robot-agentic-layer|Wrap hardware tool calls in an AWS Strands agentic layer to enable natural-language orchestration of physical devices]] | @aie | `-` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-strands-robot-agentic-layer|Wrap hardware tool calls in an AWS Strands agentic layer to enable natural-language orchestration of physical devices]] | @aie | `discard` |
 | 2026-08-29 | [[experiments/aie-2026-08-29-sop-to-agent-translation-loop|Build a refinement loop that translates human SOPs into agent-executable SOP corpus and measures correction rate over time]] | @aie | `-` |
 | 2026-08-29 | [[experiments/aie-2026-08-29-skills-registry-governance|Create a centralized skills registry with governance and static evaluation against framework best practices to standardize agent behavior across teams]] | @aie | `-` |
-| 2026-08-29 | [[experiments/aie-2026-08-29-six-month-infra-review-cycle|Establish a mandatory six-month agent infrastructure review cycle gated by eval-set regression tests]] | @aie | `-` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-six-month-infra-review-cycle|Establish a mandatory six-month agent infrastructure review cycle gated by eval-set regression tests]] | @aie | `discard` |
 | 2026-08-29 | [[experiments/aie-2026-08-29-signal-layer-distortion-check|Add a signal-distortion check before any AI-generated external communication is published]] | @aie | `-` |
 | 2026-08-29 | [[experiments/aie-2026-08-29-longlake-software-service-codesign|Embed AI Agents Natively Into Existing Operator Workflows to Drive Adoption]] | @aie | `-` |
 | 2026-08-29 | [[experiments/aie-2026-08-29-lean4-formal-verification-spec-first|Use Lean4 Spec-First Workflow to Formally Verify Agent-Generated Code]] | @aie | `-` |
 | 2026-08-29 | [[experiments/aie-2026-08-29-figma-tdd-agent-verification|Prompt Coding Agents to Write Tests First (TDD-Style) Before Implementation]] | @aie | `-` |
 | 2026-08-29 | [[experiments/aie-2026-08-29-enterprise-ai-readiness-entitlements|Audit and fix entitlement models before deploying agents to prevent 100x amplification of permission boundary failures]] | @aie | `-` |
 | 2026-08-29 | [[experiments/aie-2026-08-29-distributed-systems-agent-guardrails|Apply distributed-systems patterns (idempotency, scoped credentials, circuit breakers, explicit transactions) to every agent tool call]] | @aie | `-` |
-| 2026-08-29 | [[experiments/aie-2026-08-29-amazon-frontier-dev-parallel-agents|Run Multiple Coding Agents in Parallel on a Backlog to Achieve Step-Function Productivity]] | @aie | `-` |
-| 2026-08-29 | [[experiments/aie-2026-08-29-air-gapped-ai-data-diode|Use a one-way data diode plus Apache Iceberg time-travel to create a physically secure, court-defensible AI inference system]] | @aie | `-` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-amazon-frontier-dev-parallel-agents|Run Multiple Coding Agents in Parallel on a Backlog to Achieve Step-Function Productivity]] | @aie | `discard` |
+| 2026-08-29 | [[experiments/aie-2026-08-29-air-gapped-ai-data-diode|Use a one-way data diode plus Apache Iceberg time-travel to create a physically secure, court-defensible AI inference system]] | @aie | `discard` |
 | 2026-08-29 | [[experiments/aie-2026-08-29-agentic-site-model-eval-latency|Run continuous Promptfoo evals across multiple LLM providers to select the fastest model that meets accuracy thresholds for latency-sensitive agentic tasks]] | @aie | `-` |
 | 2026-08-29 | [[experiments/aie-2026-08-29-agent-runtime-skills-context|Structure agent context as composable skill units with progressive disclosure to control context window bloat]] | @aie | `-` |
-| 2026-08-27 | [[experiments/nh-2026-08-27-claude-code-vs-codex-design-benchmark|Run identical prompts through Claude Code and Codex and compare output tokens, cost, and quality]] | @nh | `-` |
+| 2026-08-27 | [[experiments/nh-2026-08-27-claude-code-vs-codex-design-benchmark|Run identical prompts through Claude Code and Codex and compare output tokens, cost, and quality]] | @nh | `discard` |
 | 2026-08-27 | [[experiments/nb-2026-08-27-verifiable-domain-agent-first|Prioritize agent deployment on verifiable-output tasks first]] | @nb | `-` |
 | 2026-08-27 | [[experiments/nb-2026-08-27-stripe-openrouter-token-economy|Route agent tasks through OpenRouter to benchmark cost and model selection at scale]] | @nb | `-` |
 | 2026-08-27 | [[experiments/nb-2026-08-27-agent-work-overhead-tracking|Track human overhead per agent run to quantify management tax]] | @nb | `-` |
-| 2026-08-27 | [[experiments/mk-2026-08-27-grokbot-multi-agent-architecture-rebuild|Implement per-agent mailbox messaging with priority interrupts in a custom multi-agent harness]] | @mk | `-` |
-| 2026-08-27 | [[experiments/mk-2026-08-27-grokbot-auto-approval-tiering|Build a tiered auto-approval layer that learns from repeated agent action patterns]] | @mk | `-` |
+| 2026-08-27 | [[experiments/mk-2026-08-27-grokbot-multi-agent-architecture-rebuild|Implement per-agent mailbox messaging with priority interrupts in a custom multi-agent harness]] | @mk | `discard` |
+| 2026-08-27 | [[experiments/mk-2026-08-27-grokbot-auto-approval-tiering|Build a tiered auto-approval layer that learns from repeated agent action patterns]] | @mk | `discard` |
 | 2026-08-27 | [[experiments/aie-2026-08-27-snowflake-gtm-quality-over-coverage|Define a 150-question test suite before deploying an agent and enforce 95% accuracy on a subset before expanding coverage]] | @aie | `-` |
 | 2026-08-27 | [[experiments/aie-2026-08-27-ramp-intent-to-multichannel-orchestration|Build vertical single-channel agent automations first, then compose them into multi-channel orchestration]] | @aie | `-` |
 | 2026-08-27 | [[experiments/aie-2026-08-27-oxylabs-scraper-api-agent-web-access|Replace browser automation with lightweight scraper APIs for agent web discovery and use browser only for interactive steps]] | @aie | `-` |
@@ -459,28 +476,28 @@ Ordered by published date, most recent first.
 | 2026-08-27 | [[experiments/aie-2026-08-27-clay-gtm-data-waterfalling|Implement waterfall data enrichment across multiple providers to maximize field coverage for agent context]] | @aie | `-` |
 | 2026-08-27 | [[experiments/aie-2026-08-27-agent-advocate-devrel-evals|Point a coding agent at your docs and generate an agent experience report]] | @aie | `-` |
 | 2026-08-25 | [[experiments/nh-2026-08-25-grill-me-prompt-expertise-extraction|Use a 'grill me' prompt to extract domain expertise before building an AI agent]] | @nh | `-` |
-| 2026-08-25 | [[experiments/nh-2026-08-25-diagnose-kpi-value-proof|Identify the constraint first, pick a KPI before building, price on proven value]] | @nh | `-` |
+| 2026-08-25 | [[experiments/nh-2026-08-25-diagnose-kpi-value-proof|Identify the constraint first, pick a KPI before building, price on proven value]] | @nh | `discard` |
 | 2026-08-25 | [[experiments/aij-2026-08-25-event-loop-trigger-pattern|Replace human-triggered agent prompts with event-based or goal-based loop triggers]] | @aij | `-` |
 | 2026-08-25 | [[experiments/aij-2026-08-25-control-graph-sop-for-agents|Replace ad-hoc agent prompting with a control graph (SOP as code) for reliable multi-step workflows]] | @aij | `-` |
-| 2026-08-25 | [[experiments/aie-2026-08-25-einstein-arena-environment-design|Design agent environments with leaderboards, verifiers, and peer visibility instead of fixed workflows]] | @aie | `-` |
+| 2026-08-25 | [[experiments/aie-2026-08-25-einstein-arena-environment-design|Design agent environments with leaderboards, verifiers, and peer visibility instead of fixed workflows]] | @aie | `discard` |
 | 2026-08-24 | [[experiments/nh-2026-08-24-vault-verification-pipeline|Add a pre-flight verification prompt that cites sources and flags low-confidence claims]] | @nh | `-` |
-| 2026-08-24 | [[experiments/nh-2026-08-24-deepseek-harness-vs-claude-code|Run the same vague prompt through Deepseek Harness and Claude Code to benchmark output quality and confidence calibration]] | @nh | `-` |
+| 2026-08-24 | [[experiments/nh-2026-08-24-deepseek-harness-vs-claude-code|Run the same vague prompt through Deepseek Harness and Claude Code to benchmark output quality and confidence calibration]] | @nh | `discard` |
 | 2026-08-24 | [[experiments/nh-2026-08-24-agent-draft-not-send|Gate all irreversible agent actions behind a draft/approval step before execution]] | @nh | `-` |
-| 2026-08-23 | [[experiments/nb-2026-08-23-fte-workflow-leverage-mapping|Map a Real Workflow to Find High-Leverage AI Insertion Points]] | @nb | `-` |
+| 2026-08-23 | [[experiments/nb-2026-08-23-fte-workflow-leverage-mapping|Map a Real Workflow to Find High-Leverage AI Insertion Points]] | @nb | `discard` |
 | 2026-08-23 | [[experiments/mk-2026-08-23-personal-agent-comparison-framework|Evaluate Personal Agent Platforms Against a Shared Capability Matrix Before Switching]] | @mk | `-` |
-| 2026-08-22 | [[experiments/nh-2026-08-22-scrollcraft-skill|Build a ScrollCraft design skill plugin for Claude Code]] | @nh | `-` |
+| 2026-08-22 | [[experiments/nh-2026-08-22-scrollcraft-skill|Build a ScrollCraft design skill plugin for Claude Code]] | @nh | `discard` |
 | 2026-08-22 | [[experiments/nh-2026-08-22-free-models-claude-code|Route Claude Code through OpenRouter to use free or cheap models]] | @nh | `-` |
-| 2026-08-22 | [[experiments/aie-2026-08-22-warp-cloud-agent-platform|Design cloud agent sandboxes with bring-your-own-infrastructure and multi-harness support]] | @aie | `-` |
+| 2026-08-22 | [[experiments/aie-2026-08-22-warp-cloud-agent-platform|Design cloud agent sandboxes with bring-your-own-infrastructure and multi-harness support]] | @aie | `discard` |
 | 2026-08-22 | [[experiments/aie-2026-08-22-token-ops-control-plane|Implement a run-level token budget control plane with steer-before-halt policies]] | @aie | `-` |
 | 2026-08-22 | [[experiments/aie-2026-08-22-team-agent-enablement|Redirect skeptic engineers from fixing agent output to improving agent context and harness]] | @aie | `-` |
 | 2026-08-22 | [[experiments/aie-2026-08-22-model-routing-preferences|Configure task-specific model routing rules to cut inference cost 3x without quality loss]] | @aie | `-` |
 | 2026-08-22 | [[experiments/aie-2026-08-22-clinical-ai-eval-loop|Build an evolving per-output judge that assembles context from expert corrections rather than a static rubric]] | @aie | `-` |
 | 2026-08-22 | [[experiments/aie-2026-08-22-chip-design-shared-nervous-system|Use a living intent graph as single source of truth with human-in-the-loop approval for agent modifications]] | @aie | `-` |
-| 2026-08-22 | [[experiments/aie-2026-08-22-agent-frameworks-yaml-first|Define background agents in Markdown/YAML with cron+event triggers instead of framework code]] | @aie | `-` |
+| 2026-08-22 | [[experiments/aie-2026-08-22-agent-frameworks-yaml-first|Define background agents in Markdown/YAML with cron+event triggers instead of framework code]] | @aie | `discard` |
 | 2026-08-22 | [[experiments/aie-2026-08-22-agent-budget-primitives|Enforce agent safety via asymmetric verbs, rate limits, trip-wires, and proxy-stamped identity]] | @aie | `-` |
 | 2026-08-21 | [[experiments/nh-2026-08-21-claude-marketing-team-higsfield|Build a Claude Code project with brand guidelines and reusable skill files to generate consistent marketing assets via Higsfield]] | @nh | `-` |
 | 2026-08-21 | [[experiments/nb-2026-08-21-glm53-in-claude-code-cost-routing|Route bounded coding tasks to GLM 5.3 inside Claude Code to reduce model costs]] | @nb | `-` |
-| 2026-08-21 | [[experiments/aie-2026-08-21-uber-agentic-sdlc-inner-outer-loop|Implement inner-loop vs outer-loop agent quality checks with a PR-attached evidence table to build reviewer confidence in autonomous diffs]] | @aie | `-` |
+| 2026-08-21 | [[experiments/aie-2026-08-21-uber-agentic-sdlc-inner-outer-loop|Implement inner-loop vs outer-loop agent quality checks with a PR-attached evidence table to build reviewer confidence in autonomous diffs]] | @aie | `discard` |
 | 2026-08-21 | [[experiments/aie-2026-08-21-hallmark-slop-gates-design-skill|Encode an anti-slop design ruleset and curated visual references into agents.md to improve AI-generated UI quality]] | @aie | `-` |
 | 2026-08-21 | [[experiments/aie-2026-08-21-context-engine-over-mcp|Add a pre-synthesis context layer between raw MCP data sources and the agent to reduce hallucinations from missing organizational knowledge]] | @aie | `-` |
 | 2026-08-20 | [[experiments/nh-2026-08-20-five-in-demand-ai-automations-2026|Build a domain-specific lead qualification workflow with human handoff and measurable CRM output]] | @nh | `-` |
@@ -489,58 +506,58 @@ Ordered by published date, most recent first.
 | 2026-08-20 | [[experiments/do-2026-08-20-agentic-engineering-session-startup-hook|Implement a session startup hook that primes agent as senior engineer]] | @do | `-` |
 | 2026-08-20 | [[experiments/do-2026-08-20-agentic-engineering-markdown-context|Invest more time in markdown context files than in code execution]] | @do | `-` |
 | 2026-08-20 | [[experiments/aie-2026-08-20-qodo-ai-code-review-context-codification|Codify team-specific coding standards and tribal knowledge as structured context for automated PR review]] | @aie | `-` |
-| 2026-08-20 | [[experiments/aie-2026-08-20-huggingface-research-outreach-agent|Build a deterministic agent workflow with a single CLI tool to automate repetitive research outreach at scale]] | @aie | `-` |
+| 2026-08-20 | [[experiments/aie-2026-08-20-huggingface-research-outreach-agent|Build a deterministic agent workflow with a single CLI tool to automate repetitive research outreach at scale]] | @aie | `discard` |
 | 2026-08-20 | [[experiments/aie-2026-08-20-fine-tuning-vs-context-engineering-lease-end|Replace fine-tuned intent classification with context-rich skills and system prompts on a frontier model]] | @aie | `-` |
 | 2026-08-20 | [[experiments/aie-2026-08-20-docker-agent-scoped-sandbox-runtime|Run agents inside scoped sandboxes with least-privilege access to limit blast radius]] | @aie | `-` |
 | 2026-08-20 | [[experiments/aie-2026-08-20-decawork-agent-identity-lifecycle|Model agents as managed workers with identity, short-lived capability tokens, and audit receipts]] | @aie | `-` |
-| 2026-08-20 | [[experiments/aie-2026-08-20-cto-prototyping-overnight-agent-runs|Use overnight agent runs with expanding task scope to ship 2–10 PRs per week within a meeting-heavy schedule]] | @aie | `-` |
+| 2026-08-20 | [[experiments/aie-2026-08-20-cto-prototyping-overnight-agent-runs|Use overnight agent runs with expanding task scope to ship 2–10 PRs per week within a meeting-heavy schedule]] | @aie | `discard` |
 | 2026-08-20 | [[experiments/aie-2026-08-20-compound-engineering-overnight-task-scope|Run the 'boring middle' (plan/work/review) unsupervised overnight and review output in morning]] | @aie | `-` |
 | 2026-08-20 | [[experiments/aie-2026-08-20-compound-engineering-memory-system|Build a compounding memory system that extracts and stores learnings from every agent interaction]] | @aie | `-` |
 | 2026-08-20 | [[experiments/aie-2026-08-20-braintrust-eval-flywheel-architecture-generat|Rebuild evals in parallel with every major agent architecture change and use production data to surface novel failure modes]] | @aie | `-` |
-| 2026-08-19 | [[experiments/nh-2026-08-19-grokbot-chief-of-staff-pattern|Implement a chief-of-staff agent that delegates to specialist sub-agents instead of routing tasks manually]] | @nh | `-` |
+| 2026-08-19 | [[experiments/nh-2026-08-19-grokbot-chief-of-staff-pattern|Implement a chief-of-staff agent that delegates to specialist sub-agents instead of routing tasks manually]] | @nh | `discard` |
 | 2026-08-19 | [[experiments/nb-2026-08-19-plain-english-agent-skill|Inject a plain-English explanation skill into coding agents before architecture decisions]] | @nb | `-` |
 | 2026-08-19 | [[experiments/nb-2026-08-19-five-software-shapes-map|Use a 'wish-to-shape' framing exercise before choosing a build tool]] | @nb | `-` |
 | 2026-08-19 | [[experiments/mlops-2026-08-19-mcp-tasks-v2-temporal|Implement MCP Tasks v2 server-side durability using Temporal workflows]] | @mlops | `-` |
 | 2026-08-19 | [[experiments/mlops-2026-08-19-mcp-tasks-extension-v1-v2|Migrate MCP tool servers from blocking calls to Tasks v2 async pattern]] | @mlops | `-` |
 | 2026-08-19 | [[experiments/mlops-2026-08-19-mcp-stateless-spec-migration|Migrate MCP server to stateless mode for horizontal scalability and zero sticky-session headaches]] | @mlops | `-` |
 | 2026-08-19 | [[experiments/mlops-2026-08-19-mcp-security-static-scan-cicd|Add AST-based taint-flow static analysis to CI/CD pipeline for MCP server code]] | @mlops | `-` |
-| 2026-08-19 | [[experiments/mlops-2026-08-19-mcp-observability-anomaly-detection|Wire an MCP server to an observability stack for natural-language anomaly detection and model config recommendations]] | @mlops | `-` |
+| 2026-08-19 | [[experiments/mlops-2026-08-19-mcp-observability-anomaly-detection|Wire an MCP server to an observability stack for natural-language anomaly detection and model config recommendations]] | @mlops | `discard` |
 | 2026-08-19 | [[experiments/mlops-2026-08-19-mcp-governance-framework|Implement a four-pillar governance layer (policy, identity, HITL approvals, observability) around MCP-connected agents]] | @mlops | `-` |
 | 2026-08-19 | [[experiments/mlops-2026-08-19-mcp-dual-era-server-migration|Build dual-era MCP servers that serve both stateless and stateful clients from a single endpoint during transition]] | @mlops | `-` |
 | 2026-08-19 | [[experiments/mlops-2026-08-19-idp-into-ide-declarative-agent-harness|Build a declarative YAML harness so domain teams can ship compliant agents without AI/security expertise]] | @mlops | `-` |
 | 2026-08-19 | [[experiments/mlops-2026-08-19-enterprise-mcp-role-based-gateway|Replace per-tool MCP servers with role-based gateway servers that model business operations]] | @mlops | `-` |
-| 2026-08-19 | [[experiments/mk-2026-08-19-sdk-bridge-replace-api-keys|Use the Codex/Claude SDK as an API-key-free bridge for internal tool AI calls]] | @mk | `-` |
+| 2026-08-19 | [[experiments/mk-2026-08-19-sdk-bridge-replace-api-keys|Use the Codex/Claude SDK as an API-key-free bridge for internal tool AI calls]] | @mk | `discard` |
 | 2026-08-19 | [[experiments/aie-2026-08-19-x12-standard-schema-agent-harness|Ground Agent Memory and Transactions in a Domain-Standard Schema to Constrain Action Space]] | @aie | `-` |
-| 2026-08-19 | [[experiments/aie-2026-08-19-world-model-avatar-eq-iq-split|Architect Photorealistic Avatars with Separate EQ (Expression/Embodiment) and IQ (Reasoning/Tool-Use) Models]] | @aie | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-world-model-avatar-eq-iq-split|Architect Photorealistic Avatars with Separate EQ (Expression/Embodiment) and IQ (Reasoning/Tool-Use) Models]] | @aie | `discard` |
 | 2026-08-19 | [[experiments/aie-2026-08-19-vertical-ai-seven-step-recipe|Scope Vertical AI Agents to a Single Narrow Task and Gate Expansion on ROI]] | @aie | `-` |
-| 2026-08-19 | [[experiments/aie-2026-08-19-skills-based-domain-expert-pipeline|Model Data Pipelines as Skill Files on an Agent Harness So Domain Experts Own Them]] | @aie | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-skills-based-domain-expert-pipeline|Model Data Pipelines as Skill Files on an Agent Harness So Domain Experts Own Them]] | @aie | `discard` |
 | 2026-08-19 | [[experiments/aie-2026-08-19-simulation-first-hazard-driven-shipping|Ship AI Agents via Staged Simulation-to-Production Pipeline Anchored to an Explicit Hazard Registry]] | @aie | `-` |
 | 2026-08-19 | [[experiments/aie-2026-08-19-reverse-inference-synthetic-data|Generate Synthetic Training Data by Reversing the Inference Workflow]] | @aie | `-` |
-| 2026-08-19 | [[experiments/aie-2026-08-19-realtime-generative-video-inference|Serve Distilled Video Generation Models in Streaming Pipelines for Real-Time Interactive Applications]] | @aie | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-realtime-generative-video-inference|Serve Distilled Video Generation Models in Streaming Pipelines for Real-Time Interactive Applications]] | @aie | `discard` |
 | 2026-08-19 | [[experiments/aie-2026-08-19-object-storage-privacy-evals|Run Production Evals Inside Customer Environment via Orchestration-Adjacent Object Storage]] | @aie | `-` |
-| 2026-08-19 | [[experiments/aie-2026-08-19-immutable-ledger-audit-trail|Build an Immutable Ledger of Agent Actions for Audit and Replay]] | @aie | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-immutable-ledger-audit-trail|Build an Immutable Ledger of Agent Actions for Audit and Replay]] | @aie | `discard` |
 | 2026-08-19 | [[experiments/aie-2026-08-19-hippocratic-latency-intelligence-tradeoff|Build a Vertically Integrated Inference Stack to Hit Both Latency and Clinical Accuracy Targets Simultaneously]] | @aie | `-` |
-| 2026-08-19 | [[experiments/aie-2026-08-19-deterministic-code-layer-above-model|Place a Deterministic Code Layer Above the Model for All Irreversible High-Stakes Decisions]] | @aie | `-` |
+| 2026-08-19 | [[experiments/aie-2026-08-19-deterministic-code-layer-above-model|Place a Deterministic Code Layer Above the Model for All Irreversible High-Stakes Decisions]] | @aie | `discard` |
 | 2026-08-19 | [[experiments/aie-2026-08-19-decompose-workflows-post-train-small-models|Decompose Complex Workflows into Sub-Tasks and Post-Train Small Models Per Sub-Task to Reduce Cost and Latency]] | @aie | `-` |
 | 2026-08-19 | [[experiments/aie-2026-08-19-clinical-ai-tdd-evals|Write Hundreds of Evals TDD-Style Before Prompting, with Zero Tolerance for Safety-Critical Failures]] | @aie | `-` |
 | 2026-08-19 | [[experiments/aie-2026-08-19-ai-native-org-transformation|Run Per-Test-Case Multiple Trials with Minimum Pass Rate for Non-Deterministic AI Features]] | @aie | `-` |
-| 2026-08-18 | [[experiments/nh-2026-08-18-become-inhouse-ai-person|Apply the Constraint-Attack Framework to Prioritize Which AI Automations to Build Next]] | @nh | `-` |
+| 2026-08-18 | [[experiments/nh-2026-08-18-become-inhouse-ai-person|Apply the Constraint-Attack Framework to Prioritize Which AI Automations to Build Next]] | @nh | `discard` |
 | 2026-08-18 | [[experiments/mlops-2026-08-18-tamper-evident-audit-mcp|Add Tamper-Evident Trace Reports to MCP Agent Sessions Using Hardware Attestation]] | @mlops | `-` |
 | 2026-08-18 | [[experiments/mlops-2026-08-18-stateless-mcp-horizontal-scale|Deploy MCP Servers Behind a Load Balancer Using Stateless Protocol + DB-Backed Session Tokens]] | @mlops | `-` |
 | 2026-08-18 | [[experiments/mlops-2026-08-18-mcp-event-subscriptions|Prototype MCP Event Subscriptions Using the Proposed Poll Delivery Mode]] | @mlops | `-` |
 | 2026-08-18 | [[experiments/mlops-2026-08-18-json-schema-2020-12-mcp-tools|Rewrite MCP Tool Schemas Using JSON Schema 2020-12 Conditional Keywords]] | @mlops | `-` |
 | 2026-08-18 | [[experiments/aie-2026-08-18-stylistic-diversity-data-curation|Audit training data curation pipeline for unintentional stylistic diversity loss]] | @aie | `-` |
-| 2026-08-18 | [[experiments/aie-2026-08-18-realtime-interactive-video-integration|Integrate a Real-Time Interactive Video World Model via Reactor API for Controllable Visual Agents]] | @aie | `-` |
+| 2026-08-18 | [[experiments/aie-2026-08-18-realtime-interactive-video-integration|Integrate a Real-Time Interactive Video World Model via Reactor API for Controllable Visual Agents]] | @aie | `discard` |
 | 2026-08-18 | [[experiments/aie-2026-08-18-prompt-expander-llm-distillation|Add a small LLM prompt expander before image generation to improve output quality]] | @aie | `-` |
 | 2026-08-18 | [[experiments/aie-2026-08-18-lod-context-assembly-game-engine-agent|Apply Level-of-Detail (LOD) Context Pruning to Manage Large Scene Graphs in Agent Prompts]] | @aie | `-` |
 | 2026-08-18 | [[experiments/aie-2026-08-18-large-scale-training-infra-metrics|Replace GPU Utilization Metrics with Tensor Core Utilization as the Primary Training Health Signal]] | @aie | `-` |
-| 2026-08-18 | [[experiments/aie-2026-08-18-agentic-video-editor-remotion|Use Remotion (Video-as-React-Code) as the Agent Output Format for Programmatic Video Composition]] | @aie | `-` |
+| 2026-08-18 | [[experiments/aie-2026-08-18-agentic-video-editor-remotion|Use Remotion (Video-as-React-Code) as the Agent Output Format for Programmatic Video Composition]] | @aie | `discard` |
 | 2026-08-17 | [[experiments/nb-2026-08-17-skill-provenance-audit|Implement a Skill Provenance Check Before Installing Any Agent Skill]] | @nb | `-` |
 | 2026-08-17 | [[experiments/nb-2026-08-17-agent-permission-scoping|Audit and Scope Agent Permissions Before Any Task Execution]] | @nb | `-` |
 | 2026-08-17 | [[experiments/mlops-2026-08-17-loop-engineering-eval-harness|Replace Single-Shot Prompts with Stateful REPL Loops for Long-Horizon Coding Tasks]] | @mlops | `-` |
 | 2026-08-17 | [[experiments/aie-2026-08-17-context-compaction-strategy|Default to Full Context Retention with Lazy Compaction Threshold Instead of Eager Summarization]] | @aie | `-` |
 | 2026-08-17 | [[experiments/aie-2026-08-17-ai-slot-register|Mine Past Review Comments to Build a Reusable AI Slot Register]] | @aie | `-` |
-| 2026-08-17 | [[experiments/aie-2026-08-17-agent-network-firewall|Route All Agent Egress Through a Protocol-Aware Firewall with Human Approval Rules]] | @aie | `-` |
+| 2026-08-17 | [[experiments/aie-2026-08-17-agent-network-firewall|Route All Agent Egress Through a Protocol-Aware Firewall with Human Approval Rules]] | @aie | `discard` |
 | 2026-08-16 | [[experiments/st-2026-08-16-morning-agent-triage|Implement a Scheduled Morning Agent Sync That Produces a Skimmable Action-Item Summary]] | @st | `-` |
 | 2026-08-16 | [[experiments/st-2026-08-16-aios-seven-components|Map Your Dev Loop to a 7-Component AI OS Framework]] | @st | `-` |
 | 2026-08-15 | [[experiments/mk-2026-08-15-mcp-codex-video-generation|Expose Video Generation Models as a Local MCP for Coding Agents]] | @mk | `-` |
@@ -549,12 +566,12 @@ Ordered by published date, most recent first.
 | 2026-08-14 | [[experiments/nh-2026-08-14-adversarial-review-plugin|Add a Codex Adversarial-Review Step After Claude Code's Primary Build]] | @nh | `-` |
 | 2026-08-14 | [[experiments/nb-2026-08-14-grockbot-single-auth-perimeter|Implement a Single-Auth-Perimeter Pattern for Multi-Agent Tool Access]] | @nb | `-` |
 | 2026-08-14 | [[experiments/nb-2026-08-14-grockbot-chief-of-staff-agent|Deploy a Chief-of-Staff Coordinator Bot to Manage a Multi-Agent Swarm]] | @nb | `-` |
-| 2026-08-14 | [[experiments/aie-2026-08-14-web-data-pipeline-multimodal|Build an Iterative Multimodal Web-Data Collection Pipeline for Agent Grounding]] | @aie | `-` |
+| 2026-08-14 | [[experiments/aie-2026-08-14-web-data-pipeline-multimodal|Build an Iterative Multimodal Web-Data Collection Pipeline for Agent Grounding]] | @aie | `discard` |
 | 2026-08-14 | [[experiments/aie-2026-08-14-rl-agent-real-world-harness|Add Risk-Aware Execution Guards and Graceful Human-Handoff to Agent Action Loop]] | @aie | `-` |
-| 2026-08-14 | [[experiments/aie-2026-08-14-cu-benchmark-stochastic-envs|Make Agent Evals Stochastic and Hierarchically Sampled to Prevent Replay-Agent Gaming]] | @aie | `-` |
+| 2026-08-14 | [[experiments/aie-2026-08-14-cu-benchmark-stochastic-envs|Make Agent Evals Stochastic and Hierarchically Sampled to Prevent Replay-Agent Gaming]] | @aie | `discard` |
 | 2026-08-14 | [[experiments/aie-2026-08-14-computer-use-long-tail-web|Benchmark a Small Fast Computer-Use Model Against Frontier Models for Long-Tail Web Tasks on Cost and Latency]] | @aie | `-` |
 | 2026-08-14 | [[experiments/aie-2026-08-14-cdp-meatbag-ladder-captcha|Use the CDP Meatbag Ladder Pattern for Agent Browser Automation Instead of MCP]] | @aie | `-` |
-| 2026-08-14 | [[experiments/aie-2026-08-14-caas-owned-vs-rented-context|Calculate the Cost Tipping Point Between Renting AI Search Context vs Owning a Custom Knowledge Graph]] | @aie | `-` |
+| 2026-08-14 | [[experiments/aie-2026-08-14-caas-owned-vs-rented-context|Calculate the Cost Tipping Point Between Renting AI Search Context vs Owning a Custom Knowledge Graph]] | @aie | `discard` |
 | 2026-08-14 | [[experiments/aie-2026-08-14-browserbase-harness-engineering|Build a Domain-Optimized Agent Harness to Extract Capability Overhang from Existing Models]] | @aie | `-` |
 | 2026-08-13 | [[experiments/nh-2026-08-13-codex-browser-qa-automation|Use Codex Browser Agent for Automated UI/QA Testing]] | @nh | `-` |
 | 2026-08-13 | [[experiments/nh-2026-08-13-codex-browser-content-publishing-pipeline|Chain Codex Browser Skills into a Multi-Step Content Publishing Pipeline]] | @nh | `-` |
@@ -563,19 +580,19 @@ Ordered by published date, most recent first.
 | 2026-08-13 | [[experiments/aie-2026-08-13-memory-running-profile-staleness|Implement Asynchronous Running-Profile Memory with Conflict Detection]] | @aie | `-` |
 | 2026-08-13 | [[experiments/aie-2026-08-13-continual-learning-expertise-microworld|Build a Domain-Specific Continual Learning Loop to Accumulate Agent Expertise]] | @aie | `-` |
 | 2026-08-13 | [[experiments/aie-2026-08-13-continual-learning-benchmark-design|Design a Sequential, Sample-Efficiency-First Benchmark for Agent Continual Learning]] | @aie | `-` |
-| 2026-08-13 | [[experiments/aie-2026-08-13-autoscientist-gradient-free-continual-learnin|Evaluate Auto-Scientist for Automated Model Training Pipeline Optimization]] | @aie | `-` |
+| 2026-08-13 | [[experiments/aie-2026-08-13-autoscientist-gradient-free-continual-learnin|Evaluate Auto-Scientist for Automated Model Training Pipeline Optimization]] | @aie | `discard` |
 | 2026-08-12 | [[experiments/nh-2026-08-12-sl-goal-verification-prompt|Append Self-Verification Standards to Agent Task Prompts]] | @nh | `-` |
 | 2026-08-12 | [[experiments/nh-2026-08-12-grokbot-persistent-agent-team|Test Grokbot as a Persistent Multi-Agent Team with Shared Plugin Context]] | @nh | `-` |
 | 2026-08-12 | [[experiments/nh-2026-08-12-delete-skills-unhobble-model|Audit and Prune System Prompts and Skills After Each Major Model Upgrade]] | @nh | `-` |
-| 2026-08-12 | [[experiments/nb-2026-08-12-progressive-context-shaping|Implement Progressive Context Shaping with a Four-File State System]] | @nb | `-` |
-| 2026-08-12 | [[experiments/aie-2026-08-12-ranked-recall-policy-memory-harness|Replace Vector RAG Memory with a Ranked Decisions Ledger for Long-Horizon Agent Runs]] | @aie | `-` |
-| 2026-08-12 | [[experiments/aie-2026-08-12-online-per-step-hinting-distillation|Apply Per-Step Online Hinting to Correct Persistent Agent Behavior Errors]] | @aie | `-` |
-| 2026-08-12 | [[experiments/aie-2026-08-12-llm-knowledge-base-enrichment|Build an Agent-Enriched Markdown Knowledge Base with Backlinks, Tags, Wikis, and Graph Visualization]] | @aie | `-` |
+| 2026-08-12 | [[experiments/nb-2026-08-12-progressive-context-shaping|Implement Progressive Context Shaping with a Four-File State System]] | @nb | `discard` |
+| 2026-08-12 | [[experiments/aie-2026-08-12-ranked-recall-policy-memory-harness|Replace Vector RAG Memory with a Ranked Decisions Ledger for Long-Horizon Agent Runs]] | @aie | `discard` |
+| 2026-08-12 | [[experiments/aie-2026-08-12-online-per-step-hinting-distillation|Apply Per-Step Online Hinting to Correct Persistent Agent Behavior Errors]] | @aie | `discard` |
+| 2026-08-12 | [[experiments/aie-2026-08-12-llm-knowledge-base-enrichment|Build an Agent-Enriched Markdown Knowledge Base with Backlinks, Tags, Wikis, and Graph Visualization]] | @aie | `discard` |
 | 2026-08-12 | [[experiments/aie-2026-08-12-issue-detection-code-classifiers-over-traces|Replace Trace Clustering with Deterministic Keyword Signals and Code-Mode Classifiers for Issue Detection]] | @aie | `-` |
 | 2026-08-12 | [[experiments/aie-2026-08-12-agent-trace-mining-improvement-loop|Enable Agent Trace Collection and Use an Agent to Mine Traces for Improvement Signals]] | @aie | `-` |
-| 2026-08-11 | [[experiments/nh-2026-08-11-pricing-prompt-three-tiers|Use a structured Claude prompt to generate psychologically anchored three-tier pricing]] | @nh | `-` |
+| 2026-08-11 | [[experiments/nh-2026-08-11-pricing-prompt-three-tiers|Use a structured Claude prompt to generate psychologically anchored three-tier pricing]] | @nh | `discard` |
 | 2026-08-11 | [[experiments/nh-2026-08-11-ai-consultant-three-buckets|Route every AI build to one of three value buckets before scoping]] | @nh | `-` |
-| 2026-08-11 | [[experiments/mk-2026-08-11-local-model-3d-website-harness|Add a skill-router function to a local agent harness for asset-type-aware generation]] | @mk | `-` |
+| 2026-08-11 | [[experiments/mk-2026-08-11-local-model-3d-website-harness|Add a skill-router function to a local agent harness for asset-type-aware generation]] | @mk | `discard` |
 | 2026-08-11 | [[experiments/aie-2026-08-11-harness-progressive-disclosure|Structure CLAUDE.md as a thin index with progressive disclosure into skill files capped at 100 lines each]] | @aie | `-` |
 | 2026-08-11 | [[experiments/aie-2026-08-11-dreaming-memory-self-improvement|Add a periodic 'dreaming' batch pass that distills session transcripts into updated agent memory]] | @aie | `-` |
 | 2026-08-11 | [[experiments/aie-2026-08-11-claude-managed-agents-infrastructure|Implement an outcomes-based grader agent that loops until success criteria are met]] | @aie | `-` |
@@ -584,36 +601,36 @@ Ordered by published date, most recent first.
 | 2026-08-10 | [[experiments/do-2026-08-10-multiplayer-agentic-scaffold|Replace ad-hoc file sharing between agents with a multiplayer shared-artifact scaffold]] | @do | `-` |
 | 2026-08-10 | [[experiments/aie-2026-08-10-cross-datacenter-rl-rollout-decoupling|Decouple RL rollout fleet from trainer cluster using delta-weight sync instead of full checkpoints]] | @aie | `-` |
 | 2026-08-10 | [[experiments/aie-2026-08-10-codex-harness-context-compaction|Implement server-side context compaction and incremental tool-result streaming in long-running agents]] | @aie | `-` |
-| 2026-08-09 | [[experiments/nb-2026-08-09-leader-ai-contract|Establish a Public Leadership Contract Before AI Rollout]] | @nb | `-` |
+| 2026-08-09 | [[experiments/nb-2026-08-09-leader-ai-contract|Establish a Public Leadership Contract Before AI Rollout]] | @nb | `discard` |
 | 2026-08-09 | [[experiments/nb-2026-08-09-human-edge-articulation|Define and Communicate Explicit Human-Owned Responsibilities in AI Rollout Docs]] | @nb | `-` |
 | 2026-08-09 | [[experiments/aie-2026-08-09-plan-before-implement|Separate Planning and Polish Phases in Agentic Workflows to Prevent Velocity Sickness]] | @aie | `-` |
 | 2026-08-09 | [[experiments/aie-2026-08-09-multiplayer-agent-sessions|Share Persistent Agent Sessions Across Slack, IDE, and GitHub]] | @aie | `-` |
-| 2026-08-09 | [[experiments/aie-2026-08-09-model-agnostic-benchmarking|Benchmark Multiple Coding Models Against Your Own Codebase to Stay Model-Agnostic]] | @aie | `-` |
+| 2026-08-09 | [[experiments/aie-2026-08-09-model-agnostic-benchmarking|Benchmark Multiple Coding Models Against Your Own Codebase to Stay Model-Agnostic]] | @aie | `discard` |
 | 2026-08-09 | [[experiments/aie-2026-08-09-local-model-sovereignty|Evaluate Open-Weight Local Models as Drop-In Replacements for Frontier APIs on Dev Loop Tasks]] | @aie | `-` |
 | 2026-08-09 | [[experiments/aie-2026-08-09-inner-loop-verification|Embed Static Analysis Verification Inside the Agentic Coding Loop Before PR Creation]] | @aie | `-` |
 | 2026-08-09 | [[experiments/aie-2026-08-09-durable-decision-log|Maintain a Durable Decision Log External to Agent Sessions to Prevent Agent Bankruptcy]] | @aie | `-` |
 | 2026-08-09 | [[experiments/aie-2026-08-09-bounded-autonomy-guidelines|Define Bounded Autonomy Guidelines Specifying What Agents Can and Cannot Touch]] | @aie | `-` |
 | 2026-08-09 | [[experiments/aie-2026-08-09-background-scheduled-agents|Run Schedule- and Trigger-Based Background Agents for Proactive Production Health Tasks]] | @aie | `-` |
 | 2026-08-09 | [[experiments/aie-2026-08-09-always-on-oncall-agent|Deploy a Persistent On-Call Agent That Triages Alerts and Performs Root Cause Analysis]] | @aie | `-` |
-| 2026-08-09 | [[experiments/aie-2026-08-09-ai-native-primitives|Build with Hundreds of Concurrent Inference Calls as a Core Architectural Primitive]] | @aie | `-` |
+| 2026-08-09 | [[experiments/aie-2026-08-09-ai-native-primitives|Build with Hundreds of Concurrent Inference Calls as a Core Architectural Primitive]] | @aie | `discard` |
 | 2026-08-08 | [[experiments/mk-2026-08-08-video-to-code-review|Feed screen-recording MP4 directly to Claude Code for codebase improvement review]] | @mk | `-` |
-| 2026-08-08 | [[experiments/mk-2026-08-08-hack-record-skill-for-sop-audit|Override Codex 'Record and Replay' skill to audit and SOP-ify manual workflows]] | @mk | `-` |
-| 2026-08-08 | [[experiments/aie-2026-08-08-realtime-multiplayer-shared-doc|Use a shared live markdown plan document as the primary human-agent collaboration interface]] | @aie | `-` |
+| 2026-08-08 | [[experiments/mk-2026-08-08-hack-record-skill-for-sop-audit|Override Codex 'Record and Replay' skill to audit and SOP-ify manual workflows]] | @mk | `discard` |
+| 2026-08-08 | [[experiments/aie-2026-08-08-realtime-multiplayer-shared-doc|Use a shared live markdown plan document as the primary human-agent collaboration interface]] | @aie | `discard` |
 | 2026-08-08 | [[experiments/aie-2026-08-08-open-weights-cost-arbitrage|Route high-volume agentic workloads to open-weights models via volume-discount inference providers to cut token costs 80%+]] | @aie | `-` |
 | 2026-08-08 | [[experiments/aie-2026-08-08-legacy-refactor-benchmark|Benchmark coding agents against legacy multi-repo vs clean monorepo to quantify refactor ROI]] | @aie | `-` |
 | 2026-08-08 | [[experiments/aie-2026-08-08-cca-antipatterns-field-guide|Implement context-forking with token-count-gated compaction to prevent context bloat in long agent runs]] | @aie | `-` |
 | 2026-08-08 | [[experiments/aie-2026-08-08-agentic-workflow-natural-language|Define agentic background automation with a Slack-style natural-language spec in a single file]] | @aie | `-` |
-| 2026-08-07 | [[experiments/nb-2026-08-07-voice-discovery-skill|Build a Custom Voice Discovery Prompt to Prevent AI Slop Output]] | @nb | `-` |
+| 2026-08-07 | [[experiments/nb-2026-08-07-voice-discovery-skill|Build a Custom Voice Discovery Prompt to Prevent AI Slop Output]] | @nb | `discard` |
 | 2026-08-07 | [[experiments/nb-2026-08-07-agent-truth-envelope-audit|Audit Agent Tool and Data Scope Before Assigning Missions]] | @nb | `-` |
 | 2026-08-07 | [[experiments/do-2026-08-07-program-design-before-agent|Add Explicit Program Design Phase Before Letting Agent Execute]] | @do | `-` |
 | 2026-08-07 | [[experiments/do-2026-08-07-incident-routing-to-agent-factory|Route Uptime Incidents Directly Into Agent for Triage and PR Generation]] | @do | `-` |
-| 2026-08-07 | [[experiments/aie-2026-08-07-sandboxed-vibe-coded-gadgets|Run AI-Generated App Code in Null-Origin Iframe + Durable Object Sandbox to Eliminate XSS Risk]] | @aie | `-` |
-| 2026-08-07 | [[experiments/aie-2026-08-07-frontier-delegates-to-impl-model|Route Planning to Frontier Model and Execution to Cheaper Implementation Model]] | @aie | `-` |
+| 2026-08-07 | [[experiments/aie-2026-08-07-sandboxed-vibe-coded-gadgets|Run AI-Generated App Code in Null-Origin Iframe + Durable Object Sandbox to Eliminate XSS Risk]] | @aie | `discard` |
+| 2026-08-07 | [[experiments/aie-2026-08-07-frontier-delegates-to-impl-model|Route Planning to Frontier Model and Execution to Cheaper Implementation Model]] | @aie | `discard` |
 | 2026-08-07 | [[experiments/aie-2026-08-07-dynamic-quantization-layer-selection|Apply Dynamic Per-Layer Quantization to Preserve Accuracy on Local Models]] | @aie | `-` |
 | 2026-08-04 | [[experiments/nh-2026-08-04-negative-prompting-system|Add Negative Prompting Layer to All Agent Instructions]] | @nh | `-` |
 | 2026-08-04 | [[experiments/nh-2026-08-04-model-routing-by-task|Implement Model Routing to Match Task Complexity to Model Cost]] | @nh | `-` |
-| 2026-08-03 | [[experiments/aie-2026-08-03-turbopuffer-campfire-async-collab|Adopt Lightweight 'Campfire' Async Collaboration Model for Distributed AI Dev Teams]] | @aie | `-` |
-| 2026-08-03 | [[experiments/aie-2026-08-03-mcp-apps-interactive-ui-over-mcp|Embed Interactive MCP App UI into Agent Tool Responses]] | @aie | `-` |
+| 2026-08-03 | [[experiments/aie-2026-08-03-turbopuffer-campfire-async-collab|Adopt Lightweight 'Campfire' Async Collaboration Model for Distributed AI Dev Teams]] | @aie | `discard` |
+| 2026-08-03 | [[experiments/aie-2026-08-03-mcp-apps-interactive-ui-over-mcp|Embed Interactive MCP App UI into Agent Tool Responses]] | @aie | `discard` |
 | 2026-08-02 | [[experiments/st-2026-08-02-four-step-skill-delegation-framework|Apply the do-once → distill → use → iterate skill-building loop to your top 3 recurring tasks]] | @st | `-` |
 | 2026-08-02 | [[experiments/nh-2026-08-02-roi-anchored-pricing-framework|Price AI builds as ~10-13% of annualized cost savings before quoting any number]] | @nh | `-` |
 | 2026-08-02 | [[experiments/nb-2026-08-02-skill-audit-conflict-resolution|Build a skill-audit skill that finds and resolves conflicts across your existing skill set]] | @nb | `-` |
@@ -624,8 +641,8 @@ Ordered by published date, most recent first.
 | 2026-08-02 | [[experiments/aie-2026-08-02-mcp-tasks-async-durable|Implement durable MCP task handles for long-running tool calls using Temporal workflows]] | @aie | `-` |
 | 2026-08-02 | [[experiments/aie-2026-08-02-long-horizon-rubric-granularity|Design task rubrics with 20+ sub-criteria and partial-credit scoring for long-horizon agent evals]] | @aie | `-` |
 | 2026-08-02 | [[experiments/aie-2026-08-02-data-quality-compute-multiplier|Apply mid-training on curated domain-specific data to make post-training 2-3x more effective]] | @aie | `-` |
-| 2026-08-02 | [[experiments/aie-2026-08-02-cybersec-rl-difficulty-ladder|Structure RL training environments as a two-axis difficulty ladder: target hardness × exploitation depth]] | @aie | `-` |
-| 2026-08-02 | [[experiments/aie-2026-08-02-custom-harness-post-training|Train directly on production harness traces to adapt models to custom tool-calling environments]] | @aie | `-` |
+| 2026-08-02 | [[experiments/aie-2026-08-02-cybersec-rl-difficulty-ladder|Structure RL training environments as a two-axis difficulty ladder: target hardness × exploitation depth]] | @aie | `discard` |
+| 2026-08-02 | [[experiments/aie-2026-08-02-custom-harness-post-training|Train directly on production harness traces to adapt models to custom tool-calling environments]] | @aie | `discard` |
 | 2026-08-02 | [[experiments/aie-2026-08-02-benchmaxxing-human-expert-evals|Replace LLM-as-judge evals with blind human expert comparisons for subjective output quality]] | @aie | `-` |
 | 2026-07-31 | [[experiments/aie-2026-07-31-subjective-domain-measurability|Decompose subjective quality criteria into context-specific verifiable components for reward design]] | @aie | `-` |
 | 2026-07-31 | [[experiments/aie-2026-07-31-rl-without-verifiable-rewards|Bootstrap non-verifiable reward signals using LLM judges with iterative refinement against training behavior]] | @aie | `-` |
@@ -633,38 +650,38 @@ Ordered by published date, most recent first.
 | 2026-07-31 | [[experiments/aie-2026-07-31-open-thoughts-reasoning-data|Curate high-quality reasoning traces using Curator for open-source SFT datasets]] | @aie | `-` |
 | 2026-07-31 | [[experiments/aie-2026-07-31-open-ended-rl-benchmarks|Benchmark agents on open-ended real-world tasks (e.g., sports betting) to expose long-horizon weaknesses]] | @aie | `-` |
 | 2026-07-31 | [[experiments/aie-2026-07-31-multi-sandbox-parallel-rollouts|Run multi-sandbox post-training rollouts for tasks that exceed single-container complexity]] | @aie | `-` |
-| 2026-07-31 | [[experiments/aie-2026-07-31-minimax-self-evolution-harness|Implement self-evolving RL harnesses where the model builds its own training environments]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-minimax-self-evolution-harness|Implement self-evolving RL harnesses where the model builds its own training environments]] | @aie | `discard` |
 | 2026-07-31 | [[experiments/aie-2026-07-31-mid-training-agentic-distribution|Insert a mid-training phase with agentic traces and long-context data before RL post-training]] | @aie | `-` |
 | 2026-07-31 | [[experiments/aie-2026-07-31-expert-disagreement-as-signal|Distinguish meaningful expert disagreement from data noise during human QA of preference data]] | @aie | `-` |
 | 2026-07-31 | [[experiments/aie-2026-07-31-environment-supervised-learning-signal|Combine RL with supervised learning signal from the environment to improve agent world model]] | @aie | `-` |
-| 2026-07-31 | [[experiments/aie-2026-07-31-emulated-multi-node-infra-sandbox|Simulate distributed cluster failures inside a single-node sandbox for infra agent training]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-emulated-multi-node-infra-sandbox|Simulate distributed cluster failures inside a single-node sandbox for infra agent training]] | @aie | `discard` |
 | 2026-07-31 | [[experiments/aie-2026-07-31-curator-synthetic-data-pipeline|Use structured XML tags in SFT data to reduce hallucination of specific values]] | @aie | `-` |
-| 2026-07-31 | [[experiments/aie-2026-07-31-biology-data-analysis-verifiable-substrate|Use domain data analysis pipelines as verifiable RL substrates in non-code domains]] | @aie | `-` |
-| 2026-07-31 | [[experiments/aie-2026-07-31-benchmark-task-quality-principles|Audit existing benchmark tasks against five quality principles before using them for eval or training]] | @aie | `-` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-biology-data-analysis-verifiable-substrate|Use domain data analysis pipelines as verifiable RL substrates in non-code domains]] | @aie | `discard` |
+| 2026-07-31 | [[experiments/aie-2026-07-31-benchmark-task-quality-principles|Audit existing benchmark tasks against five quality principles before using them for eval or training]] | @aie | `discard` |
 | 2026-07-31 | [[experiments/aie-2026-07-31-base-model-as-rl-prior|Design pre-training data mix to build atomic skills for RL rather than broad web knowledge]] | @aie | `-` |
 | 2026-07-31 | [[experiments/aie-2026-07-31-architecture-md-agent-invariants|Maintain a minimal architecture.md file as the single source of invariants for all AI coding agents]] | @aie | `-` |
 | 2026-07-31 | [[experiments/aie-2026-07-31-agent-transcript-quality-mining|Mine agent transcripts for efficiency failures (unnecessary tool calls) to improve language tooling]] | @aie | `-` |
 | 2026-07-30 | [[experiments/aij-2026-07-30-reddit-thread-quality-gate|Implement a three-rule thread quality gate before any agent post action]] | @aij | `-` |
-| 2026-07-30 | [[experiments/aij-2026-07-30-reddit-karma-loop-personal-wiki|Build a personal wiki ingestion loop to ground agent responses in owner-specific POV]] | @aij | `-` |
+| 2026-07-30 | [[experiments/aij-2026-07-30-reddit-karma-loop-personal-wiki|Build a personal wiki ingestion loop to ground agent responses in owner-specific POV]] | @aij | `discard` |
 | 2026-07-30 | [[experiments/aie-2026-07-30-memo-trust-source-citation|Attach inline source receipts with trust levels to every agent-generated claim rather than end-of-document citations]] | @aie | `-` |
-| 2026-07-30 | [[experiments/aie-2026-07-30-group-agent-memory-security-routing|Add a context-aware privacy gate and per-user LoRA memory adapters to agents deployed in shared multi-user contexts]] | @aie | `-` |
+| 2026-07-30 | [[experiments/aie-2026-07-30-group-agent-memory-security-routing|Add a context-aware privacy gate and per-user LoRA memory adapters to agents deployed in shared multi-user contexts]] | @aie | `discard` |
 | 2026-07-30 | [[experiments/aie-2026-07-30-finance-agent-dev-loop-velocity|Wire Jira bug tickets directly into parallel agent work trees to remove human-as-dispatcher bottleneck]] | @aie | `-` |
-| 2026-07-30 | [[experiments/aie-2026-07-30-event-sourced-agent-semantic-layer|Build a projection-fed semantic layer as the context interface between event-sourced domain and AI agents]] | @aie | `-` |
+| 2026-07-30 | [[experiments/aie-2026-07-30-event-sourced-agent-semantic-layer|Build a projection-fed semantic layer as the context interface between event-sourced domain and AI agents]] | @aie | `discard` |
 | 2026-07-30 | [[experiments/aie-2026-07-30-automated-ai-research-open-ended-evolution|Apply an open-ended evolutionary search agent to narrow optimization benchmarks before broader research tasks]] | @aie | `-` |
 | 2026-07-29 | [[experiments/nb-2026-07-29-token-saver-skill|Install a Token Saver skill into Claude Code or Codex to automate context hygiene]] | @nb | `-` |
 | 2026-07-29 | [[experiments/nb-2026-07-29-token-limit-habits|Apply 9 token-reduction habits to cut reused-input waste in long AI sessions]] | @nb | `-` |
-| 2026-07-29 | [[experiments/aie-2026-07-29-verifiable-provenance-chain|Attach a provenance ledger to every AI-produced data point tracking its source, derivation, and company-specific transformation]] | @aie | `-` |
+| 2026-07-29 | [[experiments/aie-2026-07-29-verifiable-provenance-chain|Attach a provenance ledger to every AI-produced data point tracking its source, derivation, and company-specific transformation]] | @aie | `discard` |
 | 2026-07-29 | [[experiments/aie-2026-07-29-synthetic-persona-validation|Validate synthetic persona accuracy by measuring distribution shape against ground-truth human data and computing a noise-floor baseline]] | @aie | `-` |
 | 2026-07-29 | [[experiments/aie-2026-07-29-skill-centric-harness|Build a skill registry with progressive disclosure and embedding-based retrieval to scale agent capabilities past 10 skills]] | @aie | `-` |
-| 2026-07-29 | [[experiments/aie-2026-07-29-simulation-eval-data-generation|Generate multi-turn agent eval trajectories in simulation to short-circuit production A/B testing cycles]] | @aie | `-` |
-| 2026-07-29 | [[experiments/aie-2026-07-29-outcome-grounded-domain-model|Fine-tune a domain model on verified situation-action-outcome triples to outperform frontier models on domain-specific advice]] | @aie | `-` |
+| 2026-07-29 | [[experiments/aie-2026-07-29-simulation-eval-data-generation|Generate multi-turn agent eval trajectories in simulation to short-circuit production A/B testing cycles]] | @aie | `discard` |
+| 2026-07-29 | [[experiments/aie-2026-07-29-outcome-grounded-domain-model|Fine-tune a domain model on verified situation-action-outcome triples to outperform frontier models on domain-specific advice]] | @aie | `discard` |
 | 2026-07-29 | [[experiments/aie-2026-07-29-harness-receipt-audit|Add a harness receipt layer that records state ownership, ordered mutations, and user-visible edge confirmation for every agent action]] | @aie | `-` |
-| 2026-07-29 | [[experiments/aie-2026-07-29-alphalab-strict-eval-environment|Treat auto-research agent improvement as RL by building strict Kaggle-style eval environments that become the RL training signal]] | @aie | `-` |
+| 2026-07-29 | [[experiments/aie-2026-07-29-alphalab-strict-eval-environment|Treat auto-research agent improvement as RL by building strict Kaggle-style eval environments that become the RL training signal]] | @aie | `discard` |
 | 2026-07-29 | [[experiments/aie-2026-07-29-ai-skill-security-review|Build a CI gate that runs hybrid deterministic + LLM security scans on AI skills before marketplace publish]] | @aie | `-` |
-| 2026-07-28 | [[experiments/aie-2026-07-28-varick-knowledge-graph-process-extraction|Build a knowledge graph of organizational processes and train a retrieval agent to traverse it]] | @aie | `-` |
-| 2026-07-28 | [[experiments/aie-2026-07-28-ramp-scoping-agent-intake|Deploy a multi-turn scoping agent to front-load requirements gathering before engineering work begins]] | @aie | `-` |
+| 2026-07-28 | [[experiments/aie-2026-07-28-varick-knowledge-graph-process-extraction|Build a knowledge graph of organizational processes and train a retrieval agent to traverse it]] | @aie | `discard` |
+| 2026-07-28 | [[experiments/aie-2026-07-28-ramp-scoping-agent-intake|Deploy a multi-turn scoping agent to front-load requirements gathering before engineering work begins]] | @aie | `discard` |
 | 2026-07-28 | [[experiments/aie-2026-07-28-ramp-agentic-spec-pipeline|Build a staged pipeline from raw request to shipped feature with agents at each step and evals between stages]] | @aie | `-` |
-| 2026-07-28 | [[experiments/aie-2026-07-28-netflix-perf-agent-profiling-pipeline|Build an agentic performance engineering pipeline that auto-triggers profiling, identifies hot paths via LLM, and proposes diffs]] | @aie | `-` |
+| 2026-07-28 | [[experiments/aie-2026-07-28-netflix-perf-agent-profiling-pipeline|Build an agentic performance engineering pipeline that auto-triggers profiling, identifies hot paths via LLM, and proposes diffs]] | @aie | `discard` |
 | 2026-07-28 | [[experiments/aie-2026-07-28-kepler-fde-as-product-strategy|Treat every agent deployment as a product research session — detect the real problem before building]] | @aie | `-` |
 | 2026-07-28 | [[experiments/aie-2026-07-28-huggingface-denormalized-read-collection-sear|Pre-tokenize model/artifact names at insert time into a denormalized read collection to keep search sub-100ms at scale]] | @aie | `-` |
 | 2026-07-28 | [[experiments/aie-2026-07-28-factory-signal-flow-software-factory|Model the full signal-to-code pipeline as explicit stages with feedback loops]] | @aie | `-` |
@@ -676,48 +693,48 @@ Ordered by published date, most recent first.
 | 2026-07-27 | [[experiments/do-2026-07-27-kill-features-to-stay-on-frontier|Audit and prune agent tooling features that model capability improvements have made redundant]] | @do | `-` |
 | 2026-07-27 | [[experiments/do-2026-07-27-agent-to-agent-parallel-bug-fixing|Spawn child agents from a running agent to handle discovered bugs in parallel]] | @do | `-` |
 | 2026-07-27 | [[experiments/aie-2026-07-27-type1-vs-type2-data-pipeline-audit|Classify training and eval data as Type 1 (real workflow capture) vs Type 2 (contrived) and prefer Type 1 for fine-tuning]] | @aie | `-` |
-| 2026-07-27 | [[experiments/aie-2026-07-27-synthetic-data-rephrasing-for-token-uniquenes|Apply synthetic rephrasing to high-quality repeated data to prevent early saturation in fine-tuning]] | @aie | `-` |
+| 2026-07-27 | [[experiments/aie-2026-07-27-synthetic-data-rephrasing-for-token-uniquenes|Apply synthetic rephrasing to high-quality repeated data to prevent early saturation in fine-tuning]] | @aie | `discard` |
 | 2026-07-26 | [[experiments/nh-2026-07-26-claude-code-agentic-onboarding|Build a local AI operating system in Claude Code with persistent context across all business tools]] | @nh | `-` |
 | 2026-07-26 | [[experiments/nb-2026-07-26-ai-agent-support-root-cause-loop|Use an AI agent to root-cause recurring support tickets and close the upstream failure]] | @nb | `-` |
 | 2026-07-26 | [[experiments/mk-2026-07-26-personal-benchmark-slash-command|Build a /benchmark slash command that runs your real tasks against new models and scores them against your personal rubric]] | @mk | `-` |
 | 2026-07-26 | [[experiments/aie-2026-07-26-sondermind-modular-guardrails-evals|Implement separate LLM-as-judge guardrail calls sandwiching core agent to improve robustness and eval granularity]] | @aie | `-` |
 | 2026-07-26 | [[experiments/aie-2026-07-26-deepswe-contamination-resistant-benchmark|Design coding evals with one task per repo and runtime isolation to prevent git-log cheating]] | @aie | `-` |
 | 2026-07-25 | [[experiments/nh-2026-07-25-opus5-vs-fable5-claude-code-comparison|Benchmark Opus 5 vs Fable 5 on Real Coding Workflows Inside Claude Code]] | @nh | `-` |
-| 2026-07-25 | [[experiments/nh-2026-07-25-fable-orchestrator-opus-subagent|Use Fable as a Delegating Orchestrator to Preserve Context Window Budget]] | @nh | `-` |
+| 2026-07-25 | [[experiments/nh-2026-07-25-fable-orchestrator-opus-subagent|Use Fable as a Delegating Orchestrator to Preserve Context Window Budget]] | @nh | `discard` |
 | 2026-07-25 | [[experiments/aie-2026-07-25-video-eval-small-vlm-judge|Fine-Tune a Small VLM as a Fast Video Quality Judge Calibrated by Periodic Human Annotation]] | @aie | `-` |
 | 2026-07-25 | [[experiments/aie-2026-07-25-tiny-model-finetune-voice-function-calling|Fine-Tune a Sub-4B Parameter Model on Synthetic Data for Robust Voice-to-Function-Calling]] | @aie | `-` |
 | 2026-07-25 | [[experiments/aie-2026-07-25-control-loop-pr-flow-control|Implement Adaptive Flow Control to Prevent PR Stack-Up in Agentic Loops]] | @aie | `-` |
-| 2026-07-25 | [[experiments/aie-2026-07-25-agent-simulation-benchmark-from-traces|Build a Private Agent Benchmark from Production Traces for Repeatable Offline Evaluation]] | @aie | `-` |
+| 2026-07-25 | [[experiments/aie-2026-07-25-agent-simulation-benchmark-from-traces|Build a Private Agent Benchmark from Production Traces for Repeatable Offline Evaluation]] | @aie | `discard` |
 | 2026-07-24 | [[experiments/nh-2026-07-24-opus5-verification-loops|Replace Fable 5 with Opus 5 as default agentic loop model and measure cost-quality tradeoff]] | @nh | `-` |
-| 2026-07-24 | [[experiments/nh-2026-07-24-expertise-vs-situational-context-split|Split AIOS context into expertise (stable) and situational (project-specific) layers to reduce bloat]] | @nh | `-` |
+| 2026-07-24 | [[experiments/nh-2026-07-24-expertise-vs-situational-context-split|Split AIOS context into expertise (stable) and situational (project-specific) layers to reduce bloat]] | @nh | `discard` |
 | 2026-07-24 | [[experiments/nh-2026-07-24-aios-context-failure-modes|Run an automated OS audit skill to detect context failure modes before they cause hallucinations]] | @nh | `-` |
-| 2026-07-24 | [[experiments/nb-2026-07-24-job-first-context-scoping|Gate context selection on the job, not the file]] | @nb | `-` |
-| 2026-07-24 | [[experiments/nb-2026-07-24-airlock-pii-scrub-before-llm|Build a pre-LLM PII scrubber that rebuilds a clean doc before upload]] | @nb | `-` |
+| 2026-07-24 | [[experiments/nb-2026-07-24-job-first-context-scoping|Gate context selection on the job, not the file]] | @nb | `discard` |
+| 2026-07-24 | [[experiments/nb-2026-07-24-airlock-pii-scrub-before-llm|Build a pre-LLM PII scrubber that rebuilds a clean doc before upload]] | @nb | `discard` |
 | 2026-07-24 | [[experiments/mlops-2026-07-24-coding-agents-as-general-agents|Repurpose coding-agent infrastructure for non-coding knowledge work tasks]] | @mlops | `-` |
-| 2026-07-24 | [[experiments/do-2026-07-24-kimi-k3-task-routing|Add Kimi K3 as a routed model for frontend and legal tasks]] | @do | `-` |
+| 2026-07-24 | [[experiments/do-2026-07-24-kimi-k3-task-routing|Add Kimi K3 as a routed model for frontend and legal tasks]] | @do | `discard` |
 | 2026-07-24 | [[experiments/aie-2026-07-24-youtube-ads-vibe-first-then-scale-evals|Start evals with manual vibing on small golden sets before investing in scaled rater infrastructure]] | @aie | `-` |
-| 2026-07-24 | [[experiments/aie-2026-07-24-vending-bench-emergent-misbehavior-evals|Design long-horizon eval environments with emergent incentive structures to surface misbehavior without explicit prompting]] | @aie | `-` |
+| 2026-07-24 | [[experiments/aie-2026-07-24-vending-bench-emergent-misbehavior-evals|Design long-horizon eval environments with emergent incentive structures to surface misbehavior without explicit prompting]] | @aie | `discard` |
 | 2026-07-24 | [[experiments/aie-2026-07-24-uber-closed-loop-multimodal-evals|Implement a Swiss-cheese QA gate architecture with redundant eval layers before production publish]] | @aie | `-` |
 | 2026-07-24 | [[experiments/aie-2026-07-24-harbor-agent-dev-as-ml-paradigm|Treat agent skills as ML model weights and use rollout-based evals to optimize them]] | @aie | `-` |
-| 2026-07-24 | [[experiments/aie-2026-07-24-cyber-benchmark-dynamic-world-model|Evaluate agent reasoning quality using dynamic state-inference tasks where causal chains are opaque]] | @aie | `-` |
+| 2026-07-24 | [[experiments/aie-2026-07-24-cyber-benchmark-dynamic-world-model|Evaluate agent reasoning quality using dynamic state-inference tasks where causal chains are opaque]] | @aie | `discard` |
 | 2026-07-24 | [[experiments/aie-2026-07-24-codex-compaction-and-voice-workflow|Use thread compaction and voice-first input to sustain multi-week agentic sessions without context rot]] | @aie | `-` |
 | 2026-07-24 | [[experiments/aie-2026-07-24-arize-signal-to-pr-self-improving-agent|Build a trace-driven agent that auto-generates a PR with evidence before human review]] | @aie | `-` |
-| 2026-07-24 | [[experiments/aie-2026-07-24-agent-as-judge-for-agentic-evals|Replace fixed-rubric LLM-as-judge evals with an agent-as-judge for multi-turn agentic outputs]] | @aie | `-` |
+| 2026-07-24 | [[experiments/aie-2026-07-24-agent-as-judge-for-agentic-evals|Replace fixed-rubric LLM-as-judge evals with an agent-as-judge for multi-turn agentic outputs]] | @aie | `discard` |
 | 2026-07-23 | [[experiments/nb-2026-07-23-trusted-access-policy-for-ai-cyber-defense|Implement pre-verified trusted-access tiers for frontier models in security workflows]] | @nb | `-` |
 | 2026-07-23 | [[experiments/nb-2026-07-23-multi-model-redundancy-strategy|Build a model-diverse fallback stack with at least one open-weights model for disruption resilience]] | @nb | `-` |
 | 2026-07-23 | [[experiments/nb-2026-07-23-local-model-fallback-for-sensitive-analysis|Pre-vet and deploy a local open-weights model as a no-guardrail fallback for sensitive artifact analysis]] | @nb | `-` |
-| 2026-07-23 | [[experiments/nb-2026-07-23-anti-slop-human-intent-signal|Add a human-intent attestation step to AI-generated content pipelines]] | @nb | `-` |
-| 2026-07-23 | [[experiments/aie-2026-07-23-video-spatial-temporal-memory-layer|Build a persistent spatiotemporal memory layer for video assets that supports cross-file entity continuity and moment retrieval]] | @aie | `-` |
+| 2026-07-23 | [[experiments/nb-2026-07-23-anti-slop-human-intent-signal|Add a human-intent attestation step to AI-generated content pipelines]] | @nb | `discard` |
+| 2026-07-23 | [[experiments/aie-2026-07-23-video-spatial-temporal-memory-layer|Build a persistent spatiotemporal memory layer for video assets that supports cross-file entity continuity and moment retrieval]] | @aie | `discard` |
 | 2026-07-23 | [[experiments/aie-2026-07-23-semantic-relationship-graph|Link artifacts across sources into a cross-referenced meaning graph]] | @aie | `-` |
 | 2026-07-23 | [[experiments/aie-2026-07-23-pre-planning-alignment-before-agent-coding|Add structured pre-planning (architecture + program design docs) before every agent coding task]] | @aie | `-` |
 | 2026-07-23 | [[experiments/aie-2026-07-23-perception-agent-shared-screen-context|Give agents continuous visual perception of shared UI state so they can monitor, detect, and recover from step failures]] | @aie | `-` |
-| 2026-07-23 | [[experiments/aie-2026-07-23-ontology-validator-for-agent-tool-outputs|Add an ontology-based validator after each agent tool call to catch semantically invalid outputs before they propagate]] | @aie | `-` |
-| 2026-07-23 | [[experiments/aie-2026-07-23-offline-context-precomputation|Precompute user context profiles offline before agent queries]] | @aie | `-` |
+| 2026-07-23 | [[experiments/aie-2026-07-23-ontology-validator-for-agent-tool-outputs|Add an ontology-based validator after each agent tool call to catch semantically invalid outputs before they propagate]] | @aie | `discard` |
+| 2026-07-23 | [[experiments/aie-2026-07-23-offline-context-precomputation|Precompute user context profiles offline before agent queries]] | @aie | `discard` |
 | 2026-07-23 | [[experiments/aie-2026-07-23-notion-token-cost-model-routing|Build a per-task model routing layer that matches model capability to task complexity to control token costs]] | @aie | `-` |
-| 2026-07-23 | [[experiments/aie-2026-07-23-knowledge-graph-as-agent-control-plane|Replace multi-agent context handoff chains with a single reasoning agent navigating a knowledge graph control plane]] | @aie | `-` |
+| 2026-07-23 | [[experiments/aie-2026-07-23-knowledge-graph-as-agent-control-plane|Replace multi-agent context handoff chains with a single reasoning agent navigating a knowledge graph control plane]] | @aie | `discard` |
 | 2026-07-23 | [[experiments/aie-2026-07-23-graph-shapes-for-agent-context|Model agent context as typed graph shapes (table-of-contents, connection, theme) rather than flat vector search]] | @aie | `-` |
-| 2026-07-23 | [[experiments/aie-2026-07-23-graph-provenance-for-llm-facts|Attach source lineage to every LLM-extracted fact in agent memory using graph relationships that survive mutation]] | @aie | `-` |
-| 2026-07-23 | [[experiments/aie-2026-07-23-execution-dag-anomaly-detection|Model agent pipeline execution as a DAG and detect structural drift and timing anomalies against a learned baseline]] | @aie | `-` |
+| 2026-07-23 | [[experiments/aie-2026-07-23-graph-provenance-for-llm-facts|Attach source lineage to every LLM-extracted fact in agent memory using graph relationships that survive mutation]] | @aie | `discard` |
+| 2026-07-23 | [[experiments/aie-2026-07-23-execution-dag-anomaly-detection|Model agent pipeline execution as a DAG and detect structural drift and timing anomalies against a learned baseline]] | @aie | `discard` |
 | 2026-07-23 | [[experiments/aie-2026-07-23-dspy-task-signature-separation|Wrap every repeated AI task in a DSPy-style typed signature to decouple task logic from model/prompt implementation]] | @aie | `-` |
 | 2026-07-22 | [[experiments/nh-2026-07-22-claude-ai-consultant-roadmap|Build One Claude Workflow Demo with Before/After Metrics]] | @nh | `-` |
 | 2026-07-22 | [[experiments/mk-2026-07-22-local-ai-command-center-agentic-setup|Use Claude Code to Auto-Install and Configure a Local Open-Weight Model Stack]] | @mk | `-` |
@@ -728,48 +745,48 @@ Ordered by published date, most recent first.
 | 2026-07-22 | [[experiments/aie-2026-07-22-agent-auth-identity-per-agent|Assign Per-Agent Scoped Identity and Audit Logs Instead of Passing User Credentials to Agents]] | @aie | `-` |
 | 2026-07-22 | [[experiments/aie-2026-07-22-active-graph-log-centric-agent-runtime|Replace Session Logs with an Immutable Event-Sourced Graph as Agent Ground Truth]] | @aie | `-` |
 | 2026-07-21 | [[experiments/aie-2026-07-21-state-of-ai-eng-audio-modality|Add Audio Modality to Existing Agent Pipeline as High-Intent Adoption Signal]] | @aie | `-` |
-| 2026-07-21 | [[experiments/aie-2026-07-21-outcome-based-agent-scoring|Instrument Execution Layer to Capture Outcome-Based Agent Scores]] | @aie | `-` |
+| 2026-07-21 | [[experiments/aie-2026-07-21-outcome-based-agent-scoring|Instrument Execution Layer to Capture Outcome-Based Agent Scores]] | @aie | `discard` |
 | 2026-07-21 | [[experiments/aie-2026-07-21-html-native-video-agents|Use Raw HTML/CSS/JS as Agent Output Format Instead of Custom DSLs]] | @aie | `-` |
 | 2026-07-21 | [[experiments/aie-2026-07-21-harness-to-claw-agentic-spectrum|Build an Always-On Cloud Harness with Slack Integration]] | @aie | `-` |
 | 2026-07-21 | [[experiments/aie-2026-07-21-execution-layer-decoupling|Decouple Execution Layer from Context and Compute Layers in Agent Architecture]] | @aie | `-` |
-| 2026-07-21 | [[experiments/aie-2026-07-21-desktop-local-model-sovereign|Benchmark Local Open-Weight Models as Drop-In Replacements for Cloud Models in Agent Workflows]] | @aie | `-` |
+| 2026-07-21 | [[experiments/aie-2026-07-21-desktop-local-model-sovereign|Benchmark Local Open-Weight Models as Drop-In Replacements for Cloud Models in Agent Workflows]] | @aie | `discard` |
 | 2026-07-20 | [[experiments/nh-2026-07-20-sell-transformation-not-ai|Reframe AI feature demos as before/after transformation stories]] | @nh | `-` |
-| 2026-07-20 | [[experiments/mlops-2026-07-20-agent-harness-calibration|Instrument agent traces to classify failure modes and calibrate harness rigidity]] | @mlops | `-` |
+| 2026-07-20 | [[experiments/mlops-2026-07-20-agent-harness-calibration|Instrument agent traces to classify failure modes and calibrate harness rigidity]] | @mlops | `discard` |
 | 2026-07-20 | [[experiments/aij-2026-07-20-tmux-multi-cli-orchestration|Orchestrate heterogeneous coding agents (Claude Code, Codex, Gemini CLI) via tmux pane control]] | @aij | `-` |
 | 2026-07-20 | [[experiments/aij-2026-07-20-claude5-orchestrator-sonet5-executor|Use Claude 4 Opus as orchestrator and Sonnet 5 as persistent executor sub-agent to cut costs 35%]] | @aij | `-` |
 | 2026-07-20 | [[experiments/aie-2026-07-20-snyk-hooks-skills-agent-code-security|Add security scanning as Claude Code hooks and skills rather than post-hoc MCP scanning to reduce latency and token overhead]] | @aie | `-` |
-| 2026-07-20 | [[experiments/aie-2026-07-20-small-model-voice-latency|Offload all reasoning to scaffolding code and use the smallest model that fits the latency budget]] | @aie | `-` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-small-model-voice-latency|Offload all reasoning to scaffolding code and use the smallest model that fits the latency budget]] | @aie | `discard` |
 | 2026-07-20 | [[experiments/aie-2026-07-20-slop-squatting-supply-chain-detection|Add a package provenance verification step before any agent-suggested dependency is installed]] | @aie | `-` |
-| 2026-07-20 | [[experiments/aie-2026-07-20-physical-data-harness-knowledge-base|Build a persistent knowledge base of processed dataset results to prevent redundant expensive compute]] | @aie | `-` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-physical-data-harness-knowledge-base|Build a persistent knowledge base of processed dataset results to prevent redundant expensive compute]] | @aie | `discard` |
 | 2026-07-20 | [[experiments/aie-2026-07-20-llm-stack-infra-misconfiguration-audit|Run a misconfiguration audit against the ML infrastructure using the four-pillar maturity checklist before adding new agent features]] | @aie | `-` |
 | 2026-07-20 | [[experiments/aie-2026-07-20-least-privilege-api-keys-agents|Replace kitchen-sink API keys with scoped OAuth tokens minted per agent tool call via a security token service]] | @aie | `-` |
 | 2026-07-20 | [[experiments/aie-2026-07-20-inloop-verification-three-loop-sdlc|Embed code verification inside the agentic loop (not just CI) using the guide-verify-solve three-loop pattern]] | @aie | `-` |
-| 2026-07-20 | [[experiments/aie-2026-07-20-harness-state-machine-voice-tutor|Wrap multi-step agent logic in an explicit state machine harness]] | @aie | `-` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-harness-state-machine-voice-tutor|Wrap multi-step agent logic in an explicit state machine harness]] | @aie | `discard` |
 | 2026-07-20 | [[experiments/aie-2026-07-20-generator-validator-separation|Separate the code-generating agent from the security-validating agent to prevent self-review blind spots]] | @aie | `-` |
 | 2026-07-20 | [[experiments/aie-2026-07-20-episodic-semantic-memory-agent-consistency|Add episodic and semantic memory to agent classification tasks to reduce flip-flop inconsistency on boundary cases]] | @aie | `-` |
-| 2026-07-20 | [[experiments/aie-2026-07-20-enterprise-agent-source-hierarchy|Structure agent knowledge sources as a ranked hierarchy from curated to flexible]] | @aie | `-` |
-| 2026-07-20 | [[experiments/aie-2026-07-20-e2e-encryption-personal-agent|Store agent memory keys only on client device and attest workload integrity via a public transparency log before key sharing]] | @aie | `-` |
-| 2026-07-20 | [[experiments/aie-2026-07-20-deterministic-wrapper-limits-agent-blast-radi|Wrap agentic reasoning in a deterministic orchestration layer that owns all credentials and side-effects]] | @aie | `-` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-enterprise-agent-source-hierarchy|Structure agent knowledge sources as a ranked hierarchy from curated to flexible]] | @aie | `discard` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-e2e-encryption-personal-agent|Store agent memory keys only on client device and attest workload integrity via a public transparency log before key sharing]] | @aie | `discard` |
+| 2026-07-20 | [[experiments/aie-2026-07-20-deterministic-wrapper-limits-agent-blast-radi|Wrap agentic reasoning in a deterministic orchestration layer that owns all credentials and side-effects]] | @aie | `discard` |
 | 2026-07-20 | [[experiments/aie-2026-07-20-agent-jurassic-four-layer-sandbox|Implement four-layer agent oversight: deterministic floor, courageable agent, intelligent adversary, structured human escalation]] | @aie | `-` |
-| 2026-07-19 | [[experiments/st-2026-07-19-harness-engineering-levers|Structure agent customization across three explicit levers: context, tools, and automations with evals]] | @st | `-` |
+| 2026-07-19 | [[experiments/st-2026-07-19-harness-engineering-levers|Structure agent customization across three explicit levers: context, tools, and automations with evals]] | @st | `discard` |
 | 2026-07-19 | [[experiments/nb-2026-07-19-local-llm-pii-detection|Run an air-gapped local LLM to detect and mask PII before sending docs to cloud AI]] | @nb | `-` |
-| 2026-07-19 | [[experiments/aie-2026-07-19-single-cell-foundation-models|Benchmark flow-matching models against autoencoder-based models for single-cell RNA-seq generation]] | @aie | `-` |
-| 2026-07-19 | [[experiments/aie-2026-07-19-hierarchical-hypothesis-generation|Inject a hierarchical hypothesis-generation step into autonomous coding agent loops to break optimization plateaus]] | @aie | `-` |
+| 2026-07-19 | [[experiments/aie-2026-07-19-single-cell-foundation-models|Benchmark flow-matching models against autoencoder-based models for single-cell RNA-seq generation]] | @aie | `discard` |
+| 2026-07-19 | [[experiments/aie-2026-07-19-hierarchical-hypothesis-generation|Inject a hierarchical hypothesis-generation step into autonomous coding agent loops to break optimization plateaus]] | @aie | `discard` |
 | 2026-07-19 | [[experiments/aie-2026-07-19-eval-pipeline-customer-support|Build a config-driven eval harness with hard launch gates, simulated multi-turn conversations, and online regression monitoring]] | @aie | `-` |
 | 2026-07-19 | [[experiments/aie-2026-07-19-continuous-perf-optimization-agent|Build a weekly autonomous agent workflow that surfaces scored high-ROI performance optimization PRs from production traces]] | @aie | `-` |
 | 2026-07-19 | [[experiments/aie-2026-07-19-agent-auth-least-privilege|Implement fine-grained, principal-bound, time-limited auth scopes for agents instead of reusing human OAuth credentials]] | @aie | `-` |
 | 2026-07-18 | [[experiments/eh-2026-07-18-intelligence-as-process-not-substance|Frame AI objectives as pattern-compression processes, not capability lists]] | @eh | `-` |
-| 2026-07-18 | [[experiments/aie-2026-07-18-subgraph-pattern-matching-context-retrieval|Replace vector search with shortest-path subgraph retrieval for code dependency context]] | @aie | `-` |
+| 2026-07-18 | [[experiments/aie-2026-07-18-subgraph-pattern-matching-context-retrieval|Replace vector search with shortest-path subgraph retrieval for code dependency context]] | @aie | `discard` |
 | 2026-07-18 | [[experiments/aie-2026-07-18-schema-first-graph-extraction|Use schema-constrained structured outputs for graph extraction from unstructured text]] | @aie | `-` |
 | 2026-07-18 | [[experiments/aie-2026-07-18-own-inference-infrastructure-post-pmf|Benchmark token-max context compression to cut inference costs on high-volume agent loops]] | @aie | `-` |
 | 2026-07-18 | [[experiments/aie-2026-07-18-froglet-verifiable-agent-receipts|Add cryptographically-signed execution receipts to agent tool calls for auditability and replay]] | @aie | `-` |
 | 2026-07-18 | [[experiments/aie-2026-07-18-domain-expert-evaluators-before-auto-optimiza|Define high-signal domain evaluators with experts before running any prompt auto-optimization loop]] | @aie | `-` |
-| 2026-07-18 | [[experiments/aie-2026-07-18-content-as-code-structured-pipelines|Build a declarative content pipeline (changelogs, docs, product tours) driven from a structured codebase]] | @aie | `-` |
+| 2026-07-18 | [[experiments/aie-2026-07-18-content-as-code-structured-pipelines|Build a declarative content pipeline (changelogs, docs, product tours) driven from a structured codebase]] | @aie | `discard` |
 | 2026-07-18 | [[experiments/aie-2026-07-18-ai-ux-trust-pillars|Add suggested prompts, next-step action buttons, and streaming indicators to AI feature UIs]] | @aie | `-` |
 | 2026-07-18 | [[experiments/aie-2026-07-18-agent-feature-flags-six-surfaces|Implement per-surface agent feature flags (prompt, tool, model, memory, autonomy, sub-agent) with a kill switch]] | @aie | `-` |
-| 2026-07-18 | [[experiments/aie-2026-07-18-agent-checkpoint-replay-cohort-evals|Implement checkpoint-replay cohort analysis to validate model swaps before shipping]] | @aie | `-` |
+| 2026-07-18 | [[experiments/aie-2026-07-18-agent-checkpoint-replay-cohort-evals|Implement checkpoint-replay cohort analysis to validate model swaps before shipping]] | @aie | `discard` |
 | 2026-07-17 | [[experiments/nb-2026-07-17-automagic-skill-for-automation|Package an 'Auto-Magic' Problem-Discovery Prompt as a Reusable Skill File]] | @nb | `-` |
-| 2026-07-17 | [[experiments/nb-2026-07-17-ai-picks-the-problem|Let the AI Agent Pick Its Own Problem from Your Business Context]] | @nb | `-` |
+| 2026-07-17 | [[experiments/nb-2026-07-17-ai-picks-the-problem|Let the AI Agent Pick Its Own Problem from Your Business Context]] | @nb | `discard` |
 | 2026-07-17 | [[experiments/do-2026-07-17-ssh-persistent-agent-session|Run Agent Sessions in a Persistent Multiplexed Terminal Accessible via SSH from Any Device]] | @do | `-` |
 | 2026-07-17 | [[experiments/do-2026-07-17-firstmate-multi-agent-orchestrator|Replace Tab-Juggling with a Single Orchestrator Agent (First Mate Pattern)]] | @do | `-` |
 | 2026-07-17 | [[experiments/aie-2026-07-17-yc-skill-files-as-workforce|Encode Every Repeatable Workflow as a Skill File and Build a Compounding Organizational Library]] | @aie | `-` |
@@ -777,9 +794,9 @@ Ordered by published date, most recent first.
 | 2026-07-17 | [[experiments/aie-2026-07-17-unsloth-reward-hacking-verification|Add Reward-Hacking Detection Checks Before Accepting AI-Generated Performance Claims]] | @aie | `-` |
 | 2026-07-17 | [[experiments/aie-2026-07-17-microsoft-iq-company-grounding|Implement an Agent Optimizer Loop That Hill-Climbs Agent Instructions from Trace Data]] | @aie | `-` |
 | 2026-07-17 | [[experiments/aie-2026-07-17-deepmind-chain-of-code-reasoning|Use Code as the Reasoning Medium for Multi-Step Agent Tasks Instead of Natural Language Chains]] | @aie | `-` |
-| 2026-07-16 | [[experiments/aie-2026-07-16-background-computer-use-quad-driver|Run Computer-Use Agents in the Background Without Screen Takeover]] | @aie | `-` |
+| 2026-07-16 | [[experiments/aie-2026-07-16-background-computer-use-quad-driver|Run Computer-Use Agents in the Background Without Screen Takeover]] | @aie | `discard` |
 | 2026-07-16 | [[experiments/aie-2026-07-16-ai-agent-top-contributor-parameter-golf|Design Tight Codebase Abstractions to Prevent Agent Reward Hacking]] | @aie | `-` |
-| 2026-07-16 | [[experiments/aie-2026-07-16-agent-eval-as-loss-function|Treat Agent Eval as a Loss Function and Iterate on It First]] | @aie | `-` |
+| 2026-07-16 | [[experiments/aie-2026-07-16-agent-eval-as-loss-function|Treat Agent Eval as a Loss Function and Iterate on It First]] | @aie | `discard` |
 | 2026-07-15 | [[experiments/nb-2026-07-15-harness-audit-skill|Build a Harness Inventory Skill to Map All Context Inputs]] | @nb | `-` |
 | 2026-07-15 | [[experiments/nb-2026-07-15-compact-vs-thick-skill-test|A/B Test Compact vs. Thick Skill Variants to Find Delivery Failure Thresholds]] | @nb | `-` |
 | 2026-07-15 | [[experiments/mlops-2026-07-15-multi-agent-debate-research|Use Competing-Model Debate Pattern for Deep Domain Research]] | @mlops | `-` |
@@ -788,26 +805,26 @@ Ordered by published date, most recent first.
 | 2026-07-15 | [[experiments/aie-2026-07-15-claude-code-delegation-threshold|Calibrate Agent Delegation Threshold by Tracking Permission-Prompt Acceptance Rate Over Model Generations]] | @aie | `-` |
 | 2026-07-14 | [[experiments/nh-2026-07-14-inhouse-ai-consultant-roadmap|Run a Constraint-First AI Audit to Identify High-Value Automation Targets]] | @nh | `-` |
 | 2026-07-14 | [[experiments/do-2026-07-14-tailscale-multi-agent-network|Connect All Agent Machines via Tailscale with Zero Open Ports]] | @do | `-` |
-| 2026-07-14 | [[experiments/do-2026-07-14-aperture-secure-api-keys|Store Agent API Keys in Aperture Instead of on the VPS]] | @do | `-` |
-| 2026-07-14 | [[experiments/aij-2026-07-14-piper-agent-extensible-harness|Use Pi Agent's Extension System to Self-Modify the Coding Harness at Runtime]] | @aij | `-` |
+| 2026-07-14 | [[experiments/do-2026-07-14-aperture-secure-api-keys|Store Agent API Keys in Aperture Instead of on the VPS]] | @do | `discard` |
+| 2026-07-14 | [[experiments/aij-2026-07-14-piper-agent-extensible-harness|Use Pi Agent's Extension System to Self-Modify the Coding Harness at Runtime]] | @aij | `discard` |
 | 2026-07-14 | [[experiments/aij-2026-07-14-loop-contract-md-pattern|Structure Every Agent Loop Around a Loop Contract Markdown File with State and Append-Only Log]] | @aij | `-` |
 | 2026-07-14 | [[experiments/aie-2026-07-14-skill-evals-before-ship|Write Eval Test Cases for Every Agent Skill Before Deploying It]] | @aie | `-` |
 | 2026-07-14 | [[experiments/aie-2026-07-14-loops-debate-spec-gated-slices|Gate Loop Autonomy Behind Spec-Verified, Test-Covered Slices Rather Than Open-Ended Tasks]] | @aie | `-` |
-| 2026-07-14 | [[experiments/aie-2026-07-14-irt-llm-benchmarking|Apply Item Response Theory to Internal Agent Evals to Get Calibrated Model Intelligence Scores]] | @aie | `-` |
-| 2026-07-14 | [[experiments/aie-2026-07-14-fde-motion-matrix|Use a Digital-Maturity × Product-Customization Matrix to Scope FDE Engagements]] | @aie | `-` |
+| 2026-07-14 | [[experiments/aie-2026-07-14-irt-llm-benchmarking|Apply Item Response Theory to Internal Agent Evals to Get Calibrated Model Intelligence Scores]] | @aie | `discard` |
+| 2026-07-14 | [[experiments/aie-2026-07-14-fde-motion-matrix|Use a Digital-Maturity × Product-Customization Matrix to Scope FDE Engagements]] | @aie | `discard` |
 | 2026-07-14 | [[experiments/aie-2026-07-14-answerability-outer-loop|Enforce an 'Explain It or Don't Ship It' Rule at the Outer Loop Boundary]] | @aie | `-` |
 | 2026-07-13 | [[experiments/nb-2026-07-13-model-selection-by-work-pattern|Select model based on personal work-pattern audit, not benchmark scores]] | @nb | `-` |
 | 2026-07-13 | [[experiments/nb-2026-07-13-fable-as-orchestrator-ringer|Use Fable 5 as intent-parsing orchestrator to farm tasks to cheaper sub-models]] | @nb | `-` |
 | 2026-07-13 | [[experiments/mk-2026-07-13-effort-level-calibration|Start all tasks at low effort and escalate only on evidence of inadequacy]] | @mk | `-` |
 | 2026-07-13 | [[experiments/aie-2026-07-13-verifiers-async-rl-post-training|Use open-source Verifiers + PrimeRL to post-train models on your own production task distribution]] | @aie | `-` |
-| 2026-07-13 | [[experiments/aie-2026-07-13-rlm-recursive-context-management|Implement RLM pattern to externalize large-codebase context into a programmable REPL environment]] | @aie | `-` |
-| 2026-07-13 | [[experiments/aie-2026-07-13-proof-carrying-agents|Air-gap agents from tool execution by reifying plans into provably safe programs before running]] | @aie | `-` |
-| 2026-07-13 | [[experiments/aie-2026-07-13-microvm-sandbox-snapshot-restore|Use microVM memory snapshots with layered lineage for low-latency sandbox creation and Monte Carlo agent exploration]] | @aie | `-` |
-| 2026-07-12 | [[experiments/nh-2026-07-12-claude-code-clay-lead-gen|Use Claude Code as natural-language orchestrator over Clay MCP for end-to-end lead enrichment]] | @nh | `-` |
+| 2026-07-13 | [[experiments/aie-2026-07-13-rlm-recursive-context-management|Implement RLM pattern to externalize large-codebase context into a programmable REPL environment]] | @aie | `discard` |
+| 2026-07-13 | [[experiments/aie-2026-07-13-proof-carrying-agents|Air-gap agents from tool execution by reifying plans into provably safe programs before running]] | @aie | `discard` |
+| 2026-07-13 | [[experiments/aie-2026-07-13-microvm-sandbox-snapshot-restore|Use microVM memory snapshots with layered lineage for low-latency sandbox creation and Monte Carlo agent exploration]] | @aie | `discard` |
+| 2026-07-12 | [[experiments/nh-2026-07-12-claude-code-clay-lead-gen|Use Claude Code as natural-language orchestrator over Clay MCP for end-to-end lead enrichment]] | @nh | `discard` |
 | 2026-07-12 | [[experiments/nb-2026-07-12-no-roadmap-15-commandments|Audit every dev-loop process against the 'does it shorten learning loops?' test]] | @nb | `-` |
 | 2026-07-12 | [[experiments/aie-2026-07-12-typescript-agent-layer|Build the agent orchestration layer in TypeScript with Zod schemas shared end-to-end]] | @aie | `-` |
 | 2026-07-12 | [[experiments/aie-2026-07-12-semantic-blindness-hierarchical-tool|Replace large-context entity lookup with a deterministic hierarchical resolver tool handed to the LLM]] | @aie | `-` |
-| 2026-07-12 | [[experiments/aie-2026-07-12-review-debt-scorer|Implement a deterministic review-debt score on every AI-generated PR]] | @aie | `-` |
+| 2026-07-12 | [[experiments/aie-2026-07-12-review-debt-scorer|Implement a deterministic review-debt score on every AI-generated PR]] | @aie | `discard` |
 | 2026-07-12 | [[experiments/aie-2026-07-12-remobi-tmux-mobile-agent-monitor|Add Remobi + tmux to the agent-monitoring stack for mobile steering of running agents]] | @aie | `-` |
 | 2026-07-12 | [[experiments/aie-2026-07-12-openclaw-trusted-proxy-auth|Enable OpenClaw trusted-proxy-auth mode behind an identity-aware proxy to remove token friction]] | @aie | `-` |
 | 2026-07-12 | [[experiments/aie-2026-07-12-nanda-open-agent-index|Register an agent on the NANDA open index and test cross-organization agent discovery]] | @aie | `-` |
@@ -820,25 +837,25 @@ Ordered by published date, most recent first.
 | 2026-07-11 | [[experiments/aie-2026-07-11-open-claw-parallel-worktrees|Use Open Claw as a spec-focused orchestrator above Claude Code to parallelize work across git worktrees]] | @aie | `-` |
 | 2026-07-11 | [[experiments/aie-2026-07-11-neurosymbolic-runtime-guardians|Implement Python-level hard-stop and self-correcting runtime guardrails for agents]] | @aie | `-` |
 | 2026-07-11 | [[experiments/aie-2026-07-11-multi-agent-dream-cycle|Add a nightly dream-cycle agent that consolidates memory, resolves contradictions, and surfaces a morning report]] | @aie | `-` |
-| 2026-07-11 | [[experiments/aie-2026-07-11-jury-judge-multi-agent-validation|Implement jury-and-judge multi-agent pattern for high-stakes tasks with no empirically correct answer]] | @aie | `-` |
+| 2026-07-11 | [[experiments/aie-2026-07-11-jury-judge-multi-agent-validation|Implement jury-and-judge multi-agent pattern for high-stakes tasks with no empirically correct answer]] | @aie | `discard` |
 | 2026-07-11 | [[experiments/aie-2026-07-11-conveyor-belt-agentic-delegation|Redesign agent UX around async delegation with human-pausable conveyor belt and weekly active sessions metric]] | @aie | `-` |
 | 2026-07-11 | [[experiments/aie-2026-07-11-cli-first-github-delegation|Adopt CLI-first workflow with GitHub issue-to-agent delegation as primary development scaling pattern]] | @aie | `-` |
 | 2026-07-11 | [[experiments/aie-2026-07-11-agent-output-gate-contracts|Add explicit boundary contracts (voice, verification, deduplication, schema) at each agent handoff to block polished-but-wrong artifacts]] | @aie | `-` |
-| 2026-07-10 | [[experiments/nh-2026-07-10-soul-vs-fable-routing|Route tasks between GPT-5.6 Soul and Claude Fable 5 based on creative vs. execution workload]] | @nh | `-` |
-| 2026-07-10 | [[experiments/nb-2026-07-10-task-shape-estimator|Build a task-shape estimator to route work to chat, single-agent, multi-agent, or human]] | @nb | `-` |
+| 2026-07-10 | [[experiments/nh-2026-07-10-soul-vs-fable-routing|Route tasks between GPT-5.6 Soul and Claude Fable 5 based on creative vs. execution workload]] | @nh | `discard` |
+| 2026-07-10 | [[experiments/nb-2026-07-10-task-shape-estimator|Build a task-shape estimator to route work to chat, single-agent, multi-agent, or human]] | @nb | `discard` |
 | 2026-07-10 | [[experiments/aie-2026-07-10-zl-continuum-review-layer|Define a per-task review tier (output / task-direction / loop-design) and enforce it before merging agent work]] | @aie | `-` |
 | 2026-07-10 | [[experiments/aie-2026-07-10-agent-understanding-techniques|Have agents generate explainer docs, quizzes, and micro-world simulations after each large PR]] | @aie | `-` |
-| 2026-07-09 | [[experiments/nh-2026-07-09-single-prompt-full-video-pipeline|Use a single vague prompt with delegation and verification instructions to drive a multi-tool agent pipeline]] | @nh | `-` |
+| 2026-07-09 | [[experiments/nh-2026-07-09-single-prompt-full-video-pipeline|Use a single vague prompt with delegation and verification instructions to drive a multi-tool agent pipeline]] | @nh | `discard` |
 | 2026-07-09 | [[experiments/do-2026-07-09-stop-prompting-start-loops|Run one high-focus task plus many background agent tasks in parallel]] | @do | `-` |
 | 2026-07-09 | [[experiments/do-2026-07-09-embrace-slop-filter-signal|Generate 100 variants and apply judgment to select the best output]] | @do | `-` |
 | 2026-07-09 | [[experiments/aie-2026-07-09-personal-brand-as-distribution-moat|Use AI to amplify an authentic personal brand signal rather than generate generic marketing content]] | @aie | `-` |
 | 2026-07-09 | [[experiments/aie-2026-07-09-manager-agent-outer-loop|Promote a persistent manager agent to own the inner execution loop while the developer controls only the outer steering loop]] | @aie | `-` |
-| 2026-07-09 | [[experiments/aie-2026-07-09-forward-deployed-mvp-in-days|Embed directly with end users for 2-3 days per week and build MVPs on-site in days rather than sprints]] | @aie | `-` |
-| 2026-07-08 | [[experiments/nh-2026-07-08-single-goal-prompt-full-company|Use a file-based goal prompt with never-ask and multi-agent orchestration directives to build a full deliverable set autonomously]] | @nh | `-` |
-| 2026-07-08 | [[experiments/nb-2026-07-08-multi-agent-swarm-qa-catch|Use a cheap-model swarm with a frontier orchestrator to auto-catch and rework agent failures]] | @nb | `-` |
+| 2026-07-09 | [[experiments/aie-2026-07-09-forward-deployed-mvp-in-days|Embed directly with end users for 2-3 days per week and build MVPs on-site in days rather than sprints]] | @aie | `discard` |
+| 2026-07-08 | [[experiments/nh-2026-07-08-single-goal-prompt-full-company|Use a file-based goal prompt with never-ask and multi-agent orchestration directives to build a full deliverable set autonomously]] | @nh | `discard` |
+| 2026-07-08 | [[experiments/nb-2026-07-08-multi-agent-swarm-qa-catch|Use a cheap-model swarm with a frontier orchestrator to auto-catch and rework agent failures]] | @nb | `discard` |
 | 2026-07-08 | [[experiments/nb-2026-07-08-agent-audition-tryout-task|Run a structured audition task before including a new model in a swarm]] | @nb | `-` |
 | 2026-07-08 | [[experiments/aie-2026-07-08-repl-tool-replaces-15-tools|Replace a large set of discrete agent tools with a single persistent-state REPL tool]] | @aie | `-` |
-| 2026-07-08 | [[experiments/aie-2026-07-08-markdown-cron-daily-planner-agent|Build a cron-driven agent that reads a markdown task file and generates a prioritized daily plan]] | @aie | `-` |
+| 2026-07-08 | [[experiments/aie-2026-07-08-markdown-cron-daily-planner-agent|Build a cron-driven agent that reads a markdown task file and generates a prioritized daily plan]] | @aie | `discard` |
 | 2026-07-08 | [[experiments/aie-2026-07-08-key-art-anchor-game-generation|Anchor AI game generation to a single key art image to enforce visual and tonal coherence]] | @aie | `-` |
 | 2026-07-08 | [[experiments/aie-2026-07-08-hierarchical-agent-fleet-file-state|Externalize all agent state to disk files and use context reset instead of compaction to enable crash-resilient long-running agent fleets]] | @aie | `-` |
 | 2026-07-08 | [[experiments/aie-2026-07-08-harness-self-optimization|Add a self-optimization loop that rewrites agent prompts based on a measurable objective score]] | @aie | `-` |
@@ -850,67 +867,67 @@ Ordered by published date, most recent first.
 | 2026-07-08 | [[experiments/aie-2026-07-08-adaptive-harness-emergence|Allow agent harness roles and tooling to emerge mid-run rather than being fully pre-defined]] | @aie | `-` |
 | 2026-07-08 | [[experiments/aie-2026-07-08-acp-compatible-agent-live|Add ACP (Agent Client Protocol) support to a custom coding agent so it can run inside any ACP-compatible editor]] | @aie | `-` |
 | 2026-07-07 | [[experiments/nh-2026-07-07-model-routing-table-agent-teams|Build an explicit model routing table for dynamic multi-agent workflows]] | @nh | `-` |
-| 2026-07-07 | [[experiments/nh-2026-07-07-fable-mode-system-prompt-opus|Inject a 'Fable-mode' system prompt into Opus to replicate Fable-5 reasoning patterns]] | @nh | `-` |
+| 2026-07-07 | [[experiments/nh-2026-07-07-fable-mode-system-prompt-opus|Inject a 'Fable-mode' system prompt into Opus to replicate Fable-5 reasoning patterns]] | @nh | `discard` |
 | 2026-07-07 | [[experiments/do-2026-07-07-finetune-large-oss-models-cloud|Fine-tune a 1T-parameter OSS model via cloud GPU rental and deploy via API]] | @do | `-` |
 | 2026-07-07 | [[experiments/aie-2026-07-07-swe-marathon-long-horizon-eval|Add multi-channel anti-cheat verification to long-horizon agent evals to prevent reward hacking]] | @aie | `-` |
-| 2026-07-07 | [[experiments/aie-2026-07-07-radical-speed-month-vibe-coding-org|Run a time-boxed 'radical speed sprint' where non-engineers ship production code using AI tools]] | @aie | `-` |
+| 2026-07-07 | [[experiments/aie-2026-07-07-radical-speed-month-vibe-coding-org|Run a time-boxed 'radical speed sprint' where non-engineers ship production code using AI tools]] | @aie | `discard` |
 | 2026-07-07 | [[experiments/aie-2026-07-07-adaptive-per-user-software-pipeline|Prototype a live-session code adaptation layer that modifies UI behavior per user context without a build step]] | @aie | `-` |
 | 2026-07-06 | [[experiments/aie-2026-07-06-shrink-system-prompt-fable|Shrink the system prompt for newer Claude models and remove constraining examples]] | @aie | `-` |
 | 2026-07-06 | [[experiments/aie-2026-07-06-capability-overhang-audit|Audit tasks the agent currently fails at by adding code-execution or tool access to expose capability overhang]] | @aie | `-` |
-| 2026-07-05 | [[experiments/nb-2026-07-05-imagination-over-cheap-models|Designate frontier-model budget for exploratory 'imagination' tasks]] | @nb | `-` |
-| 2026-07-05 | [[experiments/mk-2026-07-05-wargame-plans-with-frontier|Use frontier model to wargame agentic task plans before cheaper-model execution]] | @mk | `-` |
-| 2026-07-05 | [[experiments/aie-2026-07-05-wound-click-transform-pitch|Apply wound/click/transformation framework to AI tool documentation and onboarding copy]] | @aie | `-` |
-| 2026-07-05 | [[experiments/aie-2026-07-05-post-launch-agent-observability|Build a meta-harness that watches, scores, and auto-PRs fixes for production agent sessions]] | @aie | `-` |
+| 2026-07-05 | [[experiments/nb-2026-07-05-imagination-over-cheap-models|Designate frontier-model budget for exploratory 'imagination' tasks]] | @nb | `discard` |
+| 2026-07-05 | [[experiments/mk-2026-07-05-wargame-plans-with-frontier|Use frontier model to wargame agentic task plans before cheaper-model execution]] | @mk | `discard` |
+| 2026-07-05 | [[experiments/aie-2026-07-05-wound-click-transform-pitch|Apply wound/click/transformation framework to AI tool documentation and onboarding copy]] | @aie | `discard` |
+| 2026-07-05 | [[experiments/aie-2026-07-05-post-launch-agent-observability|Build a meta-harness that watches, scores, and auto-PRs fixes for production agent sessions]] | @aie | `discard` |
 | 2026-07-05 | [[experiments/aie-2026-07-05-mcp-store-distribution|Publish an MCP app with UI widgets to Claude and ChatGPT stores for dynamic discovery]] | @aie | `-` |
 | 2026-07-05 | [[experiments/aie-2026-07-05-continual-learning-replayable-envs|Convert production failure logs into replayable learning environments before applying harness fixes]] | @aie | `-` |
 | 2026-07-04 | [[experiments/nb-2026-07-04-claude4-short-prompt-hard-problems|Use short, high-context prompts on Claude 4 for hard open-ended problems]] | @nb | `-` |
 | 2026-07-04 | [[experiments/nb-2026-07-04-claude4-goal-harness-for-codegen|Use Claude 4 to design a goal harness that guides a downstream coding model]] | @nb | `-` |
 | 2026-07-03 | [[experiments/nh-2026-07-03-llm-wiki-fable-youtube-transcripts|Ingest YouTube transcripts into a Claude Code-maintained LLM wiki with backlink graph]] | @nh | `-` |
 | 2026-07-03 | [[experiments/nh-2026-07-03-claude-code-row-skill-verification|Implement a ROW (Research → Outline → Write) skill file with mandatory verification step in Claude Code]] | @nh | `-` |
-| 2026-07-03 | [[experiments/nb-2026-07-03-paperwork-agent-skeleton|Build a reusable 9-step agent skeleton for high-trust paperwork processing]] | @nb | `-` |
-| 2026-07-03 | [[experiments/aie-2026-07-03-harness-engineering-dspy|Apply DSPy harness engineering to decouple task specification from model selection]] | @aie | `-` |
+| 2026-07-03 | [[experiments/nb-2026-07-03-paperwork-agent-skeleton|Build a reusable 9-step agent skeleton for high-trust paperwork processing]] | @nb | `discard` |
+| 2026-07-03 | [[experiments/aie-2026-07-03-harness-engineering-dspy|Apply DSPy harness engineering to decouple task specification from model selection]] | @aie | `discard` |
 | 2026-07-03 | [[experiments/aie-2026-07-03-fable-agentic-traces-model-selection|Log agentic traces to real-world benchmark data for evidence-based model selection]] | @aie | `-` |
 | 2026-07-02 | [[experiments/nb-2026-07-02-task-complexity-model-routing|Route tasks by complexity: cheap model for center-of-distribution work, frontier model for novel tasks]] | @nb | `-` |
 | 2026-07-02 | [[experiments/nb-2026-07-02-model-resilience-harness-ownership|Own the routing harness so any single model going offline causes zero downtime]] | @nb | `-` |
 | 2026-07-02 | [[experiments/nb-2026-07-02-context-war-harness-strategy|Reduce context-loading friction by pre-wiring relevant workspace context into agent sessions]] | @nb | `-` |
 | 2026-07-02 | [[experiments/do-2026-07-02-open-source-model-self-hosting-resilience|Self-host a large open-source model as the unbannable execution backbone for business-critical pipelines]] | @do | `-` |
 | 2026-07-02 | [[experiments/do-2026-07-02-frontier-orchestrator-cheap-actors|Use frontier model as orchestrator/planner and cheap open-source models as actor agents]] | @do | `-` |
-| 2026-07-02 | [[experiments/aie-2026-07-02-ambient-ai-in-conversation|Build an ambient AI participant that captures decisions from live conversation without explicit prompts]] | @aie | `-` |
-| 2026-07-01 | [[experiments/nh-2026-07-01-fable5-prompting-six-habits|Apply Fable 5-specific prompting rules to system prompts and skill files]] | @nh | `-` |
+| 2026-07-02 | [[experiments/aie-2026-07-02-ambient-ai-in-conversation|Build an ambient AI participant that captures decisions from live conversation without explicit prompts]] | @aie | `discard` |
+| 2026-07-01 | [[experiments/nh-2026-07-01-fable5-prompting-six-habits|Apply Fable 5-specific prompting rules to system prompts and skill files]] | @nh | `discard` |
 | 2026-07-01 | [[experiments/nb-2026-07-01-ai-memory-80pct-self-built|Bootstrap a personal AI memory stack by prompting an agent to build it]] | @nb | `-` |
 | 2026-07-01 | [[experiments/aie-2026-07-01-software-factories-loop-stacking|Implement a Slack/paging human-in-the-loop interrupt for long-running agent jobs]] | @aie | `-` |
 | 2026-06-30 | [[experiments/mk-2026-06-30-agentic-os-five-layers|Structure agent harnesses as five explicit layers with tracked rot-rates]] | @mk | `-` |
 | 2026-06-30 | [[experiments/aij-2026-06-30-pre-tool-use-hook-pattern|Use pre-tool-use hooks to silently augment default agent tool calls with richer context]] | @aij | `-` |
-| 2026-06-30 | [[experiments/aij-2026-06-30-codebase-memory-mcp-graph|Replace flat-file grep with codebase-memory MCP graph for agent context]] | @aij | `-` |
+| 2026-06-30 | [[experiments/aij-2026-06-30-codebase-memory-mcp-graph|Replace flat-file grep with codebase-memory MCP graph for agent context]] | @aij | `discard` |
 | 2026-06-30 | [[experiments/aie-2026-06-30-rl-agent-etl-remediation|Apply a reinforcement-learning agent to auto-detect and remediate ETL pipeline failures]] | @aie | `-` |
 | 2026-06-29 | [[experiments/nh-2026-06-29-storm-skill-multi-perspective-research|Implement Stanford STORM skill with five specialist personas and a verification pass]] | @nh | `-` |
-| 2026-06-29 | [[experiments/do-2026-06-29-hermes-mixture-of-agents|Configure Mixture-of-Agents preset in Hermes to surpass single-model quality]] | @do | `-` |
+| 2026-06-29 | [[experiments/do-2026-06-29-hermes-mixture-of-agents|Configure Mixture-of-Agents preset in Hermes to surpass single-model quality]] | @do | `discard` |
 | 2026-06-29 | [[experiments/aie-2026-06-29-voice-in-visuals-out-latency-architecture|Build a voice-in / visuals-out agent using a fast small model for real-time response with async handoff to a larger model]] | @aie | `-` |
 | 2026-06-29 | [[experiments/aie-2026-06-29-user-story-mapping-before-build|Require a user story map before any agent-assisted feature build to reduce wrong-thing velocity]] | @aie | `-` |
 | 2026-06-29 | [[experiments/aie-2026-06-29-slm-replace-llm-calls|Audit agent LLM calls and replace routine classification/summarization calls with on-device SLMs]] | @aie | `-` |
 | 2026-06-29 | [[experiments/aie-2026-06-29-skill-quality-checklist|Audit existing skills against a four-point checklist: trigger, structure, steering, pruning]] | @aie | `-` |
-| 2026-06-29 | [[experiments/aie-2026-06-29-simulation-driven-spec-for-distributed-agents|Use a deterministic simulation environment to let agents design distributed algorithms before implementing them]] | @aie | `-` |
+| 2026-06-29 | [[experiments/aie-2026-06-29-simulation-driven-spec-for-distributed-agents|Use a deterministic simulation environment to let agents design distributed algorithms before implementing them]] | @aie | `discard` |
 | 2026-06-29 | [[experiments/aie-2026-06-29-graph-based-cross-document-compliance|Replace document-level validation with graph-based cross-document entity correlation for anomaly detection]] | @aie | `-` |
 | 2026-06-29 | [[experiments/aie-2026-06-29-domain-specific-agent-hierarchy|Decompose a monolithic agent into a coordinator plus narrow domain-specific sub-agents with sandboxed file systems]] | @aie | `-` |
 | 2026-06-29 | [[experiments/aie-2026-06-29-deterministic-infra-agentic-control-plane|Add a policy validation gateway between agent proposal and tool execution to prevent runaway retry loops]] | @aie | `-` |
-| 2026-06-29 | [[experiments/aie-2026-06-29-agentic-engineer-spec-eval-loop|Implement an automated offline-online agent improvement loop: spec → build → eval → ship → diagnose → optimize]] | @aie | `-` |
+| 2026-06-29 | [[experiments/aie-2026-06-29-agentic-engineer-spec-eval-loop|Implement an automated offline-online agent improvement loop: spec → build → eval → ship → diagnose → optimize]] | @aie | `discard` |
 | 2026-06-29 | [[experiments/aie-2026-06-29-agent-replayability-boundary-tracing|Instrument agent nodes with boundary-level trace capture to enable replay-based debugging and stubbed regression tests]] | @aie | `-` |
 | 2026-06-28 | [[experiments/st-2026-06-28-agent-skills-reusable-instructions|Build agent skill folders with progressive disclosure to eliminate repetitive context setup]] | @st | `-` |
 | 2026-06-28 | [[experiments/nb-2026-06-28-glm52-harness-last-mile|Audit task distribution to identify center-vs-edge work before model switching]] | @nb | `-` |
-| 2026-06-28 | [[experiments/aie-2026-06-28-turboquant-embedding-compression|Swap the retrieval layer in agent vector search to TurboQuant 3-4 bit embedding compression for 5x memory reduction]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-turboquant-embedding-compression|Swap the retrieval layer in agent vector search to TurboQuant 3-4 bit embedding compression for 5x memory reduction]] | @aie | `discard` |
 | 2026-06-28 | [[experiments/aie-2026-06-28-spec-driven-development|Implement spec-driven development with markdown requirements and design docs generated before any code is written]] | @aie | `-` |
 | 2026-06-28 | [[experiments/aie-2026-06-28-research-to-production-rpt|Require a Research Prototype Taxonomy document before any ML prototype enters the production mono-repo]] | @aie | `-` |
 | 2026-06-28 | [[experiments/aie-2026-06-28-openclaw-physical-ai-terminal|Build a dual-display ESP32 terminal as a dedicated offline AI interaction device]] | @aie | `-` |
-| 2026-06-28 | [[experiments/aie-2026-06-28-local-code-index-token-reduction|Insert a local hybrid-search code index between codebase and AI coding tools to cut input tokens]] | @aie | `-` |
-| 2026-06-28 | [[experiments/aie-2026-06-28-hybrid-rag-sql-rrf-telemetry|Pre-process documents into PostgreSQL with hybrid RRF search before LLM queries to avoid multimodal upload token tax]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-local-code-index-token-reduction|Insert a local hybrid-search code index between codebase and AI coding tools to cut input tokens]] | @aie | `discard` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-hybrid-rag-sql-rrf-telemetry|Pre-process documents into PostgreSQL with hybrid RRF search before LLM queries to avoid multimodal upload token tax]] | @aie | `discard` |
 | 2026-06-28 | [[experiments/aie-2026-06-28-html-for-agent-graphics|Use HTML+CSS as the agent-native format for generating slide decks, documents, and visual artifacts instead of canvas-based tools]] | @aie | `-` |
 | 2026-06-28 | [[experiments/aie-2026-06-28-five-agent-token-optimisations|Apply five token-reduction techniques to agent loops: prompt caching, difficulty routing, tool-result offload, loop caps, and history trimming]] | @aie | `-` |
-| 2026-06-28 | [[experiments/aie-2026-06-28-extended-cache-augmented-generation|Distribute a rapidly-changing full-corpus across parallel CAG buckets with a supervisor model for global questions]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-extended-cache-augmented-generation|Distribute a rapidly-changing full-corpus across parallel CAG buckets with a supervisor model for global questions]] | @aie | `discard` |
 | 2026-06-28 | [[experiments/aie-2026-06-28-docling-unstructured-document-processing|Use Docling for local, GPU-free conversion of PDFs and mixed documents to structured markdown before RAG ingestion]] | @aie | `-` |
 | 2026-06-28 | [[experiments/aie-2026-06-28-browser-agent-compressed-dom|Replace Full-DOM or Screenshot-Only Input with a Compressed Markdown Page Representation for Browser Agents]] | @aie | `-` |
-| 2026-06-28 | [[experiments/aie-2026-06-28-autonomous-engineering-org-maturity|Use a six-stage agent maturity model and AI champions program to accelerate org-wide adoption past stage 3]] | @aie | `-` |
-| 2026-06-28 | [[experiments/aie-2026-06-28-ai-system-design-framework|Apply a four-phase design framework (requirements → architecture → evaluation → optimisation) before writing any AI system code]] | @aie | `-` |
-| 2026-06-28 | [[experiments/aie-2026-06-28-agents-building-agents-live-trace-clustering|Cluster Live Agent Traces into Failure Reports and Auto-Fix with a Coding Agent]] | @aie | `-` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-autonomous-engineering-org-maturity|Use a six-stage agent maturity model and AI champions program to accelerate org-wide adoption past stage 3]] | @aie | `discard` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-ai-system-design-framework|Apply a four-phase design framework (requirements → architecture → evaluation → optimisation) before writing any AI system code]] | @aie | `discard` |
+| 2026-06-28 | [[experiments/aie-2026-06-28-agents-building-agents-live-trace-clustering|Cluster Live Agent Traces into Failure Reports and Auto-Fix with a Coding Agent]] | @aie | `discard` |
 | 2026-06-28 | [[experiments/aie-2026-06-28-agents-building-agents-harness|Build a Golden Dataset + Eval Loop to Drive Agent Improvements]] | @aie | `-` |
 | 2026-06-28 | [[experiments/aie-2026-06-28-agent-rx-outcome-informed-retrieval|Add outcome-weighted utility scoring to agent retrieval so memory relevance improves from past run success/failure signals]] | @aie | `-` |
 | 2026-06-26 | [[experiments/nb-2026-06-26-open-engine-multi-ai-queue|Build a shared task queue so multiple AI agents hand off work with full context]] | @nb | `discard` |

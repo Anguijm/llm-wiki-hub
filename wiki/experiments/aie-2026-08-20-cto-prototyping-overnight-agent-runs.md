@@ -4,7 +4,7 @@
 
 Source: **[Prototyping as Leadership: How a CTO Ships with AI Agents — Hursh Agrawal, The Browser Company](https://www.youtube.com/watch?v=bdHaOXZOhcM)** · aie · 2026-08-20
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly maps to our operating model. The evening task setup → overnight run �
 
 Four categories of leader-appropriate builds (from Julie Zhuo survey): (1) internal tools/quality-of-life, (2) celebration artifacts for team, (3) vision prototypes with new model families, (4) codebase gardening. Hursh recommends against taking critical-path work. His 'code humbled' warning: agent-generated code has caused SEVs and annoyed engineers — always read code before adding reviewers, keep PRs small. Delegation skill from managing people transfers directly to prompting agents: set goals, give context, check in, coach ('have you tried this?').
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the leadership-column angle depends on a source check and a talk about a toddler and 15 meetings, which is a thin column seed.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-20 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

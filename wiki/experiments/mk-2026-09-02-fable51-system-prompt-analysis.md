@@ -4,7 +4,7 @@
 
 Source: **[Fable 5.1 Scores Better. So Why Is Its Prompt So Much Bigger?](https://www.youtube.com/watch?v=cHVB2e-V80Y)** · mk · 2026-09-02
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ The YOLO loop's CLAUDE.md and external memory files are currently flat; adding e
 
 Mark also notes Anthropic's prompt now includes proactive skill/plugin suggestion — the model can identify that a current skill is insufficient and propose installing a better one mid-session. Worth testing whether Fable 5.1 actually surfaces this behavior in Claude Code.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the card rests on a leaked prompt (Unverified) and his memory files are already split by topic with a markings rule in his global CLAUDE.md; a sensitivity tier adds labels without a...
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-02 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

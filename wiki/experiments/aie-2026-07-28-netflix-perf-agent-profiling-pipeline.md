@@ -4,7 +4,7 @@
 
 Source: **[AI Agents for Performance: Ship Faster, Pay Less — Rajat Shah, Netflix](https://www.youtube.com/watch?v=CgsWxRUY5Eo)** · aie · 2026-07-28
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Rajat Shah described Netflix's AI performance engineering system. The traditiona
 
 Directly applicable to our dev loop's performance feedback stage. Rather than waiting for slowness to be noticed, a scheduled performance agent could continuously surface regressions introduced by AI-generated code before they reach production.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the Unreal port is early and no profiler capture exists; the idea only matters once there is a performance problem.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-28 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

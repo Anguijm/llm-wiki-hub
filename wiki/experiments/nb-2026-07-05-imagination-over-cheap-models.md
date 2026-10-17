@@ -4,7 +4,7 @@
 
 Source: **[You Can't Compete on Cheap Models Anymore](https://www.youtube.com/watch?v=1cSNE-ZkDLQ)** · nb · 2026-07-05
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Nate analyzed Mitchell Hashimoto's experiments comparing cheap models vs. fronti
 
 Directly challenges the yolo-loop default of routing everything to the cheapest model. Suggests adding a periodic 'frontier exploration' step where engineers with deep codebase context are explicitly permitted to spend on speculative frontier-model queries to find improvements the task list never captured.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: an opinion about budgeting for open-ended questions, with no method; the ROCm tuning example is a research project, not a card.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-05 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

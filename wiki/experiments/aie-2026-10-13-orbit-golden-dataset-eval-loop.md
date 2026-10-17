@@ -4,7 +4,7 @@
 
 Source: **[Agents in Orbit: Workflows, Not Autopilot — Eduardo Simon & Javier Casal, Flywire](https://www.youtube.com/watch?v=rAUyRDOFyHU)** · aie · 2026-10-13
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ We lack a structured regression harness. Capturing OpenTelemetry traces from our
 
 Flywire does not yet have online evals; on-demand dataset runs are the current practice. Goal is deploy → monitor → improve without redeployment cycle.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: 90_meta/critic-calibration-pairs.tsv and grounding-gold already hold a golden set for the critics and the ground check.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-13 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

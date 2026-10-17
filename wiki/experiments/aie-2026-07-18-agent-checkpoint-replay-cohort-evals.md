@@ -4,7 +4,7 @@
 
 Source: **[Your Agents Need a Save Button - Hamza Tahir, ZenML](https://www.youtube.com/watch?v=bZISsg7H7DA)** · aie · 2026-07-18
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Hamza Tahir described the gap between read-only traces (OTel spans) and the full
 
 Directly addresses the YOLO loop's need to evaluate changes safely; adding checkpoint replay would let us test prompt or model changes against real production runs rather than synthetic benchmarks, with a clear checkpoint→replay→diff→decide→ship methodology.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: dup of aie-2026-06-29-agent-replayability-boundary-tracing, and grounding_ab.py already compares settings on frozen cases.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-18 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

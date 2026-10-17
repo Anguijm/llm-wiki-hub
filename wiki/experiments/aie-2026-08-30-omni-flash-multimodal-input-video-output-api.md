@@ -4,7 +4,7 @@
 
 Source: **[SOTA Generative Media Panel — Dumitru Erhan, Shane Gu & Nicole Brichtova, Google DeepMind](https://www.youtube.com/watch?v=KLDdXOw6jIc)** · aie · 2026-08-30
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Opens a new media-generation node in our dev loop: any pipeline step that curren
 
 Panel confirmed Omni Flash API is live now. NanoBanana 2 Light also available via API. Panelists explicitly invited developers to share real-world failure cases directly with the team to inform upstream model improvements—worth filing issues if we hit edge cases in pattern replication or brand-color fidelity.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: an API launch announcement (Omni Flash, NanoBanana 2 Light) at a stated price.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-30 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

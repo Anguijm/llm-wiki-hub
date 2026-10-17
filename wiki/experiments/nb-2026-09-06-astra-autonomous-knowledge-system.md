@@ -4,7 +4,7 @@
 
 Source: **[GPT-6 Astra Doesn't Need Your Instructions Anymore.](https://www.youtube.com/watch?v=1qGH6NwTj3o)** · nb · 2026-09-06
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly tests whether our dev loop can be seeded with raw project artifacts (is
 
 Speaker notes Fable 5.1 showed similar autonomous rerouting behavior (switching from Veo to Gemini mid-task without user approval). Worth running a parallel trial with Fable 5.1 as control.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: depends on Astra for five days unattended on personal email, which he does not have, and the vault is already built.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-06 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Wearing the Agent: From Group Chats to Glasses — Sai Krishna Rallabandi](https://www.youtube.com/watch?v=s67bE2Ur3bY)** · aie · 2026-07-30
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ As our dev loop agents get shared across team members (shared Slack bots, shared
 
 Speaker's three-primitive summary for group agent harnesses: (1) Jatayu security gate — context-sensitive information filtering; (2) memory harness with continuous relevance scoring and KV-cache-aware injection; (3) intelligent routing to responsible parties rather than broadcast. Reference: 'The User as an Engram' paper for per-user LoRA memory approach.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: no group-chat agent exists; famcal is a calendar app with two users, and the Signal channel is one-to-one, so a speak-or-stay-silent classifier has nothing to gate yet.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-30 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

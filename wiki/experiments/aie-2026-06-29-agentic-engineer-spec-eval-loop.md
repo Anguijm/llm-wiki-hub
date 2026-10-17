@@ -4,7 +4,7 @@
 
 Source: **[The Agentic AI Engineer - Benedikt Sanftl, Mutagent](https://www.youtube.com/watch?v=pSto5YaNGUo)** · aie · 2026-06-29
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ This is a meta-improvement layer on top of our YOLO loop: rather than manually r
 
 Mutagent is available for early access. Start with the offline loop (spec-driven development with explicit success criteria and evals) before attempting the online automated diagnostics loop. The diagnostics agent's assumptions block is critical — it surfaces where the LLM made incorrect inferences about the codebase due to lack of code access.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: dup of the trace-clustering card; the assumptions-block idea is the only extra and the vendor product is early access only.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-29 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

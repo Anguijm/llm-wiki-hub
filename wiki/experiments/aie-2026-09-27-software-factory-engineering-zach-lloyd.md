@@ -4,7 +4,7 @@
 
 Source: **[Software Engineering Is Becoming Factory Engineering — Zach Lloyd, Warp](https://www.youtube.com/watch?v=tUPPVhBBcoM)** · aie · 2026-09-27
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Zach Lloyd, CEO of Warp, argued that software engineering is structurally becomi
 
 Strategic framing for the YOLO loop: treating the loop as a production pipeline with measurable yield and throughput metrics would let us apply systematic improvement cycles rather than ad-hoc tuning.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the dev-loop dashboard is not his need, and newsletter_quality.py and selection-ledger.tsv already measure the brief.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-27 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

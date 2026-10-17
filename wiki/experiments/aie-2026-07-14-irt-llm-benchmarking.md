@@ -4,7 +4,7 @@
 
 Source: **[Stop Evaluating Models Like It's the 50s - Alejandro Vidal, Mindmakers](https://www.youtube.com/watch?v=O3FEoMYvUf8)** · aie · 2026-07-14
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ If we run internal evals to choose which model to use in our loop, replacing acc
 
 Speaker released all materials publicly; links in video description. Meta-Benchmark paper recommended as companion reading.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: dup of aie-2026-07-12-irt-llm-benchmark-evaluation, which has more detail.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-14 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

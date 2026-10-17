@@ -4,7 +4,7 @@
 
 Source: **[Modality Misalignment and Originality Attribution in Short-Form Video — Aditya Gautam, Meta](https://www.youtube.com/watch?v=jNE8No-wvok)** · aie · 2026-09-23
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Aditya Gautam from Meta presented research on detecting when different modalitie
 
 If our loop generates multimodal outputs, adding a modality alignment check as a quality gate step before human review could catch hallucinated or low-coherence outputs automatically.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the talk is about short-form video originality; the corroboration rule in CLAUDE.md is a human judgment on text sources and no video is involved.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

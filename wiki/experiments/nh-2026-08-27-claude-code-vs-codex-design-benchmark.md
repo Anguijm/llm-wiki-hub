@@ -4,7 +4,7 @@
 
 Source: **[I Tested Claude Code vs. Codex on Design. It Wasn't Even Close.](https://www.youtube.com/watch?v=bg0C-2iUUqM)** · nh · 2026-08-27
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly applicable to our build loop. We should run our standard scaffold gener
 
 Key insight: with highly specific prompts, outputs are nearly identical but Codex is ~4x cheaper and ~3x faster. Prompt specificity is the equalizer.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a vendor cost bake-off that he cannot act on because he does not run Codex.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-27 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

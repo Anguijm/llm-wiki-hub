@@ -4,7 +4,7 @@
 
 Source: **[Cursor Accidentally Exposed Grok Bot's Blueprint](https://www.youtube.com/watch?v=mAWT1HCBgbQ)** · mk · 2026-08-27
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Highly relevant to scaling our YOLO loop beyond single-agent. Implementing the m
 
 Auto-approval tiering is the most immediately actionable piece — start by classifying current agent actions into always-allow, ask-once, and always-confirm buckets.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: newsletter-selection-loop.md shows the five-agent round-table already runs with files on disk and session-digest between rounds; per-agent queues and interrupts would be a harness rebuild...
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-27 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[WF26: Harness Engineering & Startup Battlefield ft. Garry Tan, Mike Krieger, @t3dotgg, DSPy](https://www.youtube.com/watch?v=I2cbIws9j10)** · aie · 2026-07-03
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Harness engineering directly addresses the YOLO loop's model-selection brittlene
 
 Transcript was heavily truncated (481K chars, only partial content available). Card is based on available intro context and conference theme. Full DSPy talk content not accessible from truncated transcript — worth watching full recording for implementation specifics.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: dup of aie-2026-07-23-dspy-task-signature-separation, and the transcript was truncated so the card has no DSPy specifics.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-03 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

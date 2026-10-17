@@ -4,7 +4,7 @@
 
 Source: **[Bridging the Gap Between AI Builders and Domain Experts](https://www.youtube.com/watch?v=QnrIyf48MvU)** · mlops · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Justin argued that domain-specific agents fail to be reusable because there are 
 
 Directly maps to agent reproducibility in our dev loop: any agent we ship should have a pinned spec so CI can verify it runs with identical efficacy on every deploy, preventing silent regressions from model or provider changes.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: engine.md already records the model used per stage in the run manifest and grounding_ab.py proves a setting still works, so a lockfile adds a name for something he has.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

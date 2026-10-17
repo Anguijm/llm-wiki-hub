@@ -4,7 +4,7 @@
 
 Source: **[How to Use AI on Files You're Not Allowed to Upload](https://www.youtube.com/watch?v=EuVvLwWZ5wc)** · nb · 2026-07-24
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Skills and agent prompts in the YOLO loop often pass entire files or large conte
 
 Low-effort to experiment with as a prompt pattern: prepend every file-ingesting skill with a structured 'task statement' block and instruct the model to explicitly list which sections it needs before proceeding.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: ground_check.py already works per claim against a staged source, so the claim is the stated job; the card adds a prompt habit, not a change.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

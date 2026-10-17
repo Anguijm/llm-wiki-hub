@@ -4,7 +4,7 @@
 
 Source: **[Build & Sell with Codex (5+ Hour Course)](https://www.youtube.com/watch?v=X-pbJWKmwi0)** · nh · 2026-09-22
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ The speaker produced a 5+ hour course walking through using OpenAI Codex to buil
 
 Maps to the code-generation step of the YOLO loop — adopting Codex-specific prompting patterns and scaffolding techniques from this course could improve the quality and autonomy of code produced in each loop iteration.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: card describes a 5-hour course on building sellable products; Assessment: no method on the card.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-22 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

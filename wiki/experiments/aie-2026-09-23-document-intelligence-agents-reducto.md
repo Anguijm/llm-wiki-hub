@@ -4,7 +4,7 @@
 
 Source: **[From Ingestion to Agents: How AI Teams Build on Document Intelligence — Adit Abraham, Reducto](https://www.youtube.com/watch?v=0I07YAuF8xA)** · aie · 2026-09-23
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Adit Abraham from Reducto walked through how AI engineering teams build end-to-e
 
 If our loop ingests any document context (specs, logs, PRDs), replacing naive chunking with a proper document intelligence layer like Reducto could significantly improve agent output quality.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: a Reducto pipeline walk-through.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

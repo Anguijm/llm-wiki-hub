@@ -4,7 +4,7 @@
 
 Source: **[Rebuilding the web for agents — Liad Yosef, MCP Apps](https://www.youtube.com/watch?v=waI44NP1abk)** · aie · 2026-09-16
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ When our dev loop agents need to integrate with external services (project manag
 
 Aura directory is live and publicly queryable. ai-catalog.json is a standard by Anthropic, OpenAI, Google, MCP, A2A. Gemini does not yet support MCP Apps (as of talk date). Accessibility for agents mirrors accessibility for humans with vision disabilities — improving one improves the other.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: a pitch for the Aura agent directory.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-16 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

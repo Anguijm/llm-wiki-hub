@@ -4,7 +4,7 @@
 
 Source: **[Harness Engineering Explained in 22 Minutes](https://www.youtube.com/watch?v=UmZytjgs2eo)** · st · 2026-07-19
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Maps directly to the YOLO loop architecture: claude.md and skills files define t
 
 Bonus lever mentioned (truncated in transcript) is evals. Key mindset shift: instead of asking 'how do I do this task?' ask 'how do I build the harness so the agent does this reliably?' — speaker calls this 'agent empathy': put yourself in the agent's shoes and ask if you'd succeed given only what the agent has.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a framing talk with one useful line (agent empathy) and no build.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-19 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

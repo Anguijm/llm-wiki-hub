@@ -4,7 +4,7 @@
 
 Source: **[Teaching agents to pay — Anna Spysz, Stripe](https://www.youtube.com/watch?v=A-zeQiYkmXk)** · aie · 2026-09-01
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Two immediate applications: (1) if any YOLO loop service should be agent-discove
 
 Key finding from persona experiment: system prompt choice is the dominant variable in agent commerce UX — agents with different system prompts behave as completely different purchasing personas on identical tasks. Stripe Developers YouTube channel has follow-up videos on UCP.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: a tour of Stripe's commerce protocol and onboarding path.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-01 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Stop giving AI tasks. Give it the goal behind the goal.](https://www.youtube.com/watch?v=Gj_GlrTxIWQ)** · eh · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Drawing on Felix Riesberg's article and his own Foundry app builds, the speaker 
 
 Core to our YOLO loop prompt design: shifting from task-level to goal-level prompts, combined with a playbook and test harness as groundwork, would let agents self-organize work and reduce round-trip iteration on sub-tasks.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: mostly how he already works; the new piece, exactly two minutes not about two, is a small prompt tactic.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

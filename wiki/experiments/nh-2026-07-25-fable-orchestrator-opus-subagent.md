@@ -4,7 +4,7 @@
 
 Source: **[I Tested Opus 5 vs. Fable 5. What You Need to Know.](https://www.youtube.com/watch?v=2J3uX8iRNng)** · nh · 2026-07-25
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Directly applicable to our YOLO loop architecture: framing the top-level agent a
 
 Simple prompt constraint to test: add 'You should not write any code or execute anything; only delegate to subagents' to Fable system prompt and measure context growth rate over a long session.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: his selection loop and gauntlets already have the main session delegate to subagents, and the 300-400K context claim is one speaker's observation.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-25 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

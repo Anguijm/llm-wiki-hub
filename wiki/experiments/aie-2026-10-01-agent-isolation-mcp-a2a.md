@@ -4,7 +4,7 @@
 
 Source: **[Your Agents Are in Solitary Confinement: Why MCP & A2A Aren't Enough — Vlad Luzin, Band](https://www.youtube.com/watch?v=UOcHfR3_tys)** · aie · 2026-10-01
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Vlad Luzin from Band argued that current protocols like MCP and A2A leave agents
 
 The YOLO loop increasingly involves multiple specialized agents; if MCP and A2A are insufficient for real coordination, we need to prototype the next layer to prevent agents from working at cross-purposes.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: FACT: a BAND pitch arguing agents are isolated, with no reproducible method on the card.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-01 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

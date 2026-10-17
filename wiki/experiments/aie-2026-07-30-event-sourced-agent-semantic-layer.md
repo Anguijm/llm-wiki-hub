@@ -4,7 +4,7 @@
 
 Source: **[Let's integrate AI Agents in Event-Sourced Systems — Divakar Kumar, FlyersSoft](https://www.youtube.com/watch?v=o6U_2vd967Y)** · aie · 2026-07-30
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Provides a concrete integration pattern for connecting our agents to existing sy
 
 Key architectural insight: do not replace existing rule-based/ML systems — use agents only for the uncertain gray-zone cases. This staged approach de-risks integration and preserves existing investment. The two-agent consensus + orchestrator synthesis pattern is reusable for any multi-signal decision problem.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the nightly gather already runs cheap rules before any model step, and the gray-zone-only agent idea is a cost trim without a visible cost problem (drafting is free by design per...
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-30 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

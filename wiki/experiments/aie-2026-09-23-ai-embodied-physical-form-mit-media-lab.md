@@ -4,7 +4,7 @@
 
 Source: **[I Gave an AI a Body — Cyrus Clarke, MIT Media Lab](https://www.youtube.com/watch?v=jgWY66RaSrQ)** · aie · 2026-09-23
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Cyrus Clarke from MIT Media Lab described giving an AI system a physical body �
 
 Longer-term signal for our loop — if we evolve toward agents that interact with real environments (browsers, OS, physical sensors), embodiment principles about sensorimotor grounding are directly relevant to agent architecture design.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: title-only card, and the rover pairing needs hardware he does not have.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Multiplayer agentic engineering — Arjun Singh, Superconductor](https://www.youtube.com/watch?v=OL7kfezynJM)** · aie · 2026-08-09
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Superconductor ran systematic comparisons of coding agents on their own pull req
 
 Highly relevant—the YOLO loop should not be hard-coded to one model provider. Running periodic benchmark sweeps on representative tasks from our own repo gives empirical data to justify model switches and optimize the cost/quality frontier of the generation step.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: ~/brain/_scripts/grounding_ab.py already compares settings on his own claims, and the duplicate card lists the same idea.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-09 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

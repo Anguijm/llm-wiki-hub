@@ -4,7 +4,7 @@
 
 Source: **[From Tokens to Cells: Foundation Models for Single-Cell Biology - Akram Baharlouei, Altos Labs](https://www.youtube.com/watch?v=-561cZmir5Q)** · aie · 2026-07-19
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ Peripheral — relevant if the YOLO loop incorporates bioinformatics or scientif
 
 Primary domain is computational biology / drug discovery, not AI dev tooling. Actionable only for teams building scientific ML pipelines. Papers referenced: SCGENE/SCOPE, perturbation benchmarking (NeurIPS), PrimeFlow (arXiv).
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a computational-biology talk with no build for him; the editor-baseline lesson is stated better by other cards.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-19 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

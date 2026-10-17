@@ -4,7 +4,7 @@
 
 Source: **[How Inference Keeps Up with Our Insatiable Need for Tokens — Cerebras & Gimlet Labs](https://www.youtube.com/watch?v=_cRgl3maiT8)** · aie · 2026-10-13
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ The YOLO loop runs long-context coding agents that accumulate large KV caches. U
 
 The KForge agent-generates-kernels pattern (brute-force search over hardware/workload profiles) is a low-overhead experiment to try on local vLLM/SGLang deployments. Start by profiling actual KV cache usage per agent run before investing in paged KV cache infrastructure.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the KForge tool is not obtainable and the 1 GB per 3,000 tokens rule does not change what he runs.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-13 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

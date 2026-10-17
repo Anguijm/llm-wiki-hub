@@ -4,7 +4,7 @@
 
 Source: **[The AI Bottleneck: Why Your Team Isn't Shipping. Here's the Fix.](https://www.youtube.com/watch?v=2IAYFgAqX6g)** · nb · 2026-09-27
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Nate diagnosed why teams using AI tools still fail to ship faster, pointing to p
 
 Directly relevant: the YOLO loop may stall at human review of agent output. Mapping where we gate on human judgment and automating or parallelizing those gates could unlock shipping velocity.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the card is a one-paragraph diagnosis (the human review queue is the limit) with no method, and he already knows his own review time is the limit.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-27 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

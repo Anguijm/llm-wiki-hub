@@ -4,7 +4,7 @@
 
 Source: **[The Next Trillion Internet Users Still Don't Have an Identity — Adi Singh, AgentMail](https://www.youtube.com/watch?v=mBNVKkyfnE0)** · aie · 2026-10-13
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Our agents that interact with external services (GitHub, APIs, SaaS tools) curre
 
 Key insight: giving an agent its own email creates a scoped audit trail of what it signed up for, what it did with each resource, and how to reach it—analogous to what OAuth does for API access but for human-facing communication channels.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: an inbox-API product (AgentMail); his rule is that he signs in himself and agents never handle credentials.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-13 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

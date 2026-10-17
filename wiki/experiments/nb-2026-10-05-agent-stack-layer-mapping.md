@@ -4,7 +4,7 @@
 
 Source: **[The end of the app era: What comes next?](https://www.youtube.com/watch?v=0j8wy4jUlsw)** · nb · 2026-10-05
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Directly applicable: we can audit the YOLO loop's current tool dependencies (dat
 
 Nate frames this as both a seller/buyer problem and an individual worker problem. The four-layer framework (data, structured workflow, app interface, agentic layer) is the core artifact to implement.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: his 63-card project audit (project-audit-2026-10.md) already maps what each project depends on, so a four-layer relabel adds columns, not findings.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-05 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

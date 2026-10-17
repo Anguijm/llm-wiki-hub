@@ -4,7 +4,7 @@
 
 Source: **[Guardians of the State: An Air-Gapped AI Fortress for Consumer Data — Rachna Srivastava, DFPI](https://www.youtube.com/watch?v=2WZsT-znFTQ)** · aie · 2026-08-29
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Rachna described DFPI's offline AI fraud-detection system built for courtroom de
 
 For YOLO loop deployments handling sensitive data, the Kafka-replay + Iceberg time-travel pattern provides both the audit trail and the reproducibility guarantee needed to debug agent decisions post-hoc; the semantic router pattern for model routing is directly applicable to reduce inference cost per task class.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a state agency air-gap build with no equivalent need; the replay-for-audit idea is already how the prediction ledger is kept (predictions.tsv).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-29 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Google Just Fixed AI Design By Releasing This](https://www.youtube.com/watch?v=au2TI8sdq8E)** · ail · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ high: this is a complete Claude Code skill composition workflow — demonstrates
 
 Install gotcha: Stitch CLI skill must be installed with explicit .claude folder path or Claude won't load it. The story review skill pattern (separate skill that audits quality against a brief.md) is reusable for other projects. All skills available in AIABS Pro community.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: overlaps screencast-review, which already checks his apps against recordings, and Stitch needs a Google login with some skills paywalled.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

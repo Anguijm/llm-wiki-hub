@@ -4,7 +4,7 @@
 
 Source: **[How Anthropic Engineers Actually Prompt Fable 5](https://www.youtube.com/watch?v=vcU85OrwuV0)** · nh · 2026-07-01
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Directly actionable for any YOLO loop system prompt or agent skill file using Fa
 
 Fable 5 pricing: $10/M input, $50/M output tokens. Promotional free-tier access (up to 50% of weekly limits) ends July 7 2026. Silent Opus 4.8 fallback is a cost and quality risk to monitor in production agent loops.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the six habits are generic prompt advice and the one load-bearing claim (a silent reroute to another model) is unverified; the newsletter role prompts under _scripts/prompts/roles have no...
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-01 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[Computer-Use 2.0: Agents Just Got Multi-Cursor — Francesco Bonacci, Cua](https://www.youtube.com/watch?v=ZSQb5fzRFPw)** · aie · 2026-07-16
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ If our YOLO loop includes any GUI automation or desktop agent tasks, Quad Driver
 
 Quad Driver is open source. The warm-pool sandbox autoscaler described by Rob (Kua Fleet) is also worth a separate look if we ever run parallelized agent training — it addresses GPU idle time during sandbox reset cycles by demand-based autoscaling the warm pool.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the Linux side is unproven and he already drives his browser and Blender by other routes (use-his-browser.md).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-16 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

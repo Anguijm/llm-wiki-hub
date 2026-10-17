@@ -4,7 +4,7 @@
 
 Source: **[The AI Slop Problem Nobody's Talking About | Substack CEO Interview](https://www.youtube.com/watch?v=m_ZyTNmCDeY)** · nb · 2026-07-23
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -20,11 +20,16 @@ Substack CEO Chris Best described the dividing line between AI slop and legitima
 
 In our agentic dev loop, agent-generated outputs (docs, PRs, summaries, code) risk becoming internal slop — present but unowned. Adding a lightweight human-intent checkpoint (even a single sentence of editorial direction logged before generation) creates accountability and improves downstream quality by forcing the human to actually engage with the task before delegating.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: editorial-standards.md already carries a disclosure line and his publish-when-ready ruling (brain CLAUDE.md) is a human decision before release, so the attestation exists.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-23 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

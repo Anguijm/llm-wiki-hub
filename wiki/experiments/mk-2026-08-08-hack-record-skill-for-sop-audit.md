@@ -4,7 +4,7 @@
 
 Source: **[Claude Code and Codex Quietly Learned to Watch Video](https://www.youtube.com/watch?v=0I-J1aoxYQY)** · mk · 2026-08-08
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Maps to the 'observe and reflect' phase of our loop: instead of manually documen
 
 Audio is not captured by the Record skill—only screen visuals. For workflows where narration matters, a separate Loom recording fed as MP4 is preferred. EU users may not have the Record skill and should use the MP4 drag-drop approach instead.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the keep case is Codex-specific and his work machine is off-limits for screen recording.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-08 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

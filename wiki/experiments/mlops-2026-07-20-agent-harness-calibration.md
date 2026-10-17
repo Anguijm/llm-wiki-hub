@@ -4,7 +4,7 @@
 
 Source: **[Sandboxing, Agent Harnesses, and Agent Teamwork](https://www.youtube.com/watch?v=31IS2mnRV6Q)** · mlops · 2026-07-20
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ The speakers described a practice of taking every failed agent investigation, ru
 
 Directly applicable to our agentic dev loop: we can add a lightweight trace-labelling step after each YOLO run failure, accumulate a failure taxonomy, and use it to tune prompts, tool definitions, and guard-rails rather than guessing.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: ~/bin/session-digest already groups failures by first error line and per-subagent, which is the trace-labeling step; a fixed label taxonomy is a few lines added later if needed.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-20 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

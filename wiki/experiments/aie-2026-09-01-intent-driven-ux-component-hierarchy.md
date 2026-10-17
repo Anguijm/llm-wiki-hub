@@ -4,7 +4,7 @@
 
 Source: **[The End of the Static Screen: Architecting Intent-Driven UX — Gus Iwanaga, commercetools](https://www.youtube.com/watch?v=QrMcNe2jjt8)** · aie · 2026-09-01
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -24,11 +24,14 @@ If the YOLO loop ever generates UI or dashboards dynamically, the slot-hierarchy
 
 Gus emphasized that the people/process shift is as hard as the technical shift — UX designers now write schemas and synthetic data queries instead of designing screens. Three Ps framing: people, product, process.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a commerce company generative UI schema; nothing he renders is dynamic enough to need it.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-01 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

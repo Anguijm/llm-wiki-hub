@@ -4,7 +4,7 @@
 
 Source: **[Don't be data poor — Anuj Iravane, Anterior](https://www.youtube.com/watch?v=XAsb7MIAzm8)** · aie · 2026-08-19
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Anterior modeled their entire synthetic data generation pipeline — patient jou
 
 Relevant to making our eval and data pipelines extensible by non-engineers. Adopting a skill-file abstraction over our agent harness would let us iterate faster on domain-specific steps without engineering bottlenecks.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: lets domain experts change pipeline stages without engineers; he is both and the pipelines are scripts he and Claude already edit.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-19 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

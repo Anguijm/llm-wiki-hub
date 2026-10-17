@@ -4,7 +4,7 @@
 
 Source: **[What is Deep Agents?](https://www.youtube.com/watch?v=8gCam2-iGLc)** · lc · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ high: the harness concept with swappable backends, skills, sub-agents, and human
 
 Companion explainer to the Stripe Kai video. LangChain Academy has a free Deep Agents course. Key primitives: file system, skills, sub-agents, summarization, sandboxes, human-in-the-loop, agent auth.
 
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: Explainer for LangChain's harness product; the primitives listed are ones Claude Code already has.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

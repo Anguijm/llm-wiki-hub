@@ -4,7 +4,7 @@
 
 Source: **[Deploying AI Inside a Bank Is Not an Engineering Problem — Paden Gayle, Applied AI Engineers](https://www.youtube.com/watch?v=3ZlQk4-knWM)** · aie · 2026-10-15
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ Before any YOLO loop iteration that touches production data or regulated workflo
 
 Speaker is writing a book on 'for-deploy engineering' with O'Reilly. The checklist score is a planning heuristic, not a predictor of approval. Key principle: 'the demo worked, the model was fine, it still did not ship—go find the people.'
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a regulated-deployment checklist; he is not deploying inside a bank.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-10-15 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

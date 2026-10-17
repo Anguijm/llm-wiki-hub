@@ -4,7 +4,7 @@
 
 Source: **[AI System Design: From Idea to Production - Apoorva Joshi, MongoDB](https://www.youtube.com/watch?v=T0HhO4YtTfE)** · aie · 2026-06-28
 
-**Status:** `backlog` · **Effort:** `low`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `low`
 
 ---
 
@@ -24,11 +24,14 @@ The framework provides the planning scaffold that should precede any YOLO loop s
 
 MongoDB + Voyage AI stack used in examples but framework is stack-agnostic. GenAI cookbook linked in talk for retrieval technique and agentic pattern examples.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a generic requirements-first framework with no new technique, and he already writes intent.md before projects (push-to-talk).
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-06-28 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

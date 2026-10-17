@@ -4,7 +4,7 @@
 
 Source: **[Autonomous Agents for Scientific Tasks - Sina Shahandeh, Radicait](https://www.youtube.com/watch?v=XLEYtv3cMlw)** · aie · 2026-07-19
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -24,11 +24,14 @@ Directly applicable when the YOLO loop stalls on a problem: instead of more iter
 
 Tool referenced: Peter Steinberger's Oracle CLI for packaging code+data and sending to GPT-5 Pro API. Key bottleneck identified: multimodal models cannot yet observe subtle scientific image features (e.g. small lung nodules) the way trained scientists can — limits fully closed-loop scientific agents. Speaker predicts newer post-trained models will internalize hierarchical decomposition natively, reducing need for explicit scaffolding.
 
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: the angle-finding use duplicates what the five selectors and the fourth research angle already do; the ML use has no home.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-07-19 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

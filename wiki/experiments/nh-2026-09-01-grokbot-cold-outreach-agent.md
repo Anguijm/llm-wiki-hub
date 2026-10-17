@@ -4,7 +4,7 @@
 
 Source: **[Build & Sell Grok Bots (2 Hour Course)](https://www.youtube.com/watch?v=4hKJ9X6rGFo)** · nh · 2026-09-01
 
-**Status:** `backlog` · **Effort:** `high`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `high`
 
 ---
 
@@ -20,11 +20,16 @@ Nate described pairing a Grokbot agent configured with the three Ps (Person, Pai
 
 Tests whether a multi-agent loop (research → write → send → analyze → improve) can close end-to-end without human intervention, which is the core pattern we want to validate for any repeatable agentic workflow in our dev loop.
 
+## Notes
+
+Backlog triage 2026-10-16 round 2 (operator: discard cards that are only someone selling a product). Sales only: Assessment: Grokbot plus Clay cold email; nothing he would use.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-09-01 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 

@@ -4,7 +4,7 @@
 
 Source: **[100 Hours Testing Deepseek Harness vs. Claude Code. What You Need to Know.](https://www.youtube.com/watch?v=UsfCe5fJK6A)** · nh · 2026-08-24
 
-**Status:** `backlog` · **Effort:** `medium`
+**Status:** `discarded` · **Verdict:** `discard` · **Effort:** `medium`
 
 ---
 
@@ -20,11 +20,16 @@ Herk spent roughly 100 hours testing Deepseek Harness out of the box against Cla
 
 Informs model-and-harness selection decisions in the YOLO loop; if the loop uses skills or structured prompts, this experiment framework (same prompt, two harnesses, measure depth/source count/confidence) can be run against any new agentic runtime we consider adopting.
 
+## Notes
+
+Backlog triage 2026-10-17 round 3 (operator: "I want you to evaluate the yolo cards"). Settled maybe, cut: Assessment: a harness bake-off with no code to build; the confidence-calibration metric is covered by the ground check.
+
 ## Status history
 
 | Date | Status | Note |
 |---|---|---|
 | 2026-08-24 | `backlog` | Extracted from YouTube RSS |
+|  | `` |  |
 
 ---
 
