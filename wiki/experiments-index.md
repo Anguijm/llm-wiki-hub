@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1167 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1174 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 609 |
+| `backlog` | 616 |
 | `discarded` | 348 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 681 |
+| `(none)` | 688 |
 | `discard` | 358 |
 | `adopt` | 128 |
 
@@ -32,12 +32,12 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 563 |
+| @aie | 565 |
 | @nh | 166 |
-| @nb | 157 |
+| @nb | 158 |
 | @mlops | 74 |
 | @do | 66 |
-| @mk | 48 |
+| @mk | 50 |
 | @eh | 28 |
 | @aij | 21 |
 | @st | 14 |
@@ -45,6 +45,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | @cm | 5 |
 | @lc | 5 |
 | @ls | 3 |
+| @dc | 3 |
 | @fs | 2 |
 | @ail | 2 |
 | @az | 2 |
@@ -53,7 +54,6 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | @aez | 1 |
 | @pl | 1 |
 | @pa | 1 |
-| @dc | 1 |
 
 ---
 
@@ -63,6 +63,11 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-10-18 | [[experiments/nb-2026-10-18-agent-permission-boundaries|Add layered permission boundaries to agent harness]] | @nb | `-` |
+| 2026-10-18 | [[experiments/dc-2026-10-18-terminal-bench-mini-token-efficiency|Compare token use of local model on Terminal Bench Mini]] | @dc | `-` |
+| 2026-10-18 | [[experiments/dc-2026-10-18-dwarfstar-deepseek-strix-halo|Benchmark DwarfStar with DeepSeek V4.1 Flash Q2 on Strix Halo]] | @dc | `-` |
+| 2026-10-17 | [[experiments/mk-2026-10-17-unified-agents-md-hierarchy|Consolidate instructions into a root AGENTS.md with nested per-domain files]] | @mk | `-` |
+| 2026-10-17 | [[experiments/mk-2026-10-17-audit-claude-codex-config-logs|Audit Claude Code config with a JSONL log analysis script]] | @mk | `-` |
 | 2026-10-16 | [[experiments/nh-2026-10-16-unknown-unknowns-communication-skill|Build a pre-task checklist that surfaces unknown unknowns before handing work to an agent]] | @nh | `-` |
 | 2026-10-16 | [[experiments/nh-2026-10-16-agent-environment-quality|Treat the codebase environment quality as a first-class input to agent output quality]] | @nh | `-` |
 | 2026-10-16 | [[experiments/ls-2026-10-16-world-action-model-visual-chain-of-thought|Apply world-model visual chain-of-thought (predict future state before acting) to verification loops in agent harnesses]] | @ls | `-` |
@@ -134,10 +139,12 @@ Ordered by published date, most recent first.
 | 2026-10-13 | [[experiments/aie-2026-10-13-gpu-timing-side-channel-shared-tenancy|Audit shared-GPU deployments for timing side-channel leakage of model identity and workload type]] | @aie | `discard` |
 | 2026-10-13 | [[experiments/aie-2026-10-13-domain-expert-written-agent-skills|Have domain experts author agent skills via narrated walkthroughs rather than engineering spec]] | @aie | `-` |
 | 2026-10-13 | [[experiments/aie-2026-10-13-deterministic-flow-llm-boundary-finance|Draw an explicit determinism boundary: state-machine controls flow/side-effects, LLM only interprets]] | @aie | `discard` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-cold-persona-adversarial-review|Add cold multi-persona review and dual extraction to the council]] | @aie | `-` |
 | 2026-10-13 | [[experiments/aie-2026-10-13-cma-multi-agent-map-reduce-sec|Implement a map-reduce agent pattern where a coordinator dispatches sub-agents per entity and aggregates results]] | @aie | `-` |
 | 2026-10-13 | [[experiments/aie-2026-10-13-cma-dreaming-memory-self-improvement|Run a 'dreaming' pass over recent session transcripts to update memory stores and improve skill instructions]] | @aie | `-` |
 | 2026-10-13 | [[experiments/aie-2026-10-13-claude-managed-agents-decoupled-harness|Decouple session log and harness from the sandbox container to make agents cattle not pets]] | @aie | `-` |
 | 2026-10-13 | [[experiments/aie-2026-10-13-auth-md-agent-signup|Implement auth.md (OMD) so agents can autonomously register for and access external services]] | @aie | `-` |
+| 2026-10-13 | [[experiments/aie-2026-10-13-artifact-verified-agent-returns|Require verifiable artifacts from sub-agent completion reports]] | @aie | `-` |
 | 2026-10-13 | [[experiments/aie-2026-10-13-agent-email-identity-persistent-inbox|Give agents a persistent email identity for two-way async communication with external services]] | @aie | `discard` |
 | 2026-10-12 | [[experiments/nh-2026-10-12-claude-github-repos-workflow|Integrate Playwright CLI and Claude Security into the YOLO Loop Quality Gate]] | @nh | `discard` |
 | 2026-10-12 | [[experiments/nb-2026-10-12-taste-agency-focus-resourcefulness-followthrou|Apply the Five-Skill Framework to Audit Backlog Projects]] | @nb | `-` |

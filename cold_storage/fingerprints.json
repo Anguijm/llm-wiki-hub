@@ -2689,6 +2689,11 @@
     "slug": "aie-2026-10-13-agent-email-identity-persistent-inbox",
     "synced_at": "2026-10-17T00:09:46.917165+00:00"
   },
+  "phase4:aie-2026-10-13-artifact-verified-agent-returns": {
+    "hash": "e6a2d3c87b816d57a41624837f37cad56000ffa994f2d1bf3f85cec0d8be56dc",
+    "slug": "aie-2026-10-13-artifact-verified-agent-returns",
+    "synced_at": "2026-10-20T00:54:35.507264+00:00"
+  },
   "phase4:aie-2026-10-13-auth-md-agent-signup": {
     "hash": "4df68d0276485ee7115dcd03d87e2b8cfe7fe092d255c73ea7168f4fac92d762",
     "slug": "aie-2026-10-13-auth-md-agent-signup",
@@ -2708,6 +2713,11 @@
     "hash": "bf0c50038acbfc3655fbb85f6f73afdc3136aa0d49d9ac46492417d306182d69",
     "slug": "aie-2026-10-13-cma-multi-agent-map-reduce-sec",
     "synced_at": "2026-10-13T02:50:32.289435+00:00"
+  },
+  "phase4:aie-2026-10-13-cold-persona-adversarial-review": {
+    "hash": "937145e715402193374fcc87d28992eb821ef796891b5a59d9442f88256efddc",
+    "slug": "aie-2026-10-13-cold-persona-adversarial-review",
+    "synced_at": "2026-10-20T00:54:35.507594+00:00"
   },
   "phase4:aie-2026-10-13-deterministic-flow-llm-boundary-finance": {
     "hash": "8609d78a134cc561a5945aeef43acfc44898119174bc7a7fecbfaabdf8d30945",
@@ -3008,6 +3018,16 @@
     "hash": "9a049f104c2d7031cb33a19654b5d995db8668874d2ae407f463a8f3fa28b381",
     "slug": "dc-2026-10-16-specialized-inference-engine-per-gpu-model",
     "synced_at": "2026-10-17T00:09:46.926607+00:00"
+  },
+  "phase4:dc-2026-10-18-dwarfstar-deepseek-strix-halo": {
+    "hash": "34fa3a98ddc9bc9f4a04a908e0fcd6e3c09596b17d13e238c2ddc269425a9d82",
+    "slug": "dc-2026-10-18-dwarfstar-deepseek-strix-halo",
+    "synced_at": "2026-10-20T00:54:35.506625+00:00"
+  },
+  "phase4:dc-2026-10-18-terminal-bench-mini-token-efficiency": {
+    "hash": "be41dd13922179abeaba6d716973f151623a6f0b98ef764789ac855f155e14e3",
+    "slug": "dc-2026-10-18-terminal-bench-mini-token-efficiency",
+    "synced_at": "2026-10-20T00:54:35.506949+00:00"
   },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "0527033834fe3f49b58f4d9e2c508620ed78f8ba268bccaba81263b6ef3c4afa",
@@ -3778,6 +3798,16 @@
     "hash": "5ad905fd2da1b55f829a6b581561f33343ff39cb7f5fee41e5b05cecc33c09da",
     "slug": "mk-2026-10-15-uncensored-model-with-rea-for-app-cloning",
     "synced_at": "2026-10-17T00:09:46.918839+00:00"
+  },
+  "phase4:mk-2026-10-17-audit-claude-codex-config-logs": {
+    "hash": "25acea269a996cca264f7744078112e8021543670d7890e3a1d04d8f111a8a96",
+    "slug": "mk-2026-10-17-audit-claude-codex-config-logs",
+    "synced_at": "2026-10-20T00:54:35.507964+00:00"
+  },
+  "phase4:mk-2026-10-17-unified-agents-md-hierarchy": {
+    "hash": "d31dd258d34e2f4a3ae8faa62f19a4fab498b54c2de7b13eebbe391ff5ec8e86",
+    "slug": "mk-2026-10-17-unified-agents-md-hierarchy",
+    "synced_at": "2026-10-20T00:54:35.508282+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
@@ -4943,6 +4973,11 @@
     "hash": "b57816fe8abbb6460aab52c67b54ac6af8538542d7d1d08035b5b766676183a8",
     "slug": "nb-2026-10-15-rea-xray-vision-workflow",
     "synced_at": "2026-10-17T00:09:46.920243+00:00"
+  },
+  "phase4:nb-2026-10-18-agent-permission-boundaries": {
+    "hash": "dc2bd3a47543af53374a6b64568f23d6eb31c2cc9cf636d127f188652a0e6525",
+    "slug": "nb-2026-10-18-agent-permission-boundaries",
+    "synced_at": "2026-10-20T00:54:35.506254+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
