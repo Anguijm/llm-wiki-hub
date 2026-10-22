@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1174 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1184 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 616 |
+| `backlog` | 626 |
 | `discarded` | 348 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 688 |
+| `(none)` | 698 |
 | `discard` | 358 |
 | `adopt` | 128 |
 
@@ -32,11 +32,11 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 565 |
-| @nh | 166 |
-| @nb | 158 |
+| @aie | 566 |
+| @nh | 167 |
+| @nb | 159 |
 | @mlops | 74 |
-| @do | 66 |
+| @do | 67 |
 | @mk | 50 |
 | @eh | 28 |
 | @aij | 21 |
@@ -44,15 +44,15 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | @up | 5 |
 | @cm | 5 |
 | @lc | 5 |
+| @idd | 3 |
+| @ail | 3 |
 | @ls | 3 |
+| @az | 3 |
+| @pl | 3 |
 | @dc | 3 |
 | @fs | 2 |
-| @ail | 2 |
-| @az | 2 |
 | @tmp | 1 |
-| @idd | 1 |
 | @aez | 1 |
-| @pl | 1 |
 | @pa | 1 |
 
 ---
@@ -63,6 +63,16 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-10-21 | [[experiments/pl-2026-10-21-pr-comprehension-quiz-gate|Add a PR comprehension quiz CI gate]] | @pl | `-` |
+| 2026-10-21 | [[experiments/ail-2026-10-21-independent-cli-reviewer-and-altitude-prompts|Run an independent CLI model as PR reviewer]] | @ail | `-` |
+| 2026-10-20 | [[experiments/nb-2026-10-20-agent-memory-hygiene-audit|Run a read-only agent resource audit on the dev box]] | @nb | `-` |
+| 2026-10-20 | [[experiments/do-2026-10-20-local-inference-sandboxing-strix-halo|Benchmark MXFP4 large-model serving on Strix Halo]] | @do | `-` |
+| 2026-10-20 | [[experiments/az-2026-10-20-local-pii-redaction-gate|Prototype a local PII redaction gate before cloud model calls]] | @az | `-` |
+| 2026-10-19 | [[experiments/nh-2026-10-19-claude-code-deterministic-jobs|Generate deterministic TypeScript jobs with Claude Code for the vault pipeline]] | @nh | `-` |
+| 2026-10-19 | [[experiments/idd-2026-10-19-local-classifier-strix-halo|Benchmark a small local llama.cpp model as a sub-second classifier gate]] | @idd | `-` |
+| 2026-10-19 | [[experiments/idd-2026-10-19-cheap-gate-vault-capture|Add a hash-dedupe plus cheap-classifier gate to vault capture]] | @idd | `-` |
+| 2026-10-19 | [[experiments/aie-2026-10-19-harness-shim-registry|Track harness shims in a registry and prune stale ones]] | @aie | `-` |
+| 2026-10-18 | [[experiments/pl-2026-10-18-architecture-review-gate-for-agents|Add an architecture-validation gate to agent workflows]] | @pl | `-` |
 | 2026-10-18 | [[experiments/nb-2026-10-18-agent-permission-boundaries|Add layered permission boundaries to agent harness]] | @nb | `-` |
 | 2026-10-18 | [[experiments/dc-2026-10-18-terminal-bench-mini-token-efficiency|Compare token use of local model on Terminal Bench Mini]] | @dc | `-` |
 | 2026-10-18 | [[experiments/dc-2026-10-18-dwarfstar-deepseek-strix-halo|Benchmark DwarfStar with DeepSeek V4.1 Flash Q2 on Strix Halo]] | @dc | `-` |
