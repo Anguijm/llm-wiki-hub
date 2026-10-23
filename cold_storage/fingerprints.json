@@ -2864,6 +2864,11 @@
     "slug": "aie-2026-10-19-harness-shim-registry",
     "synced_at": "2026-10-22T00:26:10.794143+00:00"
   },
+  "phase4:aie-2026-10-21-durable-vs-disposable-classification": {
+    "hash": "cb678d25071592b2471ff9912a78e90a00105049faab33d3df4bfa7c08956405",
+    "slug": "aie-2026-10-21-durable-vs-disposable-classification",
+    "synced_at": "2026-10-23T00:23:51.775051+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -3029,6 +3034,11 @@
     "slug": "cm-2026-10-16-token-efficient-model-routing-per-node",
     "synced_at": "2026-10-17T00:09:46.925778+00:00"
   },
+  "phase4:cm-2026-10-20-agent-self-harness-loops": {
+    "hash": "ff6382ebf71f9b5f861eb2451d0728f61159726be19c627a8525730d5bdbc8c6",
+    "slug": "cm-2026-10-20-agent-self-harness-loops",
+    "synced_at": "2026-10-23T00:23:51.774692+00:00"
+  },
   "phase4:dc-2026-10-16-specialized-inference-engine-per-gpu-model": {
     "hash": "9a049f104c2d7031cb33a19654b5d995db8668874d2ae407f463a8f3fa28b381",
     "slug": "dc-2026-10-16-specialized-inference-engine-per-gpu-model",
@@ -3043,6 +3053,11 @@
     "hash": "be41dd13922179abeaba6d716973f151623a6f0b98ef764789ac855f155e14e3",
     "slug": "dc-2026-10-18-terminal-bench-mini-token-efficiency",
     "synced_at": "2026-10-20T00:54:35.506949+00:00"
+  },
+  "phase4:dc-2026-10-22-sandbox-local-coding-agents": {
+    "hash": "42afff7cb815797ab512ea109979f0bc49705bba8aee1ee01e4e0ef454852ed7",
+    "slug": "dc-2026-10-22-sandbox-local-coding-agents",
+    "synced_at": "2026-10-23T00:23:51.774261+00:00"
   },
   "phase4:do-2026-03-27-private-local-agent": {
     "hash": "0527033834fe3f49b58f4d9e2c508620ed78f8ba268bccaba81263b6ef3c4afa",
