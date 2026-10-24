@@ -3399,6 +3399,16 @@
     "slug": "do-2026-10-20-local-inference-sandboxing-strix-halo",
     "synced_at": "2026-10-22T00:26:10.793992+00:00"
   },
+  "phase4:do-2026-10-23-module-chunked-scheduled-sweeps": {
+    "hash": "6c3e142f7a693ccaebf4687f3d3c75f1cd646d4eec07c11c2e0bdd4aa5fbe030",
+    "slug": "do-2026-10-23-module-chunked-scheduled-sweeps",
+    "synced_at": "2026-10-24T00:16:30.635051+00:00"
+  },
+  "phase4:do-2026-10-23-two-model-adversarial-verification": {
+    "hash": "1cc3552cc53e2cc4faaa5aa81788650da830308bc1d6ba62b50e3573e70533f8",
+    "slug": "do-2026-10-23-two-model-adversarial-verification",
+    "synced_at": "2026-10-24T00:16:30.634697+00:00"
+  },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
     "slug": "eh-2026-06-13-interactive-geometry-watercolor-visualizer",
