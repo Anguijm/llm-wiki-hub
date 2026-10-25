@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1189 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1190 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 631 |
+| `backlog` | 632 |
 | `discarded` | 348 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 703 |
+| `(none)` | 704 |
 | `discard` | 358 |
 | `adopt` | 128 |
 
@@ -44,10 +44,10 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | @cm | 6 |
 | @up | 5 |
 | @lc | 5 |
+| @ls | 4 |
 | @dc | 4 |
 | @idd | 3 |
 | @ail | 3 |
-| @ls | 3 |
 | @az | 3 |
 | @pl | 3 |
 | @fs | 2 |
@@ -65,6 +65,7 @@ Ordered by published date, most recent first.
 |---|---|---|---|
 | 2026-10-23 | [[experiments/do-2026-10-23-two-model-adversarial-verification|Add a second-model reviewer to bug-finding loops]] | @do | `-` |
 | 2026-10-23 | [[experiments/do-2026-10-23-module-chunked-scheduled-sweeps|Schedule per-module security sweep loops on one repo]] | @do | `-` |
+| 2026-10-22 | [[experiments/ls-2026-10-22-corroboration-confidence-scoring|Add multi-source corroboration confidence scores to vault verify step]] | @ls | `-` |
 | 2026-10-22 | [[experiments/dc-2026-10-22-sandbox-local-coding-agents|Sandbox local coding agents in containers with least-privilege git]] | @dc | `-` |
 | 2026-10-21 | [[experiments/pl-2026-10-21-pr-comprehension-quiz-gate|Add a PR comprehension quiz CI gate]] | @pl | `-` |
 | 2026-10-21 | [[experiments/ail-2026-10-21-independent-cli-reviewer-and-altitude-prompts|Run an independent CLI model as PR reviewer]] | @ail | `-` |

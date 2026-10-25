@@ -3614,6 +3614,11 @@
     "slug": "ls-2026-10-16-world-action-model-visual-chain-of-thought",
     "synced_at": "2026-10-17T00:09:46.925982+00:00"
   },
+  "phase4:ls-2026-10-22-corroboration-confidence-scoring": {
+    "hash": "510c6be3f77e804e4ebc02b77b86e70af7a0088c3ed9343eba1debbdd0b357b5",
+    "slug": "ls-2026-10-22-corroboration-confidence-scoring",
+    "synced_at": "2026-10-25T00:00:12.195611+00:00"
+  },
   "phase4:mk-2026-04-16-replace-openclaw-hermes-claude-code": {
     "hash": "e68a56d4494f545c78cb9de703346b0f91f4f971647a67c4ea64b76f6e6ef7a9",
     "slug": "mk-2026-04-16-replace-openclaw-hermes-claude-code",
