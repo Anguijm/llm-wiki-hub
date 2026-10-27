@@ -2869,6 +2869,16 @@
     "slug": "aie-2026-10-21-durable-vs-disposable-classification",
     "synced_at": "2026-10-23T00:23:51.775051+00:00"
   },
+  "phase4:aie-2026-10-24-multi-model-review-council": {
+    "hash": "14884ca254377d4c77f929ffdf592f43ba178bfcf41d8321424a49965020f522",
+    "slug": "aie-2026-10-24-multi-model-review-council",
+    "synced_at": "2026-10-27T01:10:16.545832+00:00"
+  },
+  "phase4:aie-2026-10-25-trace-sweep-fix-agent": {
+    "hash": "85d36cc127a3e556efe35e24831553e96f51056d6b79e6dbbe4facbed0dea68d",
+    "slug": "aie-2026-10-25-trace-sweep-fix-agent",
+    "synced_at": "2026-10-27T01:10:16.545459+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -2993,6 +3003,11 @@
     "hash": "268af49c5544ba70424477b382b0e9ca927bfca016a562b11590dd6c590d12e2",
     "slug": "ail-2026-10-21-independent-cli-reviewer-and-altitude-prompts",
     "synced_at": "2026-10-22T00:26:10.793706+00:00"
+  },
+  "phase4:ail-2026-10-25-egm-goldfish-spec-review": {
+    "hash": "16fb5cc970906cff9fd6e815754b1f128b30db96fe1e8ba54846b4d4c493dddb",
+    "slug": "ail-2026-10-25-egm-goldfish-spec-review",
+    "synced_at": "2026-10-27T01:10:16.545664+00:00"
   },
   "phase4:az-2026-10-15-kv-cache-agents-lmcache": {
     "hash": "fb82757f9104e5e9768e288d78b2bf4f8622cabdd8bf60921523cf30f444c913",
@@ -3549,6 +3564,11 @@
     "slug": "eh-2026-10-16-neural-network-interpretability-clean-hypothes",
     "synced_at": "2026-10-17T00:09:46.924435+00:00"
   },
+  "phase4:eh-2026-10-26-option-grid-before-3d": {
+    "hash": "ce8ea977a3f96019799da6ebe34d926c3cedbf8db6e2a6e6858687c370d88321",
+    "slug": "eh-2026-10-26-option-grid-before-3d",
+    "synced_at": "2026-10-27T01:10:16.546374+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -3573,6 +3593,11 @@
     "hash": "9c037cb9a61f7873c528b47916fe95d62d8d8d5e126a369a2ffc6eae6926d70e",
     "slug": "idd-2026-10-19-local-classifier-strix-halo",
     "synced_at": "2026-10-22T00:26:10.793092+00:00"
+  },
+  "phase4:joem-2026-10-26-spec-kit-assess-gate": {
+    "hash": "5addd337b7982d138ddff56cbb158a14fb21eb38c4d2e482b06530da11da1776",
+    "slug": "joem-2026-10-26-spec-kit-assess-gate",
+    "synced_at": "2026-10-27T01:10:16.546169+00:00"
   },
   "phase4:lc-2026-10-15-stripe-kai-deep-agents": {
     "hash": "22054a1fbe0492b0fe5c61e2402f551e5cb34b867e4cd9236f40cd94eb7a1b48",
@@ -3868,6 +3893,11 @@
     "hash": "d31dd258d34e2f4a3ae8faa62f19a4fab498b54c2de7b13eebbe391ff5ec8e86",
     "slug": "mk-2026-10-17-unified-agents-md-hierarchy",
     "synced_at": "2026-10-20T00:54:35.508282+00:00"
+  },
+  "phase4:mk-2026-10-23-skills-audit-prune": {
+    "hash": "15c2a0a10e1f7b2daa5e865b41ab153fa359e5fdfb6b2d063ceaf58317a6567d",
+    "slug": "mk-2026-10-23-skills-audit-prune",
+    "synced_at": "2026-10-27T01:10:16.545984+00:00"
   },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",

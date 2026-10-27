@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1190 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1196 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 632 |
+| `backlog` | 638 |
 | `discarded` | 348 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 704 |
+| `(none)` | 710 |
 | `discard` | 358 |
 | `adopt` | 128 |
 
@@ -32,28 +32,29 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 567 |
+| @aie | 569 |
 | @nh | 167 |
 | @nb | 159 |
 | @mlops | 74 |
 | @do | 69 |
-| @mk | 50 |
-| @eh | 28 |
+| @mk | 51 |
+| @eh | 29 |
 | @aij | 21 |
 | @st | 14 |
 | @cm | 6 |
 | @up | 5 |
 | @lc | 5 |
+| @ail | 4 |
 | @ls | 4 |
 | @dc | 4 |
 | @idd | 3 |
-| @ail | 3 |
 | @az | 3 |
 | @pl | 3 |
 | @fs | 2 |
 | @tmp | 1 |
 | @aez | 1 |
 | @pa | 1 |
+| @joem | 1 |
 
 ---
 
@@ -63,6 +64,12 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-10-26 | [[experiments/joem-2026-10-26-spec-kit-assess-gate|Gate feature ideas through Spec Kit assess before coding]] | @joem | `-` |
+| 2026-10-26 | [[experiments/eh-2026-10-26-option-grid-before-3d|Pick from a 100-image option grid before generating 3D]] | @eh | `-` |
+| 2026-10-25 | [[experiments/ail-2026-10-25-egm-goldfish-spec-review|Trial EGM zero-context goldfish reviewers on a feature spec]] | @ail | `-` |
+| 2026-10-25 | [[experiments/aie-2026-10-25-trace-sweep-fix-agent|Prototype a scheduled trace-sweep agent that opens fix PRs]] | @aie | `-` |
+| 2026-10-24 | [[experiments/aie-2026-10-24-multi-model-review-council|Run a multi-model code review council and compare bug overlap]] | @aie | `-` |
+| 2026-10-23 | [[experiments/mk-2026-10-23-skills-audit-prune|Audit and prune installed Claude skills]] | @mk | `-` |
 | 2026-10-23 | [[experiments/do-2026-10-23-two-model-adversarial-verification|Add a second-model reviewer to bug-finding loops]] | @do | `-` |
 | 2026-10-23 | [[experiments/do-2026-10-23-module-chunked-scheduled-sweeps|Schedule per-module security sweep loops on one repo]] | @do | `-` |
 | 2026-10-22 | [[experiments/ls-2026-10-22-corroboration-confidence-scoring|Add multi-source corroboration confidence scores to vault verify step]] | @ls | `-` |
