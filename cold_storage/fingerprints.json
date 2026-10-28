@@ -3024,6 +3024,11 @@
     "slug": "az-2026-10-20-local-pii-redaction-gate",
     "synced_at": "2026-10-22T00:26:10.793235+00:00"
   },
+  "phase4:az-2026-10-27-llamacpp-strix-bench": {
+    "hash": "e53cc656c5238942f9f21b1f4affa8208549f2a83fe6e3477c8c4bd5b5df075f",
+    "slug": "az-2026-10-27-llamacpp-strix-bench",
+    "synced_at": "2026-10-28T00:58:48.227623+00:00"
+  },
   "phase4:cm-2026-10-15-ai-content-engine-signal-filter": {
     "hash": "9ec741dbecd1c7cb2b520949901b728674a006c48bc5e04ac9d6c64db9f3aea0",
     "slug": "cm-2026-10-15-ai-content-engine-signal-filter",
@@ -4274,6 +4279,11 @@
     "slug": "mlops-2026-10-15-webmcp-agent-safe-actions",
     "synced_at": "2026-10-16T00:05:13.883565+00:00"
   },
+  "phase4:mlops-2026-10-26-domain-lens-context": {
+    "hash": "52deba6453fa0d51a76b5ee2c077ec43a8e6142b80a3dd8f3d7a8783d5d41270",
+    "slug": "mlops-2026-10-26-domain-lens-context",
+    "synced_at": "2026-10-28T00:58:48.227390+00:00"
+  },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",
     "slug": "nb-2026-03-24-agent-readiness-checklist",
@@ -5073,6 +5083,11 @@
     "hash": "065624c6630bfb0197f21b46ef0eab93ef24c87aed30d84c9a4d29eac09cae28",
     "slug": "nb-2026-10-20-agent-memory-hygiene-audit",
     "synced_at": "2026-10-22T00:26:10.793843+00:00"
+  },
+  "phase4:nb-2026-10-24-agent-secret-hygiene": {
+    "hash": "636073142b2286f1b5814c6ca4989ddf472917ecab1c4177c7ed27d5486caaf0",
+    "slug": "nb-2026-10-24-agent-secret-hygiene",
+    "synced_at": "2026-10-28T00:58:48.227139+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
