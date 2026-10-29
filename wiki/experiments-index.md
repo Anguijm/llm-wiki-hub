@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1199 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1205 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 641 |
+| `backlog` | 647 |
 | `discarded` | 348 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 713 |
+| `(none)` | 719 |
 | `discard` | 358 |
 | `adopt` | 128 |
 
@@ -32,9 +32,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 569 |
+| @aie | 571 |
 | @nh | 167 |
-| @nb | 160 |
+| @nb | 161 |
 | @mlops | 75 |
 | @do | 69 |
 | @mk | 51 |
@@ -42,10 +42,10 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | @aij | 21 |
 | @st | 14 |
 | @cm | 6 |
+| @ail | 6 |
 | @up | 5 |
+| @ls | 5 |
 | @lc | 5 |
-| @ail | 4 |
-| @ls | 4 |
 | @az | 4 |
 | @dc | 4 |
 | @idd | 3 |
@@ -64,7 +64,13 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-10-28 | [[experiments/ail-2026-10-28-token-economizer-pruning|Trial Token Economizer tool pruning in Claude Code]] | @ail | `-` |
+| 2026-10-28 | [[experiments/ail-2026-10-28-micro-skills-failure-memory|Test cross-session failure micro-skills with injection guard]] | @ail | `-` |
+| 2026-10-27 | [[experiments/nb-2026-10-27-agent-stopping-rules|Add stopping rules and attention budgets to recurring agent tasks]] | @nb | `-` |
+| 2026-10-27 | [[experiments/ls-2026-10-27-evals-as-code|Turn harness requirements into evals-as-code with a golden set]] | @ls | `-` |
 | 2026-10-27 | [[experiments/az-2026-10-27-llamacpp-strix-bench|Benchmark Qwen3 4B/8B Q4 on Strix Halo Vulkan vs ROCm]] | @az | `-` |
+| 2026-10-27 | [[experiments/aie-2026-10-27-markdown-memory-file|Replace agent memory with a capped markdown file]] | @aie | `-` |
+| 2026-10-27 | [[experiments/aie-2026-10-27-deterministic-finish-gate|Add a harness finish gate and rendered plan state]] | @aie | `-` |
 | 2026-10-26 | [[experiments/mlops-2026-10-26-domain-lens-context|A/B test domain-lens framing in agent skills]] | @mlops | `-` |
 | 2026-10-26 | [[experiments/joem-2026-10-26-spec-kit-assess-gate|Gate feature ideas through Spec Kit assess before coding]] | @joem | `-` |
 | 2026-10-26 | [[experiments/eh-2026-10-26-option-grid-before-3d|Pick from a 100-image option grid before generating 3D]] | @eh | `-` |

@@ -2879,6 +2879,16 @@
     "slug": "aie-2026-10-25-trace-sweep-fix-agent",
     "synced_at": "2026-10-27T01:10:16.545459+00:00"
   },
+  "phase4:aie-2026-10-27-deterministic-finish-gate": {
+    "hash": "079de02da0f8256f9f1b9d9f59421ab65d1094c8faae86bba8281e9fb6103a7c",
+    "slug": "aie-2026-10-27-deterministic-finish-gate",
+    "synced_at": "2026-10-29T01:33:53.912349+00:00"
+  },
+  "phase4:aie-2026-10-27-markdown-memory-file": {
+    "hash": "28da08e0a132c7ec52d4daca300a66c2d3f8bdc9febe3205676eabc0ffdd73fc",
+    "slug": "aie-2026-10-27-markdown-memory-file",
+    "synced_at": "2026-10-29T01:33:53.912024+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -3008,6 +3018,16 @@
     "hash": "16fb5cc970906cff9fd6e815754b1f128b30db96fe1e8ba54846b4d4c493dddb",
     "slug": "ail-2026-10-25-egm-goldfish-spec-review",
     "synced_at": "2026-10-27T01:10:16.545664+00:00"
+  },
+  "phase4:ail-2026-10-28-micro-skills-failure-memory": {
+    "hash": "b972e9b52177d48f7c9afc7e4c84ad2cb746a9d51d6ef1c73dc60b14e1a963a3",
+    "slug": "ail-2026-10-28-micro-skills-failure-memory",
+    "synced_at": "2026-10-29T01:33:53.911686+00:00"
+  },
+  "phase4:ail-2026-10-28-token-economizer-pruning": {
+    "hash": "02b527d0738b92ebb2d3f37f899cf820745c19380ce00dedef68ac39a3cc8abb",
+    "slug": "ail-2026-10-28-token-economizer-pruning",
+    "synced_at": "2026-10-29T01:33:53.911341+00:00"
   },
   "phase4:az-2026-10-15-kv-cache-agents-lmcache": {
     "hash": "fb82757f9104e5e9768e288d78b2bf4f8622cabdd8bf60921523cf30f444c913",
@@ -3648,6 +3668,11 @@
     "hash": "510c6be3f77e804e4ebc02b77b86e70af7a0088c3ed9343eba1debbdd0b357b5",
     "slug": "ls-2026-10-22-corroboration-confidence-scoring",
     "synced_at": "2026-10-25T00:00:12.195611+00:00"
+  },
+  "phase4:ls-2026-10-27-evals-as-code": {
+    "hash": "f5969a7a0288b47fce87af533f19ffdcebfd7793410306517bed585fdce54196",
+    "slug": "ls-2026-10-27-evals-as-code",
+    "synced_at": "2026-10-29T01:33:53.912985+00:00"
   },
   "phase4:mk-2026-04-16-replace-openclaw-hermes-claude-code": {
     "hash": "e68a56d4494f545c78cb9de703346b0f91f4f971647a67c4ea64b76f6e6ef7a9",
@@ -5088,6 +5113,11 @@
     "hash": "636073142b2286f1b5814c6ca4989ddf472917ecab1c4177c7ed27d5486caaf0",
     "slug": "nb-2026-10-24-agent-secret-hygiene",
     "synced_at": "2026-10-28T00:58:48.227139+00:00"
+  },
+  "phase4:nb-2026-10-27-agent-stopping-rules": {
+    "hash": "d64252bd05b0dfe28b22305b2670363d68a542377058fc8cd510b42f3cf92e33",
+    "slug": "nb-2026-10-27-agent-stopping-rules",
+    "synced_at": "2026-10-29T01:33:53.912651+00:00"
   },
   "phase4:nh-2026-03-29-boring-automation-products": {
     "hash": "d4877f087bf6b8b6768a88a02cd8f9508375f185b8f023f1223ce653ee0128e0",
