@@ -2889,6 +2889,11 @@
     "slug": "aie-2026-10-27-markdown-memory-file",
     "synced_at": "2026-10-29T01:33:53.912024+00:00"
   },
+  "phase4:aie-2026-10-29-strix-halo-quantized-coding-model": {
+    "hash": "78358f563411b520e846aabd44d2bc3a15ede386ceaf2eaddcaf66d4b00c4a31",
+    "slug": "aie-2026-10-29-strix-halo-quantized-coding-model",
+    "synced_at": "2026-10-30T01:34:17.166087+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
@@ -3078,6 +3083,16 @@
     "hash": "ff6382ebf71f9b5f861eb2451d0728f61159726be19c627a8525730d5bdbc8c6",
     "slug": "cm-2026-10-20-agent-self-harness-loops",
     "synced_at": "2026-10-23T00:23:51.774692+00:00"
+  },
+  "phase4:cm-2026-10-29-draft-only-heartbeat-triage": {
+    "hash": "fd8e1d8a1524de2eaadd822a651d7d25fabf4860c7d2826e5364879c604b1b8b",
+    "slug": "cm-2026-10-29-draft-only-heartbeat-triage",
+    "synced_at": "2026-10-30T01:34:17.166788+00:00"
+  },
+  "phase4:cm-2026-10-29-model-switch-regression-suite": {
+    "hash": "3e5c323f1e9f396fffc295b25e4fea199769e272b7a53a629a553c445eae7794",
+    "slug": "cm-2026-10-29-model-switch-regression-suite",
+    "synced_at": "2026-10-30T01:34:17.166447+00:00"
   },
   "phase4:dc-2026-10-16-specialized-inference-engine-per-gpu-model": {
     "hash": "9a049f104c2d7031cb33a19654b5d995db8668874d2ae407f463a8f3fa28b381",
@@ -3618,6 +3633,16 @@
     "hash": "9c037cb9a61f7873c528b47916fe95d62d8d8d5e126a369a2ffc6eae6926d70e",
     "slug": "idd-2026-10-19-local-classifier-strix-halo",
     "synced_at": "2026-10-22T00:26:10.793092+00:00"
+  },
+  "phase4:idd-2026-10-26-near-the-loop-approval-agent": {
+    "hash": "6a2b05a6b4da1f4486234043e1ded6908f1affa3ee23c864623b1cc53fa4f3b3",
+    "slug": "idd-2026-10-26-near-the-loop-approval-agent",
+    "synced_at": "2026-10-30T01:34:17.167153+00:00"
+  },
+  "phase4:idd-2026-10-26-recursive-ui-hill-climb-loop": {
+    "hash": "676155f18feb829bf95d3f1a1a2487392e50f1ea57e0a4d36cdb6a07e7a35b6c",
+    "slug": "idd-2026-10-26-recursive-ui-hill-climb-loop",
+    "synced_at": "2026-10-30T01:34:17.167477+00:00"
   },
   "phase4:joem-2026-10-26-spec-kit-assess-gate": {
     "hash": "5addd337b7982d138ddff56cbb158a14fb21eb38c4d2e482b06530da11da1776",
