@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1210 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1216 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 652 |
+| `backlog` | 658 |
 | `discarded` | 348 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 724 |
+| `(none)` | 730 |
 | `discard` | 358 |
 | `adopt` | 128 |
 
@@ -32,17 +32,17 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 572 |
-| @nh | 167 |
+| @aie | 573 |
+| @nh | 168 |
 | @nb | 161 |
 | @mlops | 75 |
-| @do | 69 |
+| @do | 71 |
 | @mk | 51 |
 | @eh | 29 |
 | @aij | 21 |
 | @st | 14 |
 | @cm | 8 |
-| @ail | 6 |
+| @ail | 8 |
 | @up | 5 |
 | @idd | 5 |
 | @ls | 5 |
@@ -64,11 +64,17 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-10-30 | [[experiments/nh-2026-10-30-cap-improvement-loops|Cap open-ended improvement loops with a plateau stop and human checkpoint]] | @nh | `-` |
+| 2026-10-30 | [[experiments/do-2026-10-30-one-task-thread-minimal-tests|Trial one-task-per-thread, repro-first bugfixes, and regression-only tests]] | @do | `-` |
+| 2026-10-30 | [[experiments/do-2026-10-30-cross-model-review-filter|Add cross-model PR review with primary-model false-positive filter]] | @do | `-` |
+| 2026-10-30 | [[experiments/ail-2026-10-30-fresh-reviewer-capped-loop|Build a fresh-context reviewer loop with a 3-round cap and risk tiers]] | @ail | `-` |
+| 2026-10-30 | [[experiments/ail-2026-10-30-evals-first-stop-hook|Gate task completion on pre-written evals via a hook]] | @ail | `-` |
 | 2026-10-29 | [[experiments/cm-2026-10-29-model-switch-regression-suite|Add a capability regression suite for model upgrades]] | @cm | `-` |
 | 2026-10-29 | [[experiments/cm-2026-10-29-draft-only-heartbeat-triage|Run a draft-only 30-minute heartbeat agent]] | @cm | `-` |
 | 2026-10-29 | [[experiments/aie-2026-10-29-strix-halo-quantized-coding-model|Benchmark a tuned quantized open coding model on Strix Halo]] | @aie | `-` |
 | 2026-10-28 | [[experiments/ail-2026-10-28-token-economizer-pruning|Trial Token Economizer tool pruning in Claude Code]] | @ail | `-` |
 | 2026-10-28 | [[experiments/ail-2026-10-28-micro-skills-failure-memory|Test cross-session failure micro-skills with injection guard]] | @ail | `-` |
+| 2026-10-28 | [[experiments/aie-2026-10-28-layered-verification-evidence|Require agent-generated verification evidence in a layered review pipeline]] | @aie | `-` |
 | 2026-10-27 | [[experiments/nb-2026-10-27-agent-stopping-rules|Add stopping rules and attention budgets to recurring agent tasks]] | @nb | `-` |
 | 2026-10-27 | [[experiments/ls-2026-10-27-evals-as-code|Turn harness requirements into evals-as-code with a golden set]] | @ls | `-` |
 | 2026-10-27 | [[experiments/az-2026-10-27-llamacpp-strix-bench|Benchmark Qwen3 4B/8B Q4 on Strix Halo Vulkan vs ROCm]] | @az | `-` |

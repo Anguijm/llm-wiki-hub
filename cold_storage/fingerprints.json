@@ -2889,6 +2889,11 @@
     "slug": "aie-2026-10-27-markdown-memory-file",
     "synced_at": "2026-10-29T01:33:53.912024+00:00"
   },
+  "phase4:aie-2026-10-28-layered-verification-evidence": {
+    "hash": "45cf6a6644594f09a137b57625576364731c266facc1e977d7b0254978791b6d",
+    "slug": "aie-2026-10-28-layered-verification-evidence",
+    "synced_at": "2026-10-31T01:25:27.975514+00:00"
+  },
   "phase4:aie-2026-10-29-strix-halo-quantized-coding-model": {
     "hash": "78358f563411b520e846aabd44d2bc3a15ede386ceaf2eaddcaf66d4b00c4a31",
     "slug": "aie-2026-10-29-strix-halo-quantized-coding-model",
@@ -3033,6 +3038,16 @@
     "hash": "02b527d0738b92ebb2d3f37f899cf820745c19380ce00dedef68ac39a3cc8abb",
     "slug": "ail-2026-10-28-token-economizer-pruning",
     "synced_at": "2026-10-29T01:33:53.911341+00:00"
+  },
+  "phase4:ail-2026-10-30-evals-first-stop-hook": {
+    "hash": "c09c4f0a1390679f885c0de6c822adae48051d62cd5275112a393ad3e70289fd",
+    "slug": "ail-2026-10-30-evals-first-stop-hook",
+    "synced_at": "2026-10-31T01:25:27.975191+00:00"
+  },
+  "phase4:ail-2026-10-30-fresh-reviewer-capped-loop": {
+    "hash": "98e709b645fea43979ff14492eaa8011b494227d06555c1b8b2ff0ae49eebc7d",
+    "slug": "ail-2026-10-30-fresh-reviewer-capped-loop",
+    "synced_at": "2026-10-31T01:25:27.975347+00:00"
   },
   "phase4:az-2026-10-15-kv-cache-agents-lmcache": {
     "hash": "fb82757f9104e5e9768e288d78b2bf4f8622cabdd8bf60921523cf30f444c913",
@@ -3463,6 +3478,16 @@
     "hash": "1cc3552cc53e2cc4faaa5aa81788650da830308bc1d6ba62b50e3573e70533f8",
     "slug": "do-2026-10-23-two-model-adversarial-verification",
     "synced_at": "2026-10-24T00:16:30.634697+00:00"
+  },
+  "phase4:do-2026-10-30-cross-model-review-filter": {
+    "hash": "db88cc641221e50826fe06abb1cca19f604d0ece880ba8e4a79d2f1404f229d7",
+    "slug": "do-2026-10-30-cross-model-review-filter",
+    "synced_at": "2026-10-31T01:25:27.974633+00:00"
+  },
+  "phase4:do-2026-10-30-one-task-thread-minimal-tests": {
+    "hash": "522e2913b82d027047fb4af5723226027584d5421344f4cb2afb7494dbec6ce2",
+    "slug": "do-2026-10-30-one-task-thread-minimal-tests",
+    "synced_at": "2026-10-31T01:25:27.974857+00:00"
   },
   "phase4:eh-2026-06-13-interactive-geometry-watercolor-visualizer": {
     "hash": "0f8e401dd29442f91852bb3dd4f15f59dc9e9bf7a316b18db6f9a4b0a56f5129",
@@ -5988,6 +6013,11 @@
     "hash": "dae730f2808672eb046803dab0c4b31658ae20e9e50a3c48eb93f2e7cf90cd64",
     "slug": "nh-2026-10-19-claude-code-deterministic-jobs",
     "synced_at": "2026-10-22T00:26:10.792727+00:00"
+  },
+  "phase4:nh-2026-10-30-cap-improvement-loops": {
+    "hash": "bd26eeafc2e60cea6e17f972139150adc3c88a9b0118bed6db5e169af6dc26eb",
+    "slug": "nh-2026-10-30-cap-improvement-loops",
+    "synced_at": "2026-10-31T01:25:27.975031+00:00"
   },
   "phase4:pa-2026-10-15-ai-image-to-3d-print-local": {
     "hash": "b8a224d1721998ceaa4e1ab0905354a080d47aef4ccddf4599e882e8eec22cf0",
