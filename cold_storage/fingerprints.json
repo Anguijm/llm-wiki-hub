@@ -6019,6 +6019,11 @@
     "slug": "nh-2026-10-30-cap-improvement-loops",
     "synced_at": "2026-10-31T01:25:27.975031+00:00"
   },
+  "phase4:nh-2026-10-30-effort-level-cost-ladder": {
+    "hash": "533aa02a930572a11515670b2e3fc2e2ec88caabecec9c5c1534585d37db7092",
+    "slug": "nh-2026-10-30-effort-level-cost-ladder",
+    "synced_at": "2026-11-01T00:42:20.055935+00:00"
+  },
   "phase4:pa-2026-10-15-ai-image-to-3d-print-local": {
     "hash": "b8a224d1721998ceaa4e1ab0905354a080d47aef4ccddf4599e882e8eec22cf0",
     "slug": "pa-2026-10-15-ai-image-to-3d-print-local",

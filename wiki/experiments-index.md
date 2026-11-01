@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1216 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1217 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 658 |
+| `backlog` | 659 |
 | `discarded` | 348 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 730 |
+| `(none)` | 731 |
 | `discard` | 358 |
 | `adopt` | 128 |
 
@@ -33,7 +33,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Channel | Experiments |
 |---|---|
 | @aie | 573 |
-| @nh | 168 |
+| @nh | 169 |
 | @nb | 161 |
 | @mlops | 75 |
 | @do | 71 |
@@ -64,6 +64,7 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-10-30 | [[experiments/nh-2026-10-30-effort-level-cost-ladder|Run a reasoning-effort cost ladder on one repeatable task]] | @nh | `-` |
 | 2026-10-30 | [[experiments/nh-2026-10-30-cap-improvement-loops|Cap open-ended improvement loops with a plateau stop and human checkpoint]] | @nh | `-` |
 | 2026-10-30 | [[experiments/do-2026-10-30-one-task-thread-minimal-tests|Trial one-task-per-thread, repro-first bugfixes, and regression-only tests]] | @do | `-` |
 | 2026-10-30 | [[experiments/do-2026-10-30-cross-model-review-filter|Add cross-model PR review with primary-model false-positive filter]] | @do | `-` |
