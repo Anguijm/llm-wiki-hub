@@ -3109,6 +3109,11 @@
     "slug": "cm-2026-10-29-model-switch-regression-suite",
     "synced_at": "2026-10-30T01:34:17.166447+00:00"
   },
+  "phase4:cm-2026-10-31-counterfactual-advice-probe": {
+    "hash": "cae20ce3ef25f80d5a6fe047968e379dcf4be548c8c0f3d268d2078061e48663",
+    "slug": "cm-2026-10-31-counterfactual-advice-probe",
+    "synced_at": "2026-11-02T01:16:52.385108+00:00"
+  },
   "phase4:dc-2026-10-16-specialized-inference-engine-per-gpu-model": {
     "hash": "9a049f104c2d7031cb33a19654b5d995db8668874d2ae407f463a8f3fa28b381",
     "slug": "dc-2026-10-16-specialized-inference-engine-per-gpu-model",
