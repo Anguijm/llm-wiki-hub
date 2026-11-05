@@ -2899,6 +2899,11 @@
     "slug": "aie-2026-10-29-strix-halo-quantized-coding-model",
     "synced_at": "2026-10-30T01:34:17.166087+00:00"
   },
+  "phase4:aie-2026-11-03-compile-skill-to-step-graph": {
+    "hash": "dbb9eff11d42015b2f6682f355f7c77fb3f84d90d77a4d5735e397800bff889b",
+    "slug": "aie-2026-11-03-compile-skill-to-step-graph",
+    "synced_at": "2026-11-05T01:59:28.356170+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
