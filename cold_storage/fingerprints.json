@@ -3074,6 +3074,11 @@
     "slug": "az-2026-10-27-llamacpp-strix-bench",
     "synced_at": "2026-10-28T00:58:48.227623+00:00"
   },
+  "phase4:az-2026-11-05-agent-concurrency-cliff-strix-halo": {
+    "hash": "20f79aa3e2139c629408399dc35a5a94a7f1bde09e635283ddd9355e23452922",
+    "slug": "az-2026-11-05-agent-concurrency-cliff-strix-halo",
+    "synced_at": "2026-11-06T01:59:23.544568+00:00"
+  },
   "phase4:cm-2026-10-15-ai-content-engine-signal-filter": {
     "hash": "9ec741dbecd1c7cb2b520949901b728674a006c48bc5e04ac9d6c64db9f3aea0",
     "slug": "cm-2026-10-15-ai-content-engine-signal-filter",
