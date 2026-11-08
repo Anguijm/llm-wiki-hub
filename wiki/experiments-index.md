@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1220 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1222 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 662 |
+| `backlog` | 664 |
 | `discarded` | 348 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 734 |
+| `(none)` | 736 |
 | `discard` | 358 |
 | `adopt` | 128 |
 
@@ -32,7 +32,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 574 |
+| @aie | 575 |
 | @nh | 169 |
 | @nb | 161 |
 | @mlops | 75 |
@@ -43,9 +43,9 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | @st | 14 |
 | @cm | 9 |
 | @ail | 8 |
+| @ls | 6 |
 | @up | 5 |
 | @idd | 5 |
-| @ls | 5 |
 | @lc | 5 |
 | @az | 5 |
 | @dc | 4 |
@@ -65,6 +65,8 @@ Ordered by published date, most recent first.
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
 | 2026-11-05 | [[experiments/az-2026-11-05-agent-concurrency-cliff-strix-halo|Find the parallel-agent concurrency cliff on the Strix Halo box]] | @az | `-` |
+| 2026-11-04 | [[experiments/ls-2026-11-04-vault-mcp-endpoint|Expose the Markdown vault as a queryable MCP endpoint]] | @ls | `-` |
+| 2026-11-04 | [[experiments/aie-2026-11-04-hermes-agent-local-provider-swap|Trial Hermes Agent on local llama.cpp with provider hot-swap]] | @aie | `-` |
 | 2026-11-03 | [[experiments/aie-2026-11-03-compile-skill-to-step-graph|Compile one prose skill into a YAML step graph and run it on a small model]] | @aie | `-` |
 | 2026-10-31 | [[experiments/cm-2026-10-31-counterfactual-advice-probe|Probe agent recommendations with counterfactual queries before accepting them]] | @cm | `-` |
 | 2026-10-30 | [[experiments/nh-2026-10-30-effort-level-cost-ladder|Run a reasoning-effort cost ladder on one repeatable task]] | @nh | `-` |
