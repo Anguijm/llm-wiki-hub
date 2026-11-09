@@ -3059,6 +3059,11 @@
     "slug": "ail-2026-10-30-fresh-reviewer-capped-loop",
     "synced_at": "2026-10-31T01:25:27.975347+00:00"
   },
+  "phase4:ail-2026-11-05-router-worker-watchdog": {
+    "hash": "87f879060d95f8aaf6498d14b173e2ec76c0e33c42178e9da2786150ecce50ee",
+    "slug": "ail-2026-11-05-router-worker-watchdog",
+    "synced_at": "2026-11-09T01:26:33.137699+00:00"
+  },
   "phase4:az-2026-10-15-kv-cache-agents-lmcache": {
     "hash": "fb82757f9104e5e9768e288d78b2bf4f8622cabdd8bf60921523cf30f444c913",
     "slug": "az-2026-10-15-kv-cache-agents-lmcache",
