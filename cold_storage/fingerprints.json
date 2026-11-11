@@ -3089,6 +3089,11 @@
     "slug": "az-2026-11-05-agent-concurrency-cliff-strix-halo",
     "synced_at": "2026-11-06T01:59:23.544568+00:00"
   },
+  "phase4:az-2026-11-10-comfyui-contiguous-patch-strix-halo": {
+    "hash": "1c7306983675fa1701d7bdf5b1ad9586952a76cdb5ede3347b56b64dcecba80d",
+    "slug": "az-2026-11-10-comfyui-contiguous-patch-strix-halo",
+    "synced_at": "2026-11-11T01:42:38.021582+00:00"
+  },
   "phase4:cm-2026-10-15-ai-content-engine-signal-filter": {
     "hash": "9ec741dbecd1c7cb2b520949901b728674a006c48bc5e04ac9d6c64db9f3aea0",
     "slug": "cm-2026-10-15-ai-content-engine-signal-filter",

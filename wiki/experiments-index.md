@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1224 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1225 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 666 |
+| `backlog` | 667 |
 | `discarded` | 348 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 738 |
+| `(none)` | 739 |
 | `discard` | 358 |
 | `adopt` | 128 |
 
@@ -44,10 +44,10 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | @cm | 9 |
 | @ail | 9 |
 | @ls | 6 |
+| @az | 6 |
 | @up | 5 |
 | @idd | 5 |
 | @lc | 5 |
-| @az | 5 |
 | @dc | 4 |
 | @pl | 3 |
 | @fs | 2 |
@@ -64,6 +64,7 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-11-10 | [[experiments/az-2026-11-10-comfyui-contiguous-patch-strix-halo|Apply the ComfyUI contiguous-memory patch on Strix Halo ROCm]] | @az | `-` |
 | 2026-11-07 | [[experiments/do-2026-11-07-agent-hardens-calendar-backend-host|Have Claude Code harden a cloned calendar-backend host]] | @do | `-` |
 | 2026-11-05 | [[experiments/az-2026-11-05-agent-concurrency-cliff-strix-halo|Find the parallel-agent concurrency cliff on the Strix Halo box]] | @az | `-` |
 | 2026-11-05 | [[experiments/ail-2026-11-05-router-worker-watchdog|Trial a no-code router agent with a 10-minute watchdog]] | @ail | `-` |
