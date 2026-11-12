@@ -3669,6 +3669,11 @@
     "slug": "eh-2026-10-26-option-grid-before-3d",
     "synced_at": "2026-10-27T01:10:16.546374+00:00"
   },
+  "phase4:eh-2026-11-10-subagent-cost-lines": {
+    "hash": "fc9356ad2c8b5f7c34062c9c27fb8f87b89b8ebd71991e021586a984323ed072",
+    "slug": "eh-2026-11-10-subagent-cost-lines",
+    "synced_at": "2026-11-12T02:41:56.579159+00:00"
+  },
   "phase4:fs-2026-04-02-junie-cli-multi-model": {
     "hash": "643e9354d4c8366f866abff8078a819f05007336f95f9e55bd0a9dbb5a44b157",
     "slug": "fs-2026-04-02-junie-cli-multi-model",
@@ -3708,6 +3713,11 @@
     "hash": "5addd337b7982d138ddff56cbb158a14fb21eb38c4d2e482b06530da11da1776",
     "slug": "joem-2026-10-26-spec-kit-assess-gate",
     "synced_at": "2026-10-27T01:10:16.546169+00:00"
+  },
+  "phase4:joem-2026-11-11-mirage-wasm-ocr-pdf-to-csv": {
+    "hash": "2336d71750ac35cfe0dc32a00d825d3d45e9db1173c3f3c26334116ef9b5baf5",
+    "slug": "joem-2026-11-11-mirage-wasm-ocr-pdf-to-csv",
+    "synced_at": "2026-11-12T02:41:56.578821+00:00"
   },
   "phase4:lc-2026-10-15-stripe-kai-deep-agents": {
     "hash": "22054a1fbe0492b0fe5c61e2402f551e5cb34b867e4cd9236f40cd94eb7a1b48",
