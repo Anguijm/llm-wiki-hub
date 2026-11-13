@@ -3064,6 +3064,11 @@
     "slug": "ail-2026-11-05-router-worker-watchdog",
     "synced_at": "2026-11-09T01:26:33.137699+00:00"
   },
+  "phase4:ail-2026-11-09-only-cli-web-token-cut": {
+    "hash": "228ffbf3786775c83244d508f6438a907fd6dba934bb0769f36fbce3230f73f5",
+    "slug": "ail-2026-11-09-only-cli-web-token-cut",
+    "synced_at": "2026-11-13T02:24:24.845084+00:00"
+  },
   "phase4:az-2026-10-15-kv-cache-agents-lmcache": {
     "hash": "fb82757f9104e5e9768e288d78b2bf4f8622cabdd8bf60921523cf30f444c913",
     "slug": "az-2026-10-15-kv-cache-agents-lmcache",
@@ -4408,6 +4413,11 @@
     "hash": "52deba6453fa0d51a76b5ee2c077ec43a8e6142b80a3dd8f3d7a8783d5d41270",
     "slug": "mlops-2026-10-26-domain-lens-context",
     "synced_at": "2026-10-28T00:58:48.227390+00:00"
+  },
+  "phase4:mp-2026-11-12-home-repo-pattern": {
+    "hash": "8a348432ca77842204b6e998a087cb23aaba3c7817b341131ce10f154244cb13",
+    "slug": "mp-2026-11-12-home-repo-pattern",
+    "synced_at": "2026-11-13T02:24:24.844837+00:00"
   },
   "phase4:nb-2026-03-24-agent-readiness-checklist": {
     "hash": "6da138908d0e31a6133432219790a01c9dd4f83c00c09e695e0a17a86dddb5c8",
@@ -6073,6 +6083,11 @@
     "hash": "533aa02a930572a11515670b2e3fc2e2ec88caabecec9c5c1534585d37db7092",
     "slug": "nh-2026-10-30-effort-level-cost-ladder",
     "synced_at": "2026-11-01T00:42:20.055935+00:00"
+  },
+  "phase4:nh-2026-11-09-roadtripper-60-30-10-mirror-test": {
+    "hash": "f34702ffdf9e76d97fd4ad8e492614401c4aa5464e545325cacbeeee6af4029f",
+    "slug": "nh-2026-11-09-roadtripper-60-30-10-mirror-test",
+    "synced_at": "2026-11-13T02:24:24.845268+00:00"
   },
   "phase4:pa-2026-10-15-ai-image-to-3d-print-local": {
     "hash": "b8a224d1721998ceaa4e1ab0905354a080d47aef4ccddf4599e882e8eec22cf0",

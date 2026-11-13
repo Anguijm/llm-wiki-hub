@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1227 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1230 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 669 |
+| `backlog` | 672 |
 | `discarded` | 348 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 741 |
+| `(none)` | 744 |
 | `discard` | 358 |
 | `adopt` | 128 |
 
@@ -33,7 +33,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | Channel | Experiments |
 |---|---|
 | @aie | 575 |
-| @nh | 169 |
+| @nh | 170 |
 | @nb | 161 |
 | @mlops | 75 |
 | @do | 72 |
@@ -41,8 +41,8 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | @eh | 30 |
 | @aij | 21 |
 | @st | 14 |
+| @ail | 10 |
 | @cm | 9 |
-| @ail | 9 |
 | @ls | 6 |
 | @az | 6 |
 | @up | 5 |
@@ -55,6 +55,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | @tmp | 1 |
 | @aez | 1 |
 | @pa | 1 |
+| @mp | 1 |
 
 ---
 
@@ -64,9 +65,12 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-11-12 | [[experiments/mp-2026-11-12-home-repo-pattern|Trial a home repo that lets one agent session reach all repos]] | @mp | `-` |
 | 2026-11-11 | [[experiments/joem-2026-11-11-mirage-wasm-ocr-pdf-to-csv|Prototype Mirage WASM OCR fallback for scanned pages in PDF to CSV]] | @joem | `-` |
 | 2026-11-10 | [[experiments/eh-2026-11-10-subagent-cost-lines|Add explicit cost lines to sub-agent tool descriptions and measure delegation]] | @eh | `-` |
 | 2026-11-10 | [[experiments/az-2026-11-10-comfyui-contiguous-patch-strix-halo|Apply the ComfyUI contiguous-memory patch on Strix Halo ROCm]] | @az | `-` |
+| 2026-11-09 | [[experiments/nh-2026-11-09-roadtripper-60-30-10-mirror-test|Constrain Roadtripper's landing page with the mirror test and 60-30-10 palette]] | @nh | `-` |
+| 2026-11-09 | [[experiments/ail-2026-11-09-only-cli-web-token-cut|Route research browsing through Only CLI and measure tokens]] | @ail | `-` |
 | 2026-11-07 | [[experiments/do-2026-11-07-agent-hardens-calendar-backend-host|Have Claude Code harden a cloned calendar-backend host]] | @do | `-` |
 | 2026-11-05 | [[experiments/az-2026-11-05-agent-concurrency-cliff-strix-halo|Find the parallel-agent concurrency cliff on the Strix Halo box]] | @az | `-` |
 | 2026-11-05 | [[experiments/ail-2026-11-05-router-worker-watchdog|Trial a no-code router agent with a 10-minute watchdog]] | @ail | `-` |
