@@ -3064,6 +3064,11 @@
     "slug": "ail-2026-11-05-router-worker-watchdog",
     "synced_at": "2026-11-09T01:26:33.137699+00:00"
   },
+  "phase4:ail-2026-11-07-contact-sheet-animated-demo": {
+    "hash": "00d0e9e98e567598fc4360067382728dd10e36f3165fc98259b72988cacd24e9",
+    "slug": "ail-2026-11-07-contact-sheet-animated-demo",
+    "synced_at": "2026-11-14T01:58:21.488302+00:00"
+  },
   "phase4:ail-2026-11-09-only-cli-web-token-cut": {
     "hash": "228ffbf3786775c83244d508f6438a907fd6dba934bb0769f36fbce3230f73f5",
     "slug": "ail-2026-11-09-only-cli-web-token-cut",
