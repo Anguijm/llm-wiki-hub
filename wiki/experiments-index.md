@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1234 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1235 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 676 |
+| `backlog` | 677 |
 | `discarded` | 348 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 748 |
+| `(none)` | 749 |
 | `discard` | 358 |
 | `adopt` | 128 |
 
@@ -32,7 +32,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Channel | Experiments |
 |---|---|
-| @aie | 575 |
+| @aie | 576 |
 | @nh | 170 |
 | @nb | 161 |
 | @mlops | 75 |
@@ -68,6 +68,7 @@ Ordered by published date, most recent first.
 | 2026-11-13 | [[experiments/mk-2026-11-13-synthetic-audio-ptt-test|Run overnight synthetic-audio tests against Push to Talk]] | @mk | `-` |
 | 2026-11-12 | [[experiments/mp-2026-11-12-home-repo-pattern|Trial a home repo that lets one agent session reach all repos]] | @mp | `-` |
 | 2026-11-12 | [[experiments/do-2026-11-12-script-gated-scheduled-agents|Put a deterministic script gate in front of one scheduled Claude job]] | @do | `-` |
+| 2026-11-12 | [[experiments/aie-2026-11-12-auto-mode-deny-rules-sandbox-ops-sessions|Trial auto mode with deny rules and OS sandbox on one ops session]] | @aie | `-` |
 | 2026-11-11 | [[experiments/pl-2026-11-11-sampling-sweep-ptt-cleanup|Sweep temperature, top-k and top-p on the Push to Talk cleanup model]] | @pl | `-` |
 | 2026-11-11 | [[experiments/joem-2026-11-11-mirage-wasm-ocr-pdf-to-csv|Prototype Mirage WASM OCR fallback for scanned pages in PDF to CSV]] | @joem | `-` |
 | 2026-11-10 | [[experiments/eh-2026-11-10-subagent-cost-lines|Add explicit cost lines to sub-agent tool descriptions and measure delegation]] | @eh | `-` |
