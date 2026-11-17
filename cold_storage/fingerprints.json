@@ -2919,6 +2919,11 @@
     "slug": "aie-2026-11-12-auto-mode-deny-rules-sandbox-ops-sessions",
     "synced_at": "2026-11-16T01:35:09.494923+00:00"
   },
+  "phase4:aie-2026-11-14-bombadil-property-ui-testing": {
+    "hash": "5bb1c80be4a9422627b51a46acf1ecf5fd15eb3a50206132299779091fea25d0",
+    "slug": "aie-2026-11-14-bombadil-property-ui-testing",
+    "synced_at": "2026-11-17T04:19:17.937723+00:00"
+  },
   "phase4:aij-2026-04-22-self-evolving-agent": {
     "hash": "e1591ca0546af7ca67a17b0cc804aa103ff58b4f0bf81f82ba9a1d45f2afe19d",
     "slug": "aij-2026-04-22-self-evolving-agent",
