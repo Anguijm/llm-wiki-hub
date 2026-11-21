@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1238 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1239 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 680 |
+| `backlog` | 681 |
 | `discarded` | 348 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 752 |
+| `(none)` | 753 |
 | `discard` | 358 |
 | `adopt` | 128 |
 
@@ -42,7 +42,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | @aij | 21 |
 | @st | 14 |
 | @ail | 11 |
-| @cm | 9 |
+| @cm | 10 |
 | @ls | 6 |
 | @az | 6 |
 | @up | 5 |
@@ -65,6 +65,7 @@ Ordered by published date, most recent first.
 
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
+| 2026-11-19 | [[experiments/cm-2026-11-19-edit-video-skill-ghosts-footage|Trial the edit-video skill with local Whisper on one raw clip]] | @cm | `-` |
 | 2026-11-18 | [[experiments/pa-2026-11-18-hy3d-mesh-refiner|Refine mini-forge base meshes with HY3D 1.0 and watertight nodes]] | @pa | `-` |
 | 2026-11-15 | [[experiments/pa-2026-11-15-split-part-3d-generation|Split a miniature concept into parts before TRELLIS generation]] | @pa | `-` |
 | 2026-11-14 | [[experiments/aie-2026-11-14-bombadil-property-ui-testing|Run Bombadil property-based UI testing on the PDF to CSV page]] | @aie | `-` |

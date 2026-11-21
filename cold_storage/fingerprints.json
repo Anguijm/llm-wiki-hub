@@ -3164,6 +3164,11 @@
     "slug": "cm-2026-10-31-counterfactual-advice-probe",
     "synced_at": "2026-11-02T01:16:52.385108+00:00"
   },
+  "phase4:cm-2026-11-19-edit-video-skill-ghosts-footage": {
+    "hash": "5df17087eadd21f709cc4c3fbc70cd0ff589be14579e192df8518493bef4d05a",
+    "slug": "cm-2026-11-19-edit-video-skill-ghosts-footage",
+    "synced_at": "2026-11-21T02:58:38.261763+00:00"
+  },
   "phase4:dc-2026-10-16-specialized-inference-engine-per-gpu-model": {
     "hash": "9a049f104c2d7031cb33a19654b5d995db8668874d2ae407f463a8f3fa28b381",
     "slug": "dc-2026-10-16-specialized-inference-engine-per-gpu-model",
