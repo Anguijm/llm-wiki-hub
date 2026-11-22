@@ -4069,6 +4069,11 @@
     "slug": "mk-2026-11-13-synthetic-audio-ptt-test",
     "synced_at": "2026-11-15T01:30:53.104505+00:00"
   },
+  "phase4:mk-2026-11-18-heretic-refusal-ablation-cleanup-model": {
+    "hash": "99bfac06646a1f446b1cf49b8fa00980489dc0e36d842aa8f16cf912f66cf02e",
+    "slug": "mk-2026-11-18-heretic-refusal-ablation-cleanup-model",
+    "synced_at": "2026-11-22T01:54:42.701355+00:00"
+  },
   "phase4:mlops-2026-03-17-durable-execution-agents": {
     "hash": "41c72fdf4a612f975b0e1b93276f0910d6053cb80098e977d6d5878f962efb94",
     "slug": "mlops-2026-03-17-durable-execution-agents",
@@ -6258,5 +6263,10 @@
     "hash": "458158a9cebac796d12a828452f95557f984aff3c5e581b24cd79d76cd6621d1",
     "slug": "up-2026-06-11-salesforce-agentic-soc-ai-constitution",
     "synced_at": "2026-06-25T23:17:21.290477+00:00"
+  },
+  "phase4:up-2026-11-18-call-graph-cli-vs-grep-swarm": {
+    "hash": "6f6d4216f806bef2688e096c9e2138e8c5260021eeb4bfe88bb15a8d5599b786",
+    "slug": "up-2026-11-18-call-graph-cli-vs-grep-swarm",
+    "synced_at": "2026-11-22T01:54:42.701011+00:00"
   }
 }
