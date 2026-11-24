@@ -6134,6 +6134,11 @@
     "slug": "nh-2026-11-09-roadtripper-60-30-10-mirror-test",
     "synced_at": "2026-11-13T02:24:24.845268+00:00"
   },
+  "phase4:nh-2026-11-22-cache-warmth-ops-session": {
+    "hash": "1536e28aeecd6afac8d1fbe82b70f82ed200210e1f5a04fa611a9c1fe96d85e3",
+    "slug": "nh-2026-11-22-cache-warmth-ops-session",
+    "synced_at": "2026-11-24T05:44:20.433599+00:00"
+  },
   "phase4:pa-2026-10-15-ai-image-to-3d-print-local": {
     "hash": "b8a224d1721998ceaa4e1ab0905354a080d47aef4ccddf4599e882e8eec22cf0",
     "slug": "pa-2026-10-15-ai-image-to-3d-print-local",
