@@ -6179,6 +6179,11 @@
     "slug": "pl-2026-11-11-sampling-sweep-ptt-cleanup",
     "synced_at": "2026-11-15T01:30:53.104277+00:00"
   },
+  "phase4:pl-2026-11-22-openspec-delta-specs-calendar": {
+    "hash": "0905786ae19ddba2f5013734a1c90c0eade65eb57f5b64f510412233792d95e0",
+    "slug": "pl-2026-11-22-openspec-delta-specs-calendar",
+    "synced_at": "2026-11-28T03:43:00.504496+00:00"
+  },
   "phase4:st-2026-04-05-skill-creator-meta-agent": {
     "hash": "3293807219ccb827a80dd2e3253dc7dcf9469b2baf01432271a1abf46fe140ac",
     "slug": "st-2026-04-05-skill-creator-meta-agent",

@@ -2,7 +2,7 @@
 
 > Back to [[index]]
 
-**1243 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
+**1244 experiments** synthesized from the [[yolo-projects]] Phase 4 YouTube research pipeline, covering AI/dev content from 10 tracked channels.
 
 This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on every sync. See [[yolo-phase4-integration]] for the full flow.
 
@@ -12,7 +12,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Status | Count |
 |---|---|
-| `backlog` | 685 |
+| `backlog` | 686 |
 | `discarded` | 348 |
 | `adopted` | 90 |
 | `deferred` | 56 |
@@ -24,7 +24,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 
 | Verdict | Count |
 |---|---|
-| `(none)` | 757 |
+| `(none)` | 758 |
 | `discard` | 358 |
 | `adopt` | 128 |
 
@@ -48,7 +48,7 @@ This page is regenerated automatically by `scripts/ingest-yolo-phase4.py` on eve
 | @ls | 6 |
 | @idd | 5 |
 | @lc | 5 |
-| @pl | 4 |
+| @pl | 5 |
 | @dc | 4 |
 | @pa | 3 |
 | @fs | 2 |
@@ -66,6 +66,7 @@ Ordered by published date, most recent first.
 | Date | Title | Channel | Verdict |
 |---|---|---|---|
 | 2026-11-24 | [[experiments/az-2026-11-24-halogen-engine-strix-halo|Compare the Halogen engine with llama.cpp Vulkan on the Strix Halo box]] | @az | `-` |
+| 2026-11-22 | [[experiments/pl-2026-11-22-openspec-delta-specs-calendar|Trial OpenSpec delta specs on the Flutter calendar app]] | @pl | `-` |
 | 2026-11-22 | [[experiments/nh-2026-11-22-cache-warmth-ops-session|Add a cache-warmth status bar to the always-on ops Claude Code session]] | @nh | `-` |
 | 2026-11-19 | [[experiments/cm-2026-11-19-edit-video-skill-ghosts-footage|Trial the edit-video skill with local Whisper on one raw clip]] | @cm | `-` |
 | 2026-11-18 | [[experiments/up-2026-11-18-call-graph-cli-vs-grep-swarm|Replace grep sub-agent exploration with a precomputed call-graph CLI]] | @up | `-` |
